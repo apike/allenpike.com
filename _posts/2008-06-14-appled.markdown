@@ -1,0 +1,22 @@
+---
+author: allen
+comments: true
+date: 2008-06-14 23:43:06
+layout: post
+slug: appled
+title: Appled
+wordpress_id: 303
+categories:
+- Article
+tags:
+- Apple
+- Personal
+---
+
+![](/images/wp-uploads/2008/06/apple.jpg)As [featured elsewhere](http://robotpony.ca/2008/04/24/ode-to-the-boy/), one month ago I started a new job at Apple's Yaletown office. In that month I've met some great people, worked on some interesting things... and that's about it. My team works very hard, so work/life balance is the new challenge for me.
+
+Besides the time impact, this will also have some content impact on my writing here at Antipode. A lot of my posts have been about Apple, since I'm really into their products. As you probably know, they take their secrets very seriously, so I have to establish some boundaries.
+
+Obviously nothing I say here represents Apple. On top of that, I'm going to refrain from making predictions about Apple products, as fun as it is. I don't learn much about upcoming products _anyway_, but this is just a good idea. Also obvious should be that I won't be talking about what I'm working on.
+
+Despite all that, I'm optimistic that I can keep the blogging train rolling here. Onward!

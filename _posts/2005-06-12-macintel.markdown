@@ -1,0 +1,28 @@
+---
+author: allen
+comments: true
+date: 2005-06-12 00:00:00
+layout: post
+slug: macintel
+title: Apple goes Intel; Force disrupted
+wordpress_id: 58
+categories:
+- Article
+- Sarcastic News
+tags:
+- Apple
+- Intel
+---
+
+![](http://www.antipode.ca/resources/old/macintel.jpg)
+Apple has been having troubles getting IBM's G5s into notebooks.
+
+CUPERTINO, CA, USA - In an announcement met with shock and awe, Apple Computer announced this week that they will finally be moving to the same x86 processors that Microsoft's Windows runs on. Fed up with IBM's undelivered promises and poorly matching future plans, they will be releasing computers based on Intel's chips next year.
+
+Analysts, users, developers, and even random passerbyes have expressed surprise with the move. Mac sales are growing much faster than normal, and the company is wildly popular. Given these conditions, casual observers are speculating about whether or not Apple CEO Steve Jobs is on hallucinogenic drugs. "What? He's making Intel-based Macs?!" exclaimed one random bystander. "When he released a Mac for only $499 I got pretty suspicious there may be something weird in that guy's water bottle. But this? I thoroughly wet myself when I heard that news." Our notes on said bystander end abruptly.
+
+"Why didn't Apple just stay with us and use our new Cell processors?" asked an IBM spokesperson. "We've put a lot of work into those Cell things, and think they'll make really great graphics for first-person shooter games." When reminded that Apple doesn't make game consoles, he retorted, "Apple _should_ make game consoles. That's what IBM processors are being designed for." When asked if he thought that was really the point, the spokesperson said, "Yes."
+
+According to Apple, however, rewriting applications for the Cell processors would be much more work than tweaking them to run on Intel's x86 processors. In addition, since many applications (and practically all games) are written for Windows first, x86 support should mean many more software titles much faster. While Intel's rival AMD makes similar x86 processors, Apple reportedly chose Intel due to capacity issues. "In their IBM deal," explained one analyst, "Apple was stuck with what we call a 'Red Turnip'. This is when you'd love to start putting shiny new G5 processors in all your computers, but IBM can't even make enough of the damn things to meet demand, those damn bastards." This oddly named and highly specific phenomenon seems to be why Apple went with industry giant Intel. "Steve \[Jobs of Apple\] wants to be able to call Paul \[Otellini of Intel\] and say, 'Hey man. Know how I said I needed a million of those Powerbook chips? I actually meant ten million. Yeah. Kay thanks. Oh, and that salad on Sunday was delightful.'"
+
+While some Mac Faithful are emotionally attached to the idea of using a different chip than Windows computers, those in the know seem to be positive on the move. Intel's is shedding its power-hungry Pentium 4 chips and going straight for the laptop market, right where Apple wants to be. While there is now one less thing that Mac users can make fun of, the biggest, ugliest target of all - Windows - is going to be easier than ever to bash.

@@ -1,0 +1,33 @@
+---
+author: allen
+comments: true
+date: 2002-04-28 11:11:11
+layout: post
+slug: cellspam
+title: Cell phone spam to be banned
+wordpress_id: 39
+categories:
+- Sarcastic News
+tags:
+- Spam
+---
+
+
+
+
+BRUSSELS, BELGIUM - The European parliamentary Citizens' Rights and Freedoms, Justice and Home Affairs   Committee (actual name) has made a ruling that commercial text messages sent   to cell phones (also known as SMS) must be approved by the person receiving   them. If the European Parliament agrees, it will be passed into law in May throughout   the continent. This is a victory for anti-spam and privacy advocates, and a   black eye for those who make money off the newly emerging marketing tactic.   If this becomes law in Europe, it will likely spur legislation in other parts   of the world.
+
+
+
+
+People in the street outside the Parliament   in Brussels were questioned on what this means to them. "I can't believe we're   getting spam on our phones now too," said Yves Lamonte, a passerby. First they   gave us cancer, then pirated music for their rings, then pornography on the   'web' phones, and now spam! The next phones will have a button labeled 'Sell   soul'." Wilhelm Forester, the next passerby, had this to say: "I don't hof a   'cell' phone and I don't vant one! I've had enough of your peddling!" He proceeded   to storm off. Our most vocal speaker said, "Ou est le souterrain le plus proche?   SMS? Quel est SMS? Je ne sais pas. Pourquoi ecrivez-vous ce que je dis? �tes-vous   une sorte d'espion? Arr�tez-la. Arr�tez-la maintenant vous imb�cile! Je suis   sortir d'ici!" We're not exactly sure what it meant, but it probably translated   to "Spam is bad."
+
+
+
+
+While the first internet spam messages   were for legal services, the first cell phone spam messages are mostly from   cell phone companies. David Haxman, an IAC reseacher, pointed out that the cell   phone companies' biggest goal right now is to sell pricier handsets with features   like SMS. "This doesn't work well as a message through SMS. It'd be like sending   postal mail about the glories of getting a mailbox." While this barely made   sense to us, researchers are more qualified than us to make such judgements.
+
+
+
+
+The writer of this article has never   gotten SMS spam trying to sell him a SMS phone, but he's never gotten any SMS   spam before. In fact, he's never gotten an SMS message. And doesn't even have   an SMS phone. Or a cell phone at all, really. What's a phone?

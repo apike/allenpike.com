@@ -1,0 +1,30 @@
+---
+author: allen
+comments: true
+date: 2002-04-03 11:11:11
+layout: post
+slug: antiunix
+title: Microsoft's anti-UNIX site hosted by UNIX
+wordpress_id: 34
+categories:
+- Sarcastic News
+tags:
+- Microsoft
+---
+
+REDMOND, USA - Microsoft quickly pulled it's new anti-UNIX web site after a   clever programmer discovered that it was running off of the popular FreeBSD   UNIX system that powers the Macintosh OS and Microsoft's competitor hosting   software. After it was put up with Windows 2000 and Microsoft's web server,   it suffered a two-day outage.
+
+
+
+
+While many are quick to jump down Microsoft's   throat, hypocrisy is common in the tech industry. Many links that promise to   remove you from a spam email list actually put you on 500 more, and dial-up   internet providers most certainly do not use dial-up internet. Many tech companies   don't actually use the products they make, which is a part of why many tech   products continue to suck.
+
+
+
+
+"When someone makes a product, they   realize all the bugs, shortcuts, memory leaks, and insecurities in that product,"   says IAC researcher Mark Lasbury. "This often drives them to use others' products   so they can get a false sense of security." Public examples of this in the past   have been the fact Microsoft used Word for Mac to write up their yearly documents,   and how Apple CEO Steve Jobs has a Dell computer on his desk (although it doesn't   run Windows, but UNIX).
+
+
+
+
+The writer of this page admits he doesn't   read his own content to get the latest tech news, mostly because that would   result in few updates.

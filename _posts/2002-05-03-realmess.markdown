@@ -1,0 +1,38 @@
+---
+author: allen
+comments: true
+date: 2002-05-03 11:11:11
+layout: post
+slug: realmess
+title: Real's bloated mess seeps into naming
+wordpress_id: 40
+categories:
+- Sarcastic News
+tags:
+- Failure
+---
+
+
+
+
+![Some of Real's logos, rendered in RealPictureMonopoly 7 format.](/resources/old/real.gif)      SEATTLE, USA - RealNetworks, everyone's favourite media player superpower, has released       yet another proprietary media format: "RealVideo 9." Depending what your       computer is running, you may have to update to "realONE," "RealPlayer 8       with RealVideo 9 support," or no player at all if you use MacOS X, because       they don't know what MacOS X is. This is RealNetworks' newest update to       RealSystem (what they call their software), which now includes RealVideo       9 (the successor to RealVideo 8, which came after G2... we're not sure what       happened to 3-7), RealSystem Producer 9, RealSystem Server and Proxy 8,       RealPlayer 9 for Windows, RealOne Player for Windows, RealJukebox (which       has been integrated into RealOne), RealOne Enterprise, RealPlayer 8 for       UNIX, RealPlayer 8 with RealVideo 9 Support for MacOS 9, and no player at       all for MacOS X (which is based on UNIX).
+
+
+
+
+Real seems to think   this naming and product scheme is too simple, so they've created a messy and   hard to use website that explains very little, to offset the balance. "I actually   found the website easy to use," said a customer of RealOne, the pay-to-use player.   "What the hell is going on! We're all going to die!" said another customer,   attempting to find information the free ones.   This isn't a new strategy for Real; their free player has been elusive for years   now. "Although half as many people have the player now that it's hard to get,   twice as many people pay for it, so it's much better for Real in the end," said   Jessica Royale, an analyst with EvilPowerWatch. She also pointed out how Realplayer   8 for MacOS With RealVideo 9 Support is actually labelled version "6.0.9.584." Check   yourself if you don't believe her.
+
+
+
+
+Researchers trying   to find out where this mess and bloat came from succeeded after spending long   seconds in the lab, using Real's software. "Their naming reminds me of the way   Real's software has it's own kinds of buttons and things that slow down your   whole computer." Another researcher was quick to protest, saying, "I think it's   more reminiscent of the way their audio and video formats are bloated and really   hard to work with." The same team of researchers is also trying to figure out   why people still use Real.
+
+
+
+
+Many theories exist,   such as the fact Real got into the market early, the way "Windows Media" has   a word that means bloated and slow right in the title, or the way Apple (strangely)   doesn't spend as much time on Quicktime for Windows as it does on Quicktime   for MacOS. Here at Altering Time though we think the only reason people would   use Real could be that "real.com" is shorter to type than "apple.com/quicktime"   or "windowsmedia.com." "Ppl dont like typng 2 mch NEmore," said one analyst   in an email on the subject.
+
+
+
+
+The author of this   article advises that it was harder to find this info on the Real website than   it would have been to call random people from the phone book and ask them if   they knew.

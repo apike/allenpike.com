@@ -1,0 +1,17 @@
+---
+author: allen
+comments: true
+date: 2002-06-25 11:11:11
+layout: post
+slug: suckless
+title: Website will suck less, experts expect
+wordpress_id: 42
+categories:
+- Sarcastic News
+---
+
+![Apple's XServe gives enough hard drive space to store 100,000 illegal copies of Devo's 'Whip It'.](/resources/old/xserve.gif)        VANCOUVER, CANADA - The website alteringtime.com was moved to servers at Superb Internet yesterday,         following complaints of outages and general site suckiness. The last straw         was when the site was down for a weekend and got taken out of the search         engines for it. The straw after that was 19 hours (13 for the Forum) of         transferring the site off the old host (while this can also be blamed         on dial up internet). This is planned to be the last move of the site         until it's put onto one of Apple's new XServe servers. "Apple's new server         can have up to 480 GB of hard drive space, which is about one half of         a terabyte, or TB," pointed out one systems analyst. "Seeing as how Altering         Time takes up about 0.000009 of a terabyte, this would be a worthless         expenditure." Allen reportedly responded with, "Screw you, I want my XServe."
+
+   
+
+While the fact $50   a month for Superb premium web hosting is really quite expensive, one analyst   noted, "Toilet paper is expensive too. You don't see people using leaves any   more do you?" Another analyst mentioned he did actually use leaves, and saved   enough money to afford better web hosting, and the first analyst flew into a   jealous rage and reportedly kicked the second analyst in the junk, and lightsabers   were drawn. While dealing with the mess, Allen vowed to only talk to less geeky   analysts. He then proceeded to watch 'The Empire Strikes Back.' The new hosting   provides a large array of features, such as 0.000200 terabytes of webspace,   sites that don't go down every weekend, and a number of other things that matter   considerably less and will probably never be used but seemed cool at the time.

@@ -1,0 +1,85 @@
+---
+author: allen
+comments: true
+date: 2004-04-02 16:05:03
+layout: post
+slug: gmail
+title: Google offers 1000MB of free email
+wordpress_id: 55
+categories:
+- Sarcastic News
+tags:
+- Google
+---
+
+![Google Mail Logo](/resources/old/gmail.gif)
+
+
+In a decision initially assumed to be an April Fool's joke, Google has announced 
+  GMail, a free email service that offers one gigabyte, or 1000MB, of email storage 
+  per user. However, now that the New York Times and and Associated Press are 
+  running stories about it, complete with quotes from Google staff, amusement 
+  is giving way to shock. GMail's two main competitors, Hotmail and Yahoo Mail, 
+  offer 2MB and 4MB of storage respectively.
+
+
+
+
+"It is completely unfeasible for Google to offer 1000MB of storage space," 
+  said one source for Microsoft's Hotmail unit. When told that GMail would indeed 
+  offer 500 times the storage of Hotmail, he countered that, "obviously there 
+  would be loads of banner ads." When it was pointed out that Google has 
+  no intention of doing banner ads, but simply text ads, we were asked, "How 
+  do I sign up?"
+
+
+
+
+While Yahoo Mail prepares to switch their marketing pitch from "Twice 
+  the storage space of our biggest competitor" to "1/250th of the storage 
+  space of our biggest competitor" the question on everybody's mind is, "how 
+  the heck can Google **do** that?" We asked a panel of analysts 
+  to give their opinions. "Google is actually powered by God," argued 
+  on analyst. While Google has neither admitted this nor denied that claim, that 
+  would explain their ability to turn a huge profit while providing awesome services 
+  for completely free. Another analyst insisted, "They actually use 1GB of 
+  your own computer's space without you knowing it."
+
+
+
+
+Other analysts' theories include lying about how much space you're using, that 
+  1GB is a typo for 1MB, and that there is no such thing as email. One of our 
+  analysts in particular was insistent that GMail will fail. "GMail rhymes 
+  with email," warned the analyst. "New users will get confused, and 
+  not be able to tell the difference. Chaos will ensue." While none of these 
+  have been substantiated, analysts are generally always correct.
+
+
+
+
+One analyst mentioned, "In unrelated news, Google has won a multi-billion 
+  contract with the Department of Homeland Security for an 'Information Storage 
+  and Retreival System' for national security and awareness purposes." While 
+  we're not sure what the analyst was getting at there, we're sure the US Government 
+  wouldn't be interested at all in tracking millions of gigabytes (also known 
+  as petabytes) of communication.
+
+
+
+
+Our own research indicates that Google may actually be able to provide this 
+  service, as long as they do the following things: track you intesively and sell 
+  the information, charge govrnments an arm and a leg to do the same, prohibit 
+  emails to and from Hotmail once the service is popular, and pray nobody uses 
+  their entire gigabyte of space.
+
+
+
+
+The author of this article really likes Google, but is less of a fan of the 
+  FBI being alerted if he uses the word "bomb" in an email.
+
+
+
+

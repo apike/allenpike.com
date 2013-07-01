@@ -1,0 +1,13 @@
+---
+author: allen
+comments: true
+date: 2004-11-07 17:20:04
+layout: post
+slug: bit-by-bit
+title: Bit by bit
+wordpress_id: 4
+categories:
+- Faith
+---
+
+Despite being very busy, I'm still working on Faith on and off. I've solved some design problems with the Events system and the Laws interface that were discouraging me, so things are coming along.

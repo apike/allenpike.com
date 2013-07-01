@@ -1,0 +1,27 @@
+---
+author: allen
+comments: true
+date: 2005-08-19 16:40:46
+layout: post
+slug: '25'
+title: New insights
+wordpress_id: 25
+categories:
+- Faith
+---
+
+Development is going well, with a couple dozen improvements since I last posted. One of the senior developers from my [work](http://discoverysoft.com) has joined testing, which is giving me yet another new perspective on the game. He and the other five testers are helping me refocus on the three weakest points in the game right now:
+
+- Theme (wtf, that's not very entertaining)
+- Interface (wtf does this do?)
+- Game balance (wtf, how'd he do that?)
+
+It may seem odd that these are three of the most vital parts of a game, and yet are the weakest. While this was mostly planned, it makes for a fairly dull game. Annoyingly, these things need to be built around the game mechanics and features, so only now are they becoming the focus. One time I tried to balance a game that didn't exist yet, but it didn't work so well - wtf eh?
+
+Testing is in the process of being ramped up, with a tester being added weekly instead of monthly. I'm almost done an invite system that will let me manage the addition of new testers. Invites are a common way to manage private betas, and I'm currently considering whether or not I'll keep using the system indefinitely.
+
+I mean, we could just crack Faith open at one point the way we did Asylum, and let a flood of users in (which caused chaos, confusion, and wtfing at Asylum public beta time when the player number tripled just like that.) It might just be better to slowly increase the number of invites I give out - from just 1 a week, to inviting everybody with moderate site Karma, to letting users invite even their grandmas and baby brothers. This would let the game ramp up smoothly, and make sure people like yourself (those noble souls waiting for Faith as opposed to those who stumble upon it later) get good spots in early games.
+
+On a related note, I think at one point I'll let people view the help files and in-progress games even if they don't have an invite yet. That'd be nice and mean.
+
+Anyway, I'll let you think about that. I'll also answer a couple questions I've been getting about Science. Science is not directed in Faith the way it is in, say, Civilization. People invent things, but they don't necessarily help your religion! Also, the game ends around modern times right now, in some dazzling (or maybe mundane) way. And no, your can't give your people four arms - wtf.

@@ -1,0 +1,22 @@
+---
+author: allen
+comments: true
+date: 2009-03-11 21:07:18
+layout: post
+slug: itunes-dj
+title: iTunes DJ
+wordpress_id: 752
+categories:
+- Link
+tags:
+- iTunes
+- Music
+---
+
+[Macworld](http://www.macworld.com/article/139330/2009/03/itunes.html), via [Gruber](http://daringfireball.net/linked/2009/03/11/itunes-81), brought to my attention something wonderful about iTunes 8.1:
+
+
+> With iTunes DJ, iPhone users that have Apple’s Remote application installed can request songs to be played. Users can also vote to control when songs are played.
+
+
+I will never again have to worry about somebody taking the iTunes computer and cutting from the party playlist to Soulja Boy on infinite repeat.

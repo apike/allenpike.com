@@ -1,0 +1,44 @@
+---
+author: allen
+comments: true
+date: 2003-07-17 02:44:19
+layout: post
+slug: netscape
+title: Netscape Dies
+wordpress_id: 51
+categories:
+- Article
+- Sarcastic News
+tags:
+- Mozilla
+---
+
+![A cheap early logo of the game.](/resources/old/netscape.jpg)
+SAN FRANSISCO CA, USA - Uncertainty that AOL's [Netscape](http://www.netscape.com/) browser is dead ended yesterday, with the layoff of 50 Netscape employees, the official delegation of Mozilla development to a non-profit organization, and the removal of Netscape logos from corporate buildings. Few analysts are surprised, although some are disappointed.
+
+
+
+"This is terrible," said one analyst, fighting off tears. "Why didn't people realize that just because Internet Explorer comes with their computers doesn't mean it's good!" This analyst's question is valid, but not very hard to answer. Since AOL purchased Netscape in 1998, the open-source project they founded, [Mozilla](http://www.mozilla.org/), has been
+producing the new version of Netscape for them so they could use it in their AOL Internet software instead of Explorer. Reportedly, however, Netscape users became impatient in the meantime. "They made us
+wait two years for Netscape 6," complained one former Netscape user. "I mean, I can wait two years for something good. I waited two years for Mac OS X... but Netscape 6.0 blew chunks."
+
+
+
+The quality of Netscape 6, however, wasn't surprising. In 1998, AOL purchased Netscape Communications for
+4.2 billion dollars, which in hindsight seems like a pretty good deal for Netscape. When this happened, the open-source foundation they started to make Netscape 6 decided to start from scratch. "Not only did
+they decide to start from scratch," explained one expert, "they decided to make the most complicated and full-featured browser ever. So, wtf? Of course it sucked only two years later. They were working for free!" Not only was the software not ready, AOL added a lot of extra advertisements and add-ons, slowing it down further. To try and give this newly developing Netscape a chance, AOL pushed hard in a lawsuit against Microsoft, saying MS used unfair business practices to get dominance.
+
+
+
+In May of this year, AOL disappointed the world when it came out that the conclusion of their lawsuit against
+Microsoft was that, rather than giving Netscape a fighting chance, Internet Explorer would be included in all their software, essentially making Netscape redundant. "Not that anyone wanted AOL's software to be any better," one analyst lamented, "people wanted even less for Microsoft to lose that one final reason to try and make IE better.
+Compared to the innovations that have come out of browsers like Mozilla, [Safari](http://www.apple.com/safari/), and [Opera](http://www.opera.com/), Internet Explorer seems like a mouldy slab of swiss cheese, and all Microsoft is doing is occasionally plugging some of the holes with more
+cheese."
+
+
+The question is, what is the future of Netscape? There isn't one, really. The brand will continue to exist, and you can still download Netscape 7.1 (which is just Mozilla 1.4 with extra advertisements and popup ad blocking turned off) but new versions of Netscape will be unlikely. Our personal technology expert had one final comment. "Although the software will still be developed and improved as Mozilla just like it always has, and there was nothing better about having Netscape instead of Mozilla anyway, Netscape was just so high profile. It'll be sad to see that many more people using Explorer."
+
+
+
+
+The author of this article has used Mozilla at work and home, for Windows and Mac, for about a year now. Although it doesn't suck, he still recommends Safari for Mac users, since it's faster than a Porche 911 Turbo.

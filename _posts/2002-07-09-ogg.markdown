@@ -1,0 +1,171 @@
+---
+author: allen
+comments: true
+date: 2002-07-09 11:11:11
+layout: post
+slug: ogg
+title: Why Ogg Vorbis?
+wordpress_id: 43
+categories:
+- Sarcastic News
+---
+
+       
+
+          
+            
+
+**Audio format**
+
+         
+         
+            
+
+**Files**
+
+         
+         
+            
+
+**Fatal flaw**
+
+         
+               
+
+          
+            
+
+MPEG Audio Layer 3
+
+         
+         
+            
+
+.mp3
+
+         
+         
+            
+
+Charges software makers  
+             Quality mediocre
+
+         
+               
+
+          
+            
+
+MPEG 4
+
+         
+         
+            
+
+.mp4
+
+         
+         
+            
+
+Charges software makers more  
+             Has aura of evil
+
+         
+               
+
+          
+            
+
+Windows Media Audio
+
+         
+         
+            
+
+.wma
+
+         
+         
+            
+
+Made by Microsoft  
+             Quality mediocre  
+             Piracy protection
+
+         
+               
+
+          
+            
+
+Real Audio
+
+         
+         
+            
+
+.ram  
+             .rmj
+
+         
+         
+            
+
+Made by Real  
+             Quality mediocre
+
+         
+               
+
+          
+            
+
+Ogg Vorbis
+
+         
+         
+            
+
+.ogg
+
+         
+         
+            
+
+Silly name
+
+         
+               
+
+          
+            
+
+Q Codec 7
+
+         
+         
+            
+
+.qc7
+
+         
+         
+            
+
+Fictional codec  
+             Causes cancer  
+             Only available in Guam
+
+         
+             
+
+MILPITAS, CA, USA - The open source media organization [xiph.org](http://www.xiph.org/)   has released the 1.0 version of the "Ogg Vorbis" music format. They intend this   to replace MPEG layer 3 as everybody's favourite audio format. It's a bit higher   quality than other popular formats, and (more importantly) is open and free   of patents. MPEG (the Moving Picture Experts Group) charges royalties on all   mp3 encoders (this is why Winamp is a player only) and they want to charge makers   of encoders _and_ players for their new MPEG 4 format. They're being closed,   secretive, and touchy about it, and are starting to work in more ways to regulate   and stop piracy with their new formats. Ogg Vorbis is out to vanquish this evil,   and has a sufficiently dumb name to back it up.
+
+So why not Microsoft's WMA files, or RealNetworks'         RAM or RMJ files? "The main problem with these formats," said one computer         scientist, "is that they blow chunks. I wouldn't use them if it would         save my life." While of course everyone hates Microsoft and Real, this         seems to extend past that. "I've used Windows Media and Realplayer, but         I went back to 8-tracks after a few minutes of that." Of course with these         file formats, they're even more proprietary than MP3 and MP4 formats,         because even if someone wanted to pay fees, they couldn't make their own         software.
+
+     
+
+To combat all of this, the use and programming involved         in making and playing Ogg Vorbis files is publicly available, and will         be improved all the time. They have no affiliation with a multinational         conglomerate, and no way of making money from it (sounds familiar...)         These .ogg files give better sound quality and options compared to .mp3         files as well. However some people don't trust it. "MP3 sounded technical         and ominous... something I don't need to understand," said one layman.         "As opposed to Ogg Vorbis, which I know is just a random dumb name." An         expert on media files provided us with this chart:
+
+After a few minutes   searching the xiph.org site for why on earth they called the thing Ogg Vorbis,   the writer of this article grew impatient and started playing [3D   Pong](http://www.liquid.se/pong/). The best guess so far is that it was the name of a Dungeons & Dragons   character, probably a hulking, dim-witted one.

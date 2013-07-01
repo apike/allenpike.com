@@ -1,0 +1,28 @@
+---
+author: allen
+comments: true
+date: 2003-11-24 15:54:21
+layout: post
+slug: spam
+title: US passes anti-spam bill; spammers rejoice
+wordpress_id: 53
+categories:
+- Sarcastic News
+tags:
+- Email
+- Spam
+---
+
+![](/resources/old/spam.jpg)
+
+The American Congress is on the verge of putting their first ever anti-spam regulations into law. While banning certain shady practices spammers commonly use, it legalizes spam sent in many circumstances, causing joy for [politicians](/fun/asylum/) seen to be doing something, joy for spammers who can now spam legally, and annoyance for everyone else.
+
+The CAN-SPAM act (originally intended to mean spam is being canned rather than you can now spam) originally required all commercial email to be solicited, meaning you had to opt in to receive it. The revised bill is completely different in that sense, meaning you have to opt out of a list to stop getting spam. "Wow, now that just makes it all better doesn't it!" cried one battered spam fighter, in what is reported to have been sarcasm. "If you click unsubscribe they're supposed to take you off the list. Nothing says they can't have 314159 lists, and unsubscribing from one puts you on all the rest. Wait a minute, they already do that."
+
+On the brighter side, the act makes a number of dirty, horrible spam practices outright illegal. Forging an email to make it look like somebody else sent it and scanning web pages for email addresses will be illegal. "If you get any forged email, just reply to it and let them know that they're in big trouble," suggested one correspondent completely unfamiliar with logic.
+
+Another facet of the new act is the construction of a national do-not-spam list. "It's super easy," advised one supporter of the bill. "Anybody who doesn't want junk email will put their names on one huge list, and it will be freely available to any spammer so that... wait a minute." While some don't have faith in the spammers, there is in fact a chance, however small, that some of them will refrain from using the do not spam list as a gold mine for spam targets.
+
+Spammers' favourite part of the bill is the fact they can now send 100% unquestionably legal spam to whoever they like, as long as they don't hit unsubscribe (which people are often told not to do anyway.) Another hit with spammers is the fact this law will overrule the stronger spam laws some individual states have or may roll out in the future.
+
+Meanwhile, in Europe, commercial email is now illegal unless you ask for it. When asked for comment, one supporter of the American bill said, "Well you can't stop all the spam, since that would put both spammers and anti-spam companies out of business, hurting our economy in the process. Also, people need easy access to illegal pharmaceuticals, genital implants, low mortgage rates, and Nigerian money laundering opportunities."
