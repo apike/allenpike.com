@@ -26,7 +26,42 @@ As I finished university, [got a job at Apple](http://www.antipode.ca/2008/apple
 
 And that brings us to today. Things slowly ran down, and we're now at a point where I feel like shutting down does more service than harm to the community. I still have a lot of love for that community, though, so I wanted to put up this yearbook, of sorts, for us all to remember. Here's to the users of Altering Time - thanks for all the quotes, links, debates, questions, bug exploits, and assassinations. You are missed.
 
-See the gallery below for some shots of old Altering Time revisions, with commentary about the evolution of the site.
+### "The Edge of Reality"
+
+![](/images/wp-uploads/2010/03/thedgenet.jpg)
+
+Embarrassing. Every page of the site at this time had a different garish background image. Yes, that is a starfield background.
+
+### antipodestudios.com
+
+![](/images/wp-uploads/2010/03/antipodeca.gif)
+
+This was probably the peak of us thinking of the site as a startup. We had a long-winded slogany rant and info about the Windows game we were making.
+
+### Altering Time, 2002
+
+![](/images/wp-uploads/2010/03/oldat.jpg)
+
+
+This was one of the first homepages when the site was branded Altering Time. In a lot of ways the look and feel was consistent from here on out, but this was before any games had launched.
+
+### Altering Time, 2003
+
+![](/images/wp-uploads/2010/03/at03.jpg)
+
+This was near the peak of Altering Time. Asylum was quite popular, the site was very active, and there was a lot of active development.
+
+Notice the “Gear” link. I spent many hours designing gear and subscription packages for the site. Altogether I probably made $300 or so on it – I’m not sure whether to be proud or embarrassed.
+
+![](/images/wp-uploads/2010/03/altering-time.png)
+
+The logo. Yay glow!
+
+### 2006
+
+![](/images/wp-uploads/2010/03/final.jpg)
+
+This was the final design from Altering Time. It went live in 2006, although this was taken just before I put up the notice that it was retiring. When users were logged in, it would instead show a list of all the recent activity, in a way I imagine nowadays would be likened to the Facebook news feed.
 
 
 
@@ -34,5 +69,6 @@ See the gallery below for some shots of old Altering Time revisions, with commen
 
 * See the Halls of Fame for the [WTF Sites](/wtf-sites/), [Visitors' Quotes](/visitors-quotes/), or [Temporal Karma](/altering-time-karma/).
 
-* Visit [Just Ask Oldguy](http://www.justaskoldguy.com/).
+
+
 

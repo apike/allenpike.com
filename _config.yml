@@ -2,3 +2,4 @@ name: Allen Pike
 
 permalink: /:year/:title
 
+baseurl: "http://www.allenpike.com/"

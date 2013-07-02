@@ -9,7 +9,7 @@ wordpress_id: 199
 ---
 
 <img src='/images/apike-2013-bw.jpg' style='max-width: 160px'>
-I love creating things and perfecting products. I'm co-founder of [Steamclock Software](http://www.steamclock.com), where we build polished web and mobile apps in Vancouver. Prior to that, I was a Software Engineer at Apple.
+I love creating things and perfecting products. I run [Steamclock Software](http://www.steamclock.com), where we build polished web and mobile apps in Vancouver. Previously, I was a Software Engineer at Apple.
 
 My job involves product design, development, teaching, and speaking. I'm intensely interested in how great software can be. In my downtime, I play on a hockey team comprised entirely of programmers.
 

@@ -22,7 +22,7 @@ _Edited Fall 2007. _
 ## Five Years
 
 
-[This 21 megabyte Quicktime movie file](/resources/fysmall.mov) is what it all boiled down to. It will play below if you have Quicktime, and you can use the link to download it for keepsake.
+[This 21 megabyte Quicktime movie file](/images/fysmall.mov) is what it all boiled down to. It will play below if you have Quicktime, and you can use the link to download it for keepsake.
 
 ## The Horror Story
 

@@ -15,7 +15,7 @@ tags:
 - Web vs Native
 ---
 
-<img src='{{ site.baseurl }}images/ios7-blur.jpg' class='retinize'/>
+<img src='/images/ios7-blur.jpg' class='retinize'/>
 In 2007, Apple released a mobile OS that was a generation ahead. It centered around hardware-accelerated touch animations, tracking your fingers so fast that it created an entirely new type of experience. Rich sprites slid in and out with wonderful fluidity. The world was Apple's oyster, as only the best hardware and most efficient software could produce such an experience.
 
 Since then, ever-faster mobile devices have evened the playing field amongst the mobile platforms. Web apps, cheap hardware, and Phonegap have used Moore's law and elbow grease to narrow the gap. For the most part, this was inevitable.

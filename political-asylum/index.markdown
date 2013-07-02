@@ -28,5 +28,76 @@ As Political Asylum rose up the ranks in Google, I occasionally got emails from
 
 Check out the gallery below for some bad user interface design, and comments about how the game worked.
 
+### The Logo
 
-## Image Gallery: Political Asylum
+![](/images/wp-uploads/2010/03/political-asylum.gif)
+
+The Political Asylum logo. Copperplate and Sand, plus gratuitous effects.
+
+### Actions
+
+![](/images/wp-uploads/2010/03/actions.jpg)
+
+This is where a lot of the fun was. Putting out ads was neat, accusations could be interesting, and gambling was good for a laugh if you were maybe giving up on your politician this round.
+
+Spying, though, was a hit. You could scout them, or get details on how they’re running their campaign. If you were feeling cocky you could burn the signs they’d put up, and if you succeeded they wouldn’t know who’d done it.
+
+The ultimate operation was the assassination. If you succeeded, your target’s career ended most darkly. Although his son (or daughter) would take up where the assassinated politician left off, it was a devastating blow. Much more devastating, however, was to be caught trying to assassinate somebody. Therefore, everybody tried to pay their Security staff well enough that they were safe. Overall, assassinations added a lot of edge and fun to the game.
+
+
+### UI Hell
+
+![](/images/wp-uploads/2010/03/advisors-uihell.jpg)
+
+If this isn’t a artifact of adding features without reconsidering UI complexity, I don’t know what is.
+
+### Your Advisors
+
+![](/images/wp-uploads/2010/03/advisors.jpg)
+
+The advisors were one of people’s favourite things about Asylum, myself included. I actually went around and hoarded a bunch of portraits of people online for the advisors, assuming I was too small to be sued or even noticed (I was correct.)
+
+Each advisor was generated using a carefully cropped photo, random attributes that were influenced by that photo, and a randomly generated name. You could treat them well or poorly, steal other peoples’ advisors away, and more.
+
+### Events
+
+![](/images/wp-uploads/2010/03/events.jpg)
+
+Seeing what everybody else was doing gave the game a much more social feeling. In large games it got very noisy (something that Faith addressed later) but it was still interesting.
+
+
+### Public Relations
+
+![](/images/wp-uploads/2010/03/pr.jpg)
+
+Asylum tried to translate the subtle political differences between what one’s opinions are, and what the public thinks one’s opinions are. This was a stupid idea. Worse, the interface for managing it was also stupid. Nevertheless, opinion management was crucial to getting the vote, and many players got very good at it.
+
+### Religion Buffs and Debuffs
+
+![](/images/wp-uploads/2010/03/religion-buffs.jpg)
+
+Depending on how you treated various interested parties, you’d get bonuses and penalties. I’m not sure how much it added to the game strategy, but at least they made me feel clever.
+
+### Report
+
+![](/images/wp-uploads/2010/03/report.jpg)
+
+Players spent quite a bit of time looking at this report, comparing their success to their enemies’. Just like real life, the public wouldn’t even vote for new politicians at first – they would vote for the incumbents, who were completely stupid computer-controlled opponents. As the game went on, most players would a percentage of the public’s vote. In the game pictured, one player is completely dominating, which was unusual during the heyday of Asylum.
+
+### Rule
+
+![](/images/wp-uploads/2010/03/rule.jpg)
+
+The interesting part here is how to win the game. To win Asylum, you needed to pass the Enabling Act: a law that abolishes all your enemies’ parties and installs you as a dictator. Kind of dark, but hey, how else could such a game end?
+
+In general the way to do this was to get a majority of the public’s vote by either banding together with other players or by assassinating your competition. In very long games though, the public became “bored” and was much more willing to let somebody win.
+
+Also worth noting here is the sidebar, which was ever-present in Asylum. It gave you a quick reference of your resources, attributes, and opinions.
+
+
+### Technologies
+
+![](/images/wp-uploads/2010/03/technologies.jpg)
+
+Each level of each technology had an increasingly ridiculous description. For example, the upgrade from the Team of Security Ninjas was the much-superior Single Security Ninja. You could put ads on the moon, meet religious leaders at a Cloud-Level Mountain Citadel, or get a 4D logo with sound and taste,
+

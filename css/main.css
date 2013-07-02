@@ -27,6 +27,8 @@ body {
 h1, h2, h3, h4, h5 {
   font-family: "adelle-n1", adelle, serif;
   font-weight: normal;
+
+  clear:right;
 }
 
 h1 {font-size: 42px;}
@@ -35,7 +37,7 @@ h2, h3 {font-size: 32px;}
 
 h1, h2, h3, h4, h5 {line-height: 64px;}
 
-h1 { margin: 24px 0px; }
+h1 { margin: 0px 0px 24px 0px; }
 p { margin: 1em 0; }
 
 a         { color: #8000b3; text-decoration: none;}
@@ -72,28 +74,26 @@ img {
   width: 150px;
 }
 
-.main-navigation {
-  text-align: center;
+.main-navigation, .footer {
   list-style: none;
   margin-left: 0;
-  margin: 24px 0px;
+  margin: 2em 0px;
+  font-family: "adelle-n1", adelle, serif;
+  text-align: center;
   border-left: 1px solid #a800ea;
   border-right: 1px solid #a800ea;
-  font-family: "adelle-n1", adelle, serif;
 }
 
 .footer {
-  font-family: adelle, serif;
-  border-left: 1px solid #a800ea;
-  border-right: 1px solid #a800ea;
-  margin-top: 2em;
-  text-align: center;
   font-size: 0.8em;
+  clear: both;
 }
 
-.main-navigation li {
+
+.main-navigation li, .footer li {
   display: inline;
-  margin-left: 1em;
+  margin-left: 0.7em;
+  margin-right: 0.3em;
 }
 
 ul.posts {

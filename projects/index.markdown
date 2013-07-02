@@ -4,7 +4,7 @@ comments: true
 date: 2012-04-25 09:58:48
 layout: page
 slug: projects
-title: Projects
+title: Project Archive
 wordpress_id: 2331
 ---
 
@@ -12,54 +12,40 @@ For a summary of what I do, [my resume](http://www.allenpike.com/resume/) is the
 
 **Current Projects**
 
-Since we started Steam Clock, I've usually worked on a new type of project every couple months. We love working on our own apps, but client work is more interesting than it sounds.
+Since we started Steamclock, I've usually worked on a new type of project every couple months. We love working on our own apps, but client work is more interesting than it sounds.
 
 
-
+* [Party Monster](http://www.steamclock.com/partymonster/): A queueing DJ app for parties and road trips.
 
 * [Prism](http://www.steamclocksw.com/prism/): A photo browser for iPad that excels at showing photos of kittens.
 
 
-* [WeddingDJ](http://www.steamclocksoftware.com/weddingdj/): The best darn iPhone app for running music at events.
+* [WeddingDJ](http://www.steamclocksoftware.com/weddingdj/): The best darn iPhone app for running music at weddings.
 
 
 * [Consulting work](http://www.steamclocksw.com/consulting/): Some of my more interesting client projects at Steam Clock have been:
 
+	* an interactive 3D map of the internet
 
 	* an HTML5 eBook
 
-
-	* a Rails site for commercial real estate
-
-
 	* an iPhone app for finding fresh food
-
-
-	* an interactive retail console for iPad
-
 
 	* strategic consulting for a consumer video startup
 
-
 	* an app store for a Fortune 500 company
-
 
 	* a JavaScript app for the Fortune 500 itself
 
-
-	* an iPhone app for ordering wonderful custom suits.
-
-
-
-
+	* an iPhone app for ordering bespoke suits.
 
 * [VanJS](http://www.meetup.com/vancouver-javascript-developers/): I created the Vancouver Javascript Developers group, and it's turned out pretty well.
 
 
-* [Unladen Follow](http://www.unladenfollow.com/): What started as a project to learn Rails ended up as an unfollow helper that I still use regularly. Basically it tells you who is really annoying, before or after you follow them.
+* Unladen Follow: What started as a project to learn Rails ended up as an unfollow helper. It was broken by Twitter's 1.1 API changes, but I'd love to bring it back one day.
 
 
-* **Prototypes**: Lots of interesting prototypes haven't made it out of the Steam Clock labs - for example an antisocial Facebook app, a Git client for Mac, and a turn-based strategy game.
+* Prototypes: Lots of interesting prototypes haven't made it out of the Steam Clock labs - for example an antisocial Facebook app, a Git client for Mac, and a turn-based strategy game.
 
 
 
@@ -71,33 +57,23 @@ Since we started Steam Clock, I've usually worked on a new type of project every
 
 I really enjoy presenting and teaching, and there are some specific topics have up my sleeve.
 
+* Mapping the Internet: I'm giving a talk about mapping the internet at SecondConf.
 
-
-
-
-
-
-
+* A Friendly Chat about Web vs. Native: I've given talks about the tradoffs between using web and native technologies to build apps, for example at PolyglotConf.
 
 * [Crafting a Technical Meetup](http://www.allenpike.com/2011/video-making-a-js-meetup-blow-minds/): I've given this talk about running a meetup at JSConf and other events. I talk about what makes a great meetup great, using VanJS as my example.
 
+* Podcasting: I've been the guest on some podcasts, which is a lot of fun. A couple examples are [Springboard](http://springboardshow.com/episodes/12) and [Lining Things Up](http://liningthingsup.com/#06-Allen-Pike).
 
-* [Tackling JavaScript](http://wordpress.tv/2011/10/08/allen-pike-tackling-javascript/): I've given talks ranging from super introductory to Advanced JavaScript. I prefer to err on the side of advanced for maximum mind-blowing.
+* [Tackling JavaScript](http://wordpress.tv/2011/10/08/allen-pike-tackling-javascript/): I've given talks ranging from super introductory to Advanced JavaScript. I prefer to err on the side of advanced for maximum fun.
 
-
-* **CMPT 470**: I teach a 4th-year Web Technologies course for SFU's Computing Science department. This means I've taught about almost every aspect of web development, from CSS to CDNs.
-
+* **CMPT 470**: I teach a 4th-year Web Technologies course for SFU's Computing Science department. This means I've taught about almost every aspect of web development, from CSS to hilarious security holes.
 
 * **Web 101**: At the other end of the spectrum, I taught an 8-week introduction to HTML, CSS, JavaScript, and other web technologies at Mobify. It was just myself and 6 students, which was really fun.
 
-
 * **Thick Client JavaScript**: I've given this talk a few times, and it's evolved as the topic has evolved. Basically the question is, how much can you get away with on the client side?
 
-
 * **Mobile Safari Apps**: A talk I gave at VanJS on Webkit features that make developing web apps for mobile pretty great.
-
-
-
 
 
 **Apple Era Projects **(2008-2010)
@@ -138,7 +114,7 @@ My first real technology job was at a small software company that builds softwar
 * **Principalm:** Before mobile apps were cool, Principalm ran on Palm m500s off of 16MB SD cards. It wasn't cool, but it was ours, damn it. I did QA, branding and design work, and other product-related tasks for it, giving me my first taste of product management.
 
 
-* [Just Ask Oldguy](http://www.justaskoldguy.com/): I did CSS3 and design for a Q&A site where my former boss answers random questions from the internet.
+* **Just Ask Oldguy**: I did CSS3 and design for a Q&A site where my former boss answers random questions from the internet.
 
 
 * **Budgetable**: I built a [prototype financial management](http://www.allenpike.com/2006/whats-a-budgetable/) website, and have since sold the domain to a team who is [doing great work with it](http://www.budgetable.com/).
