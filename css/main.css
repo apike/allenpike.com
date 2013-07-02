@@ -93,6 +93,18 @@ img {
 
 ul.posts {
   list-style: none;
+  margin-left: 0;
+}
+
+.posts span {
+  display: inline-block;
+  width: 170px;
+  padding-right: 1em;
+  text-align: right;
+}
+
+.posts a {
+ width: 65%;
 }
 
 /*****************************************************************************/
