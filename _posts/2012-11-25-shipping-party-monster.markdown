@@ -15,7 +15,7 @@ tags:
 - Steam Clock
 ---
 
-<img src='/images/wp-uploads/2012/11/partymonster-icon.jpg' class='retinize'/>
+<img src="/images/wp-uploads/2012/11/partymonster-icon.jpg" class="retinize"/>
 Four months ago, I [shared visual mockups](http://www.allenpike.com/2012/a-monster-in-the-lab/) of our upcoming app called [Party Monster](http://www.steamclock.com/partymonster/). A few days after that, we had a working prototype. Four months later, we submitted to the App Store. What the heck took so long?
 
 
