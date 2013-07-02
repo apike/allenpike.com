@@ -40,11 +40,6 @@ Looking back at the design mockup I posted in August compared to Party Monster 1
 ](/images/wp-uploads/2012/11/party-monster-shots-10.jpg)
 
 
-### 
-
-
-
-
 ### Writing an Add Song dialog
 
 
@@ -53,15 +48,10 @@ iOS provides its own Add Song dialog, which is serviceable: you can pick some so
 
 
 * Sizing the dialog to fill only part of the screen on iPad
-
 * Queueing one song at a time without having to dismiss the dialog
-
 * Labeling songs to show that you've queued or played them
-
 * Adding extra interactions with the songs like swiping to play immediately
-
 * Labeling songs that won't play, such as DRM-broken tracks
-
 * Refusing to play Nickelback
 
 
