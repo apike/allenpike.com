@@ -14,16 +14,14 @@ I love creating things and perfecting products. I'm co-founder of [Steamclock So
 My job involves product design, development, teaching, and speaking. I'm intensely interested in how great software can be. In my downtime, I play on a hockey team comprised entirely of programmers.
 
 **More About Me**
-
-  * My [Twitter page](https://twitter.com/apike).
-  * My [personal blog](/).
-  * The [Steamclock blog](http://www.steamclock.com/blog/).
-  * My [resume](/resume/).
+* My [Twitter page](https://twitter.com/apike).
+* My [personal blog](/).
+* The [Steamclock blog](http://www.steamclock.com/blog/).
+* My [resume](/resume/).
 
 **Recent Projects**
-
-  * [Steamclock Software](http://www.steamclock.com/): My company.
-  * [Party Monster](http://www.steamclock.com/partymonster/): An iOS app for running music at parties and road trips.
-  * [VanJS](http://www.vanjs.com/): The Vancouver Javascript Developers group I founded.
-  * [Project List](/projects/): A catalog of most things I've worked on.
+* [Steamclock Software](http://www.steamclock.com/): My company.
+* [Party Monster](http://www.steamclock.com/partymonster/): An iOS app for running music at parties and road trips.
+* [VanJS](http://www.vanjs.com/): The Vancouver Javascript Developers group I founded.
+* [Project List](/projects/): A catalog of most things I've worked on.
 

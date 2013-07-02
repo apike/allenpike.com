@@ -28,36 +28,16 @@ This will mean a fair bit of rebalancing and tinkering, but I think it will actu
 
 
 
-
-
-  * Births: Health + Strength
-
-
-  * Lifespan: Devotion + Health
-
-
-  * Belief: Devotion + Strength
-
-
-  * Conversion: Devotion + Zeal
-
-
-  * Production: Economy + Health
-
-
-  * Lawfulness: Devotion + Economy
-
-
-  * Donations: Economy + Strength
-
-
-  * Science: Economy + Zeal
-
-
-  * Attendance: Health + Zeal
-
-
-  * Military: Strength + Zeal
+*Births: Health + Strength
+*Lifespan: Devotion + Health
+*Belief: Devotion + Strength
+*Conversion: Devotion + Zeal
+*Production: Economy + Health
+*Lawfulness: Devotion + Economy
+*Donations: Economy + Strength
+*Science: Economy + Zeal
+*Attendance: Health + Zeal
+*Military: Strength + Zeal
 
 
 

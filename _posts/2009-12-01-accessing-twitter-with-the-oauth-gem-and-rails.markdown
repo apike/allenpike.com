@@ -21,15 +21,9 @@ You might think the question "How do I use the OAuth Ruby gem to actually start 
 
 
 
-
-
-  * OAuth is new.
-
-
-  * OAuth is changing.
-
-
-  * Most documentation on OAuth is either excessively in-depth, or out of date.
+* OAuth is new.
+* OAuth is changing.
+* Most documentation on OAuth is either excessively in-depth, or out of date.
 
 
 
@@ -95,15 +89,9 @@ Some things to note that are different than other howtos out there:
 
 
 
-
-
-  * The Twitter callback URL does not work anymore, even though their site lets you specify it.
-
-
-  * The OAuth gem assumes you are running a persistent Ruby process, as opposed to something like Rails. It wants you to create an Access Token object and keep it around, but they can't be stored in a Rails session, so this is a pain.
-
-
-  * You need to pass oauth_verifier to get_access_token. This apparently is a new requirement.
+* The Twitter callback URL does not work anymore, even though their site lets you specify it.
+* The OAuth gem assumes you are running a persistent Ruby process, as opposed to something like Rails. It wants you to create an Access Token object and keep it around, but they can't be stored in a Rails session, so this is a pain.
+* You need to pass oauth_verifier to get_access_token. This apparently is a new requirement.
 
 
 
