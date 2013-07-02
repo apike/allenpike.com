@@ -18,23 +18,17 @@ tags:
 
 
 
-	
-  * User detail pages give you [linkable details about one Twitterer](http://www.unladenfollow.com/u/codinghorror/).
+* User detail pages give you [linkable details about one Twitterer](http://www.unladenfollow.com/u/codinghorror/).
 
-	
-  * "What If" lets you see where a user would rank in your list. ((You can also use this as a trick to update the score of a user you follow using more data.))
+* "What If" lets you see where a user would rank in your list. ((You can also use this as a trick to update the score of a user you follow using more data.))
 
-	
-  * Your followees list now only shows the loudest users by default.
+* Your followees list now only shows the loudest users by default.
 
-	
-  * The algorithms now completely ignore @replies. ((In general, your followers won't see your @replies so they're not annoying. It would be nice to only count @replies that you can't see, but now that there's parts of the app that don't require authentication, that's not feasible.))
+* The algorithms now completely ignore @replies. ((In general, your followers won't see your @replies so they're not annoying. It would be nice to only count @replies that you can't see, but now that there's parts of the app that don't require authentication, that's not feasible.))
 
-	
-  * A logout mechanism.
+* A logout mechanism.
 
-	
-  * [A diagram](http://www.unladenfollow.com/anatomy/) to explain why I created an unfollow helper anyway.
+* [A diagram](http://www.unladenfollow.com/anatomy/) to explain why I created an unfollow helper anyway.
 
 
 

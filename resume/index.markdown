@@ -26,23 +26,17 @@ Allen is a seasoned web and iOS developer with a broad set of skills.
 
 
 
-	
-  * Ships top-notch iOS and web apps
+* Ships top-notch iOS and web apps
 
-	
-  * Crafts wonderful products like [Prism](http://www.steamclocksw.com/prism/) and [WeddingDJ](http://www.steamclocksw.com/weddingdj/)
+* Crafts wonderful products like [Prism](http://www.steamclocksw.com/prism/) and [WeddingDJ](http://www.steamclocksw.com/weddingdj/)
 
-	
-  * Worked on JavaScript apps for HP/Palm and Time Inc
+* Worked on JavaScript apps for HP/Palm and Time Inc
 
-	
-  * Does strategic consulting and development for Vancouver startups
+* Does strategic consulting and development for Vancouver startups
 
-	
-  * Uses and trains Objective-C, Rails, Photoshop, and JavaScript
+* Uses and trains Objective-C, Rails, Photoshop, and JavaScript
 
-	
-  * Manages customers, clients, and employees
+* Manages customers, clients, and employees
 
 
 
@@ -53,8 +47,7 @@ Allen is a seasoned web and iOS developer with a broad set of skills.
 
 
 
-	
-  * Teaches CMPT 470, the fourth-year Web Technology course
+* Teaches CMPT 470, the fourth-year Web Technology course
 
 
 
@@ -65,14 +58,11 @@ Allen is a seasoned web and iOS developer with a broad set of skills.
 
 
 
-	
-  * Wrote Objective-C for iWork ’09 for Mac and iWork for iPad
+* Wrote Objective-C for iWork ’09 for Mac and iWork for iPad
 
-	
-  * Helped launch iWork.com with JavaScript, CSS, and SproutCore
+* Helped launch iWork.com with JavaScript, CSS, and SproutCore
 
-	
-  * Developed CSS3 and HTML5 web applications for iPhone and iPad
+* Developed CSS3 and HTML5 web applications for iPhone and iPad
 
 
 
@@ -83,14 +73,11 @@ Allen is a seasoned web and iOS developer with a broad set of skills.
 
 
 
-	
-  * Wrote and managed a CRM system using PHP and MySQL
+* Wrote and managed a CRM system using PHP and MySQL
 
-	
-  * Developed a web-based game primarily in JavaScript
+* Developed a web-based game primarily in JavaScript
 
-	
-  * Handled a series of web development contracts
+* Handled a series of web development contracts
 
 
 
@@ -116,17 +103,13 @@ Allen is a seasoned web and iOS developer with a broad set of skills.
 
 
 
-	
-  * Runs VanJS, one of the largest JavaScript meetups in the world
+* Runs VanJS, one of the largest JavaScript meetups in the world
 
-	
-  * Speaks at conferences, such as JSConf and Wordcamp:Developers
+* Speaks at conferences, such as JSConf and Wordcamp:Developers
 
-	
-  * Developed a number of ill-fated games
+* Developed a number of ill-fated games
 
-	
-  * Built Unladen Follow in Ruby and JavaScript
+* Built Unladen Follow in Ruby and JavaScript
 
 
 

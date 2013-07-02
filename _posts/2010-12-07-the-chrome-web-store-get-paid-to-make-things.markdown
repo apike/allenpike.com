@@ -33,20 +33,15 @@ Now, it's true there are some ways to make money from web apps already. There ar
 
 The Chrome App Store is irrelevant for the above categories of software since they're profitably humming away. However, there are a lot of potential web apps that don't fit into the above categories. Specifically, consumer-oriented apps that aren't appropriate for the "scale huge, sell ads" model. Some examples:
 
-	
-  * Games
+* Games
 
-	
-  * Specialty consumer software (like [WeddingDJ](http://steamclocksw.com/weddingdj/))
+* Specialty consumer software (like [WeddingDJ](http://steamclocksw.com/weddingdj/))
 
-	
-  * Personal productivity and finance software
+* Personal productivity and finance software
 
-	
-  * Magazines and newspapers
+* Magazines and newspapers
 
-	
-  * Most stuff on the iOS App Store
+* Most stuff on the iOS App Store
 
 
 Most web developers in the above markets attempted to do the obvious: charge customers to use their sites. However, having to put in your credit card info or jump through a PayPal hoop to pay for something online is a pain in the ass. It can't be understated: a credit card entry form is a brick wall to most consumers. The vast majority of them would never consider putting their credit card info in to pay for a web site, no matter how good it is.

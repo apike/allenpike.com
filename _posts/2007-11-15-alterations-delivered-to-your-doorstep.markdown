@@ -14,20 +14,15 @@ A dedicated Altering Time news blog is now live! Here you will find updates and 
 
 
 
-	
-  * 2002: Sarcastic News blog launched
+* 2002: Sarcastic News blog launched
 
-	
-  * 2004: Engineering Faith news blog launched
+* 2004: Engineering Faith news blog launched
 
-	
-  * 2006: General (mostly tech) commentary blog launched, merged with Faith blog
+* 2006: General (mostly tech) commentary blog launched, merged with Faith blog
 
-	
-  * October 2007: Commentary blog merged with old Sarcastic News and spun off into [Antipode](http://www.antipode.ca/).
+* October 2007: Commentary blog merged with old Sarcastic News and spun off into [Antipode](http://www.antipode.ca/).
 
-	
-  * November 2007: Altering Time finally gets a dedicate site news blog, restored with old Faith news
+* November 2007: Altering Time finally gets a dedicate site news blog, restored with old Faith news
 
 
 Before, some Altering Log readers would be bored/annoyed when I went on about non-AT topics, and some would be bored/annoyed when I went on about AT. Now I'm free to go on about my AT-related dreams! Topics I'd like to cover here soon include the Forum upgrade to phpBB3, when is Faith going to be finished, and a site redesign I have in mind. Stay tuned.

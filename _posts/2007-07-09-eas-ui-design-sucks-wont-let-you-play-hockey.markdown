@@ -19,32 +19,23 @@ tags:
 
 
 
-	
-  * Press Start on title screen (what's the point of this tradition again?)
+* Press Start on title screen (what's the point of this tradition again?)
 
-	
-  * Press a button to cancel a video commercial of some NHL player
+* Press a button to cancel a video commercial of some NHL player
 
-	
-  * Choose "Game Modes" (the second option) and press X.
+* Choose "Game Modes" (the second option) and press X.
 
-	
-  * Choose "Season" (the fourth option) and press X.
+* Choose "Season" (the fourth option) and press X.
 
-	
-  * Choose "NHL" (or your respective league) and press X.
+* Choose "NHL" (or your respective league) and press X.
 
-	
-  * Choose "Load" and press X.
+* Choose "Load" and press X.
 
-	
-  * Choose your save file and press X.
+* Choose your save file and press X.
 
-	
-  * Press X to confirm that you really want to load your game.
+* Press X to confirm that you really want to load your game.
 
-	
-  * Press X to confirm that the game really was loaded.
+* Press X to confirm that the game really was loaded.
 
 
 So it takes thirteen button presses to load my season, and then a few more presses to actually play a game in that season. Just let me play hockey damn it!

@@ -18,38 +18,27 @@ tags:
 
 
 
-	
-  * Great voice quality: **?**
+* Great voice quality: **?**
 
-	
-  * Great reception: **?**
+* Great reception: **?**
 
-	
-  * Simple, easy to use interface: **B**
+* Simple, easy to use interface: **B**
 
-	
-  * Good keypad (must be usable without looking and for texting): **F-**
+* Good keypad (must be usable without looking and for texting): **F-**
 
-	
-  * Durable (and its child, “feels solid and well made”): **?**
+* Durable (and its child, “feels solid and well made”): **?**
 
-	
-  * Sexy (this is subjective, but basically make it black and iPod-like): **A**
+* Sexy (this is subjective, but basically make it black and iPod-like): **A**
 
-	
-  * Great battery life: **C**
+* Great battery life: **C**
 
-	
-  * Bluetooth (that I can use to sync with and get internet to my Mac): **A**
+* Bluetooth (that I can use to sync with and get internet to my Mac): **A**
 
-	
-  * Thin: **B**
+* Thin: **B**
 
-	
-  * Screw the mp3 player (unless it’s so awesome it’ll replace an iPod): **A**
+* Screw the mp3 player (unless it’s so awesome it’ll replace an iPod): **A**
 
-	
-  * Screw the camera (unless it’s so awesome it’ll replace a Canon): **D**
+* Screw the camera (unless it’s so awesome it’ll replace a Canon): **D**
 
 
 Huh. The two most important things about a cell phone don't show up on a spec sheet or at a keynote, so basically I can't know if I want an iPhone. However, the [lack of a keypad](http://www.456bereastreet.com/archive/200701/apple_iphone_is_cool_but_where_is_my_keypad/) has the potential to really suck. Steve Jobs dismissed inputting numbers as "last century", but I know that's him being defensive of the iPhone's true weakness. On my current phone, my most common operation (calling my girlfriend) can be done, without looking, in two button presses - Up, Call. On the iPhone, it looks like that will take four aimed "clicks" - Phone, Favourites, Karen, Call. Even if it just took two "clicks", anything you want to do on the iPhone that can't be accomplished with the One Button or by touching anywhere on the screen will be cumbersome to do since you'll have to look, aim, and accurately hit things on screen. Slow and cumbersome.

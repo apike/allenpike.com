@@ -14,152 +14,103 @@ There was a facility on Altering Time to measure Karma. This was the combined we
 
 
 
-	
-  * Übersoldat
+* Übersoldat
 
-	
-  * oldguy
+* oldguy
 
-	
-  * Elanor
+* Elanor
 
-	
-  * Elephant Man
+* Elephant Man
 
-	
-  * CamelF
+* CamelF
 
-	
-  * nitsua
+* nitsua
 
-	
-  * Moony
+* Moony
 
-	
-  * Soapish
+* Soapish
 
-	
-  * ensignyu
+* ensignyu
 
-	
-  * Kate
+* Kate
 
-	
-  * wyckedcrow
+* wyckedcrow
 
-	
-  * Chris
+* Chris
 
-	
-  * Andy_R
+* Andy_R
 
-	
-  * sutych
+* sutych
 
-	
-  * felix
+* felix
 
-	
-  * Karen
+* Karen
 
-	
-  * labyrinthic
+* labyrinthic
 
-	
-  * dazmax
+* dazmax
 
-	
-  * Ssystem_Ssykotik
+* Ssystem_Ssykotik
 
-	
-  * Zeero
+* Zeero
 
-	
-  * BadFish74
+* BadFish74
 
-	
-  * disinfor
+* disinfor
 
-	
-  * Lucas
+* Lucas
 
-	
-  * Zecritic
+* Zecritic
 
-	
-  * olstar18
+* olstar18
 
-	
-  * Modern Epic
+* Modern Epic
 
-	
-  * Charlie_Knuckles
+* Charlie_Knuckles
 
-	
-  * Geoscientist
+* Geoscientist
 
-	
-  * keenan
+* keenan
 
-	
-  * The Boy Wonder
+* The Boy Wonder
 
-	
-  * metroid_dragon
+* metroid_dragon
 
-	
-  * derekkhor
+* derekkhor
 
-	
-  * Bagels
+* Bagels
 
-	
-  * BoucherIsCool
+* BoucherIsCool
 
-	
-  * Bear4u
+* Bear4u
 
-	
-  * Duck
+* Duck
 
-	
-  * SJP
+* SJP
 
-	
-  * wctst2
+* wctst2
 
-	
-  * SuperTKO
+* SuperTKO
 
-	
-  * Kayle
+* Kayle
 
-	
-  * cageybee
+* cageybee
 
-	
-  * Lola
+* Lola
 
-	
-  * Ken1
+* Ken1
 
-	
-  * bearclaw
+* bearclaw
 
-	
-  * Tabula Rasa
+* Tabula Rasa
 
-	
-  * 2% Milk
+* 2% Milk
 
-	
-  * Crazy Canuck
+* Crazy Canuck
 
-	
-  * Sibbi
+* Sibbi
 
-	
-  * El_Si
+* El_Si
 
 
 Congratulations guys, you won at Altering Time!

@@ -20,14 +20,11 @@ tags:
 
 
 
-	
-  * Dimensions: 2048 x 1536
+* Dimensions: 2048 x 1536
 
-	
-  * Density: 264 DPI
+* Density: 264 DPI
 
-	
-  * Resolution: 3.1 megapixels
+* Resolution: 3.1 megapixels
 
 
 This will create some challenges for us as developers and content creators. If you used an iPhone 4 when it was launched, you know that a 1x image displayed on a 4x display actually looks worse than it did on a 1x display because there is much less blur at the pixel boundaries. On iPad 3 launch day, existing apps and sites will look, more or less, like crap. Apple will demo their apps, and of course the New York Times ((The Times will look pretty good at high-res because it is almost all text and uses SVG for their banner.)), but low-res images will make a lot of content blurry for early iPad 3 users.

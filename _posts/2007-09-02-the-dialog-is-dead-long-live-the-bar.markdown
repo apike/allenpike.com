@@ -22,17 +22,13 @@ They simultaneously eliminated various problems:
 
 
 
-	
-  * Saving incorrect passwords or typos
+* Saving incorrect passwords or typos
 
-	
-  * Interrupting users who are in an hurry
+* Interrupting users who are in an hurry
 
-	
-  * Bugging those who haven't decided if they want the password saved yet
+* Bugging those who haven't decided if they want the password saved yet
 
-	
-  * Intimidating new users who don't know what to do with such a dialog
+* Intimidating new users who don't know what to do with such a dialog
 
 
 We've [known for a long time](http://www.codinghorror.com/blog/archives/000432.html) how much Firefox's modeless Find Bar kicks old-school find dialogs' asses. They've also applied this approach in a few other places, such as the Popup Blocker and their upcoming Redirect Blocker. Firefox has been a pioneer in this, but it's happening all over town. It's now obvious that modal dialogs that unnecessarily interrupt users aren't going to cut it.

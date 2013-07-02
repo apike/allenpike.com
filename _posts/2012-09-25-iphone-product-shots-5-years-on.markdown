@@ -29,23 +29,17 @@ The sum of many small changes has a really big impact. The Retina change doesn't
 
 
 
-	
-  * Naturally, the 16:9 screen is the most dramatic change.
+* Naturally, the 16:9 screen is the most dramatic change.
 
-	
-  * Believe it or not, the original iPhone promo shots didn't have the now-trademark reflective sheen on them.
+* Believe it or not, the original iPhone promo shots didn't have the now-trademark reflective sheen on them.
 
-	
-  * There are seven new icons: Videos, Passbook, Reminders, Newsstand, iTunes, App Store, and Game Center. In retrospect, the empty row for icons on an iPhone with no App Store should have been suspicious.
+* There are seven new icons: Videos, Passbook, Reminders, Newsstand, iTunes, App Store, and Game Center. In retrospect, the empty row for icons on an iPhone with no App Store should have been suspicious.
 
-	
-  * The cellular provider is no longer shown in the promo shots, even though it shows full cellular signal. I'm not sure if this configuration is actually possible.
+* The cellular provider is no longer shown in the promo shots, even though it shows full cellular signal. I'm not sure if this configuration is actually possible.
 
-	
-  * Calculator goes away, although nothing else does.
+* Calculator goes away, although nothing else does.
 
-	
-  * iPod has become Music, Text has become Messages. Next up: Phone becomes Voice?
+* iPod has become Music, Text has become Messages. Next up: Phone becomes Voice?
 
 
 
@@ -57,23 +51,17 @@ Despite these changes, it's really remarkable how much is the same, five iterati
 
 
 
-	
-  * Every visible button is still in the same location: home, power, volume, mute.
+* Every visible button is still in the same location: home, power, volume, mute.
 
-	
-  * The first and last rows of icons are exactly the same! The same eight apps are in the same eight places in iOS 6 as in iPhone OS 1.
+* The first and last rows of icons are exactly the same! The same eight apps are in the same eight places in iOS 6 as in iPhone OS 1.
 
-	
-  * The icons have kept their exact shape and spacing. What originally seemed distinctive is now an industry standard.
+* The icons have kept their exact shape and spacing. What originally seemed distinctive is now an industry standard.
 
-	
-  * It's still 9:41, even though the Clock app has changed to a more traditional 10:15.
+* It's still 9:41, even though the Clock app has changed to a more traditional 10:15.
 
-	
-  * The dock still remains four apps anchored to the bottom of the screen. It's worth remembering that on the original iPhone the dock wasn't really even a dock, since you only had one screen and couldn't rearrange icons.
+* The dock still remains four apps anchored to the bottom of the screen. It's worth remembering that on the original iPhone the dock wasn't really even a dock, since you only had one screen and couldn't rearrange icons.
 
-	
-  * The calendar's day is the weekday and date of that device's announcement. Thoughtful consistency though subtle change.
+* The calendar's day is the weekday and date of that device's announcement. Thoughtful consistency though subtle change.
 
 
 

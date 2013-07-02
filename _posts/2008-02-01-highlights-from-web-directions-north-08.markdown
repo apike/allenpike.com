@@ -22,20 +22,15 @@ That said, the most compelling part of conferences is being able to chat with pe
 
 
 
-	
-  * [Dave Shea](http://www.mezzoblue.com/) about using Rogers' data plans with his iPhone
+* [Dave Shea](http://www.mezzoblue.com/) about using Rogers' data plans with his iPhone
 
-	
-  * [Alex Capehart](http://www.mediatemple.com/) about VPS and support from a hosting provider's perspective
+* [Alex Capehart](http://www.mediatemple.com/) about VPS and support from a hosting provider's perspective
 
-	
-  * [Boris Mann](http://bmannconsulting.com/) on how if you want to charge a low consulting rate while starting out, you should call it a new customer discount.
+* [Boris Mann](http://bmannconsulting.com/) on how if you want to charge a low consulting rate while starting out, you should call it a new customer discount.
 
-	
-  * [Jeffrey Zeldman](http://www.zeldman.com/) about comment spam on A List Apart
+* [Jeffrey Zeldman](http://www.zeldman.com/) about comment spam on A List Apart
 
-	
-  * [Jonathan Snook](http://snook.ca/jonathan/) on the differences between the major javascript frameworks
+* [Jonathan Snook](http://snook.ca/jonathan/) on the differences between the major javascript frameworks
 
 
 All in all, well worth attending.

@@ -52,23 +52,17 @@ iOS provides its own Add Song dialog, which is serviceable: you can pick some so
 
 
 
-	
-  * Sizing the dialog to fill only part of the screen on iPad
+* Sizing the dialog to fill only part of the screen on iPad
 
-	
-  * Queueing one song at a time without having to dismiss the dialog
+* Queueing one song at a time without having to dismiss the dialog
 
-	
-  * Labeling songs to show that you've queued or played them
+* Labeling songs to show that you've queued or played them
 
-	
-  * Adding extra interactions with the songs like swiping to play immediately
+* Adding extra interactions with the songs like swiping to play immediately
 
-	
-  * Labeling songs that won't play, such as DRM-broken tracks
+* Labeling songs that won't play, such as DRM-broken tracks
 
-	
-  * Refusing to play Nickelback
+* Refusing to play Nickelback
 
 
 So basically a Party Monster that uses the system Add Song dialog is a shadow of its true potential. And so we wrote our own dialog, and with it came an army of little improvements and tweaks.

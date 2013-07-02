@@ -137,16 +137,12 @@ Here is a PDF version of [the presentation](/461/project/presentation.pdf) I gav
 
 
 
-	
-  * Prusinkiewicz, P., Lindenmayer, A. 1990. _The Algorithmic Beauty of Plants._
+* Prusinkiewicz, P., Lindenmayer, A. 1990. _The Algorithmic Beauty of Plants._
 
-	
-  * Prusinkiewicz, P. 1986. Graphical applications of L-systems. _Graphics Interface '86_, pp. 247-53.
+* Prusinkiewicz, P. 1986. Graphical applications of L-systems. _Graphics Interface '86_, pp. 247-53.
 
-	
-  * Prusinkiewicz, P., James, M. and Mech, R. 1994. Synthetic Topiary. _Computer Graphics Proceedings, Annual Conference Series, 1994, ACM SIGGRAPH_, pp. 351-358.
+* Prusinkiewicz, P., James, M. and Mech, R. 1994. Synthetic Topiary. _Computer Graphics Proceedings, Annual Conference Series, 1994, ACM SIGGRAPH_, pp. 351-358.
 
-	
-  * Smith, A. 1984. Plants, Fractals, and Formal Languages. _Proceedings of the 11th annual conference on Computer graphics and interactive techniques_, pp. 1-10.
+* Smith, A. 1984. Plants, Fractals, and Formal Languages. _Proceedings of the 11th annual conference on Computer graphics and interactive techniques_, pp. 1-10.
 
 

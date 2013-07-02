@@ -32,17 +32,13 @@ Back in the day when mostly geeks used Macs, the forced-upgrade approach worked 
 
 
 
-	
-  * retardedly uselessly geeky ("Wtf, I can't read this crap.")
+* retardedly uselessly geeky ("Wtf, I can't read this crap.")
 
-	
-  * geeky but tolerable ("Uh, okay. Hrm.")
+* geeky but tolerable ("Uh, okay. Hrm.")
 
-	
-  * interestingly geeky ("Ah, cool - makes sense.")
+* interestingly geeky ("Ah, cool - makes sense.")
 
-	
-  * not geeky enough ("Yeah yeah I know, more detail!")
+* not geeky enough ("Yeah yeah I know, more detail!")
 
 
 Even more importantly, if you're a grandma, let me know... since in that case I should probably stop making fun of them.

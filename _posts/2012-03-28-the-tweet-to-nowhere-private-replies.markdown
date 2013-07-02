@@ -21,11 +21,9 @@ So I was weirded out yesterday when I was notified that two different people wer
 
 
 
-	
-  * @bishnu_b replied to one of my comments but I couldn't tell. I was tipped off by a public reply to that reply.
+* &zwnj;@bishnu_b replied to one of my comments but I couldn't tell. I was tipped off by a public reply to that reply.
 
-	
-  * @canadiankelli asked me a question but I couldn't tell. I was tipped off by my wife asking me why I didn't respond.
+* &zwnj;@canadiankelli asked me a question but I couldn't tell. I was tipped off by my wife asking me why I didn't respond.
 
 
 I love chatting with people on Twitter, so it was disturbing to me that people were trying to contact me and getting a wall of silence. If this is happening to me, it's happening on a huge scale to various celebrities and company accounts:

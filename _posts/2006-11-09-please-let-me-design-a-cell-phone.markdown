@@ -23,38 +23,27 @@ For the cost of adding a shoddy camera, mp3 player, or flip hinge they could mak
 
 
 
-	
-  * Great voice quality
+* Great voice quality
 
-	
-  * Great reception
+* Great reception
 
-	
-  * Simple, easy to use interface
+* Simple, easy to use interface
 
-	
-  * Good keypad (must be usable without looking and for texting)
+* Good keypad (must be usable without looking and for texting)
 
-	
-  * Durable (and its child, "feels solid and well made")
+* Durable (and its child, "feels solid and well made")
 
-	
-  * Sexy (this is subjective, but basically make it black and iPod-like)
+* Sexy (this is subjective, but basically make it black and iPod-like)
 
-	
-  * Great battery life
+* Great battery life
 
-	
-  * Bluetooth (that I can use to sync with and get internet to my Mac)
+* Bluetooth (that I can use to sync with and get internet to my Mac)
 
-	
-  * Thin
+* Thin
 
-	
-  * Screw the mp3 player (unless it's so awesome it'll replace an iPod)
+* Screw the mp3 player (unless it's so awesome it'll replace an iPod)
 
-	
-  * Screw the camera (unless it's so awesome it'll replace a Canon)
+* Screw the camera (unless it's so awesome it'll replace a Canon)
 
 
 Of course, it doesn't seem to exist. [My wireless carrier](http://www.rogers.com/) definitely doesn't carry it - maybe I could find an unlocked GSM phone from eBay or something (potentially expensive and scary). More likely, I'll wait until Wireless Number Portability arrives in Canada (March 14, 2007) and pick from the best of all the phones everyone carries. Or maybe I'll just keep waiting for the Apple iPhone - maybe they can do it right.

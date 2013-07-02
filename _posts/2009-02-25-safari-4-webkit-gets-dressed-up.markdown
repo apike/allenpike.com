@@ -19,17 +19,13 @@ tags:
 
 
 
-	
-  * **Tabs On Top**: I think everybody knews this was the way to go when they saw in in Chrome, and the Safari team's take on it is crisp.
+* **Tabs On Top**: I think everybody knews this was the way to go when they saw in in Chrome, and the Safari team's take on it is crisp.
 
-	
-  * **Full Page Zoom**: A rare case of Safari getting a feature last (after Firefox, Opera, and IE).
+* **Full Page Zoom**: A rare case of Safari getting a feature last (after Firefox, Opera, and IE).
 
-	
-  * **Great developer tools**: These have been in the Webkit nightlies for quite some time, and have some things Firebug doesn't have (and vice versa).
+* **Great developer tools**: These have been in the Webkit nightlies for quite some time, and have some things Firebug doesn't have (and vice versa).
 
-	
-  * **Native Windows look**: Even as somebody who strongly prefers the OS X look and feel, it was disturbing to me to see the faux-Aqua skin on Safari for Windows.
+* **Native Windows look**: Even as somebody who strongly prefers the OS X look and feel, it was disturbing to me to see the faux-Aqua skin on Safari for Windows.
 
 
 Using Firefox 3.1 and Safari 4 betas side by side, I'm back to seeing a basis for the "Firefox isn't Mac-like enough" argument that some people are really fond of. Especially now that Safari is trying to fit into the Windows look and feel, the gap between the browsers in terms of "fitting in" might become an interesting topic again.

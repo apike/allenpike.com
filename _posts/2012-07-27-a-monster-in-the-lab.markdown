@@ -25,23 +25,17 @@ There are a ton of things the default iOS music player can't do well:
 
 
 
-	
-  * I want to hear this next.
+* I want to hear this next.
 
-	
-  * I want to hear a certain song, and then continue a certain playlist.
+* I want to hear a certain song, and then continue a certain playlist.
 
-	
-  * I want to look through what's coming up, and veto certain songs.
+* I want to look through what's coming up, and veto certain songs.
 
-	
-  * I want to skip or pause this song, but have it fade the transition.
+* I want to skip or pause this song, but have it fade the transition.
 
-	
-  * I want my songs to crossfade.
+* I want my songs to crossfade.
 
-	
-  * I want to queue up a few songs, and then let it ride.
+* I want to queue up a few songs, and then let it ride.
 
 
 So what we want is a simple queuing music player that crossfades and is very quick to operate. It would shine brightest at a party, where curation and avoiding a sudden stop is most important. As a matter of fact, it could serve as a drop-in replacement for WeddingDJ for some weddings. Another awesome use case is road trips, with the passenger curating the tunes.

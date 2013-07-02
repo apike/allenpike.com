@@ -24,45 +24,35 @@ Why did Wesabe beat out [Mint.com](http://www.mint.com/)? Well, it supported Can
 
 
 
-	
-  * Imports from a lot of banks, some automatically
+* Imports from a lot of banks, some automatically
 
-	
-  * Has a reasonable dashboard with your total sum across accounts
+* Has a reasonable dashboard with your total sum across accounts
 
-	
-  * Allows you to graph spending on categories that you define
+* Allows you to graph spending on categories that you define
 
-	
-  * It realizes that if JJ Bean was coffee last week it's probably coffee this week
+* It realizes that if JJ Bean was coffee last week it's probably coffee this week
 
 
 **The Bad**
 
 
 
-	
-  * Doesn't show you positive feedback for saving over time
+* Doesn't show you positive feedback for saving over time
 
-	
-  * Noisy UI has some weird decisions and distractions ((Maybe I'll do an unsolicited redesign proposal to practice my design chops.))
+* Noisy UI has some weird decisions and distractions ((Maybe I'll do an unsolicited redesign proposal to practice my design chops.))
 
-	
-  * Deals poorly with banks that have two levels of password
+* Deals poorly with banks that have two levels of password
 
-	
-  * Too much focus on the social aspects, instead of "show me the money"
+* Too much focus on the social aspects, instead of "show me the money"
 
 
 **The Ugly**
 
 
 
-	
-  * The thought supporting all those banks in Budgetable
+* The thought supporting all those banks in Budgetable
 
-	
-  * Alignment issues on the left sidebar - if you're a print designer, do NOT go in there
+* Alignment issues on the left sidebar - if you're a print designer, do NOT go in there
 
 
 **The Bottom Line**

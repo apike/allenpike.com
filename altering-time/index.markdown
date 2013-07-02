@@ -30,12 +30,9 @@ See the gallery below for some shots of old Altering Time revisions, with commen
 
 
 
-	
-  * Read more about [Political Asylum](http://www.antipode.ca/political-asylum/) or [Engineering Faith](http://www.antipode.ca/engineering-faith/).
+* Read more about [Political Asylum](http://www.antipode.ca/political-asylum/) or [Engineering Faith](http://www.antipode.ca/engineering-faith/).
 
-	
-  * See the Halls of Fame for the [WTF Sites](/wtf-sites/), [Visitors' Quotes](/visitors-quotes/), or [Temporal Karma](/altering-time-karma/).
+* See the Halls of Fame for the [WTF Sites](/wtf-sites/), [Visitors' Quotes](/visitors-quotes/), or [Temporal Karma](/altering-time-karma/).
 
-	
-  * Visit [Just Ask Oldguy](http://www.justaskoldguy.com/).
+* Visit [Just Ask Oldguy](http://www.justaskoldguy.com/).
 

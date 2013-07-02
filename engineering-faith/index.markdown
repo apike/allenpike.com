@@ -26,23 +26,17 @@ Designing Faith by engaging the Altering Time community that had formed around A
 
 
 
-	
-  * Holy Havoc
+* Holy Havoc
 
-	
-  * Virtuous Reality
+* Virtuous Reality
 
-	
-  * Karmic Chaos
+* Karmic Chaos
 
-	
-  * Altaring Time
+* Altaring Time
 
-	
-  * Sects and the City
+* Sects and the City
 
-	
-  * Pope John Paul's Extreme Religion 2004
+* Pope John Paul's Extreme Religion 2004
 
 
 

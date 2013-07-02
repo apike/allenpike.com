@@ -29,14 +29,11 @@ Listen up, Sony. Here are a few ways to mitigate the danger of players interrupt
 
 
 
-	
-  * Atomic saving, so it's not a problem
+* Atomic saving, so it's not a problem
 
-	
-  * Making the PS3's soft power-off wait for the save to complete, so it can't happen
+* Making the PS3's soft power-off wait for the save to complete, so it can't happen
 
-	
-  * Trying to handle save files that may be partially written or corrupted, so it's rarely a problem
+* Trying to handle save files that may be partially written or corrupted, so it's rarely a problem
 
 
 Adding a player prompt to every damn game, every time you play it? Is that really the best you could come up with? Do any users actually check the HDD indicator when they shut the system down? I know I use the PS3 menu to do it anyway, so I wouldn't notice if the thing was flashing.

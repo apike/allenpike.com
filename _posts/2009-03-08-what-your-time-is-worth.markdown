@@ -20,29 +20,21 @@ It turns out that when you work out all the differences between working a stable
 
 
 
-	
-  * An office
+* An office
 
-	
-  * Stock options
+* Stock options
 
-	
-  * Marketing materials
+* Marketing materials
 
-	
-  * Hardware or software
+* Hardware or software
 
-	
-  * Medical or dental
+* Medical or dental
 
-	
-  * Vacations or sick days
+* Vacations or sick days
 
-	
-  * Eight hours of work per day
+* Eight hours of work per day
 
-	
-  * A reliable paycheque every other Friday
+* A reliable paycheque every other Friday
 
 
 The last point is the kicker. It may seem that if you make $40/hr at WibbleSoft, making $50/hr contracting would be a good deal. However, if you spend a week with no active contract, or one that doesn't pay up, you've blown the month right there. Eventually you'll get good, reliable contracting customers who fill your pipeline and regularly pay your invoices. For any new customer, however, you have the risk that they'll pay late, underpay, or not pay. Customers can also mess up your throughput by delaying projects, scaling them back, cancelling them, or sending you tiny tasks.

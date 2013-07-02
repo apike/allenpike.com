@@ -22,26 +22,19 @@ Firefox 3, on the other hand, has some great new features, such as:
 
 
 
-	
-  * [Native-looking widgets on Mac](http://boomswaggerboom.wordpress.com/2007/05/24/latest-mac-os-x-firefox-nightly-build-has-native-form-controls/)
+* [Native-looking widgets on Mac](http://boomswaggerboom.wordpress.com/2007/05/24/latest-mac-os-x-firefox-nightly-build-has-native-form-controls/)
 
-	
-  * [Smarter password management](http://www.antipode.ca/2007/the-dialog-is-dead-long-live-the-bar/)
+* [Smarter password management](http://www.antipode.ca/2007/the-dialog-is-dead-long-live-the-bar/)
 
-	
-  * Fixes for lots of little bugs ((Like the one that comes up when you click on a PDF link and click OK to open it in Preview. In Firefox 2 it will switch focus to the opened file in Preview, but Firefox will start bouncing in the dock to tell you that the file finished downloading. That was driving me mental.))
+* Fixes for lots of little bugs ((Like the one that comes up when you click on a PDF link and click OK to open it in Preview. In Firefox 2 it will switch focus to the opened file in Preview, but Firefox will start bouncing in the dock to tell you that the file finished downloading. That was driving me mental.))
 
-	
-  * Total overhaul of graphics engine ((One result is that scrolling the transparent footer on antipode.ca now takes half the CPU it did with Firefox 2.))
+* Total overhaul of graphics engine ((One result is that scrolling the transparent footer on antipode.ca now takes half the CPU it did with Firefox 2.))
 
-	
-  * Full page zoom
+* Full page zoom
 
-	
-  * Cool developer features like improvements to CSS3, Javascript 1.8, offline apps, and SVG support
+* Cool developer features like improvements to CSS3, Javascript 1.8, offline apps, and SVG support
 
-	
-  * [Memory usage improvements](http://www.squarefree.com/2007/09/20/firefox-memory-usage-and-memory-leak-news/).
+* [Memory usage improvements](http://www.squarefree.com/2007/09/20/firefox-memory-usage-and-memory-leak-news/).
 
 
 Unfortunately, Firefox 3 won't be out for months now. Fortunately, after a year of development, [their nightly builds](http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/) are now fairly stable. Of course, using nightly builds of an application you use for hours each day has its risks. They use the application name "Minefield" instead of Firefox to discourage newbs from finding it and thinking they've downloaded a polished piece of software.

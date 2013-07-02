@@ -18,20 +18,15 @@ tags:
 
 
 
-	
-  * Look great
+* Look great
 
-	
-  * Are licensed as Creative Commons Attribution Share-Alike
+* Are licensed as Creative Commons Attribution Share-Alike
 
-	
-  * Come part of a slick framework or as separate assets
+* Come part of a slick framework or as separate assets
 
-	
-  * Start with the letter A
+* Start with the letter A
 
-	
-  * Are blue
+* Are blue
 
 
 They're more similar than they are different, so which do you choose?

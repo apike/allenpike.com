@@ -35,20 +35,15 @@ Despite this attitude, most of the huge titles this generation have been shared-
 
 
 
-	
-  * Music games (Guitar Hero and Rock Band, but not the failed DJ Hero)
+* Music games (Guitar Hero and Rock Band, but not the failed DJ Hero)
 
-	
-  * Platformers (Super Mario Wii and LittleBigPlanet)
+* Platformers (Super Mario Wii and LittleBigPlanet)
 
-	
-  * Shooters (Halo and Modern Warfare 2)
+* Shooters (Halo and Modern Warfare 2)
 
-	
-  * Fighters (Street Fighter IV and Super Smash Bros.)
+* Fighters (Street Fighter IV and Super Smash Bros.)
 
-	
-  * Sports (Wii Sports, NHL, MLB)
+* Sports (Wii Sports, NHL, MLB)
 
 
 Do they actually think people are buying Rock Band so they can play online against randoms? Playing games with people who are _actually there_ is what's fun. Getting your ass kicked by Korean teenagers isn't fun. So this is my message to game publishers. Either make split screen a bigger priority than online in your games, or I'll personally force you to play MAG online without the ability to mute the kids on your team. To death.
