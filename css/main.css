@@ -20,6 +20,10 @@ body {
   font-family: ff-meta-web-pro, Helvetica, Arial, sans-serif;
 }
 
+.meta {
+  font-family: adelle, serif;
+}
+
 h1, h2, h3, h4, h5 {
   font-family: "adelle-n1", adelle, serif;
   font-weight: normal;
@@ -46,8 +50,9 @@ table {
 
 .container {
   max-width: 750px;
+  min-width: 600px;
   margin: 0px auto;
-  padding-bottom: 2em;
+  padding: 0 2em 2em 2em;
 }
 
 ul {
