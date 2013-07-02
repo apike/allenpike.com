@@ -1,0 +1,1 @@
+rsync -zvr _site/ timealterer@allenpike.com:allenpike.com/

@@ -1,0 +1,7 @@
+---
+layout: none
+permalink: .htaccess
+---
+RedirectMatch permanent /461/project/$             http://www.allenpike.com/modeling-plants-with-l-systems/
+RedirectMatch permanent /antipode$             http://www.allenpike.com/feed
+ErrorDocument 404 /404.html
