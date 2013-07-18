@@ -72,6 +72,7 @@ img {
 
 .post img.retinize {
   width: 150px;
+  margin-bottom: 10px;
 }
 
 .main-navigation, .footer {
@@ -80,8 +81,8 @@ img {
   margin: 2em 0px;
   font-family: "adelle-n1", adelle, serif;
   text-align: center;
-  border-left: 1px solid #a800ea;
-  border-right: 1px solid #a800ea;
+  border-left: 1px solid #8400b8;
+  border-right: 1px solid #8400b8;
 }
 
 .footer {
@@ -110,6 +111,11 @@ ul.posts {
 
 .posts a {
  width: 65%;
+}
+
+blockquote {
+  padding-left: 1em;
+  border-left: 1px solid #8400b8;
 }
 
 /*****************************************************************************/
