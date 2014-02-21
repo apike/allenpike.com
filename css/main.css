@@ -75,6 +75,10 @@ img {
   margin-bottom: 10px;
 }
 
+li.active {
+  font-weight: bold;
+}
+
 .main-navigation, .footer {
   list-style: none;
   margin-left: 0;

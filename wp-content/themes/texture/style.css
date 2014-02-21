@@ -1,0 +1,588 @@
+/*
+
+TODO:
+
+- Comments area needs love.
+- Need default avatar
+- Related Posts and Comments sections look like post content.
+
+Bruce's suggestions:
+
+Some suggestions:
+
+1. The elements need some hierarchy
+
+* The header could be promoted or demoted more (shadow up or down?)
+* The top menu doesn't feel delineated (not menuish enough?)
+* Post columns (meta:content) aren't delineated enough either (could be done with colour, lines, etc.)
+
+3. Metadata is 1:1 with content (brightness, size, etc.).  It's distracting from your content.
+
+* Date + comments are promoted to content status (same saturation + size as content)
+* Comments + related posts on post pages look too much like content boxes (what about a slightly different toned box?)
+
+4. Typeography could improve.
+
+* Bolded h2s? I think most headings look better in bold (especially with OS X's rendering).
+* Brightness on all the fonts is high (but I'm not sure dropping it would look good outside of Safari + brighter Mac screens)
+* Forms need work (background? sizes? 37signals has great forms)
+
+
+*/
+
+img {margin: 0;}
+
+div { margin: 0; padding: 0;}
+
+html, body {
+    color: white;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+html, body, input, textarea {
+    font-family: Verdana, Helvetica, Arial;
+}
+
+html {
+    background: #11253b url(images/texture.png);
+}
+
+#content-outside {
+    padding-bottom: 90px;
+}
+
+#page {
+    position: relative;
+    min-height: 100%;
+}
+
+a:link, a:visited {
+    color: #f6d16a;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #f6e0a3;
+    text-decoration: underline;
+}
+
+blockquote {
+    border-left: 1px solid rgba(150,150,255,0.2);
+    font-family: Georgia, sans-serif;
+    margin: 0 1em;
+    padding: 0 1em;
+}
+
+h1 {
+    margin: 0;
+}
+
+h1, h2 {
+    font-family: Optima, Verdana;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+#content > h2 {
+    margin-left: 43px;
+    position: relative;
+    top: 15px;
+} /* headings loose in the outer area */
+
+sup {
+    line-height: 0;
+    padding: 2px;
+}
+
+pre {
+    background-color: black;
+    overflow-x: auto;
+    padding: 10px;
+    -webkit-text-size-adjust: none;
+    font-weight: bold;
+    border: 1px solid #202020;
+}
+
+/* Header */
+
+#header-outside, #footer-outside {
+    background: url(images/texture-toolbar.png) repeat-x;
+    height: 57px;
+}
+
+#header, #footer {
+    margin: 0px auto;
+    width: 800px;
+    font-family: Optima, Verdana;
+}
+
+#header ul, #footer ul {
+    list-style-type: none;
+    float: right;
+    margin-right: 41px;
+    
+}
+
+#header li, #footer li {
+    display: inline;
+}
+
+#footer p {
+    float: left;
+    width: 150px;
+    margin-left: 43px;
+}
+
+#logo {
+    background: url(images/texture-logo.png) no-repeat;
+    float: left;
+    height: 54px;
+    width: 215px;
+}
+
+#logo h1 {
+    visibility: hidden;
+}
+
+/* Content */
+
+
+
+#content {
+    width: 800px;
+    margin: 0px auto;
+    line-height: 1.6em;
+    font-size: 14px;
+}
+
+.post {
+    position: relative;
+    padding: 40px 40px 40px 240px;
+    background-image: url(images/shadow-tile.png);
+    border-bottom: 1px solid #112A45;
+    margin-top: 40px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+}
+
+.post img {
+    float: left;
+    margin-left: -200px;
+}
+
+.post .gallery img, .post .attachment img {
+    float: none;
+    margin-left: 0px;
+}
+
+.post.page h2, .post.page h1 {
+    width: 150px;
+    float: left;
+    margin: 0 0 0 -200px;
+    text-align: right;
+}
+
+.postfeedback {
+    text-align: right;
+    width: 150px;
+    position: absolute;
+    bottom: 31px;
+    margin-left: -200px;
+    line-height: 1.3em;
+}
+
+.date-box {
+    width: 150px;
+    position: absolute;
+    top: 40px;
+    margin-left: -200px;
+    text-align: right;
+}
+
+.post.archive .date-box {
+    position: relative;
+    top: 22px;
+}
+
+
+.postfeedback, .date-box {
+    font-size: 13px;
+}
+
+.date-major {font-weight: bold;}
+
+p { }
+
+.postentry :last-child {
+    margin-bottom: 0;
+}
+
+#pagination, #more {
+    margin: 20px 40px 0px 40px;
+}
+
+/* Footer */
+
+#footer-outside {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+#footer {
+    margin-top: 5px;
+    font-size: 15px;
+}
+
+#footer ul {
+    margin-bottom: 0;
+}
+
+/* Content-specific */
+
+.date {float: right;}
+
+.related_post {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+}
+
+.arch > ul {
+    list-style-type: none;
+    margin: 0 0 1.5em 0;
+    padding: 0;
+}
+
+.bookmarks ul {
+    list-style-type: none;
+    margin: 0 0 1.5em 0;
+    padding: 0;
+}
+
+#search {
+    float: right;
+}
+
+#search p {
+    margin: 0;
+}
+
+.contact textarea {
+    width: 100%;
+}
+
+.contact #send {
+    float: right;
+}
+
+.contact #yourinfo {
+    text-align: right;
+    width: 150px;
+    margin-left: -200px;
+    float: left;
+}
+
+.contact #yourinfo p {
+    margin-top: 0;
+}
+
+.contact #yourinfo input {
+    margin-bottom: 2em;
+}
+
+.footnotes {
+    font-size: 13px;
+    opacity: 0.95;
+}
+
+/* Comments */
+
+#commentlist {
+    margin-left: 0px;
+    margin-top: 30px;
+    padding-left: 0;
+    list-style-type: none;
+}
+
+#commentlist li {
+    min-height: 6em;
+    border-bottom: 1px dotted #cfbc89;
+    padding: 5px 0px;
+}
+
+#comment {
+    width: 100%;
+    height: 152px;
+}
+
+.comment-date {
+    font-size: 0.8em;
+}
+
+.post .avatar {
+    margin: 5px 5px 0px 0px;
+}
+
+.comment-meta {
+    width: 150px;
+    max-height: 5em;
+    overflow: hidden;
+    margin: 14px 0 0 -200px;
+    text-align: right;
+    float: left;
+}
+
+.comment-meta.final {
+    margin-top: 206px;
+}
+
+.editlink {
+    float: right;
+    margin: 0 -115px 0 0;
+}
+
+#submit {
+    float: right;
+}
+
+#header, #footer {font-size: 1.1em;}
+
+#header a:link, #header a:visited,
+#footer a:link, #footer a:visited {
+    color: #FFF;
+}
+
+#header ul a:link, #header ul a:visited,
+#footer ul a:link, #footer ul a:visited {
+    margin-left: 16px;
+}
+
+#header ul a:hover, #header ul a:hover,
+#footer ul a:active, #footer ul a:active {
+    color: #f6e0a3;
+}
+
+/*
+html, body {color: white; font-family: Helvetica, Arial; margin: 0; padding: 0; position: relative; z-index: 5;}
+div {margin: 0; padding: 0;}
+
+a:link {color: #ffc94a;}
+a:visited {color: #ffd676;}
+a:hover {color: #fff0cc;}
+
+#content a:link {color: #003373;}
+#content a:visited {color: #1d4373;}
+#content a:hover {color: #ffc94a;}
+
+#warning { background-color: #F2F2F2; color: #666666; padding: 8px;}
+
+#outside {
+    position: absolute;
+    z-index: 1;
+    margin-left: auto; 
+    width: 650px; 
+    min-height: 100%;
+    margin-left: 201px;
+    margin-bottom: 0;
+}
+
+#inside {
+    position: relative;
+    min-height: 100%;
+    margin-bottom: 25px;
+    z-index: 0;
+    color: #000;
+}
+#content {
+    background-color: #FCFCFC;
+    padding: 33px 50px 50px 50px;
+    margin-top: 53px;
+    
+    line-height: 1.6em;
+    font-size: 14px;
+    
+    border: 1px solid #EEE;
+
+    -moz-border-radius-topright: 15px;
+    -moz-border-radius-bottomright: 15px;
+    -moz-border-radius-bottomleft: 15px;
+    -webkit-border-top-right-radius: 15px;
+    -webkit-border-bottom-right-radius: 15px;
+    -webkit-border-bottom-left-radius: 15px;
+
+}
+
+
+
+#logo {
+    display: block;
+    height: 25px;
+    position: relative;
+    right: -6px;
+    top: -4px;
+}
+
+#logo h1 {
+    visibility: hidden;
+}
+
+#header, #footer {
+    opacity: 0.9;
+    margin-left: 80px;
+}
+
+#header {
+    z-index: 2;
+    position: absolute;
+    top: -7px;
+}
+
+#footer {
+    font-size: 0.95em;
+}
+
+#sidebar-content {
+    padding-left: 25px;
+    padding-right: 25px;
+    position: relative;
+    width: 140px;
+    margin-left: 1px;
+    line-height: 1.2em;
+}
+
+#sidebar-content ul {
+    padding: 0px;
+    list-style-type: none;
+    margin-left: 0px;
+    
+    padding-top: 0;
+    margin-top: 2px;
+    margin-bottom: 15px;
+}
+
+#sidebar-content h2 {
+    font-size: 1.25em;
+}
+
+#wrap-left {
+    padding-left: 25px;
+    margin-top: -16px;
+}
+
+#sidebar-foot {
+    background-position: 0px -294px;
+    background-repeat: repeat-x;
+    width: 140px;
+    padding-right: 25px;
+    height: 50px;
+    padding-top: 2px;
+    font-size: 0.75em;
+}
+
+#sidebar {
+    background-image: url(images/sidebar2009.png);
+    background-position: 2px -7px;
+    background-repeat: no-repeat;
+    border-right: 1px solid #EEE;
+    text-align: right;
+    margin-left: 10px;
+    position: fixed;
+    padding-bottom: 20px;
+}
+
+li.division {margin-bottom: 10px;}
+
+#sidebar-head hr {
+    border-top: 1px solid #CCC;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    opacity: 0.5;
+}
+
+#slogan {
+    float: right;
+    margin-top: -1.5em;
+}
+
+#page {
+    margin-left: auto; 
+    margin-right: auto;
+    width: 915px;
+}
+
+div.postentry p img {
+    border: 1px solid #CCCCCC; 
+    margin: -19px 0px 8px 14px;
+    float: right;
+}
+        
+.postmeta {font-size: 0.85em; color: #222;}
+
+
+h2 {font-size: 1.2em; padding-top: 4px;}
+h2.posttitle a:link, h2.posttitle a:visited  {text-decoration: none;}
+h2.posttitle a:hover {text-decoration: underline;}
+
+blockquote {border-left: 2px dotted #CCCCCC; margin-left: 0.8em; padding-left: 0.8em;}
+
+a img {border: 0;}
+
+#s {width: 120px;}
+
+#commentform textarea {width: 100%;}
+
+.date {
+    float: right;
+    color: #777;
+    font-weight: bold;
+    }
+    
+img:not([alt]) {border: 1px solid red;}
+
+.footnotes {font-size: 0.9em; color: #333;}
+
+.comment-meta, .postfeedback {font-size: 0.8em; color: #333;}
+
+#commentlist li {border-bottom: 1px dotted #ffc94a;}
+
+.postfeedback {text-align: right;}
+
+.date-box {
+    float: right;
+    width: 150px;
+    background-color: #ece3c5;
+    border: 1px solid #CCC;
+    margin: 0;
+    text-align: center;
+    line-height: 0.9em;
+    padding: 4px 0px;
+    -moz-border-radius-topleft: 5px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+    -webkit-border-top-left-radius: 5px;
+}
+.date-box p {margin: 0;}
+.date-minor {font-size: 0.8em; font-color: #333;}
+.date-major {font-size: 1.1em; font-weight: bold;}
+
+.post-division {
+    border-top: 1px dotted #ffc94a;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+#more { font-size: 0.8em };
+    
+}
+
+*/

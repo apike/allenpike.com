@@ -41,8 +41,11 @@
           <div class="site">
             <div class="header">
               <ul class="main-navigation">
-                <li><a href="{{ root_url }}/">Allen Pike</a></li>
-                <li><a href="{{ root_url }}/me/">About</a></li>
+                <li {% if page.isMe %} class="active" {% endif %}>    <a href="{{ root_url }}/me/">Allen Pike</a>
+                </li>
+                <li {% if page.isHome %} class="active" {% endif %}>
+                  <a href="{{ root_url }}/">Articles</a>
+                </li>
                 <li><a href="http://www.twitter.com/apike/">@apike</a></li>
                 <li><a href="http://www.steamclock.com/">Steamclock</a></li>
               </ul>

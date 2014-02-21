@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress 2.3 Related Posts Plugin v0.31\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-09-28 21:26+0200\n"
+"Last-Translator: Iliyan Darganov <iliyan@darganov.com>\n"
+"Language-Team: Iliyan Darganov <iliyan@darganov.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Bulgarian\n"
+"X-Poedit-Country: BULGARIA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp23_related_posts.php:85
+#: wp23_related_posts.php:110
+msgid "Related Post"
+msgstr "Подобни публикации"
+
+#: wp23_related_posts.php:97
+msgid "No Related Post"
+msgstr "Няма подобни публикации"
+
+#: wp23_related_posts.php:126
+msgid "WP23 Related Posts"
+msgstr "WP23 Related Posts"
+
+#: wp23_related_posts.php:140
+msgid "Related Posts Options&hellip;"
+msgstr "Настройки на Related Posts&hellip;"
+
+#: wp23_related_posts.php:141
+msgid "WordPress 2.3 Related Posts Plugin will generate a related posts via WordPress 2.3 tags, and add the related posts to feed."
+msgstr "WordPress 2.3 Related Posts плъгин ще генерира подобни публикации чрез етикетите на WordPress 2.3 и ще ги покаже."
+
+#: wp23_related_posts.php:145
+msgid "Related Posts Preference"
+msgstr "Предпочитания"
+
+#: wp23_related_posts.php:148
+msgid "Related Posts Title:"
+msgstr "Заглавие, ако има подобни публикации:"
+
+#: wp23_related_posts.php:154
+msgid "No Related Posts Text:"
+msgstr "Текст, ако няма подобни публикации:"
+
+#: wp23_related_posts.php:160
+msgid "Limit:"
+msgstr "Ограничение:"
+
+#: wp23_related_posts.php:166
+msgid "Exclude(category IDs):"
+msgstr "Изключване (ID на категорията):"
+
+#: wp23_related_posts.php:182
+msgid "Related Posts for RSS"
+msgstr "Показване на подобни публикации и в RSS"
+

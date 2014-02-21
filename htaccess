@@ -8,5 +8,6 @@ RedirectMatch permanent /461/$             http://www.allenpike.com/modeling-pla
 RedirectMatch permanent /antipode$             http://www.allenpike.com/feed
 RedirectMatch permanent /archives/$             http://www.allenpike.com/archive/
 
+RedirectMatch permanent /twitterrific-wtf/ http://www.youtube.com/watch?v=54b3wEKBHVQ
 
 ErrorDocument 404 /404.html

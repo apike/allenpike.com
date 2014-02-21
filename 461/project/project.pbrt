@@ -1,0 +1,21 @@
+#LookAt 0 120 40  0 0 40  0 0 1
+#LookAt 0 0 120 0 0 0 0 0 1 # Good for simple 2D systems
+LookAt 70 70 70 0 0 0 0 0 1 # Good for 3D models - manipulating the first coordinates zooms the camera
+Camera "perspective" "float fov" [40]
+
+Film "image" "integer xresolution" [1500] "integer yresolution" [1500]
+	"string filename" ["lsystem.exr"]
+
+Sampler "lowdiscrepancy" "integer pixelsamples" [32]
+
+WorldBegin
+	LightSource "distant" "point from" [0.3 1 0.3] "point to" [0 0 0]
+
+	Include "lsystem.pbrt"
+	
+	#Translate 5.0 0.0 20.0
+	
+	#Include "lsystem2.pbrt"
+
+WorldEnd
+

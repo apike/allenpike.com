@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="chrome=1">
+        <script type="text/javascript" src="http://platform.linkedin.com/in.js">
+          api_key: q-vIL98UYA1iL0RRmD6aIa25dsxoWQnq0fdasRTBpDmOQmgBvOlsgAh7LYTu6JML
+          authorize: true
+        </script>
+        
+        <script type="text/javascript">
+
+            onLinkedInAuth = function() {
+                alert("LinkedIn authorized.");
+            }
+
+        </script>
+    </head>
+    <body>
+        <h1>Linkedin Chrome Frame Test</h1>
+        
+        <script type="in/login" data-onAuth="onLinkedInAuth"></script>
+        
+        <a href='#' onclick='IN.User.logout(alert("logged out"))'>Logout</a>
+
+        <p>A "sign in" button should show above if you are not logged in. It pops up a sign in form, except in Chrome Frame.</p>
+    </body>
+</html>
