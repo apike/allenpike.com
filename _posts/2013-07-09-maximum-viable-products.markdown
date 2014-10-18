@@ -5,6 +5,7 @@ date: 2013-07-09 10:11:16
 layout: post
 slug: maximum-viable-products
 title: "Maximum Viable Products"
+featured: true
 categories:
 - Article
 tags:

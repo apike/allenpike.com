@@ -6,6 +6,7 @@ layout: post
 slug: wanna-buy-an-isp
 title: Worst ISP acquisition ever
 wordpress_id: 84
+featured: true
 categories:
 - Article
 - Best Of

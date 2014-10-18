@@ -6,6 +6,7 @@ layout: post
 slug: leaving-apple
 title: Leaving Apple
 wordpress_id: 1697
+featured: true
 categories:
 - Article
 - Best Of

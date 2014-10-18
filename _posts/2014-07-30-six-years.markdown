@@ -1,0 +1,50 @@
+---
+author: allen
+comments: true
+date: 2014-07-30 23:00:00
+layout: post
+slug: "six-years"
+title: "A lot can change in 6 years"
+categories:
+- Article
+tags:
+- iOS
+---
+
+<img src='/images/2014/old-yahoo.jpg' style='width:250px'>
+
+The year was 1995. With little warning, the web burst into the homes of millions, starting a whole new era in the software industry. Developers flocked from inside and outside the tech industry to build web apps for many good reasons:
+
+- Gold rush opportunities
+- A way to reach new classes of customer
+- Rapid growth
+- Irrational exuberance about business models
+
+Six years later, these reasons were gone. By 2001, the gold rush was over, and the exuberance died. Some developers stuck it out, believing in the long term potential of the web. Other developers moved on to other platforms, or left the industry entirely. Those who remained struggled with free competitors and discoverability issues. Beloved products died, and we mourned. The businesses that survived focused on serving customers efficiently and sustainably.
+
+<img src='/images/2014/old-appstore.jpg' style='width:250px'>
+
+The year was 2008. With little warning, the App Store burst into the pockets of millions, starting a whole new era in the software industry. Developers flocked from inside and outside the tech industry to build iOS applications for many good reasons:
+
+- Gold rush opportunities
+- A way to reach new classes of customer
+- Rapid growth
+- Irrational exuberance about business models
+
+Six years later, these reasons were gone. By 2014, the gold rush was over, and the exuberance died. Some developers stuck it out, believing in the long term potential of iOS. Other developers moved on to other platforms, or left the industry entirely. Those who remained struggled with free competitors and discoverability issues. Beloved products died, and we mourned. The businesses that survived focused on serving customers efficiently and sustainably.
+
+## The ebb and flow
+
+Over the last week, many indie iOS developers have been sharing [the](http://www.marco.org/2014/07/28/app-rot) [stories](http://blog.jaredsinclair.com/post/93118460565/a-candid-look-at-unreads-first-year) [of](http://pablin.org/2013/06/06/the-ios-appstore-in-2013/) [their](http://michael.burford.net/2014/07/where-are-indie-ios-developers-you-ask.html) [struggles](http://txt.jazzychad.net/gist/19a05ad4e7ef77072b44) trying to make a living on the App Store. It's always been hard, but the common wisdom over the last year has seemed to settle into a common refrain. Paid up front apps, for normal consumer use, [are dead](http://www.marco.org/2013/10/02/yep-paid-apps-are-dead). Making a living on the App Store is harder than you think.
+
+In many ways, the iOS app market is where the web was in 2001. The easy wins have been won, and a lot of developers have hangovers. Still, successful products will continue to surprise and delight us from those who stick with it.
+
+Our first three products at Steamclock were paid iOS apps. The two products we have in the lab are not. One is a web app, and one a Mac app, both on subscription models. We'll be building software for iOS for a long time, but it's time to experiment as well.
+
+In yesterdays's episode of [Developing Perspective](http://developingperspective.com/2014/07/30/192/), David Smith points out that now that the App Store is mature, it behaves just like any other market in the business world:
+
+> We're now just left with fundamental business competition. You need more than a gut idea to have a successful product, the market doesn't really care about the process it took to create what you created, it just cares about the end result, as supply goes up prices come down, diversification of your product line is essential for stability, and the reality that most businesses fail.
+
+It's hard, and it sucks. Faced with this, the [Volatiles](http://randsinrepose.com/archives/stables-and-volatiles/) will instead choose the next exciting challenge that may be the path to success. The Stables will choose to double down, learn, persevere, and take the hard path of [sticking with what they love](http://inessential.com/2014/07/30/why_i_love_indies_and_you_do_too).
+
+And you know what? We're damn lucky to have that choice.

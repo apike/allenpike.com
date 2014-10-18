@@ -6,6 +6,7 @@ layout: post
 slug: cancelling-yes-or-no
 title: Cancelling "Yes or No"
 wordpress_id: 305
+featured: true
 categories:
 - Article
 - Best Of

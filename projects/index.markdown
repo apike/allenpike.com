@@ -14,28 +14,34 @@ For a summary of what I do, see [my resume](http://www.allenpike.com/resume/). W
 
 Since we started Steamclock, I've usually worked on a new type of project every couple months. We love working on our own apps, but client work can be fun too.
 
-
 * **[Party Monster](http://www.steamclock.com/partymonster/)**: A queueing DJ app for parties and road trips. We made a [funky video](http://www.allenpike.com/2012/making-a-funky-app-video/) for it as well.
 
-* **[Prism](http://www.steamclocksw.com/prism/)**: A photo browser for iPad that excels at showing photos of kittens.
-
 * **[WeddingDJ](http://www.steamclocksoftware.com/weddingdj/)**: The best darn iPhone app for running music at weddings.
-
 
 * **[Consulting work](http://www.steamclocksw.com/consulting/)**: Some of my more interesting client projects at Steamclock have been:
 
 	* an interactive 3D map of the internet
+	* a web app for doing developer support on Stack Overflow
 	* an iPhone app for finding fresh food
+	* a realtime video chat app
 	* helping a startup hire a CTO
+	* multiple photo sharing apps
 	* an app store for a Fortune 500 company
 	* a JavaScript app for the Fortune 500 itself
+	* an interactive retail app
+	* a system for running valet businesses
+	* an Android app for tracking commercial fishing
 	* an iPhone app for ordering bespoke suits.
 
 * **[VanJS](http://www.meetup.com/vancouver-javascript-developers/)**: I created the Vancouver Javascript Developers group, and it's turned out pretty well.
 
+* **[VanCocoa](http://www.vancocoa.com/)**: Based on the success of VanJS, we started an iOS and Mac developers' meetup as well.
 
-* **Unladen Follow**: I created a tool to unfollow the most annoying people on Twitter. It was broken by Twitter's 1.1 API changes, but I'd love to bring it back one day.
+* **[Prism](http://www.steamclocksw.com/prism/)**: A photo browser for iPad that excels at showing photos of kittens.
 
+* **[Up Up Down Down](http://upup.fm/)**: A podcast about the craft of video games.
+
+* **Unladen Follow**: I created a tool to unfollow the most annoying people on Twitter. It was semi-broken by Twitter's 1.1 API changes, but I'd love to bring it back one day.
 
 * **Prototypes**: Lots of interesting prototypes haven't made it out of the Steamclock labs - for example an antisocial Facebook app, a Git client for Mac, and a turn-based strategy game.
 
@@ -46,15 +52,17 @@ Since we started Steamclock, I've usually worked on a new type of project every 
 
 I love presenting and teaching, especially when I don't need to grade any papers.
 
-* **Talks** It's like teaching, but less work and more fun! Some of my topics:
-  * Our [Map of the Internet](http://www.steamclock.com/blog/2013/03/mapping-the-internet/) at SecondConf
+* **Talks and Podcasts** It's like teaching, but less work and more fun! Some of my talks:
+  * [Using JavaScript in Native Apps](https://www.youtube.com/watch?v=5LUkHss6CAw) at JSConf EU 2013
+  * [Mapping the Internet](http://www.steamclock.com/blog/2013/03/mapping-the-internet/) at SecondConf 2013
+  * A lightning talk on [Maximum Viable Products](http://www.allenpike.com/2013/maximum-viable-products/) at Úll 2014
   * "A Friendly Chat about Web vs. Native" at PolyglotConf
   * A couple versions of my high-performance UI talk
-  * [Crafting a Technical Meetup](http://www.allenpike.com/2011/video-making-a-js-meetup-blow-minds/) at JSConf
+  * [Crafting a Technical Meetup](http://www.allenpike.com/2011/video-making-a-js-meetup-blow-minds/) at JSConf US 2011
   * [Tackling JavaScript](http://wordpress.tv/2011/10/08/allen-pike-tackling-javascript/) and other "let's learn JavaScript" talks
   * Some talks on "Thick Client JavaScript," challenging how much JavaScript you can reasonably have on the client
 
-* **Podcasting**: I've been the guest on some podcasts, which is always a lot of fun. A couple examples are [Springboard](http://springboardshow.com/episodes/12) and [Lining Things Up](http://liningthingsup.com/#06-Allen-Pike).
+* **Podcasting**: I've been the guest on a number of podcasts, which is always a lot of fun. A couple examples are [Springboard](http://springboardshow.com/episodes/12), [Lining Things Up](http://liningthingsup.com/#06-Allen-Pike), and [Unprofessional](http://unprofesh.com/blog/2013/8/8/52-the-taco-bell-unprofessional-allen-pike).
 
 * **CMPT 470**: I've twice taught the 4th-year Web Technologies course for SFU's Computing Science department. In doing so, I learned that I love teaching and hate grading.
 

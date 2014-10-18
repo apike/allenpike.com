@@ -16,15 +16,11 @@ Allen is a designer and developer who runs Steamclock Software in Vancouver.
 
 #### [Steamclock Software](http://www.steamclocksoftware.com/), Co-founder, 2010 - present
 
-* Ships top-notch iOS and web apps
+* Shipped dozens of top-notch iOS, Android, and web apps
 * Manages employees, customers, and clients
-* Designs apps like [Party Monster](http://www.steamclock.com/partymonster/) and [Prism](http://www.steamclocksw.com/prism/)
-* Does project management, product management, and consulting
+* Does project management, product management, sales, and consulting
 * Writes and trains Objective-C and JavaScript
-
-#### [SFU CS](http://www.cs.sfu.ca/), Sessional Instructor, 2012 - present
-
-* Teaches CMPT 470, the fourth-year Web Technology course
+* Speaks at conferences like JSConf and Çingleton
 
 #### [Apple](http://www.apple.com/), Software Engineer, 2008 - 2010
 
@@ -34,9 +30,9 @@ Allen is a designer and developer who runs Steamclock Software in Vancouver.
 
 #### [Discovery Software](http://www.discoverysoftware.com/), Software Developer, 2003 - 2008
 
-* Wrote and managed a CRM system using PHP and MySQL
+* Wrote and managed a CRM system using PHP and SQL
 * Developed a web-based game primarily in JavaScript
-* Handled a series of web development contracts
+* Handled a series of consulting projects
 
 #### [Self Employed](http://steamclocksw.com), Web Contractor, 2003
 
@@ -46,10 +42,10 @@ Allen is a designer and developer who runs Steamclock Software in Vancouver.
 
 #### [Independent Work](http://www.antipode.ca/me/), Community member
 
-* Runs VanJS, one of the largest JavaScript meetups in the world
-* Speaks at conferences, such as JSConf and SecondConf
-* Developed a number of ill-fated games
-* Built Unladen Follow in Ruby and JavaScript
+* Taught two semesters of CMPT 470 for SFU Computing Science
+* Runs two Vancouver speaker series, VanJS and VanCocoa
+* Hosts a game design and development podcast, Up Up Down Down
+* Developed a number of ill-fated games and side projects
 
 ## Education
 

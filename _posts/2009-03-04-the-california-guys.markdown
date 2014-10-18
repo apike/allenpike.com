@@ -6,6 +6,7 @@ layout: post
 slug: the-california-guys
 title: The California Guys
 wordpress_id: 103
+featured: true
 categories:
 - Article
 - Best Of

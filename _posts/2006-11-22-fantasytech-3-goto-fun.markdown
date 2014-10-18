@@ -6,6 +6,7 @@ layout: post
 slug: fantasytech-3-goto-fun
 title: 'FantasyTech 3: GOTO FUN'
 wordpress_id: 107
+featured: true
 categories:
 - Article
 - Best Of

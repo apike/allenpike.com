@@ -6,6 +6,7 @@ layout: post
 slug: providing-joy-at-60-fps
 title: Providing joy at 60 fps
 wordpress_id: 1972
+featured: true
 categories:
 - Article
 - Best Of
