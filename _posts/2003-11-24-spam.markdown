@@ -13,7 +13,7 @@ tags:
 - Spam
 ---
 
-![](/resources/old/spam.jpg)
+![](/images/old/spam.jpg)
 
 The American Congress is on the verge of putting their first ever anti-spam regulations into law. While banning certain shady practices spammers commonly use, it legalizes spam sent in many circumstances, causing joy for [politicians](/fun/asylum/) seen to be doing something, joy for spammers who can now spam legally, and annoyance for everyone else.
 

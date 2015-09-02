@@ -13,7 +13,7 @@ tags:
 - Mozilla
 ---
 
-![A cheap early logo of the game.](/resources/old/netscape.jpg)
+![A cheap early logo of the game.](/images/old/netscape.jpg)
 SAN FRANSISCO CA, USA - Uncertainty that AOL's [Netscape](http://www.netscape.com/) browser is dead ended yesterday, with the layoff of 50 Netscape employees, the official delegation of Mozilla development to a non-profit organization, and the removal of Netscape logos from corporate buildings. Few analysts are surprised, although some are disappointed.
 
 

@@ -178,15 +178,21 @@ blockquote {
 
 @media (max-width: 1079px) {
 
+  #fusionads {
+    width: 500px;
+    float:right;
+  }
+
   #fusionparent {
-    margin: 10px 0 20px;
-    background-color: #f4f4f4;
+    margin: 30px 0 20px;
+    background-color: #f6f6f6;
     height: 100px;
     font-size: 14px;
+    text-align: right;
   }
   .fusion-text {
-    margin-top: -80px;
-    margin-left: 150px;
+    margin-left: 20px;
+    margin-top: 18px;
   }
 
   .fusion-text:hover {
@@ -196,6 +202,8 @@ blockquote {
   .fusion-img {
     height: 90px;
     margin-bottom: 10px;
+    float: right;
+    padding-left: 20px;
   }
   #fusionads .fusion-poweredby {
     display: block;
@@ -226,3 +234,33 @@ blockquote {
   }
 }
 
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#nextnav {
+  font-size: 0.8em;
+  clear: both;
+  padding-top: 1em;
+  margin-bottom: -1em;
+}
+
+#prev {
+  float: right;
+}
+
+.warning {
+  padding-left: 1em;
+  border-left: 2px solid #ff8315;
+}

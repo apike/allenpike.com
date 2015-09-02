@@ -13,7 +13,7 @@ tags:
 - Apple
 ---
 
-![Apple Logo](/resources/old/new_apple_logo.gif)
+![Apple Logo](/images/old/new_apple_logo.gif)
 
 CUPERTINO, USA - Apple Computer has made a flurry of announcements and releases in the last two months that have pleased existing fans and earned it new ones. Recent months have seen new PowerBooks, new iMacs, the PowerMac G5, new iPods with new accessories, a new Music Store for Mac and Windows, and the cherry on top, the new version of its operating system coming out in less than a week.
 

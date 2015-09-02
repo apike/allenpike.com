@@ -13,7 +13,7 @@ categories:
 
 
 
-![A cheap early logo of the game.](/resources/old/netpassport.gif) 
+![A cheap early logo of the game.](/images/old/netpassport.gif) 
   REDMOND, WA, USA - Microsoft's .NET Passport login system that they 
   use for Hotmail and other services has been hit by yet another security 
   scandal, one that could cost them $2.2 trillion dollars. A very easy 

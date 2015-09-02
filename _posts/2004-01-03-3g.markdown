@@ -12,7 +12,7 @@ tags:
 - Cell Phones
 ---
 
-![3g cell phone](/resources/old/3g.jpg)
+![3g cell phone](/images/old/3g.jpg)
 
 
 A consumer study in the UK has come to the shocking conclusion that young people aren't

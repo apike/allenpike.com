@@ -4,6 +4,21 @@ layout: default
 <h1><a href='.'>{{ page.title }}</a></h1>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
+{% if page.categories.last == "sarcastic news" %}
+	<p class='warning'>This an old, sarcastic news post from when I was in college. I apologise.</p>
+{% elsif page.categories.first == "faith" %}
+	<p class='warning'>This an old status update on my web-based game <a href='/engineering-faith/'>Engineering Faith</a>.</p>
+{% endif %}
+
 <div class="post">
 {{ content }}
+</div>
+
+<div id="nextnav">
+	{% if page.next %}
+		<span id="next">← <a href="{{ page.next.url }}">{{page.next.title }}</a></span>
+    {% endif %} &nbsp;
+    {% if page.previous %}
+	<span id="prev"><a href="{{ page.previous.url }}">{{page.previous.title }}</a> →</span>
+	{% endif %}
 </div>

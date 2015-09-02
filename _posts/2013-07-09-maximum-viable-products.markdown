@@ -57,3 +57,5 @@ Prosumer software will always be ground zero for Maximum Viable Products, and gr
 Yesterday Apple [launched a promotion](http://www.macworld.com/article/2043859/apple-celebrates-five-years-of-the-app-store-with-five-free-apps-and-five-free-games.html) where some of the best apps in the store are free. Who is going to buy a competing app when a competitor is free?
 
 Hint: it's not your mom.
+
+*Update: I gave a more in-depth talk on this topic at Çingleton 4 which is [available online](http://www.allenpike.com/2015/maximum-viable-at-cingleton/).*

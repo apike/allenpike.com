@@ -14,7 +14,7 @@ tags:
 - Intel
 ---
 
-![](http://www.antipode.ca/resources/old/macintel.jpg)
+![](/images/old/macintel.jpg)
 Apple has been having troubles getting IBM's G5s into notebooks.
 
 CUPERTINO, CA, USA - In an announcement met with shock and awe, Apple Computer announced this week that they will finally be moving to the same x86 processors that Microsoft's Windows runs on. Fed up with IBM's undelivered promises and poorly matching future plans, they will be releasing computers based on Intel's chips next year.

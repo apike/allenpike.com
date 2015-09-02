@@ -14,12 +14,11 @@ I love creating things and perfecting products. I run [Steamclock Software](http
 
 My job involves product design, development, teaching, and speaking. I'm intensely interested in how great software can be. In my downtime, I play guitar, host a podcast, and play on a hockey team comprised entirely of programmers.
 
-**Onward**
+**My Writing**
 
-* My [blog](/archive/), where I tell stories about technology and products.
-* My [Twitter page](https://twitter.com/apike), where I retweet people who are smarter than me.
-* The [Steamclock blog](http://www.steamclock.com/blog/), where my colleagues and I show our work.
-* My [resume](/resume/). I don't know why.
+* [My blog](/archive/), where I tell stories about technology and products.
+* [My Twitter page](https://twitter.com/apike), for sarcastic quips and updates when I ship things.
+* [The Steamclock blog](http://www.steamclock.com/blog/), where my colleagues and I show our work.
 
 **Projects**
 
@@ -29,5 +28,6 @@ My job involves product design, development, teaching, and speaking. I'm intense
 * [WeddingDJ](http://www.steamclock.com/weddingdj/): An iOS app for planning and running the music at weddings.
 * [VanCocoa](http://www.vancocoa.com/): The Vancouver Cocoa speaker series.
 * [VanJS](http://www.vanjs.com/): The Vancouver JavaScript speaker series.
+* [My resume](/resume/). What one would expect.
 * [Project List](/projects/): An exhaustive catalog of most things I've worked on.
 

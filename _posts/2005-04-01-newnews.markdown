@@ -13,7 +13,7 @@ tags:
 - Altering Time
 ---
 
-![](http://www.antipode.ca/resources/old/newnews.png)VANCOUVER, CANADA - AlteringTime.com, a mostly unknown website based in British Columbia, may be preparing to post a new news article, experts predict. It has been almost 10 months since the last article, causing others to speculate that the News section of the site has been abandoned.
+![](/images/old/newnews.png)VANCOUVER, CANADA - AlteringTime.com, a mostly unknown website based in British Columbia, may be preparing to post a new news article, experts predict. It has been almost 10 months since the last article, causing others to speculate that the News section of the site has been abandoned.
 
 "If our calculations are correct," asserted one researcher, "the average time between news articles has been about 36 days. This makes us certain that the next article will show up in the middle of August, 2004." When informed that this date was clearly in the past, the researcher claimed that "statistics say otherwise." In any case, many agree that an article is imminent.
 

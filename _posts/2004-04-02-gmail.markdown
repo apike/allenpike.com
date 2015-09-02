@@ -12,7 +12,7 @@ tags:
 - Google
 ---
 
-![Google Mail Logo](/resources/old/gmail.gif)
+![Google Mail Logo](/images/old/gmail.gif)
 
 
 In a decision initially assumed to be an April Fool's joke, Google has announced 

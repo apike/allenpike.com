@@ -12,7 +12,7 @@ categories:
 
      
 
-![If this computer were any more personal, it would be you. And that would be weird.](/resources/old/ultrapersonal.jpg)        SAN FRANCISCO, USA - OQO, Inc. has hired designers from Apple and IBM         to design a 5" by 7" PC that runs Windows XP. This start-up plans to start         selling them in the second half of 2002, and already has a prototype,         which was shown at the WinHEC expo last week. It features a full-fledged         copy of Windows XP, a gigahertz Transmeta processor, 256MB of RAM, and         the same 10GB hard drive found in Apple's iPod. Slated to be priced attractively,         this is causing quite a stir among many in the computing world. Instead         of a flip-up display like other notebooks, the Ultra Personal Computer         has a built-in display that's touch-sensitive, eliminating the keyboard         and mouse.
+![If this computer were any more personal, it would be you. And that would be weird.](/images/old/ultrapersonal.jpg)        SAN FRANCISCO, USA - OQO, Inc. has hired designers from Apple and IBM         to design a 5" by 7" PC that runs Windows XP. This start-up plans to start         selling them in the second half of 2002, and already has a prototype,         which was shown at the WinHEC expo last week. It features a full-fledged         copy of Windows XP, a gigahertz Transmeta processor, 256MB of RAM, and         the same 10GB hard drive found in Apple's iPod. Slated to be priced attractively,         this is causing quite a stir among many in the computing world. Instead         of a flip-up display like other notebooks, the Ultra Personal Computer         has a built-in display that's touch-sensitive, eliminating the keyboard         and mouse.
 
      
 

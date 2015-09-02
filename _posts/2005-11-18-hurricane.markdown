@@ -10,7 +10,7 @@ categories:
 - Faith
 ---
 
-![](http://www.antipode.ca/resources/old/hurricane.jpg)
+![](/images/old/hurricane.jpg)
 This storm altered time.
 
 The World Meteorological Organization has named [Hurricane Beta](http://en.wikipedia.org/wiki/Hurricane_Beta), just hours after [Engineering Faith](http://www.antipode.ca/faith/)'s entrance into Beta. "We are pleased to honour Engineering Faith's amazing accomplishment," said a spokesperson rumoured to represent the World Meteorological Organization.
