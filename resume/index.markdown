@@ -19,14 +19,14 @@ Allen is a designer and developer who runs Steamclock Software in Vancouver.
 * Shipped dozens of top-notch iOS, Android, and web apps
 * Manages employees, customers, and clients
 * Does project management, product management, sales, and consulting
-* Writes and trains Objective-C and JavaScript
-* Speaks at conferences like JSConf and Çingleton
+* Speaks at conferences around the world
+* Writes and trains Swift and JavaScript
 
 #### [Apple](http://www.apple.com/), Software Engineer, 2008 - 2010
 
-* Wrote Objective-C for iWork ’09 for Mac and iWork for iPad
-* Helped launch iWork.com with JavaScript, CSS, and SproutCore
-* Developed CSS3 and HTML5 web applications for iPhone and iPad
+* Worked on iWork ’09 for Mac and iWork for iPad in Objective-C
+* Helped launch iWork.com with JavaScript and CSS
+* Developed modern web applications for iPhone and iPad
 
 #### [Discovery Software](http://www.discoverysoftware.com/), Software Developer, 2003 - 2008
 
@@ -40,12 +40,12 @@ Allen is a designer and developer who runs Steamclock Software in Vancouver.
 
 #### [Radical Entertainment](http://radical.ca), Work experience student, 2001
 
-#### [Independent Work](http://www.antipode.ca/me/), Community member
+#### [Independent Work](/)
 
 * Taught two semesters of CMPT 470 for SFU Computing Science
 * Runs two Vancouver speaker series, VanJS and VanCocoa
 * Hosts a game design and development podcast, Up Up Down Down
-* Developed a number of ill-fated games and side projects
+* Developed a number of games and side projects
 
 ## Education
 

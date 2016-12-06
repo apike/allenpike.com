@@ -8,6 +8,22 @@
         {% else %}
           <title>{{ page.title }} - Allen Pike</title>
         {% endif %}
+
+        {% if page.summary and page.image and page.title %}
+        <meta property="og:site_name" content="Allen Pike" />
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
+        <meta property="og:image" content="{{ site.baseurl }}{{ page.image }}" />
+        <meta property="og:description" content="{{ page.summary }}" />
+        
+        <meta name="twitter:card"         content="summary" />
+        <meta name="twitter:description"  content="{{ page.summary }}" />
+        <meta name="twitter:site"         content="@apike" />
+        <meta name="twitter:title"        content="{{ page.title }}" />
+        <meta name="twitter:image"        content="{{ site.baseurl }}{{ page.image }}" />
+        {% endif %}
+
         <meta name="viewport" content="width=600, maximum-scale=1.2" />
 
         <!-- syntax highlighting CSS -->

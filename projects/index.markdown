@@ -12,67 +12,66 @@ For a summary of what I do, see [my resume](http://www.allenpike.com/resume/). W
 
 **Current Projects**
 
-Since we started Steamclock, I've usually worked on a new type of project every couple months. We love working on our own apps, but client work can be fun too.
+Since we started Steamclock, I've usually worked on a new type of project every month. We love working on our own apps, but client work can be fun too.
 
 * **[Party Monster](http://www.steamclock.com/partymonster/)**: A queueing DJ app for parties and road trips. We made a [funky video](http://www.allenpike.com/2012/making-a-funky-app-video/) for it as well.
 
-* **[WeddingDJ](http://www.steamclocksoftware.com/weddingdj/)**: The best darn iPhone app for running music at weddings.
+* **[WeddingDJ](http://www.steamclock.com/weddingdj/)**: The best darn iPhone app for running music at weddings.
 
-* **[Consulting work](http://www.steamclocksw.com/consulting/)**: Some of my more interesting client projects at Steamclock have been:
+* **[Consulting work](http://www.steamclock.com/services/)**: We help companies ship great mobile apps. Some of my interesting client projects at Steamclock have been:
 
 	* an interactive 3D map of the internet
 	* a web app for doing developer support on Stack Overflow
-	* an iPhone app for finding fresh food
+	* an app for running rental and accommodation businesses
 	* a realtime video chat app
-	* helping a startup hire a CTO
-	* multiple photo sharing apps
-	* an app store for a Fortune 500 company
-	* a JavaScript app for the Fortune 500 itself
+	* apps for security analysis on iOS and Android
+	* many photo sharing apps (people *love* photo sharing apps)
+	* work on the ill-fated webOS app store
+	* a JavaScript app for Fortune 500 company
+	* an iPhone app for finding fresh food
 	* an interactive retail app
 	* a system for running valet businesses
 	* an Android app for tracking commercial fishing
 	* an iPhone app for ordering bespoke suits.
 
-* **[VanJS](http://www.meetup.com/vancouver-javascript-developers/)**: I created the Vancouver Javascript Developers group, and it's turned out pretty well.
-
-* **[VanCocoa](http://www.vancocoa.com/)**: Based on the success of VanJS, we started an iOS and Mac developers' meetup as well.
-
-* **[Prism](http://www.steamclocksw.com/prism/)**: A photo browser for iPad that excels at showing photos of kittens.
-
 * **[Up Up Down Down](http://upup.fm/)**: A podcast about the craft of video games.
+
+* **Meetups**: I started the [Vancouver Javascript Developers](http://www.vanjs.com) group, and the related [VanCocoa iOS meetup](http://www.vancocoa.com/).
+
+* **Not being at a computer**: I play ice hockey, play guitar, act, and otherwise dabble in the world away from computers. There is nothing to link here, which is for the best.
+
+**Talks and Podcast Appearances**
+
+I love teaching and discussing tech and other topics. Sometimes, people record it.
+
+* [Up Up Down Down](http://upup.fm), the game development podcast I co-host
+* [Cinema Gadfly 7](http://cinemagadfly.com/podcast/s1e7.html), a podcast episode on Terry Gilliam's Brazil
+* [Incomparable Radio Theatre 1.10](https://www.theincomparable.com/radio/1.10/index.php), as Charles Babbage
+* [Too Many Frameworks](http://2015.cascadiajs.com/speakers/allen-pike), my talk at CascadiaJS 2015
+* [Iterate 80](http://www.imore.com/iterate-80-allen-pike-party-monster), an episode where we discuss Steamclock, our apps, and mobile app design
+* [Maximum Viable Products](http://www.allenpike.com/2015/maximum-viable-at-cingleton/), a talk I gave in a few countries in 2014
+* [JavaScript in Native Apps](https://www.youtube.com/watch?v=5LUkHss6CAw), my talk at JSConf EU 2013
+* [Mapping the Internet](http://www.steamclock.com/blog/2013/03/mapping-the-internet/), my talk at SecondConf 2013
+* [Unprofessional 52](http://unprofesh.com/blog/2013/8/8/52-the-taco-bell-unprofessional-allen-pike), "The Taco Bell Unprofessional"
+* [Lining Things Up 6](http://liningthingsup.com/#06-Allen-Pike), my first podcast appearance
+* [Tackling JavaScript](http://wordpress.tv/2011/10/08/allen-pike-tackling-javascript/), one of my classic "let's learn JavaScript" talks
+* [Crafting a Technical Meetup](http://www.allenpike.com/2011/video-making-a-js-meetup-blow-minds/) at JSConf US 2011, my first conference talk
+
+**Older Steamclock-era Projects** (2010-2015)
+
+* **[Prism](http://www.steamclock.com/blog/2014/10/goodbye-prism/)**: We shipped and later retired a photo browser for iPad that excelled at showing photos of kittens.
 
 * **Unladen Follow**: I created a tool to unfollow the most annoying people on Twitter. It was semi-broken by Twitter's 1.1 API changes, but I'd love to bring it back one day.
 
 * **Prototypes**: Lots of interesting prototypes haven't made it out of the Steamclock labs - for example an antisocial Facebook app, a Git client for Mac, and a turn-based strategy game.
 
-* **Hockey**: I recently learned to skate so I could play hockey. More specifically, play hockey on a team comprised entirely of programmers. We are called the Honey Badgers. It is awesome.
-
-
-**Speaking and Teaching**
-
-I love presenting and teaching, especially when I don't need to grade any papers.
-
-* **Talks and Podcasts** It's like teaching, but less work and more fun! Some of my talks:
-  * [Using JavaScript in Native Apps](https://www.youtube.com/watch?v=5LUkHss6CAw) at JSConf EU 2013
-  * [Mapping the Internet](http://www.steamclock.com/blog/2013/03/mapping-the-internet/) at SecondConf 2013
-  * A lightning talk on [Maximum Viable Products](http://www.allenpike.com/2013/maximum-viable-products/) at Úll 2014
-  * "A Friendly Chat about Web vs. Native" at PolyglotConf
-  * A couple versions of my high-performance UI talk
-  * [Crafting a Technical Meetup](http://www.allenpike.com/2011/video-making-a-js-meetup-blow-minds/) at JSConf US 2011
-  * [Tackling JavaScript](http://wordpress.tv/2011/10/08/allen-pike-tackling-javascript/) and other "let's learn JavaScript" talks
-  * Some talks on "Thick Client JavaScript," challenging how much JavaScript you can reasonably have on the client
-
-* **Podcasting**: I've been the guest on a number of podcasts, which is always a lot of fun. A couple examples are [Springboard](http://springboardshow.com/episodes/12), [Lining Things Up](http://liningthingsup.com/#06-Allen-Pike), and [Unprofessional](http://unprofesh.com/blog/2013/8/8/52-the-taco-bell-unprofessional-allen-pike).
-
 * **CMPT 470**: I've twice taught the 4th-year Web Technologies course for SFU's Computing Science department. In doing so, I learned that I love teaching and hate grading.
 
-* **Web 101**: I taught an 8-week intro to web technology at Mobify.
+* **Training**: I've taught training courses and workshops for companies such as Mobify and Clio.
 
-
-**Apple Era Projects **(2008-2010)
+**Apple Era Projects** (2008-2010)
 
 For reasons I don't fully understand, Apple offered me a job in 2008. I never thought I'd make a detour into working for a large company, but it was a fun ride.
-
 
 * **[iWork for iPad](http://www.apple.com/ipad/features/pages.html)**: I worked on the iWork iPad apps, primarily writing Objective-C to support iWork.com. Having a secret iPad prototype locked in my desk was possibly the most ridiculous thing ever.
 
@@ -100,7 +99,7 @@ My first real tech job was at a small software company that builds apps for educ
 
 * **Budgetable**: I built a [financial management site](http://www.allenpike.com/2006/whats-a-budgetable/), and then sold the domain to a team who is [actually going somewhere with it](http://www.budgetable.com/).
 
-**University Era Projects **(2002-2008)
+**University Era Projects** (2002-2008)
 
 I started university at UCFV, but I upgraded to SFU within a year to preserve my sanity. I learned something from my courses, but I learned more from the crazy side projects I would take on.
 
