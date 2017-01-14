@@ -31,11 +31,9 @@ h1, h2, h3, h4, h5 {
   clear:right;
 }
 
-h1 {font-size: 42px;}
-h2, h3 {font-size: 32px;}
+h1 {font-size: 42px; line-height: 48px;}
+h2, h3 {font-size: 32px; line-height: 40px;}
 
-
-h1, h2, h3, h4, h5 {line-height: 64px;}
 
 h1 { margin: 0px 0px 24px 0px; }
 p { margin: 1em 0; }
@@ -104,17 +102,6 @@ li.active {
 ul.posts {
   list-style: none;
   margin-left: 0;
-}
-
-.posts span {
-  display: inline-block;
-  width: 170px;
-  padding-right: 1em;
-  text-align: right;
-}
-
-.posts a {
- width: 65%;
 }
 
 blockquote {
@@ -275,4 +262,22 @@ blockquote {
 .warning {
   padding-left: 1em;
   border-left: 2px solid #ff8315;
+}
+
+
+/* Home */
+
+#recent h2 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#recent .date {
+  font-color: #444;
+  font-style: italic;
+}
+
+#recent .description {
+  padding: 0 0 0 20px;
+  margin: 0 0 5px 0;
 }
