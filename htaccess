@@ -10,4 +10,7 @@ RedirectMatch permanent /archives/$             http://www.allenpike.com/archive
 
 RedirectMatch permanent /twitterrific-wtf/ http://www.youtube.com/watch?v=54b3wEKBHVQ
 
+
+RedirectMatch /feed/$             http://feeds.allenpike.com/feed/
+
 ErrorDocument 404 /404.html

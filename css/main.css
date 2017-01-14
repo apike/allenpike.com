@@ -52,7 +52,7 @@ table {
 
 .container {
   max-width: 750px;
-  min-width: 600px;
+  min-width: 320px;
   margin: 0px auto;
   padding: 0 2em 2em 2em;
 }
@@ -176,7 +176,17 @@ blockquote {
   color: black;
 }
 
+@media (max-width: 400px) {
+  /* phone */ 
+
+  body .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
 @media (max-width: 1079px) {
+  /* mobile + tablet */
 
   #fusionads {
     width: 500px;
@@ -214,6 +224,8 @@ blockquote {
 }
 
 @media (min-width: 1080px) {
+  /* desktop */
+
   body .container {
     display: relative;
     left: 20px;
