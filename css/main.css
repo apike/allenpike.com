@@ -288,3 +288,9 @@ blockquote {
   padding: 0 0 0 20px;
   margin: 0 0 5px 0;
 }
+
+.archive li {
+  /* Hanging indent for wrapping */
+  padding-left: 1em;
+  text-indent: -1em;
+}
