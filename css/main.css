@@ -27,12 +27,19 @@ body {
 h1, h2, h3, h4, h5 {
   font-family: "adelle-n1", adelle, serif;
   font-weight: normal;
-
+  margin: 10px 0;
   clear:right;
 }
 
-h1 {font-size: 42px; line-height: 48px;}
-h2, h3 {font-size: 32px; line-height: 40px;}
+h1 {
+  font-size: 42px;
+  line-height: 48px;
+  margin: 10px 0;
+}
+
+h2, h3 {
+  font-size: 32px; line-height: 40px;
+}
 
 
 h1 { margin: 0px 0px 24px 0px; }

@@ -14,10 +14,10 @@ Allen is a designer and developer who runs Steamclock Software in Vancouver.
 
 ## Work History
 
-#### [Steamclock Software](http://www.steamclocksoftware.com/), Co-founder, 2010 - present
+#### [Steamclock Software](http://www.steamclocksoftware.com/), CEO and Co-founder, 2010 - present
 
 * Shipped dozens of top-notch iOS, Android, and web apps
-* Manages employees, customers, and clients
+* Manages a team of 10 developers and designers
 * Does project management, product management, sales, and consulting
 * Speaks at conferences around the world
 * Writes and trains Swift and JavaScript
