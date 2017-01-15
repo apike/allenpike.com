@@ -16,13 +16,12 @@ My job involves product design, development, teaching, and speaking. I'm intense
 
 **Projects**
 
-* [Steamclock Software](http://www.steamclock.com/): We make apps.
-    * [The Steamclock blog](http://www.steamclock.com/blog/), where my colleagues and I show our work.
-    * [Party Monster](http://www.steamclock.com/partymonster/): An iOS app for running music at parties and road trips.
-    * [WeddingDJ](http://www.steamclock.com/weddingdj/): An iOS app for planning and running the music at weddings.
+* [Steamclock Software](http://www.steamclock.com/): We make products for clients as well as ourselves. We also have [a blog](http://www.steamclock.com/blog/), where we show our work.
+* [Party Monster](http://www.steamclock.com/partymonster/): An iOS app for running music at parties and road trips.
+* [WeddingDJ](http://www.steamclock.com/weddingdj/): An iOS app for planning and running the music at weddings.
 * [VanCocoa](http://www.vancocoa.com/): The Vancouver Cocoa speaker series.
 * [VanJS](http://www.vanjs.com/): The Vancouver JavaScript speaker series.
-* [My resume](/resume/). What one would expect.
+* [My resume](/resume/): What one would expect.
 * [Project List](/projects/): An exhaustive catalog of most things I've worked on.
 
 **Talks and Podcast Appearances**

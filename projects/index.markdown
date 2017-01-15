@@ -21,13 +21,15 @@ Since we started Steamclock, I've usually worked on a new type of project every 
 * **[Consulting work](http://www.steamclock.com/services/)**: We help companies ship great mobile apps. Some of my interesting client projects at Steamclock have been:
 
 	* an interactive 3D map of the internet
-	* a web app for doing developer support on Stack Overflow
+	* an international mountain conditions app
 	* an app for running rental and accommodation businesses
 	* a realtime video chat app
 	* apps for security analysis on iOS and Android
+	* an app for configuring solar-powered lights using Bluetooth
 	* many photo sharing apps (people *love* photo sharing apps)
 	* work on the ill-fated webOS app store
 	* a JavaScript app for Fortune 500 company
+	* a web app for doing developer support on Stack Overflow
 	* an iPhone app for finding fresh food
 	* an interactive retail app
 	* a system for running valet businesses
