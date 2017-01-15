@@ -280,8 +280,7 @@ blockquote {
 }
 
 #recent .date {
-  color: #444;
-  font-style: italic;
+  color: #777;
 }
 
 #recent .description {
