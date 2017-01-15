@@ -5,7 +5,7 @@ date: "2016-03-31 18:00:00"
 layout: post
 slug: "systems-design"
 title: "Diagrammatically Correct"
-summary: "Pototypers hack, architects diagram."
+summary: "Prototypers hack, architects diagram."
 categories:
 - Article
 ---
