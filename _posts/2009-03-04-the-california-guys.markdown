@@ -5,6 +5,7 @@ date: 2009-03-04 20:01:47
 layout: post
 slug: the-california-guys
 title: The California Guys
+summary: "I run a project. Poorly."
 wordpress_id: 103
 featured: true
 categories:

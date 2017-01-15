@@ -4,6 +4,7 @@ comments: true
 date: "2014-11-30 23:00:00"
 layout: post
 slug: "podcast-recording"
+summary: "I evaluate building an app."
 title: "A great app for recording podcasts"
 categories:
 - Article

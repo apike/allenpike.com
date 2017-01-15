@@ -5,6 +5,7 @@ date: "2016-07-31 22:00:00"
 layout: post
 slug: "new-here"
 title: "New Here"
+summary: "A wild baby appears."
 categories:
 - Article
 ---

@@ -5,6 +5,7 @@ date: "2015-08-31 18:00:00"
 layout: post
 slug: "move-swiftly"
 title: "Moving Swiftly"
+summary: "Steamclock bets big on Swift."
 categories:
 - Article
 ---

@@ -5,6 +5,7 @@ date: "2016-06-30 18:00:00"
 layout: post
 slug: "organizational-size-classes"
 title: "Organizational Size Classes"
+summary: "I come to terms with growth."
 categories:
 - Article
 ---

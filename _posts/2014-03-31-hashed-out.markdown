@@ -4,6 +4,7 @@ comments: true
 date: 2014-03-31 23:00:00
 layout: post
 slug: "hashed-out"
+summary: "Hashtags get banned."
 title: "Hashed out"
 categories:
 - Article

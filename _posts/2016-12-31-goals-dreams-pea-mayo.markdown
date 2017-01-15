@@ -5,7 +5,7 @@ date: "2016-12-31 22:00:00"
 layout: post
 slug: "goals"
 title: "Goals, dreams, and pea mayo"
-summary: "On getting big things done."
+summary: "Goals get made, things get done."
 image: "/images/2016/little-pea.jpg"
 categories:
 - Article

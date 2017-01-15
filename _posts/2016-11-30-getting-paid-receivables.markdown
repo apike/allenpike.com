@@ -5,7 +5,7 @@ date: "2016-11-30 22:00:00"
 layout: post
 slug: "getting-paid-receivables"
 title: "Rules to get paid by"
-summary: "On accounts receivable in client services."
+summary: "We get paid the nice way."
 image: "/images/2016/money-pile.jpg"
 categories:
 - Article

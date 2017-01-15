@@ -4,6 +4,7 @@ comments: false
 date: 2007-08-16 00:46:27
 layout: post
 slug: wanna-buy-an-isp
+summary: "The death of dialup turns weird."
 title: Worst ISP acquisition ever
 wordpress_id: 84
 featured: true

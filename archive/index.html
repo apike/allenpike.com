@@ -1,5 +1,6 @@
 ---
 layout: default
+isArchive: true
 title: Post Archive
 ---
 
@@ -15,7 +16,7 @@ title: Post Archive
 
       {% if post.featured %} <b> {% endif %}
       <li><a href="{{ post.url }}">{{ post.title }}</a> {% if post.featured %} </b> {% endif %}
-      <span style="font-color: #555">{% if post.summary %} &ndash; {{ post.summary }} {% endif %}</span></li>
+      <span>{% if post.summary %} &ndash; {{ post.summary }} {% endif %}</span></li>
     {% endfor %}
   </ul>
 </div>

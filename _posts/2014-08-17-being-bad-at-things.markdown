@@ -4,6 +4,7 @@ comments: true
 date: 2014-08-17 10:00:00
 layout: post
 slug: "learning"
+summary: "I get less bad at being bad."
 title: "Being bad at things"
 categories:
 - Article

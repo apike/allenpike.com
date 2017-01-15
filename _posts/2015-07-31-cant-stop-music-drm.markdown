@@ -4,6 +4,7 @@ comments: true
 date: "2015-07-31 18:00:00"
 layout: post
 slug: "cant-stop-music-drm"
+summary: "Apple Music throws a wrench in the gears."
 title: "Can't Stop the Music"
 categories:
 - Article

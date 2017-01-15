@@ -5,6 +5,7 @@ date: "2015-11-24 18:00:00"
 layout: post
 slug: "the-worst-app"
 title: "The worst app"
+summary: "Stephanie isn't the only one upset about an app."
 featured: true
 categories:
 - Article

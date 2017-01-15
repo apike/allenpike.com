@@ -4,6 +4,7 @@ comments: true
 date: "2015-10-31 18:00:00"
 layout: post
 slug: "being-less-wrong"
+summary: "Estimation is hard."
 title: "Being less wrong"
 categories:
 - Article

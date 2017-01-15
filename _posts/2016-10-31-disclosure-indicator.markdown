@@ -5,7 +5,7 @@ date: "2016-10-31 22:00:00"
 layout: post
 slug: "disclosure-indicator-ndas"
 title: "The Disclosure Indicator"
-summary: "On startups that insist you sign an NDA."
+summary: "Idea Guy wants an NDA signed."
 image: "/images/allen-pike-2014.jpg"
 featured: true
 categories:

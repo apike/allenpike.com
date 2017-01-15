@@ -4,6 +4,7 @@ comments: true
 date: 2013-07-09 10:11:16
 layout: post
 slug: maximum-viable-products
+summary: "We try to make the best products we can."
 title: "Maximum Viable Products"
 featured: true
 categories:

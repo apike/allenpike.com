@@ -4,6 +4,7 @@ comments: true
 date: 2013-07-24 14:11:16
 layout: post
 slug: searching-the-curatorium
+summary: "We search Twitter on the App Store."
 title: "Searching the Curatorium"
 categories:
 - Article

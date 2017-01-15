@@ -5,6 +5,7 @@ date: 2010-06-11 15:09:02
 layout: post
 slug: leaving-apple
 title: Leaving Apple
+summary: "I leave my dream job."
 wordpress_id: 1697
 featured: true
 categories:

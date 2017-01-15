@@ -4,6 +4,7 @@ comments: true
 date: 2014-05-31 23:00:00
 layout: post
 slug: "feeding-the-baby"
+summary: "Running a startup turns out to be weird."
 title: "Feeding the Baby"
 featured: true
 categories:

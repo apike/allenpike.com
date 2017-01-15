@@ -4,6 +4,7 @@ comments: true
 date: 2013-12-24 09:00:00
 layout: post
 slug: unprofessionalism
+summary: "Being real brings the haters."
 title: "Unprofessionalism"
 featured: true
 categories:

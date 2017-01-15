@@ -3,6 +3,7 @@ author: allen
 comments: false
 date: 2006-11-22 01:01:22
 layout: post
+summary: "A kid tries to make an RPG in BASIC."
 slug: fantasytech-3-goto-fun
 title: 'FantasyTech 3: GOTO FUN'
 wordpress_id: 107

@@ -5,6 +5,7 @@ date: "2016-05-11 18:00:00"
 layout: post
 slug: "too-many-slacks"
 title: "Too Many Slacks"
+summary: "Slack can't handle my scale."
 categories:
 - Article
 ---

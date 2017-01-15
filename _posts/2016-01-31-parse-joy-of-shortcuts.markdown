@@ -5,6 +5,7 @@ date: "2016-01-31 18:00:00"
 layout: post
 slug: "parse-joy-of-shortcuts"
 title: "The Joy of Shortcuts"
+summary: "Parse teaches us about shipping."
 featured: true
 categories:
 - Article

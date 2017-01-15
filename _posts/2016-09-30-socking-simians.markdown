@@ -5,6 +5,7 @@ date: "2016-09-30 22:00:00"
 layout: post
 slug: "socking-simians"
 title: "Socking simians"
+summary: "We buy some App Store Search Ads."
 categories:
 - Article
 ---

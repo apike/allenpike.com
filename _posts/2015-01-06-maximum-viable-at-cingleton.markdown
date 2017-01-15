@@ -4,6 +4,7 @@ comments: true
 date: "2015-01-06 16:00:00"
 layout: post
 slug: "maximum-viable-at-cingleton"
+summary: "I give a talk."
 title: "Maximal Products at Çingleton"
 categories:
 - Article

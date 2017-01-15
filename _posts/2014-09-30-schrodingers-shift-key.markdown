@@ -4,6 +4,7 @@ comments: true
 date: 2014-09-30 10:00:00
 layout: post
 slug: "schrodingers-shift-key"
+summary: "I get upset about a shift key."
 title: "Schrödinger's Shift Key"
 featured: true
 categories:

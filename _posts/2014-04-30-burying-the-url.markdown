@@ -4,6 +4,7 @@ comments: true
 date: 2014-04-30 23:00:00
 layout: post
 slug: "burying-the-url"
+summary: "Chrome considers hiding the location field."
 title: "Burying the URL"
 categories:
 - Article

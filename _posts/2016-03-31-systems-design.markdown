@@ -5,6 +5,7 @@ date: "2016-03-31 18:00:00"
 layout: post
 slug: "systems-design"
 title: "Diagrammatically Correct"
+summary: "Pototypers hack, architects diagram."
 categories:
 - Article
 ---
@@ -65,7 +66,7 @@ Still, these experienced systems designers make up a smaller and smaller proport
 
 ## One drop does it
 
-I'll readily admit that I'm most comfortable wearing my "move fast" cap. We work on a lot of new apps, put a big focus on UX, and do a lot of work for startups. Like many studios, getting bogged down on exhaustive up-front planning isn't a great tradeoff for most of our projects.
+I'll readily admit that I'm most comfortable wearing my "move fast" camp. We work on a lot of new apps, put a big focus on UX, and do a lot of work for startups. Like many studios, getting bogged down on exhaustive up-front planning isn't a great tradeoff for most of our projects.
 
 That said, it's crucial that we keep in mind the benefits of the tools in our software engineering toolbox, and make thoughtful choices of when to use them and when not to. Rather than debating whether all projects should adopt this process or that process, we should debate how to tell when a certain project justifies more formal engineering.
 

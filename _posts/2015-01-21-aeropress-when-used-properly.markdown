@@ -5,6 +5,7 @@ date: "2015-01-21 09:00:00"
 layout: post
 slug: "aeropress-when-used-properly"
 title: "When used properly"
+summary: "The Aeropress box causes me great pain."
 categories:
 - Article
 ---

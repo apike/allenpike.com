@@ -5,6 +5,7 @@ date: 2008-04-24 12:00:53
 layout: post
 slug: cancelling-yes-or-no
 title: Cancelling "Yes or No"
+summary: "We say no to bad modal dialogs."
 wordpress_id: 305
 featured: true
 categories:

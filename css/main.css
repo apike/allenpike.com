@@ -280,7 +280,7 @@ blockquote {
 }
 
 #recent .date {
-  font-color: #444;
+  color: #444;
   font-style: italic;
 }
 
@@ -293,4 +293,8 @@ blockquote {
   /* Hanging indent for wrapping */
   padding-left: 1em;
   text-indent: -1em;
+}
+
+.archive li span {
+  color: #444;
 }

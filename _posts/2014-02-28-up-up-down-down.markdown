@@ -4,6 +4,7 @@ comments: true
 date: 2014-02-28 09:00:00
 layout: post
 slug: "up-up-down-down"
+summary: "I start a podcast."
 title: "Up Up Down Down"
 categories:
 - Article

@@ -4,6 +4,7 @@ comments: true
 date: "2015-09-30 18:00:00"
 layout: post
 slug: "working-title"
+summary: "A junior developer wants to rule the world."
 title: "Working Title"
 categories:
 - Article

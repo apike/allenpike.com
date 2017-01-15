@@ -4,6 +4,7 @@ comments: true
 date: 2013-11-11 09:00:00
 layout: post
 slug: fall-and-rise-of-podcasting
+summary: "Podcasting just keeps getting better."
 title: "The Fall and Rise of Podcasting"
 categories:
 - Article

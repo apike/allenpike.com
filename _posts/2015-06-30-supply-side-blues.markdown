@@ -4,6 +4,7 @@ comments: true
 date: "2015-06-30 18:00:00"
 layout: post
 slug: "supply-side-blues"
+summary: "Building apps for love can be unprofitable."
 title: "The Supply-side Blues"
 categories:
 - Article

@@ -59,7 +59,7 @@
                 <li {% if page.isHome %} class="active" {% endif %}>
                   <a href="{{ root_url }}/">Allen Pike</a>
                 </li>
-                <li><a href="/archive/">Archive</a>
+                <li {% if page.isArchive %} class="active" {% endif %}><a href="/archive/">Archive</a>
                 <li {% if page.isMe %} class="active" {% endif %}>    <a href="{{ root_url }}/me/">About</a>
                 </li>
                 <li {% if page.isSubscribe %} class="active" {% endif %}><a href="/subscribe/">Subscribe</a>
@@ -77,7 +77,7 @@
                 <li {% if page.isHome %} class="active" {% endif %}>
                   <a href="{{ root_url }}/">Allen Pike</a>
                 </li>
-                <li><a href="/archive/">Archive</a>
+                <li {% if page.isArchive %} class="active" {% endif %}><a href="/archive/">Archive</a>
                 <li {% if page.isMe %} class="active" {% endif %}>    <a href="{{ root_url }}/me/">About</a>
                 </li>
                 <li {% if page.isSubscribe %} class="active" {% endif %}><a href="/subscribe/">Subscribe</a>

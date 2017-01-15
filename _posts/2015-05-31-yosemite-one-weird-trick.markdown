@@ -4,6 +4,7 @@ comments: true
 date: "2015-05-31 18:00:00"
 layout: post
 slug: "yosemite-one-weird-trick"
+summary: "My Mac is sad."
 title: "Fix your Mac with one weird trick"
 categories:
 - Article

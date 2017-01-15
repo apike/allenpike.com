@@ -5,6 +5,7 @@ date: "2016-02-29 18:00:00"
 layout: post
 slug: "cofounding-variables"
 title: "Cofounding variables"
+summary: "Finding a co-founder gets weird."
 categories:
 - Article
 ---

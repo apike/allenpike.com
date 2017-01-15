@@ -4,6 +4,7 @@ comments: true
 date: 2014-01-30 09:00:00
 layout: post
 slug: "elizabeth-samantha"
+summary: "AI companions warm my heart."
 title: "Elizabeth and Samantha"
 categories:
 - Article
