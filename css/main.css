@@ -187,7 +187,7 @@ blockquote {
   /* mobile + tablet */
 
   #fusionads {
-    width: 500px;
+    max-width: 100%;
     float:right;
   }
 
@@ -214,7 +214,7 @@ blockquote {
     padding-left: 20px;
   }
   #fusionads .fusion-poweredby {
-    display: block;
+    display: inline-block;
     margin-top: 10px;
     margin-left: 150px;
   }
