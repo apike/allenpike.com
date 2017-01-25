@@ -6,22 +6,22 @@ layout: nil
  
   <title>Allen Pike</title>
   <link href="http://www.allenpike.com/"/>
-  <link type="application/atom+xml" rel="self" href="{{ site.baseurl }}/feed/"/>
+  <link type="application/atom+xml" rel="self" href="http://www.allenpike.com/feed/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>{{ site.baseurl }}/</id>
+  <id>http://www.allenpike.com/</id>
   <author>
     <name>Allen Pike</name>
   </author>
 
   {% for post in site.posts limit:3 %}
   <entry>
-    <id>{{ site.baseurl }}{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="{{ site.baseurl }}{{ post.url }}"/>
+    <id>http://www.allenpike.com{{ post.url }}</id>
+    <link type="text/html" rel="alternate" href="http://www.allenpike.com{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
       <name>Allen Pike</name>
-      <uri>{{ site.baseurl }}/</uri>
+      <uri>http://www.allenpike.com/</uri>
     </author>
     <content type="html">{{ post.content | xml_escape | relative_urls_to_absolute }}</content>
   </entry>

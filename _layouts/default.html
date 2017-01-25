@@ -34,8 +34,8 @@
 
         <link rel="alternate" type="application/atom+xml" href="/feed/" title="Atom feed">
 
-        <script type="text/javascript" src="//use.typekit.net/cil6skv.js"></script>
-        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+        <script src="https://use.typekit.net/yqh6wdu.js"></script>
+        <script>try{Typekit.load({ async: false });}catch(e){}</script>
         <link rel="author" href="https://plus.google.com/115189793104525758622" />
 
         <script>
@@ -56,7 +56,7 @@
           <div class="site">
             <div class="header">
               <ul class="main-navigation">
-                <li {% if page.isHome %} class="active" {% endif %}>
+                <li class="sitename">
                   <a href="{{ root_url }}/">Allen Pike</a>
                 </li>
                 <li {% if page.isArchive %} class="active" {% endif %}><a href="/archive/">Archive</a>
@@ -67,14 +67,18 @@
               </ul>
             </div>
 
+            <div id="content">
+
                 {{ content }}
+
+            </div>
 
             <div id='fusionparent'>
               <script type="text/javascript" src="//cdn.fusionads.net/fusion.js?zoneid=1332&serve=C6SDP2Y&placement=allenpike" id="_fusionads_js"></script>
             </div>
 
               <ul class="footer">
-                <li {% if page.isHome %} class="active" {% endif %}>
+                <li class="sitename">
                   <a href="{{ root_url }}/">Allen Pike</a>
                 </li>
                 <li {% if page.isArchive %} class="active" {% endif %}><a href="/archive/">Archive</a>
