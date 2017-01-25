@@ -5,7 +5,7 @@ date: 2013-06-26 09:11:16
 layout: post
 slug: ios7-catch-me-if-you-can
 summary: "iOS 7 throws CSS a curveball."
-title: "iOS 7: Catch me if you can"
+title: "iOS 7: Catch Me if You Can"
 categories:
 - Article
 - Best Of

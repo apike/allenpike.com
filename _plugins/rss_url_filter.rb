@@ -8,6 +8,10 @@ module Jekyll
         .gsub('src=&quot;/', 'src=&quot;' + url + '/')
         .gsub('href=&quot;/', 'href=&quot;' + url + '/')
     end
+
+    def escape_for_json(input)
+       input.gsub('"', '\"').gsub("\n", "\\n")
+    end
   end
 end
 

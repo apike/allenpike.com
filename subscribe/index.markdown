@@ -7,10 +7,9 @@ slug: subscribe
 title: Subscribe
 ---
 
-There are a variety of ways you can subscribe to my articles and other writing.
+There are a couple ways you can subscribe to my articles and other writing.
 
 * [Atom Feed](/feed/), for your favourite RSS reader
-* JSON Feed, coming soon
 * [@apike on Twitter](https://twitter.com/apike/), where I post my articles, plus other bleeps and bloops
 
 You can also get an email newsletter whenever I publish an article.

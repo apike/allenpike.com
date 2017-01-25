@@ -4,7 +4,7 @@ comments: true
 date: "2016-12-31 22:00:00"
 layout: post
 slug: "goals"
-title: "Goals, dreams, and pea mayo"
+title: "Goals, Dreams, and Pea Mayo"
 summary: "Goals get made, things get done."
 image: "/images/2016/little-pea.jpg"
 categories:

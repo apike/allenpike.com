@@ -5,7 +5,7 @@ date: "2014-12-31 23:00:00"
 layout: post
 slug: "buying-one-of-everything"
 summary: "We buy some ETFs."
-title: "Buying one of everything"
+title: "Buying One of Everything"
 categories:
 - Article
 ---

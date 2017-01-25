@@ -4,7 +4,7 @@ comments: true
 date: "2016-11-30 22:00:00"
 layout: post
 slug: "getting-paid-receivables"
-title: "Rules to get paid by"
+title: "Rules to Get Paid By"
 summary: "We get paid the nice way."
 image: "/images/2016/money-pile.jpg"
 categories:

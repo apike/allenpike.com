@@ -5,7 +5,7 @@ date: "2014-10-16 16:25:00"
 layout: post
 slug: "the-ipad-zombie"
 summary: "The iPad 2 shambles along."
-title: "The iPad zombie"
+title: "The iPad Zombie"
 categories:
 - Article
 tags:

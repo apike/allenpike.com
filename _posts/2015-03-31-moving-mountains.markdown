@@ -5,7 +5,7 @@ date: "2015-03-31 18:00:00"
 layout: post
 slug: "moving-mountains"
 summary: "We run to the press."
-title: "Moving mountains"
+title: "Moving Mountains"
 categories:
 - Article
 ---

@@ -4,7 +4,7 @@ comments: true
 date: "2016-08-31 22:00:00"
 layout: post
 slug: "creative-destruction"
-title: "Creative destruction"
+title: "Creative Destruction"
 summary: "Good apps die young."
 categories:
 - Article

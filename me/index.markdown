@@ -9,7 +9,7 @@ isMe: true
 wordpress_id: 199
 ---
 
-<img src='/images/allen-pike-2014.jpg' style='max-width: 200px'>
+<img src='/images/allen-pike-2014.jpg' style='width: 200px;' class='side'>
 I love creating things and perfecting products. I run [Steamclock Software](http://www.steamclock.com), where we build polished web and mobile apps in Vancouver. Previously, I was a Software Engineer at Apple.
 
 My job involves product design, development, teaching, and speaking. I'm intensely interested in how great software can be. In my downtime, I play guitar, host a podcast, and play on a hockey team comprised entirely of programmers.

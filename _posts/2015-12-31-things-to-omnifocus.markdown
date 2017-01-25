@@ -5,7 +5,7 @@ date: "2015-12-31 18:00:00"
 layout: post
 slug: "things-to-omnifocus"
 summary: "Things is out, OmniFocus is in."
-title: "Some Things about OmniFocus"
+title: "Some Things About OmniFocus"
 categories:
 - Article
 ---

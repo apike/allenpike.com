@@ -4,7 +4,7 @@ comments: true
 date: "2015-02-28 18:00:00"
 layout: post
 slug: "javascript-framework-fatigue"
-title: "A JS framework on every table"
+title: "A JS Framework on Every Table"
 summary: "There are too many JavaScript frameworks."
 featured: true
 categories:

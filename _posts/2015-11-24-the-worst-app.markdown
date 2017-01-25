@@ -4,7 +4,7 @@ comments: true
 date: "2015-11-24 18:00:00"
 layout: post
 slug: "the-worst-app"
-title: "The worst app"
+title: "The Worst App"
 summary: "Stephanie isn't the only one upset about an app."
 featured: true
 categories:
@@ -87,7 +87,7 @@ Ookay. It seemed I had no choice - I had to get to the root of this. I pulled ou
 
 ## Into the breach
 
-<img src='/images/2015/playtube-screenshot.jpg' style='width:250px'> I must say, Music Player & Playlist Playtube manager is a truly remarkable app. Its novel colour scheme of black, gold, grey, and coral breaks new ground. The various bugs that immediately present themselves prove that this developer understands how important it is to "always be shipping". Perhaps most notably, in a market suffering a race to the bottom, this developer showed true entrepreneurial spirit by charging $3 *and* putting up a full-screen modal advertisement every few seconds.
+<img src='/images/2015/playtube-screenshot.jpg' style='width:250px' class='side'> I must say, Music Player & Playlist Playtube manager is a truly remarkable app. Its novel colour scheme of black, gold, grey, and coral breaks new ground. The various bugs that immediately present themselves prove that this developer understands how important it is to "always be shipping". Perhaps most notably, in a market suffering a race to the bottom, this developer showed true entrepreneurial spirit by charging $3 *and* putting up a full-screen modal advertisement every few seconds.
 
 As interesting as the app was, my attention immediately fixated on the prominent menu item titled "Reporting". Tapping this composed an email &ndash; addressed to me, titled "Report & Contact", and eager to capture your thoughts and feelings about the app.
 

@@ -30,9 +30,10 @@
         <link rel="stylesheet" href="/css/syntax.css">
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/main2.css">
 
         <link rel="alternate" type="application/atom+xml" href="/feed/" title="Atom feed">
+        <link rel="alternate" type="application/json" href="/jsonfeed/" tite="JSON Feed" >
 
         <script src="https://use.typekit.net/yqh6wdu.js"></script>
         <script>try{Typekit.load({ async: false });}catch(e){}</script>
@@ -54,11 +55,9 @@
 
         <div class="container">
           <div class="site">
-            <div class="header">
-              <ul class="main-navigation">
-                <li class="sitename">
-                  <a href="{{ root_url }}/">Allen Pike</a>
-                </li>
+            <div class="header navigation">
+              <a class="sitename" href="{{ root_url }}/">Allen Pike</a>
+              <ul>
                 <li {% if page.isArchive %} class="active" {% endif %}><a href="/archive/">Archive</a>
                 <li {% if page.isMe %} class="active" {% endif %}>    <a href="{{ root_url }}/me/">About</a>
                 </li>
@@ -77,20 +76,19 @@
               <script type="text/javascript" src="//cdn.fusionads.net/fusion.js?zoneid=1332&serve=C6SDP2Y&placement=allenpike" id="_fusionads_js"></script>
             </div>
 
-              <ul class="footer">
-                <li class="sitename">
-                  <a href="{{ root_url }}/">Allen Pike</a>
-                </li>
+              <div class="footer navigation">
+                <a href="{{ root_url }}/" class="sitename">Allen Pike</a>
+                <ul>
                 <li {% if page.isArchive %} class="active" {% endif %}><a href="/archive/">Archive</a>
                 <li {% if page.isMe %} class="active" {% endif %}>    <a href="{{ root_url }}/me/">About</a>
                 </li>
                 <li {% if page.isContact %} class="active" {% endif %}><a href="/contact/">Contact</a></li>
                 <li {% if page.isSubscribe %} class="active" {% endif %}><a href="/subscribe/">Subscribe</a>
-              </ul>
+                </ul>
+              </div>
 
-              <p style="text-align: center; opacity: 0.8; font-size: 0.8em">© Allen Pike. See also <a href="http://www.twitter.com/">Twitter</a> and <a href="http://www.steamclock.com/">Steamclock</a>.</p>
+              <p class="prologue">© Allen Pike. See also <a href="http://www.twitter.com/">Twitter</a> and <a href="http://www.steamclock.com/">Steamclock</a>.</p>
 
-          </div>
         </div> <!-- /container -->
     </body>
 </html>

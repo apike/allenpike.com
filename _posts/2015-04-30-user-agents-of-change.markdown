@@ -5,7 +5,7 @@ date: "2015-04-30 18:00:00"
 layout: post
 slug: "user-agents-of-change"
 summary: "The user-agent string just can't stop."
-title: "User agents of change"
+title: "User Agents of Change"
 categories:
 - Article
 ---

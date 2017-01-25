@@ -5,7 +5,7 @@ date: "2015-05-31 18:00:00"
 layout: post
 slug: "yosemite-one-weird-trick"
 summary: "My Mac is sad."
-title: "Fix your Mac with one weird trick"
+title: "Fix Your Mac With One Weird Trick"
 categories:
 - Article
 ---
@@ -30,7 +30,7 @@ Frustrated, last week I discovered something interesting. Searching around for i
 4. *Reset your SMC.* Really? This isn't going to work is it.
 5. A notice that this is the most crucial step: *Zap your PRAM.* Noooooooo
 
-<img src='/images/2015/mac-dummies.jpg' width='250'>
+<img src='/images/2015/mac-dummies.jpg' width='250' class='side'>
 
 For those who are new to the Mac platform, zapping the PRAM is an age-old tradition that goes back to the classic Mac OS days. Even as a child, I was taught that when you had weird behaviour on your Mac it was time to zap the PRAM, which would promptly do nothing. Zapping the PRAM is number one on the list of desparate stuff to try on a misbehaving Mac that usually doesn't fix the problem, outranking the trusty disk permissions repair and the perky newcomer, resetting the SMC. Zapping the PRAM is folk magic.
 

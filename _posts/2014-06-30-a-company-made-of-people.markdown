@@ -5,7 +5,7 @@ date: 2014-06-30 23:00:00
 layout: post
 slug: "a-company-made-of-people"
 summary: "Apple proves it's human."
-title: "A company made of people"
+title: "A Company Made of People"
 categories:
 - Article
 tags:

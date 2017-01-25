@@ -4,7 +4,7 @@ comments: true
 date: "2016-02-29 18:00:00"
 layout: post
 slug: "cofounding-variables"
-title: "Cofounding variables"
+title: "Cofounding Variables"
 summary: "Finding a co-founder gets weird."
 categories:
 - Article
@@ -24,7 +24,7 @@ Obviously, this was the most exciting thing to happen since ever. By that time I
 
 Before you know it, I was signed up, given an access badge, and set up with a PC, Visual Studio, and a menacing mountain of source code. At that time they were working on a AAA game called Simpsons Hit & Run &ndash; far too important a project to let some high school kid touch.
 
-<a href='http://www.upup.fm/show/nels-firewatch/'><img src='/images/2016/henry3d.jpg' width='250px'></a> Luckily, one of their internal tools had some nagging intern-sized issues just waiting to be scratched. For each game the artists would build their assets, then use a previewing tool to see them in 3D before loading them into the full game. As expedient as this was, the previewer had a really rudimentary camera system and was difficult to use. My first task was to simply add a dot where the virtual camera was pointing in 3D space. Just a little dot.
+<a href='http://www.upup.fm/show/nels-firewatch/'><img src='/images/2016/henry3d.jpg' width='250px' class='side'></a> Luckily, one of their internal tools had some nagging intern-sized issues just waiting to be scratched. For each game the artists would build their assets, then use a previewing tool to see them in 3D before loading them into the full game. As expedient as this was, the previewer had a really rudimentary camera system and was difficult to use. My first task was to simply add a dot where the virtual camera was pointing in 3D space. Just a little dot.
 
 At first it was daunting. Then it was fascinating. A couple days later, it was done. I had a dot &ndash; *my* dot &ndash; displaying in 3D space. I rotated it around, moving the camera, and observed what I'd created. Seeing this little dot come to life was unbelievably, irrationally exciting.
 
