@@ -13,6 +13,8 @@ tags:
 - iOS
 - Product Design
 - Startups
+- steamclock
+
 ---
 
 <iframe src="http://player.vimeo.com/video/42851640?byline=0&amp;portrait=0&amp;color=9322cc" width="100%" height="350" frameborder="0" webkitAllowFullScreen="1" mozallowfullscreen="1" allowFullScreen="1"> </iframe>

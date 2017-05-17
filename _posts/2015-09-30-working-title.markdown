@@ -8,6 +8,9 @@ summary: "A junior developer wants to rule the world."
 title: "Working Title"
 categories:
 - Article
+tags:
+- steamclock
+
 ---
 
 We recently interviewed a developer who was a new grad, brimming with enthusiasm. They answered our interview questions deftly, did well on our coding test, and presented a side project app that was sophisticated for somebody only six months out of university. Even better, their primary language was [Swift](http://www.allenpike.com/2015/moving-swiftly/).

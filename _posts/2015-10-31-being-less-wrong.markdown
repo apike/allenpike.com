@@ -8,6 +8,9 @@ summary: "Estimation is hard."
 title: "Being Less Wrong"
 categories:
 - Article
+tags:
+- steamclock
+
 ---
 
 Estimating software development is hard. There are a mind-boggling number of variables and tradeoffs involved - which is part of why we love software in the first place. Great software is built with experimentation, intuition, and iteration. This makes it both very satisfying to ship, and famously hard to predict.

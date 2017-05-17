@@ -1,0 +1,23 @@
+---
+layout: default
+title: Post Archive
+---
+
+<div id="home">
+  <h1>Articles about Steamclock</h1>
+  <p>Here are some of the articles from the archive that are about Steamclock.</p>
+  <ul class="posts archive">
+    {% assign prevyear  = "Future" %}
+    {% for post in site.posts %}
+      {% if post.tags contains "steamclock" %}
+
+      {% assign newyear  = post.date | date: "%Y" %}
+      {% if prevyear != newyear %} <h2>{{ newyear }}</h2>{% endif %}
+      {% assign prevyear = newyear %}
+
+      <li><a href="{{ post.url }}">{{ post.title }}</a>
+      <span>{% if post.summary %} &ndash; {{ post.summary }} {% endif %}</span></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

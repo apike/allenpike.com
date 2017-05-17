@@ -10,6 +10,9 @@ image: "/images/allen-pike-2014.jpg"
 featured: true
 categories:
 - Article
+tags:
+- steamclock
+
 ---
 
 Every week, I receive roughly a dozen new project inquiries. Since Steamclock works with perhaps a dozen clients in a year, I triage roughly 50 leads for every one that turns into a real project. The time I spend doing sales is neither fun nor directly producing revenue, so I'm always looking for ways to speed up this filtering and get back to making apps.

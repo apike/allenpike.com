@@ -8,6 +8,9 @@ title: "Cofounding Variables"
 summary: "Finding a co-founder gets weird."
 categories:
 - Article
+tags:
+- steamclock
+
 ---
 
 Finding a great technical co-founder is an incredibly difficult yet critical part of starting a business. Given that, folks often ask how I met Nigel, my co-founder at Steamclock. As it happens, we met in a relatively unusual way.

@@ -10,7 +10,7 @@ categories:
 - Article
 tags:
 - iPhone
-- Steam Clock
+- steamclock
 - WeddingDJ
 ---
 

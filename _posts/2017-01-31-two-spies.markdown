@@ -1,0 +1,63 @@
+---
+author: allen
+comments: true
+date: "2017-01-31 22:00:00"
+layout: post
+slug: "two-spies"
+title: "Assassinating for Fun and Profit"
+summary: "A new game appears."
+image: "/images/2017/spies-crop.jpg"
+categories:
+- Article
+tags:
+- steamclock
+---
+
+When I was a kid, I had the itch for making games. I sketched games, I designed games, and as soon as I could, I learned BASIC so I could make games. Initially these were the type of [dumb games](https://www.allenpike.com/2006/fantasytech-3-goto-fun/) you'd expect a kid to build. I actually released a game with the subtitle "Some Dramatic Subtitle".
+
+Of the many games I made over the years, the most popular one was called Political Asylum. Asylum was an online game where you ran for president using whatever strategy you saw fit: trust and integrity, advertising and bribery, or even assassination of political opponents. Liberals and fascists duked it out for the hearts and minds of the electorate.
+
+Asylum was written in PHP &ndash; the gold standard in game development languages, believe me &ndash; and this allowed it to reach a surprisingly wide range of people. The game ended up getting millions of page views, which was remarkable considering that [the interface](http://www.allenpike.com/political-asylum/) looked as if some poor creature had consumed an abundance of HTML tables and input elements and regurgitated them onto the screen.
+
+<div class='centered'>
+<img src='/images/2017/advisors-uihell.jpg'>
+<p>I republish this only with great regret and self-loathing.</p>
+</div>
+
+Each round of Asylum would last a few weeks, after which the public would become bored. You could then attempt to dismantle democracy, exploiting the people's trust and your party's power to seize authoritarian rule once and for all. In 2002, this seemed funny. A lot can change in 15 years.
+
+As silly as the game was, building it taught me a ton about making things that people care about. One of the proudest moments of my career was when, after months of very late nights, I tore down the "beta" flag on that game. I just sat in front of my little glowing iBook, basking in the joy of shipping.
+
+I haven’t shipped a game in many years. Productivity apps and consumer software have been my software development outlet, and they’ve been super satisfying.
+
+More recently though, I started to get a feeling. I’d started [a podcast about video games](http://www.upup.fm/), and was spending more time thinking about how they’re made and what makes things fun. After a decade of slumber, the itch had returned. 
+
+## Now don't start that again
+
+Soon enough, I was writing game prototypes in Swift. Surprisingly, Swift is a great language for game development. It performs well, it has efficient memory management, and it lends itself to stable code. In Asylum, weird edge cases often led to storied bugs, such as the one where a player somehow assassinated their opponents ten times each. In Swift, the static typing really reduces the number of these “oh crap” cases.
+
+In any case, after a few evenings and weekends, I’d put together some little prototypes I could demo: a weird tile-based war game, an overly ambitious [Escape Velocity](https://en.wikipedia.org/wiki/Escape_Velocity_(video_game))-inspired space game, and a turn-based spy game. Unlike the others, the spy game was designed to have the feel of a board game, but based around “hidden information” rules that took advantage of each player having their own screen. In addition to being interesting, this approach had a novel attribute: it was fun.
+
+Or so I suspected. After some initial tests and experimentation, I loaded up two iPhones and brought them to [one of our tech meetups](http://www.vanjs.com). After the event I broke out the game, and before long friends were laughing their butts off  trying it out. All I had was a prototype, and people were already asking when the Android version is coming. They were stoked, I was stoked, everybody was [stoked](https://www.youtube.com/watch?v=QgXObaM9i2Q). I thought aloud, "This could actually work!" Suddenly, 8-bit pump-up music started playing, and a game development montage began. Evenings and weekends flew by as I turned my experiment into a game. 
+
+## Meet me in Berlin
+
+<a href='/images/2017/spies-preview.jpg'><img src='/images/2017/spies-preview.jpg' class='side'></a>
+
+The basic idea of Two Spies is that you and a friend are rival agents in Cold War Europe, and your mission is to assassinate your opponent. You can do so stealthily or aggressively, but either way your success depends on controlling informants in key cities, giving you the intel you need to locate your target. It has the look and feel of a turn-based board game, but the rounds are quick, since assassination is a pretty binary operation. While the game is best played in-person, we’re also going to try Game Center support, in addition to the current Bluetooth P2P and Pass-and-Play modes.
+
+While getting the mechanics, maps, and abilities right have been important, most of the work has turned out to be building the user interface. Back when I was working on a political simulation, people still had fun despite a UI as messy as democracy itself &ndash; okay maybe nothing is that messy, but the point holds. For a game based on stealth and high-stakes gameplay, you need a thoughtful and precise UI. While I could have used a game engine like SpriteKit or Unity, most of the code is in the buttons, gestures, and dialogs, so I used my favourite tool for UI: UIKit.
+
+While this is highly unorthodox for a game, using UIKit has been great for getting help. As it happens, I run a mobile design and development shop, and the game has been a fun way for new hires to experiment, play around, and learn the ins and outs of Apple’s development stack. We've also learned how to make fun in-app animations in After Effects, which has us pretty stoked.
+
+## Getting closer
+
+A lot of details go into shipping a game, even a relatively simple one like this. For example, early on we made both players generically on the side of the “West” on the assumption that nobody wants to be a fascist. More recently though, I wonder if there’s need for deeper exploration of that theme.
+
+Another unexpected detail is that this game will be launching under a new banner, “The Royal Pixel Service”. Initially this brand will just be for Two Spies, but it could be a fun and useful home for side projects and experiments. We’ve gone this way because we wanted to go to the extra effort and expense of creating an additional company, not because *somebody* had a legal issue with us selling a game under a brand with “Steam” in the name, as if “Steamclock Software” is actually confusing with “Steam”, and I’m totally not bitter about this because it didn’t happen okay it’s water under the bridge just breathe Allen breathe.
+
+In any case, if you’d be interested in a fun little spy strategy game, you can [sign up to be a beta tester](http://www.steamclock.com/spies/) or get notified when the game is available. We’ll be seeding alpha builds privately in the next month or so, and go from there. We’ll reveal our planned date for 1.0 once we’ve gotten a wider round of beta feedback, but the formula is simple: once we’re proud of it, we’ll ship it.
+
+Until then, I’ve got some fascists to assassinate.
+
+

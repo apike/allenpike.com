@@ -8,6 +8,9 @@ title: "Moving Swiftly"
 summary: "Steamclock bets big on Swift."
 categories:
 - Article
+tags:
+- steamclock
+
 ---
 
 Last year, Apple revealed Swift, the future of software development on their platforms. [Next Wednesday](http://www.loopinsight.com/2015/08/27/apple-sends-out-invite-for-sept-9-special-event/) they're expected to officially release Swift 2 as part of Xcode 7 GM. In just a year, everything has changed. We went from writing our apps in an object-oriented flavour of C, to writing almost exclusively Swift. I'm personally writing more code than I have in years, in part because it's just fun.

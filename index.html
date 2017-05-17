@@ -14,7 +14,7 @@ isHome: true
     <li>
         
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <p class="description" style="padding-bottom: 1em"><span class="date">{{ post.date | date: "%b %Y" }} &ndash; </span>{{ post.summary }} </p>
+        <p class="description" style="padding-bottom: 1em"><span class="date">{{ post.date | date: "%B %Y" }}</span><span class="smalldate">{{ post.date | date: "%b %Y" }}</span><span class='spacer'>&ndash;</span><span class='summary'>{{ post.summary }}</span></p>
     </li>
     {% endfor %}
   </ul>

@@ -8,6 +8,9 @@ title: "Creative Destruction"
 summary: "Good apps die young."
 categories:
 - Article
+tags:
+- steamclock
+
 ---
 
 Yesterday, Brent Simmons [shut down Vesper](http://inessential.com/2016/08/30/vesper_sync_shutdown_tonight_open_sourc). It was hard for Brent and the team at Q Branch. Endings are often sad, but ending a software product stings in a unique way.

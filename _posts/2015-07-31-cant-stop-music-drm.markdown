@@ -8,6 +8,9 @@ summary: "Apple Music throws a wrench in the gears."
 title: "Can't Stop the Music"
 categories:
 - Article
+tags:
+- steamclock
+
 ---
 
 Five years ago, Steamclock launched our first app, [WeddingDJ](http://www.steamclock.com/weddingdj/). The concept was simple: a foolproof music app that you can use to run a wedding. A simple interface lets you plan out your songs and playlists, and the playback screen keeps a fat finger from skipping halfway through "Here Comes the Bride".

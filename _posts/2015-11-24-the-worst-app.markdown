@@ -9,6 +9,9 @@ summary: "Stephanie isn't the only one upset about an app."
 featured: true
 categories:
 - Article
+tags:
+- steamclock
+
 ---
 
 *Update 2: This story now has [an epilogue](#update2).*

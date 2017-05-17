@@ -11,8 +11,8 @@ categories:
 - Best Of
 tags:
 - Party Monster
-- Steam Clock
 - Story
+- steamclock
 ---
 
 Today we launched [Party Monster](http://www.steamclock.com/partymonster/), a beautifully simple queueing DJ app for iOS. Below is the video we produced to celebrate the occasion. People have really loved the app video, so I wanted to share what goes into making one.

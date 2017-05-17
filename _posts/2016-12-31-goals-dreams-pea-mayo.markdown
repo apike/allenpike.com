@@ -9,6 +9,8 @@ summary: "Goals get made, things get done."
 image: "/images/2016/little-pea.jpg"
 categories:
 - Article
+tags:
+
 ---
 
 Goals are powerful things.

@@ -11,6 +11,8 @@ categories:
 - Article
 tags:
 - Story
+- steamclock
+
 ---
 
 <img src='/images/2014/allen-baby.jpg' style='width:250px' class='side'>

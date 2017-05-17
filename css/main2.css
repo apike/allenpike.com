@@ -139,6 +139,21 @@ img.side {
   max-width: 50%;
 }
 
+div.centered {
+  text-align: center;
+}
+
+div.centered img {
+  margin: 0;
+  float: none;
+}
+
+div.centered p {
+  margin-top: 0;
+  font-style: italic;
+  color: #444;
+}
+
 /*****************************************************************************/
 /*
 /* Posts
@@ -219,7 +234,6 @@ img.side {
   h2, #recent h2 {
     font-size: 23px;
   }
-
 }
 
 @media (max-width: 650px) {
@@ -232,6 +246,18 @@ img.side {
   body .container {
     padding-left: 20px;
     padding-right: 20px;
+  }
+
+  #recent span.date {
+    display: none;
+  }
+
+  #recent span.spacer {
+    margin: 0px 3px;
+  }
+  
+  #recent span.smalldate {
+    display: inline;
   }
 
   #content {
@@ -394,12 +420,20 @@ p.meta {
    color: #8c00a8;
 }
 
-#recent .date {
+#recent .spacer {
+  margin: 0px 7px;
+}
+
+#recent .date, #recent .smalldate, #recent .spacer {
   color: #777;
 }
 
+#recent .smalldate {
+  display: none;
+}
+
 #recent .description {
-  padding: 0 0 0 20px;
+  padding: 0 0 0 23px;
   margin: 0 0 5px 0;
 }
 

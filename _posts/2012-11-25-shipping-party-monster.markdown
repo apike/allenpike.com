@@ -12,7 +12,7 @@ tags:
 - App Store
 - Party Monster
 - Product Design
-- Steam Clock
+- steamclock
 ---
 
 <img src="/images/wp-uploads/2012/11/partymonster-icon.jpg" class="retinize"/>

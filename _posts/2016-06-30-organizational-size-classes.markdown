@@ -8,6 +8,9 @@ title: "Organizational Size Classes"
 summary: "I come to terms with growth."
 categories:
 - Article
+tags:
+- steamclock
+
 ---
 
 The best thing about organizations is that they are made of people. However, just as more money causes more problems, so it is with people. In fact, the number of people in an organization may be the most important signal in understanding how it thinks and acts.

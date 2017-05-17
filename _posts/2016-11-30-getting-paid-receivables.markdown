@@ -9,6 +9,8 @@ summary: "We get paid the nice way."
 image: "/images/2016/money-pile.jpg"
 categories:
 - Article
+tags:
+- steamclock
 ---
 
 Not getting paid on time kills businesses. Slow payment is especially deadly in the consulting world, since in extreme cases it can cause a company to miss payroll. If that happens, their best people will leave. This alone makes missing payroll the worst thing that can happen to a software company. It shouldn't happen for any reason.

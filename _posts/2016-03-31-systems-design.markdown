@@ -8,6 +8,9 @@ title: "Diagrammatically Correct"
 summary: "Prototypers hack, architects diagram."
 categories:
 - Article
+tags:
+- steamclock
+
 ---
 
 Once upon a time, back when Netscape roamed the earth, software development was hard. Desktop apps shipped in cardboard boxes, web apps ran on Solaris boxes, and video games came on little plastic boxes. In this box-crazed world, making sure software was right the first time was Super Important™.
