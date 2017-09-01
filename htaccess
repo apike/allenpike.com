@@ -14,3 +14,6 @@ RedirectMatch permanent /twitterrific-wtf/ http://www.youtube.com/watch?v=54b3wE
 RedirectMatch /feed/$             http://feeds.allenpike.com/feed/
 
 ErrorDocument 404 /404.html
+
+AddType application/json .json
+AddCharset UTF-8 .json
