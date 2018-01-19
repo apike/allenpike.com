@@ -14,9 +14,7 @@ For a summary of what I do, see [my resume](http://www.allenpike.com/resume/). W
 
 Since we started Steamclock, I've usually worked on a new type of project every month. We love working on our own apps, but client work can be fun too.
 
-* **[Party Monster](http://www.steamclock.com/partymonster/)**: A queueing DJ app for parties and road trips. We made a [funky video](http://www.allenpike.com/2012/making-a-funky-app-video/) for it as well.
-
-* **[WeddingDJ](http://www.steamclock.com/weddingdj/)**: The best darn iPhone app for running music at weddings.
+* **[Two Spies](http://www.steamclock.com/spies/)**, a turn-based iPhone game I've been noodling on for some time.
 
 * **[Consulting work](http://www.steamclock.com/services/)**: We help companies ship great mobile apps. Some of my interesting client projects at Steamclock have been:
 
@@ -40,7 +38,7 @@ Since we started Steamclock, I've usually worked on a new type of project every 
 
 * **Meetups**: I started the [Vancouver Javascript Developers](http://www.vanjs.com) group, and the related [VanCocoa iOS meetup](http://www.vancocoa.com/).
 
-* **Not being at a computer**: I play ice hockey, play guitar, act, and otherwise dabble in the world away from computers. There is nothing to link here, which is for the best.
+* **Not being at a computer**: I play guitar, play ice hockey, act, and otherwise dabble in the world away from computers. There is nothing to link here, which is for the best.
 
 **Talks and Podcast Appearances**
 
@@ -48,11 +46,15 @@ I love teaching and discussing tech and other topics. <a href="/me/">Sometimes, 
 
 **Older Steamclock-era Projects** (2010-2015)
 
+* **[Party Monster](http://www.steamclock.com/partymonster/)**: A queueing DJ app for parties and road trips. We made a [funky video](http://www.allenpike.com/2012/making-a-funky-app-video/) for it as well.
+
+* **[WeddingDJ](http://www.steamclock.com/weddingdj/)**: The best darn iPhone app for running music at weddings.
+
 * **[Prism](http://www.steamclock.com/blog/2014/10/goodbye-prism/)**: We shipped and later retired a photo browser for iPad that excelled at showing photos of kittens.
 
 * **Unladen Follow**: I created a tool to unfollow the most annoying people on Twitter. It was semi-broken by Twitter's 1.1 API changes, but I'd love to bring it back one day.
 
-* **Prototypes**: Lots of interesting prototypes haven't made it out of the Steamclock labs - for example an antisocial Facebook app, a Git client for Mac, and a turn-based strategy game.
+* **Prototypes**: Lots of interesting prototypes haven't made it out of the Steamclock labs - for example [an app for recording podcasts](/2014/podcast-recording/), an antisocial Facebook app, a Git client for Mac, and a turn-based strategy game.
 
 * **CMPT 470**: I've twice taught the 4th-year Web Technologies course for SFU's Computing Science department. In doing so, I learned that I love teaching and hate grading.
 

@@ -19,7 +19,7 @@ Allen is a designer and developer who runs Steamclock Software in Vancouver.
 * Shipped dozens of top-notch iOS, Android, and web apps
 * Manages a team of 10 developers and designers
 * Does project management, product management, sales, and consulting
-* Speaks at conferences around the world
+* [Speaks](/speaking/) at conferences around the world
 * Writes and trains Swift and JavaScript
 
 #### [Apple](http://www.apple.com/), Software Engineer, 2008 - 2010
@@ -44,7 +44,7 @@ Allen is a designer and developer who runs Steamclock Software in Vancouver.
 
 * Taught two semesters of CMPT 470 for SFU Computing Science
 * Runs two Vancouver speaker series, VanJS and VanCocoa
-* Hosts a game design and development podcast, Up Up Down Down
+* Hosted a game design and development podcast, Up Up Down Down
 * Developed a number of games and side projects
 
 ## Education

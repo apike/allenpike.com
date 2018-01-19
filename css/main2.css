@@ -86,6 +86,15 @@ img {
   margin-bottom: 10px;
 }
 
+.post hr {
+  margin: 0px auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  width: 25%;
+  border: solid #9600b3;
+  border-width: 1px 0px 0px 0px;
+}
+
 li.active {
   font-weight: bold;
 }
