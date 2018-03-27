@@ -5,17 +5,21 @@ isHome: true
 ---
 
 <div id="home">
-  <p>Hi, I'm <a href='/me/'>Allen Pike</a>. I run <a href='http://www.steamclock.com/'>Steamclock</a>, where we design and develop polished apps in beautiful Vancouver. Once a month, I write an article and publish it here.</p>
+  <p>Hi, I'm <a href='/me/'>Allen Pike</a>. I run <a href='http://www.steamclock.com/'>Steamclock</a>, where we design and develop polished apps in beautiful Vancouver. At least monthly, I write an article and publish it here.</p>
 
-  <h4>Recent Articles</h4>
-
-  <ul class="posts" id="recent">
     {% for post in site.posts limit: 12 %}
-    <li>
+
+    <hr />
+
+    <h1><a href='{{ post.url }}'>{{ post.title }}</a></h1>
+    <p><span class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
         
-        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        <p class="description" style="padding-bottom: 1em"><span class="date">{{ post.date | date: "%B %Y" }}</span><span class="smalldate">{{ post.date | date: "%b %Y" }}</span><span class='spacer'>&ndash;</span><span class='summary'>{{ post.summary }}</span></p>
-    </li>
+    <div class="post">
+    {{ post.content }}
+    </div>
+
+    <p class='permalink'><a href='{{ post.url }}'>∞</a></p>
+
     {% endfor %}
   </ul>
 

@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  font-size: 34px;
+  font-size: 38px;
   line-height: 46px;
   margin: 10px 0;
 }
@@ -86,12 +86,21 @@ img {
   margin-bottom: 10px;
 }
 
+hr {
+  margin: 0px auto;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  width: 33%;
+  border: solid #9600b3;
+  border-width: 4px 0px 0px 0px;
+}
+
 .post hr {
   margin: 0px auto;
   margin-top: 2em;
   margin-bottom: 2em;
   width: 25%;
-  border: solid #9600b3;
+  border: solid #555;
   border-width: 1px 0px 0px 0px;
 }
 
@@ -113,6 +122,11 @@ li.active {
 
 .footer.navigation {
   clear: both;
+}
+
+p.permalink {
+  text-align: right;
+  margin-bottom: -1em;
 }
 
 
@@ -237,7 +251,7 @@ div.centered p {
   }
 
   h1 {
-    font-size: 28px;
+    font-size: 32px;
   }
 
   h2, #recent h2 {
@@ -407,8 +421,8 @@ form.newsletter input[type="submit"] {
   font-family: "ff-meta-web-pro", Helvetica, sans-serif;
 }
 
-p.meta {
-  color: #666;
+p.meta, span.meta {
+  color: #645f66;
 }
 
 /* Home */

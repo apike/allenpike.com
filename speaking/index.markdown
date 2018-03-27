@@ -10,6 +10,7 @@ title: Speaking and Podcasts
 I enjoy teaching and telling stories, especially around software design and development. In recent years I've been lucky enough to be invited to do so at over a dozen conferences around the world. If you run a conference and want to talk, [get in touch](/contact/).
 
 <img src='/images/allen-speaking.jpg' />
+<p style='text-align: center; font-style: italic;'>A slide from a talk I gave in 2017 at Microsoft.</p>
 
 
 ### Topics
@@ -17,17 +18,17 @@ I enjoy teaching and telling stories, especially around software design and deve
 I often speak on the same topics that I [write about](/archive). Here are some examples:
 
 * **Product and project management for quality**, including [communication](/2017/principle-of-least-surprise/), iteration, and what it takes to drive great UX.
-* **iOS app design and development**, especially topics around UI.
+* **Mobile app design and development**, especially topics around UI and product strategy.
 * **Lessons learned from shipping products**, whether it was our app that [mapped the internet](http://www.steamclock.com/blog/2013/03/mapping-the-internet/), our various internal product experiments, or one of the dozens of products we've shipped for clients.
-* **Engineering leadership**, including [engaging and retaining](/feedback-mountain/) a team, technical decision-making, and advocating for quality.
-* **Running a business**, especially through sizes 2-10 people.
-* **Personal stories** that inform, whether they're [heavy](/2017/bright-side-of-the-moon/) or [light](h/feeding-the-baby/).
+* **Engineering leadership**, including [engaging and retaining](/2017/feedback-mountain/) a team, technical decision-making, and advocating for quality.
+* **Running a business**, especially a software business.
+* **Personal stories** that inform, whether they're [heavy](/2017/bright-side-of-the-moon/) or [light](/2014/feeding-the-baby/).
 
 Also, on occasion, I'll MC a conference or show. 
 
 ### Videos
 
-Here are a couple example videos talks I've given:
+Here are two example videos of talks I've given:
 
 **Competing with Art, at CocoaLove in Philadelphia**
 
@@ -45,6 +46,7 @@ Here are a couple example videos talks I've given:
 
 I enjoy guesting on podcasts &ndash; they're most of the fun of giving a talk, with a lot less work. Here are some shows I've been on:
 
+* [Giant Robots 264](http://giantrobots.fm/264), where we talk about building great product teams.
 * [Clockwise 174](https://www.relay.fm/clockwise/174), where we discuss iPad, Apple Watch, Apple-produced original content, and iTunes
 * Release Notes [190, where I talk about our products](https://releasenotes.tv/190-allen-pike-part-1/), and [191, where I talk about client work](https://releasenotes.tv/191-allen-pike-part-2/).
 * [Up Up Down Down](http://upup.fm), the game development podcast I co-hosted, currently on hiatus.
