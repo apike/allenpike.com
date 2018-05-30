@@ -17,7 +17,7 @@ Until it doesn’t.
 
 On occasion, you will hit a Bug. Not a mundane bug, some trifle you can fix in an hour, or even a day. This is a true Bug. One that defies reason. One that evokes a “that’s not possible,” a “how could this even happen?”, or most dreadfully, a “could there be a bug in the compiler?” Hold on kids, we’re going hunting.
 
-Recently, I reported a regression in an app we’re working on: it had become dreadfully slow on launch. QA had noticed the issue too, which is good, but nobody on the development team had seen it happen – which is bad. Scrolling performance was awful our CI release builds, but fine when the project was built via Xcode. The build settings seemed to be the same. Standard performance profiling turned up nothing obvious. We had ourselves a Bug.
+Recently, I reported a regression in an app we’re working on: it had become dreadfully slow on launch. QA had noticed the issue too, which is good, but nobody on the development team had seen it happen – which is bad. Scrolling performance was awful on our CI release builds, but fine when the project was built via Xcode. The build settings seemed to be the same. Standard performance profiling turned up nothing obvious. We had ourselves a Bug.
 
 Diagnosing and fixing a Bug requires patience, thoughtfulness, and above all a systematic, scientific mindset. We must eliminate variables one by one. Persistently forming hypotheses and testing each one is the name of the game. While the poor engineer assigned to hunt the Bug already knows this, it is our tradition to ease the pain by sharing the story of a legendary Bug Hunt.
 
