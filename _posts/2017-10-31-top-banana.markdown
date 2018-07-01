@@ -10,6 +10,7 @@ image: "/images/2017/bananas-square.jpg"
 categories:
 - Article
 tags:
+- steamclock
 ---
 
 Being a generalist is great fun. There is much joy to be had in jumping between programmer and artist, project manager and product designer, bug finder and bug maker. You can also be a musician and athlete, parent and world traveller, superfan, superstar, and whatever else strikes your fancy if you invest the time. The world is your bivalve!

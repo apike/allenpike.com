@@ -6,9 +6,11 @@ slug: "the-great-bug-hunt"
 title: "The Great Bug Hunt"
 summary: "A crashing Xbox proves hard to debug."
 image: "/images/2018/campfire-square.jpg"
+featured: true
 categories:
 - Article
 tags:
+- steamclock
 ---
 
 A fun thing about programming is that most days, you make progress. Maybe you fix some issues, maybe you add a feature, maybe you build towards something bigger. Your code moves ever forward.

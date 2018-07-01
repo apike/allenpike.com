@@ -10,6 +10,7 @@ image: "/images/2017/panzerbird.jpg"
 categories:
 - Article
 tags:
+- steamclock
 ---
 
 This week we released [Bluejay, a simple Swift framework for Bluetooth hardware communication](http://github.com/steamclock/bluejay). This was fun, but also weird. You see, we learned Bluetooth by accident.
