@@ -39,7 +39,7 @@ Apparently, I once used an early version of Instapaper to save [an article from 
 
 I skimmed the article for old times’ sake, then hit Archive. Progress 1, mind expansion 0.
 
-Over the coming weeks, I diligently worked my my way forward in time. The JavaScript article wasn’t the only piece to age poorly. “The bold new world of 3D TV”, ha right. “Why Twitter must reverse its 2012 policy changes,” sigh. “Why Trump could never be elected,” projectile barf.
+Over the coming weeks, I diligently worked my way forward in time. The JavaScript article wasn’t the only piece to age poorly. “The bold new world of 3D TV”, ha right. “Why Twitter must reverse its 2012 policy changes,” sigh. “Why Trump could never be elected,” projectile barf.
 
 Before long, I’d learned to cock my Archive finger when I came across a piece about politics or technology news. These links, the bulk of my Twitter and RSS feeds, seemed important when they were new, but a few years later they’re kinda just not. The more urgent a take felt, the less likely it turned out to be an important one. Which is [kind of a known thing](https://www.thecoachingtoolscompany.com/coaching-tools-101-what-is-the-urgent-important-matrix/).
 

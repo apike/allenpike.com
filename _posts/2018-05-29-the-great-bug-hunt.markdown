@@ -23,7 +23,7 @@ Recently, I reported a regression in an app we’re working on: it had become dr
 
 Diagnosing and fixing a Bug requires patience, thoughtfulness, and above all a systematic, scientific mindset. We must eliminate variables one by one. Persistently forming hypotheses and testing each one is the name of the game. While the poor engineer assigned to hunt the Bug already knows this, it is our tradition to ease the pain by sharing the story of a legendary Bug Hunt.
 
-Gather 'round, friends, for the Story of the Crashing Xbox.
+Gather ’round, friends, for the Story of the Crashing Xbox.
 
 <img src='/images/2018/campfire.jpg'>
 
