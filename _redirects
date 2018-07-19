@@ -6,6 +6,7 @@
 /archives/          https://www.allenpike.com/archive/
 
 
+/feed/              http://feeds.allenpike.com/feed/
 /feed/*             http://feeds.allenpike.com/feed/
 
 # AddType application/json .json
