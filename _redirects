@@ -1,0 +1,12 @@
+# Redirects for Netlify
+
+/461/project/       https://www.allenpike.com/modeling-plants-with-l-systems/
+/461/               https://www.allenpike.com/modeling-plants-with-l-systems/
+/antipode           https://www.allenpike.com/feed
+/archives/          https://www.allenpike.com/archive/
+
+
+/feed/*             http://feeds.allenpike.com/feed/
+
+# AddType application/json .json
+# AddCharset UTF-8 .json
