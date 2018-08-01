@@ -29,7 +29,7 @@ Spoiler: it took a lot.
 
 After turning on the unread badge in Instapaper – and using an advanced setting to let it download my full backlog – I came face to face with my goal: 372 articles. 372 pieces of writing that past-me had delegated to future-me. Well future-me, time to make some coffee.
 
-<img src="/images/2018/instapaper-372.jpg" style="max-width: 175px">
+<img src=" " style="max-width: 175px">
 
 With my coffee steaming and my toddler napping, I got comfortable and scrolled down, way way down, to the oldest article.
 
