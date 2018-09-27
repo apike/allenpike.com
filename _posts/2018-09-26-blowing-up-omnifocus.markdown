@@ -4,7 +4,7 @@ date: "2018-09-28 11:10:10 -08:00"
 layout: post
 title: "Blowing Up Your OmniFocus"
 summary: "We break some eggs upgrading to OmniFocus 3."
-image: "/images/2018/omnifocus-boss.png"
+image: "/images/2018/omnifocus-boss.png?2"
 categories:
 - Article
 tags:
