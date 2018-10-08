@@ -4,7 +4,7 @@ date: "2018-10-07 11:10:10 -08:00"
 layout: post
 title: "Vancouver Election Guide, 2018"
 summary: "A housing crisis and dueling viewpoints make for a fascinating election."
-image: "/images/2018/vancouver-candidates-graph-crop.png"
+image: "/images/2018/vancouver-square.png"
 categories:
 - Article
 tags:
