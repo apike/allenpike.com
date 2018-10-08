@@ -4,7 +4,7 @@ date: "2018-10-07 11:10:10 -08:00"
 layout: post
 title: "Vancouver Election Guide, 2018"
 summary: "City politics get interesting."
-image: "/images/2018/vancouver-candidates-graph.png"
+image: "/images/2018/vancouver-candidates-graph-crop.png"
 categories:
 - Article
 tags:
