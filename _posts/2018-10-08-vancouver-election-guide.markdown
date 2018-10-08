@@ -105,7 +105,7 @@ This election has been called the [year of the independent](https://www.cbc.ca/n
 
 Consistently leading the polls for months, the favourite for Mayor this year is Independent candidate **Kennedy Stewart**. Stewart was until recently a Member of Parliament for the NDP, so he has the standard-issue union support and progressive politics. While his early campaign was mostly about opposing pipelines, more recently he’s adopted many ambitious housing goals from the urbanist left, especially Vision.
 
-Although his campaign hasn’t exactly been *exiting*, his positions and poll numbers have earned him official or unofficial support from the main parties and organizations on the left. As they say, “Divided we fall, united we vote for a pretty good candidate even if he’s kind of boring.”
+Although his campaign hasn’t exactly been *exciting*, his positions and poll numbers have earned him official or unofficial support from the main parties and organizations on the left. As they say, “Divided we fall, united we vote for a pretty good candidate even if he’s kind of boring.”
 
 The other credible mayoral candidate on the left is also Independent: SFU director and former Vancity and MEC board member **Shauna Sylvester**. Although her policies are arguably more thoughtful than Stewart’s and she seems like she’d be excellent, she’s been polling at half his numbers. As such, most endorsements have been going Stewart’s way in an effort to avoid splitting the vote – and giving the crown to the NPA’s Ken Sim.
 
