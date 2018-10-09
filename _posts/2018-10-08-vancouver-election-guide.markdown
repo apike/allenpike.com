@@ -173,7 +173,7 @@ Without getting deep into the new, long-shot, right-leaning fringe parties, it�
 
 The most infamous is an alt-right style party called Coalition. They’re the one party not focused on housing, due to their burning desire to [tear out bike lanes](https://www.straight.com/news/1093651/vancouver-mayoral-candidate-wai-young-really-really-really-doesnt-bike-lanes) and [“clean up” “vagrancy”](https://twitter.com/Coalition_YVR/status/1046824774905647104). I suppose every wedding needs a drunk uncle.
 
-There is also Vancouver 1st, which is pledging to bring back the Grizzlies, and ProVancouver, which features an eclectic mix of anti-development folks and odds and ends, including a [cromulent conservationist housing platform](https://www.provancouver.ca/homes_not_investments) that seems to position them as a somewhat more conservative and disorganized Green Party, but with [far lower polling numbers](https://researchco.ca/2018/09/11/vancouver-council/).
+There is also Vancouver 1st, which is pledging to bring back the Grizzlies, and ProVancouver, which features an eclectic mix of anti-development folks and odds and ends, including a [cromulent conservationist housing platform](https://www.provancouver.ca/homes_not_investments) that seems to position them as a somewhat more conservative and disorganized Green Party – but with [far lower polling numbers](https://researchco.ca/2018/09/11/vancouver-council/).
 
 If you want to hate-read, or get a sense of why young people and renters need to actually vote, I’d say reading about Coalition would be your go-to. But before getting sucked too deeply into that vortex, make specific plan for your own vote.
 
@@ -193,6 +193,7 @@ This guide was a large undertaking and covered a lot of ground. If you have feed
 If have the time and brain capacity to learn more from other sources, here are some great starting places:
 
 - The CBC’s [Vancouver voter’s guide](https://www.cbc.ca/news/canada/british-columbia/vancouver-council-candidates-1.4770924)
+- CBC Municipal Affairs Reporter [Justin McElroy's Twitter](https://twitter.com/j_mcelroy)
 - The Straight’s [list of key new ideas this election](https://www.straight.com/news/1147271/vancouver-election-candidates-bring-forth-fresh-ideas-shake-status-quo)
 - The Courier’s [bios for who’s running](https://www.vancourier.com/news/here-s-who-s-running-for-city-council-in-vancouver-this-election-1.23449961)
 - Christopher Porter’s [Vancouver Election 2018 Housing Primer](https://canadianveggie.wordpress.com/2018/10/06/vancouver-election-2018-primer-part-3-housing/)
