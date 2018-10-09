@@ -173,7 +173,7 @@ Without getting deep into the new, long-shot, right-leaning fringe parties, it�
 
 The most infamous is an alt-right style party called Coalition. They’re the one party not focused on housing, due to their burning desire to [tear out bike lanes](https://www.straight.com/news/1093651/vancouver-mayoral-candidate-wai-young-really-really-really-doesnt-bike-lanes) and [“clean up” “vagrancy”](https://twitter.com/Coalition_YVR/status/1046824774905647104). I suppose every wedding needs a drunk uncle.
 
-There is also Vancouver 1st, who according to the polls is in the race for last place, but which has garnered media attention for a promise bring back the Vancouver Grizzlies.
+There is also Vancouver 1st, who according to the polls is in the race for last place, but which has garnered media attention for a promise to somehow bring back the Vancouver Grizzlies.
 
 We also have ProVancouver, featuring an eclectic mix of anti-development folks and odds and ends, including a [cromulent housing platform](https://www.provancouver.ca/homes_not_investments) that seems to position them as a somewhat more conservative and disorganized Green Party. Although ProVancouver's [polling numbers](https://researchco.ca/2018/09/11/vancouver-council/) put them far out of reach of the Mayoralty, you need to give them credit for being the only party with a candidate that has [warned everybody to be extremely wary of this misleading guide](https://twitter.com/rohanarezel/status/1049398506111168512).
 
