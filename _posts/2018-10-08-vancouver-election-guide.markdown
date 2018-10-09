@@ -169,11 +169,11 @@ Their Mayoral Candidate, **Ken Sim**, is a business guy, owner of Rosemary Rocks
 <a name="longtail"></a>
 
 ## The long tail, wild and weird
-While it’s not worth spending much time on the long list of new, long-shot, right-leaning fringe parties, it’s worth knowing they exist.
+Without getting deep into the new, long-shot, right-leaning fringe parties, it’s worth knowing they exist.
 
-The most infamous is an alt-right style of party called Coalition. They’re the one party not focused on housing, due to their burning desire to [tear out bike lanes](https://www.straight.com/news/1093651/vancouver-mayoral-candidate-wai-young-really-really-really-doesnt-bike-lanes) and [“clean up” “vagrancy”](https://twitter.com/Coalition_YVR/status/1046824774905647104). I suppose every wedding needs a drunk uncle.
+The most infamous is an alt-right style party called Coalition. They’re the one party not focused on housing, due to their burning desire to [tear out bike lanes](https://www.straight.com/news/1093651/vancouver-mayoral-candidate-wai-young-really-really-really-doesnt-bike-lanes) and [“clean up” “vagrancy”](https://twitter.com/Coalition_YVR/status/1046824774905647104). I suppose every wedding needs a drunk uncle.
 
-There is also Vancouver 1st, which is pledging to bring back the Grizzlies, and ProVancouver, which features an eclectic mix of anti-development folks and odds and ends, featuring a [superficially cromulent housing platform](https://www.provancouver.ca/homes_not_investments) that seems to position them as a somewhat more conservative and disorganized Green Party.
+There is also Vancouver 1st, which is pledging to bring back the Grizzlies, and ProVancouver, which features an eclectic mix of anti-development folks and odds and ends, including a [cromulent conservationist housing platform](https://www.provancouver.ca/homes_not_investments) that seems to position them as a somewhat more conservative and disorganized Green Party, but with [far lower polling numbers](https://researchco.ca/2018/09/11/vancouver-council/).
 
 If you want to hate-read, or get a sense of why young people and renters need to actually vote, I’d say reading about Coalition would be your go-to. But before getting sucked too deeply into that vortex, make specific plan for your own vote.
 
