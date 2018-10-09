@@ -175,7 +175,7 @@ The most infamous is an alt-right style party called Coalition. They’re the on
 
 There is also Vancouver 1st, who according to the polls is in the race for last place, but which has garnered media attention for a promise to somehow bring back the Vancouver Grizzlies.
 
-We also have ProVancouver, featuring an eclectic mix of anti-development folks and odds and ends, including a [cromulent housing platform](https://www.provancouver.ca/homes_not_investments) that seems to position them as a somewhat more conservative and disorganized Green Party. Although ProVancouver's [polling numbers](https://researchco.ca/2018/09/11/vancouver-council/) put them far out of reach of the Mayoralty, you need to give them credit for being the only party with a candidate that has [warned everybody to be extremely wary of this misleading guide](https://twitter.com/rohanarezel/status/1049398506111168512).
+We also have ProVancouver, featuring an eclectic mix of anti-development folks and odds and ends, including a [cromulent housing platform](https://www.provancouver.ca/homes_not_investments) that seems to position them as a somewhat more conservative and disorganized Green Party. Although ProVancouver's [polling numbers](https://researchco.ca/2018/09/11/vancouver-council/) put them far out of reach of the Mayoralty, you need to give them credit for being the only party with a candidate that has [warned followers to be extremely wary of this misleading guide](https://twitter.com/rohanarezel/status/1049398506111168512).
 
 If you want to hate-read, or get a sense of why young people and renters need to actually vote, I’d say reading about Coalition would be your go-to. But before getting sucked too deeply into that vortex, make a specific plan for your own vote.
 
