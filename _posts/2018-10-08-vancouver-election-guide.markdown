@@ -107,7 +107,7 @@ Consistently leading the polls for months, the favourite for Mayor this year is 
 
 Although his campaign hasn’t exactly been *exciting*, his positions and poll numbers have earned him official or unofficial support from the main parties and organizations on the left. As they say, “Divided we fall, united we vote for a pretty good candidate even if he’s kind of boring.”
 
-The other credible mayoral candidate on the left is also Independent: SFU director and former Vancity and MEC board member **Shauna Sylvester**. Although her policies are arguably more thoughtful than Stewart’s and she seems like she’d be excellent, her poll numbers have meant that endorsements have been going Stewart’s way in an effort to avoid splitting the vote – and giving the crown to the NPA’s Ken Sim. Based [the Oct 9 poll numbers](https://researchco.ca/2018/10/09/vancouver-october08/) though, you should feel safe voting for Shauna if you prefer her policies or want a less lefty Mayor than Stewart.
+The other credible mayoral candidate on the left is also Independent: SFU director and former Vancity and MEC board member **Shauna Sylvester**. Although her policies are arguably more thoughtful than Stewart’s and she seems like she’d be excellent, her poll numbers have led to endorsements going Stewart’s way in an effort to avoid splitting the vote – and giving the crown to the NPA’s Ken Sim. Based on [the Oct 9 poll numbers](https://researchco.ca/2018/10/09/vancouver-october08/) though, you should feel safe voting for Shauna if you prefer her policies, or want a less lefty Mayor than Stewart.
 
 For Council we also have some very strong independents. **Sarah Blyth**, for example, is very qualified and has a serious shot. She’s co-founder of the Overdose Prevention Society, and served two terms on Park Board. She’s an advocate for affordable housing, on a platform that sounds somewhere between COPE’s and Vision’s, focusing on existing renters.
 
@@ -122,9 +122,9 @@ Where OneCity is the “all the housing” party on the left, Yes is the “all 
 
 Yes’ founder and Mayoral candidate, **Hector Bremner**, is a sitting Councillor and really knows the housing file. His polished videos and talking points have attracted some fans, who like his a market-oriented plan for mass rezoning new housing supply. Yes has the most in-depth housing plan of any party – [it’s 50 pages long and literally has flow charts in it](https://yesvancouver.ca/assets/media/2018/09/LetsFixHousing_Action_Plan.pdf). Flow charts!
 
-Yes has also attracted its share of haters. Even some urbanists are a bit uncomfortable with the idea of a pro-development Mayor who worked in PR for real estate developers and has received [$85k in grey-market advertising from a billionaire real estate developer](https://www.cbc.ca/news/canada/british-columbia/i-didn-t-think-he-was-terribly-impressed-with-me-hector-bremner-brushes-off-developer-s-85k-donation-1.4837932). 
+Yes has also attracted its share of haters. Even some urbanists are uncomfortable with the idea of a pro-development Mayor who worked in PR for real estate developers and has received [$85k in grey-market advertising from a billionaire real estate developer](https://www.cbc.ca/news/canada/british-columbia/i-didn-t-think-he-was-terribly-impressed-with-me-hector-bremner-brushes-off-developer-s-85k-donation-1.4837932). 
 
-Given [the latest polling](https://researchco.ca/2018/10/09/vancouver-october08/), Bremner doesn't seem to within reach of Mayor’s seat – which could mean his Council candidates have a better chance of getting elected than their leader. Local business owner **Stephanie Ostler** seems to be their strongest council candidate, and is apparently well liked. They have 4 lower profile [candidates running](https://yesvancouver.ca/people/) as well, so if market-oriented urbanism is your thing, party-vote it up. Also, if you like the Yes platform, independent Council candidate **Adrian Crook** has a similar take.
+Given [the latest polling](https://researchco.ca/2018/10/09/vancouver-october08/), Bremner doesn't seem to be within reach of Mayor’s seat – which could mean his Council candidates have a better chance of getting elected than their leader. Local business owner **Stephanie Ostler** seems to be their strongest council candidate, and is apparently well liked. They have 4 lower profile [candidates running](https://yesvancouver.ca/people/) as well, so if market-oriented urbanism is your thing, party-vote it up. Also, if you like the Yes platform, independent Council candidate **Adrian Crook** has a similar take.
 
 <a name="vision"></a>
 
@@ -177,7 +177,7 @@ There is also Vancouver 1st, who according to the polls is in the race for last 
 
 We also have ProVancouver, featuring an eclectic mix of anti-development folks and odds and ends, including a [cromulent housing platform](https://www.provancouver.ca/homes_not_investments) that seems to position them as a somewhat more conservative and disorganized Green Party. Although ProVancouver's [polling numbers](https://researchco.ca/2018/09/11/vancouver-council/) put them far out of reach of the Mayoralty, you need to give them credit for being the only party with a candidate that has [warned everybody to be extremely wary of this misleading guide](https://twitter.com/rohanarezel/status/1049398506111168512).
 
-If you want to hate-read, or get a sense of why young people and renters need to actually vote, I’d say reading about Coalition would be your go-to. But before getting sucked too deeply into that vortex, make specific plan for your own vote.
+If you want to hate-read, or get a sense of why young people and renters need to actually vote, I’d say reading about Coalition would be your go-to. But before getting sucked too deeply into that vortex, make a specific plan for your own vote.
 
 <a name="voting"></a>
 
@@ -202,6 +202,6 @@ If have the time and brain capacity to learn more from other sources, here are s
 - The [Tyee’s election guide](https://thetyee.ca/News/2018/09/10/Your-Guide-To-The-Vancouver-Election/)
 - [The Cambie Report](https://cambiereport.ca) podcast
 
-For new readers curious where I'm coming from, I'm a thirty-something with a family, currently renting a condo in Mount Pleasant. I run a small business, and like many in my generation have become an advocate for affordable housing – for my family, my employees, and my friends who can barely afford to stay in a city with acres upon acres of underbuilt land.
+For new readers curious where I'm coming from: I'm a thirty-something with a family, currently renting a condo in Mount Pleasant. I run a small business, and like many in my generation have become an advocate for affordable housing – for my family, my employees, and my friends who can barely afford to stay in a city with acres and acres of single family houses.
 
-Special thanks to the Cambie Report hosts and supporters, both for the excellent and informative show, and tolerating my many newbie-level questions about Vancouver politics.
+Special thanks to the Cambie Report hosts and supporters, both for the excellent and informative show, and tolerating my many  questions about Vancouver politics. Also thanks to the many folks who are helping get more voters engaged in democracy.
