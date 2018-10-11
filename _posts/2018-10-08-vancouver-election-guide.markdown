@@ -111,7 +111,7 @@ Although his early campaign was mostly about opposing pipelines, more recently h
 
 The other credible mayoral candidate on the left is also Independent: SFU director and former Vancity and MEC board member **Shauna Sylvester**. Although her policies are arguably more thoughtful than Stewart’s and she seems like she’d be excellent, polling led to endorsements going Stewart’s way in an effort to avoid splitting the vote – and giving the crown to the NPA’s Ken Sim.
 
-Based on [the Oct 9 poll numbers](https://researchco.ca/2018/10/09/vancouver-october08/) though, you should feel safe voting for Shauna if you prefer her take on things. Her platform includes includes a focus on co-ops and other non-profit housing models, as well positioning herself as good unifier of what could be a very random city council.
+Based on [the Oct 9 poll numbers](https://researchco.ca/2018/10/09/vancouver-october08/) though, you should feel safe voting for Shauna if you prefer her take on things. Her platform includes includes a focus on co-ops and other non-profit housing models, as well as positioning herself as good unifier of what could be a very random city council.
 
 For Council we also have some very strong independents. **Sarah Blyth**, for example, is very qualified and has a serious shot. She’s co-founder of the Overdose Prevention Society, and served two terms on Park Board. She’s an advocate for affordable housing, on a platform that sounds somewhere between COPE’s and Vision’s, focusing on existing renters.
 
