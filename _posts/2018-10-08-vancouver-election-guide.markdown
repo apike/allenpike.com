@@ -10,6 +10,8 @@ categories:
 tags:
 ---
 
+*Updated through October 10 to reflect polling and make corrections.*
+
 Canadian politics is, typically, boring. And we like it that way. We’ve seen what can happen when politics get too interesting. And well, America, you can keep it. Sorry.
 
 From time to time though, politics in Canada does get interesting. On occasion, the issues get serious enough or an election gets weird enough that we find ourselves in a high-stakes voting scenario. If you don’t believe me, [ask Ontario](https://www.chatelaine.com/living/politics/doug-ford-cuts/).
@@ -157,7 +159,7 @@ Interestingly though, when you dig into the Greens’ policies and record, they�
 
 The Vancouver Greens have one sitting councillor, **Adriane Carr**, who is extremely likely to be re-elected by virtue of name recognition. This is despite the fact she has [voted against far more housing](https://twitter.com/KQ_VanCity/status/1048370161571516416) than any sitting Councillor – including social and rental housing. Her reasons for voting against housing seem to vary – sometimes it’s concerns about landowners’ views, or often it’s longtime favourites “insufficient consultation” or “this won’t fix the crisis”. As a whole her record is pretty plain: she votes to conserve what we’ve got.
 
-That said, the Greens’ **Pete Fry** is an interesting candidate. He has long campaigned on housing issues, and seems more willing than Carr to support new housing. He’s well-liked and has a good shot at the polls. Green also has two additional council candidates that have a chance, **Michael Wiebe** and **David Wong**. If you think Council needs more conservationist voices, or you’re a centrist “don’t rock the boat” type voter, the Greens could be a good fit.
+That said, the Greens’ **Pete Fry** is an interesting candidate. He has long campaigned on housing issues, and seems more willing than Carr to support new housing. He’s well-liked and has a good shot at the polls. Green also has two additional council candidates, **Michael Wiebe** and **David Wong**. If you think Council needs more conservationist voices, or you’re a centrist “don’t rock the boat” type voter, the Greens could be a good fit.
 
 <a name="npa"></a>
 
