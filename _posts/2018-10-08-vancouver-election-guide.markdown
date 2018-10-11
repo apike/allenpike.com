@@ -196,7 +196,7 @@ Early voting runs **Wednesday, Oct 10** to **Wednesday, Oct 17**, and any voter 
 
 This guide was a large undertaking and covered a lot of ground. If you have feedback or (especially) corrections, [get in touch](https://allenpike.com/contact/)!
 
-If have the time and brain capacity to learn more from other sources, here are some great starting places:
+If you have the time and brain capacity to learn more from other sources, here are some great starting places:
 
 - The CBC’s [Vancouver voter’s guide](https://www.cbc.ca/news/canada/british-columbia/vancouver-council-candidates-1.4770924)
 - CBC Municipal Affairs Reporter [Justin McElroy's Twitter](https://twitter.com/j_mcelroy)
