@@ -157,7 +157,7 @@ Ah, the Greens. At the national, provincial, and city level the Green Party has 
 
 Interestingly though, when you dig into the Greens’ policies and record, they’re more conservative than people think. While folks seem to vote Green for change, at the city level they’re the party of the middle ground.
 
-The Vancouver Greens have one sitting councillor, **Adriane Carr**, who is extremely likely to be re-elected by virtue of name recognition. This is despite the fact she has [voted against far more housing](https://twitter.com/KQ_VanCity/status/1048370161571516416) than any sitting Councillor – including social and rental housing. Her reasons for voting against housing seem to vary – sometimes it’s concerns about landowners’ views, or often it’s longtime favourites “insufficient consultation” or “this won’t fix the crisis”. As a whole her record is pretty plain: she votes to conserve what we’ve got.
+The Vancouver Greens have one sitting councillor, **Adriane Carr**, who is extremely likely to be re-elected by virtue of name recognition. This is despite the fact she has [voted against far more housing](https://twitter.com/KQ_VanCity/status/1048370161571516416) than any sitting Councillor – including social and rental housing. Her reasons for voting against housing may vary – sometimes it’s concerns about landowners’ views, or often it’s longtime favourites “insufficient consultation” or “this won’t fix the crisis”. As a whol, her record is pretty plain: she votes to conserve what we’ve got.
 
 That said, the Greens’ **Pete Fry** is an interesting candidate. He has long campaigned on housing issues, and seems more willing than Carr to support new housing. He’s well-liked and has a good shot at the polls. Green also has two additional council candidates, **Michael Wiebe** and **David Wong**. If you think Council needs more conservationist voices, or you’re a centrist “don’t rock the boat” type voter, the Greens could be a good fit.
 
@@ -177,7 +177,7 @@ Without getting deep into the new, long-shot, right-leaning fringe parties, it�
 
 The most infamous is an alt-right style party called Coalition. They’re the one party not focused on housing, due to their burning desire to [tear out bike lanes](https://www.straight.com/news/1093651/vancouver-mayoral-candidate-wai-young-really-really-really-doesnt-bike-lanes) and [“clean up” “vagrancy”](https://twitter.com/Coalition_YVR/status/1046824774905647104). I suppose every wedding needs a drunk uncle.
 
-There is also Vancouver 1st, who according to the polls is in the race for last place, but which has garnered media attention for a promise to somehow bring back the Vancouver Grizzlies.
+There is also Vancouver 1st, who according to the polls is in the race for last place. They've garnered media attention for a promise to somehow bring back the Vancouver Grizzlies, and more recently for joining Coalition in [advocating against](https://www.youtube.com/watch?v=ldJi6eSunjw) modern sexual orientation and gender identity (SOGI) curriculum and anti-bullying policies. ಠ_ಠ
 
 We also have ProVancouver, featuring an eclectic mix of anti-development folks and odds and ends, including a [cromulent housing platform](https://www.provancouver.ca/homes_not_investments) that seems to position them as a somewhat more conservative and disorganized Green Party. Although ProVancouver's [polling numbers](https://researchco.ca/2018/09/11/vancouver-council/) put them far out of reach of the Mayoralty, you need to give them credit for being the only party with a candidate that has [warned followers to be extremely wary of this misleading guide](https://twitter.com/rohanarezel/status/1049398506111168512).
 
@@ -204,6 +204,7 @@ If have the time and brain capacity to learn more from other sources, here are s
 - The Courier’s [bios for who’s running](https://www.vancourier.com/news/here-s-who-s-running-for-city-council-in-vancouver-this-election-1.23449961)
 - Christopher Porter’s [Vancouver Election 2018 Housing Primer](https://canadianveggie.wordpress.com/2018/10/06/vancouver-election-2018-primer-part-3-housing/)
 - The [Tyee’s election guide](https://thetyee.ca/News/2018/09/10/Your-Guide-To-The-Vancouver-Election/)
+- The [VDLC slate](http://www.vancouverlabour.ca/political-action), which includes the BCTF's School Board picks
 - [The Cambie Report](https://cambiereport.ca) podcast
 
 For new readers curious where I'm coming from: I'm a thirty-something with a family, currently renting a condo in Mount Pleasant. I run a small business, and like many in my generation have become an advocate for affordable housing – for my family, my employees, and my friends who can barely afford to stay in a city with acres and acres of single family houses.
