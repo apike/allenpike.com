@@ -10,7 +10,7 @@ categories:
 tags:
 ---
 
-*Updated through October 10 to reflect polling and make corrections.*
+*Updated through October 11 for new polling, endorsements, and corrections.*
 
 Canadian politics is, typically, boring. And we like it that way. We’ve seen what can happen when politics get too interesting. And well, America, you can keep it. Sorry.
 
@@ -96,9 +96,9 @@ In the urbanist left corner of the ring, we have OneCity. Young scrappy and hung
 
 OneCity has two Council candidates this year. The first is **Christine Boyle**, a community organizer, climate activist, and minister for the United Church (you know, the cool church that welcomes everybody regardless of orientation or religious background). The second is **Brandon Yan**, a non-profit director and LBGTQ2+ advocate that served on the City Planning Commission. Credible candidates: check.
 
-Despite OneCity’s unabashedly progressive message, the party seems to be well liked and endorsed, with a real shot at getting on Council and shaking things up.
+Despite OneCity’s unabashedly progressive message, the party seems to be well liked and endorsed, giving them a shot at getting on Council and shaking things up.
 
-Like the other parties on the left, they’re not running a mayoral candidate of their own – OneCity has endorsed Independent front-runner Kennedy Stewart for Mayor.
+Like the other parties on the left, they’re not running a mayoral candidate of their own – OneCity and progressive independent Mayoral front-runner Kennedy Stewart have endorsed one another.
 
 <a name="independents"></a>
 
@@ -107,15 +107,15 @@ This election has been called the [year of the independent](https://www.cbc.ca/n
 
 The favourite for Mayor this year is Independent candidate **Kennedy Stewart**. Stewart was until recently a Member of Parliament for the NDP, so he has the standard-issue union support and progressive politics. While many candidates are making promises that can only be fulfilled by higher levels of government, Kennedy has actually worked in a higher level of government – albeit not run one.
 
-Although his early campaign was mostly about opposing pipelines, more recently he’s adopted many ambitious housing goals from the urbanist left, with specific targets for new rental and market housing. While his campaign hasn’t exactly been *exciting*, his positions and poll numbers have earned him official or unofficial support from the main parties and organizations on the left.
+Although his early campaign was mostly about opposing pipelines, more recently he’s adopted many ambitious housing goals from the urbanist left, with bold targets for new rental and market housing. While his campaign hasn’t exactly been *exciting*, his positions and poll numbers have earned him official or unofficial support from the main parties and organizations on the left.
 
 The other credible mayoral candidate on the left is also Independent: SFU director and former Vancity and MEC board member **Shauna Sylvester**. Although her policies are arguably more thoughtful than Stewart’s and she seems like she’d be excellent, polling led to endorsements going Stewart’s way in an effort to avoid splitting the vote – and giving the crown to the NPA’s Ken Sim.
 
-Based on [the Oct 9 poll numbers](https://researchco.ca/2018/10/09/vancouver-october08/) though, you should feel safe voting for Shauna if you prefer her take on things. Her platform includes includes a focus on co-ops and other non-profit housing models, as well as positioning herself as good unifier of what could be a very random city council.
+Based on [the Oct 9 poll numbers](https://researchco.ca/2018/10/09/vancouver-october08/) though, you should feel safe voting for Shauna if you prefer her take on things. Her platform includes includes a focus on co-ops and other non-profit housing models, as well as positioning herself as good unifier of what could be a very random city Council.
 
 For Council we also have some very strong independents. **Sarah Blyth**, for example, is very qualified and has a serious shot. She’s co-founder of the Overdose Prevention Society, and served two terms on Park Board. She’s an advocate for affordable housing, on a platform that sounds somewhere between COPE’s and Vision’s, focusing on existing renters.
 
-**Adrian Crook** is another council candidate with a serious shot, and has real housing bona fides as co-founder of housing advocacy group [Abundant Housing Vancouver](http://www.abundanthousingvancouver.com/). If you’re sold on the idea that Vancouver needs more housing of all kinds, then you want Adrian on Council. He’s the author of [5 Kids 1 Condo](https://5kids1condo.com/), a relatively popular blog about trying to raise a family in Vancouver and his advocacy for more housing of all kinds. If you want more than one independent pro-housing candidate, you might want to look at **Graham Cook** – also an Abundant Housing supporter – or from the more right-wing side of things, **Rob McDowell** is popular in pro-housing circles and has endorsements from 3 sitting Councillors.
+**Adrian Crook** is another Council candidate with a serious shot, and has real housing bona fides as co-founder of housing advocacy group [Abundant Housing Vancouver](http://www.abundanthousingvancouver.com/). If you’re sold on the idea that Vancouver needs more housing of all kinds, then you want Adrian on Council. He’s the author of [5 Kids 1 Condo](https://5kids1condo.com/), a relatively popular blog about trying to raise a family in Vancouver and his advocacy for more housing of all kinds. If you want more than one independent pro-housing candidate, you might want to look at **Graham Cook** – also an Abundant Housing supporter – or from the more right-wing side of things, **Rob McDowell** is popular in pro-housing circles and has endorsements from 3 sitting Councillors.
 
 Okay, back to the parties! 🎉
 
@@ -126,9 +126,9 @@ Where OneCity is the “all the housing” party on the left, Yes is the “all 
 
 Yes’ founder and Mayoral candidate, **Hector Bremner**, is a sitting Councillor and really knows the housing file. His polished videos and talking points have attracted some fans, who like his a market-oriented plan for mass rezoning new housing supply. Yes has the most in-depth housing plan of any party – [it’s 50 pages long and literally has flow charts in it](https://yesvancouver.ca/assets/media/2018/09/LetsFixHousing_Action_Plan.pdf). Flow charts!
 
-Yes has also attracted its share of haters. Even some urbanists are uncomfortable with the idea of a pro-development Mayor who worked in PR for real estate developers and has received [$85k in grey-market advertising from a billionaire real estate developer](https://www.cbc.ca/news/canada/british-columbia/i-didn-t-think-he-was-terribly-impressed-with-me-hector-bremner-brushes-off-developer-s-85k-donation-1.4837932). 
+Yes has also attracted its share of haters. In addition to concerns about excluding social issues from their platform, even some urbanists are uncomfortable with the idea of a pro-development Mayor who worked in PR for real estate developers and has received [$85k in grey-market advertising from a billionaire real estate developer](https://www.cbc.ca/news/canada/british-columbia/i-didn-t-think-he-was-terribly-impressed-with-me-hector-bremner-brushes-off-developer-s-85k-donation-1.4837932). 
 
-Given [the latest polling](https://researchco.ca/2018/10/09/vancouver-october08/), Bremner doesn't seem to be within reach of Mayor’s seat – which could mean his Council candidates have a better chance of getting elected than their leader. Local business owner **Stephanie Ostler** seems to be their strongest council candidate, and is apparently well liked. They have 4 lower profile [candidates running](https://yesvancouver.ca/people/) as well, so if market-oriented urbanism is your thing, party-vote it up. Also, if you like the Yes platform, independent Council candidate **Adrian Crook** has a similar take.
+Given [the latest polling](https://researchco.ca/2018/10/09/vancouver-october08/), Bremner doesn't seem to be within reach of Mayor’s seat – which could mean his Council candidates have a better chance of getting elected than their leader. Local business owner **Stephanie Ostler** seems to be their strongest Council candidate, and is apparently well liked. They have 4 lower profile [candidates running](https://yesvancouver.ca/people/) as well, so if market-oriented urbanism is your thing, party-vote it up. Also, if you like the Yes platform, independent Council candidate **Adrian Crook** has a similar take.
 
 <a name="vision"></a>
 
@@ -155,11 +155,11 @@ In addition to Swanson, COPE has two other Council candidates: activist **Derric
 ## Green
 Ah, the Greens. At the national, provincial, and city level the Green Party has become a kind of protest vote. The “left but not *those guys*” vote. As such, they’ve [surged in the polls this year](https://researchco.ca/2018/09/11/vancouver-council/).
 
-Interestingly though, when you dig into the Greens’ policies and record, they’re more conservative than people think. While folks seem to vote Green for change, at the city level they’re the party of the middle ground.
+Interestingly though, when you dig into the Greens’ policies and record, they’re more conservative than people think. While folks seem to vote Green for change, at the city level they’re a party of the middle ground.
 
-The Vancouver Greens have one sitting councillor, **Adriane Carr**, who is extremely likely to be re-elected by virtue of name recognition. This is despite the fact she has [voted against far more housing](https://twitter.com/KQ_VanCity/status/1048370161571516416) than any sitting Councillor – including social and rental housing. Her reasons for voting against housing may vary – sometimes it’s concerns about landowners’ views, or often it’s longtime favourites “insufficient consultation” or “this won’t fix the crisis”. As a whol, her record is pretty plain: she votes to conserve what we’ve got.
+The Vancouver Greens have one sitting Councillor, **Adriane Carr**, who is extremely likely to be re-elected by virtue of name recognition. This is despite the fact she has [voted against far more housing](https://twitter.com/KQ_VanCity/status/1048370161571516416) than any sitting Councillor – including social and rental housing. Her reasons for voting against housing may vary – sometimes it’s concerns about landowners’ views, or often it’s longtime favourites “insufficient consultation” or “this won’t fix the crisis”. As a whole, her record is pretty plain: she votes to conserve what we’ve got.
 
-That said, the Greens’ **Pete Fry** is an interesting candidate. He has long campaigned on housing issues, and seems more willing than Carr to support new housing. He’s well-liked and has a good shot at the polls. Green also has two additional council candidates, **Michael Wiebe** and **David Wong**. If you think Council needs more conservationist voices, or you’re a centrist “don’t rock the boat” type voter, the Greens could be a good fit.
+Despite Carr's record, the Greens’ **Pete Fry** and **Michael Wiebe** are interesting candidates. They both seem more urbanist than Carr, and if elected with her could push her towards supporting more housing. Green also has an additional Council candidate, **David Wong**, who given interest in the party could also do well. If you think Council needs more centrist voices, or you're a “don’t rock the boat” type voter, the Greens could be a good fit.
 
 <a name="npa"></a>
 
@@ -173,15 +173,19 @@ Their Mayoral Candidate, **Ken Sim**, is a business guy, owner of Rosemary Rocks
 <a name="longtail"></a>
 
 ## The long tail, wild and weird
-Without getting deep into the new, long-shot, right-leaning fringe parties, it’s worth knowing they exist.
+Without getting deep into the new conservative fringe parties, it’s worth knowing they exist. None are on track for the Mayoralty, but they could nab a Council, School, or Park Board seat.
 
-The most infamous is an alt-right style party called Coalition. They’re the one party not focused on housing, due to their burning desire to [tear out bike lanes](https://www.straight.com/news/1093651/vancouver-mayoral-candidate-wai-young-really-really-really-doesnt-bike-lanes) and [“clean up” “vagrancy”](https://twitter.com/Coalition_YVR/status/1046824774905647104). I suppose every wedding needs a drunk uncle.
+The most infamous is a strikingly conservative party called **Coalition**. They’re the one party not focused on housing, due to their burning desire to [tear out bike lanes](https://www.straight.com/news/1093651/vancouver-mayoral-candidate-wai-young-really-really-really-doesnt-bike-lanes) and [“clean up” “vagrancy”](https://twitter.com/Coalition_YVR/status/1046824774905647104). I suppose every wedding needs a drunk uncle.
 
-There is also Vancouver 1st, who according to the polls is in the race for last place. They've garnered media attention for a promise to somehow bring back the Vancouver Grizzlies, and more recently for joining Coalition in [advocating against](https://www.youtube.com/watch?v=ldJi6eSunjw) modern sexual orientation and gender identity (SOGI) curriculum and anti-bullying policies. ಠ_ಠ
+There is also **Vancouver 1st**, who according to the polls is in the race for last place. They've garnered media attention for a promise to somehow bring back the Vancouver Grizzlies, and more recently for joining Coalition in [advocating against](https://www.youtube.com/watch?v=ldJi6eSunjw) modern sexual orientation and gender identity (SOGI) curriculum and anti-bullying policies. ಠ_ಠ
 
-We also have ProVancouver, featuring an eclectic mix of anti-development folks and odds and ends, including a [cromulent housing platform](https://www.provancouver.ca/homes_not_investments) that seems to position them as a somewhat more conservative and disorganized Green Party. Although ProVancouver's [polling numbers](https://researchco.ca/2018/09/11/vancouver-council/) put them far out of reach of the Mayoralty, you need to give them credit for being the only party with a candidate that has [warned followers to be extremely wary of this misleading guide](https://twitter.com/rohanarezel/status/1049398506111168512).
+Then there's **ProVancouver**. In the initial version of this guide, I had a hard time making sense of the party, so I dismissed them as anti-housing and not having a chance. This led to one of their Council candidates [warning followers to be extremely wary of this misleading guide](https://twitter.com/rohanarezel/status/1049398506111168512), followed by an angry pile-on by pro-Pro social media accounts. On [Oct 11, new Council polling](https://researchco.ca/2018/10/11/vancouver-council-2/) showed surprising gains for Pro and Coalition, which obliges me to say a bit more about them. They sought attention, and I guess they're getting some.
 
-If you want to hate-read, or get a sense of why young people and renters need to actually vote, I’d say reading about Coalition would be your go-to. But before getting sucked too deeply into that vortex, make a specific plan for your own vote.
+While their [housing take](https://www.provancouver.ca/homes_not_investments) is a cromulent anti-developer, pro-rental platform, my research on the people and the behaviour of their candidates makes me feel deeply uncomfortable – in a way that the conservationist Green, COPE, and even NPA candidates do not. I really wish I had a simple argument for why this is the case.
+
+It may be their skepticism of newcomers, defense of parking and detached houses, lack of socially progressive messaging, supporters' alt-right style social media behaviour, a sense that they're populists, or maybe I'm just secretly salty that their [supporters think I'm illegally on the payroll of the real estate industrial complex](https://twitter.com/reallyprofound/status/1049487286650335232). In any case, if you find their pro-rental rhetoric appealing, you may want to instead consider Green, COPE, OneCity, or Independent candidates.
+
+In any case, if you want to hate-read, or get a sense of why young people and renters need to actually vote, I’d say reading about Coalition would be your go-to. But before getting sucked too deeply into that vortex, make a specific plan for your own vote.
 
 <a name="voting"></a>
 
@@ -202,10 +206,9 @@ If you have the time and brain capacity to learn more from other sources, here a
 - CBC Municipal Affairs Reporter [Justin McElroy's Twitter](https://twitter.com/j_mcelroy)
 - The Straight’s [list of key new ideas this election](https://www.straight.com/news/1147271/vancouver-election-candidates-bring-forth-fresh-ideas-shake-status-quo)
 - The Courier’s [bios for who’s running](https://www.vancourier.com/news/here-s-who-s-running-for-city-council-in-vancouver-this-election-1.23449961)
-- Christopher Porter’s [Vancouver Election 2018 Housing Primer](https://canadianveggie.wordpress.com/2018/10/06/vancouver-election-2018-primer-part-3-housing/)
 - The [Tyee’s election guide](https://thetyee.ca/News/2018/09/10/Your-Guide-To-The-Vancouver-Election/)
-- The [VDLC slate](http://www.vancouverlabour.ca/political-action), which includes the BCTF's School Board picks
-- [The Cambie Report](https://cambiereport.ca) podcast
+- Endorsements and slates from [The Cambie Report](https://cambiereport.ca/e-12-the-endorsements-episode/), [Christopher Porter](https://canadianveggie.wordpress.com/2018/10/06/vancouver-election-2018-primer-part-3-housing/), [James Wanless](http://james.wanless.info/2018-vancouver-election-slate/), [Colin Stein](https://pricetags.ca/2018/10/11/vanelxn2018-price-tags-editor-slate-colin/), [Ken Ohrn](https://pricetags.ca/2018/10/10/vanelxn2018-price-tags-editor-slate-ken/), and the [VDLC union group](http://www.vancouverlabour.ca/political-action) (which includes the BCTF's School Board picks)
+- [The Cambie Report](https://cambiereport.ca)'s back catalog of candidate interviews
 
 For new readers curious where I'm coming from: I'm a thirty-something with a family, currently renting a condo in Mount Pleasant. I run a small business, and like many in my generation have become an advocate for affordable housing – for my family, my employees, and my friends who can barely afford to stay in a city with acres and acres of single family houses.
 
