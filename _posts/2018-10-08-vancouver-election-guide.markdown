@@ -177,15 +177,15 @@ Without getting deep into the new conservative fringe parties, it’s worth know
 
 The most infamous is a strikingly conservative party called **Coalition**. They’re the one party not focused on housing, due to their burning desire to [tear out bike lanes](https://www.straight.com/news/1093651/vancouver-mayoral-candidate-wai-young-really-really-really-doesnt-bike-lanes) and [“clean up” “vagrancy”](https://twitter.com/Coalition_YVR/status/1046824774905647104). I suppose every wedding needs a drunk uncle.
 
-There is also **Vancouver 1st**, who according to the polls is in the race for last place. They've garnered media attention for a promise to somehow bring back the Vancouver Grizzlies, and more recently for joining Coalition in [advocating against](https://www.youtube.com/watch?v=ldJi6eSunjw) modern sexual orientation and gender identity (SOGI) curriculum and anti-bullying policies. ಠ_ಠ
+There is also **Vancouver 1st**, who according to the polls is in the race for last place. They've garnered media attention for a promise to somehow bring back the Vancouver Grizzlies, and more recently for joining some Coalition candidiates in [criticizing SOGI](https://twitter.com/pattibacchus/status/1050209585238167552), BC schools' sexual orientation and gender identity policies. ಠ_ಠ
 
 Then there's **ProVancouver**. In the initial version of this guide, I had a hard time making sense of the party, so I dismissed them as anti-housing and not having a chance. This led to one of their Council candidates [warning followers to be extremely wary of this misleading guide](https://twitter.com/rohanarezel/status/1049398506111168512), followed by an angry pile-on by pro-Pro social media accounts. On [Oct 11, new Council polling](https://researchco.ca/2018/10/11/vancouver-council-2/) showed surprising gains for Pro and Coalition, which obliges me to say a bit more about them. They sought attention, and I guess they're getting some.
 
-While their [housing take](https://www.provancouver.ca/homes_not_investments) is a cromulent anti-developer, pro-rental platform, my research on the people and the behaviour of their candidates makes me feel deeply uncomfortable – in a way that the conservationist Green, COPE, and even NPA candidates do not. I really wish I had a simple argument for why this is the case.
+While their [housing take](https://www.provancouver.ca/homes_not_investments) is a cromulent anti-developer, pro-rental platform, their organization and the behaviour of their candidates make some voters feel very uncomfortable, in a way that goes beyond platform disagreements. I really wish I had a simple argument for why this is the case.
 
 It may be their skepticism of newcomers, defense of parking and detached houses, lack of socially progressive messaging, supporters' alt-right style social media behaviour, a sense that they're populists, or maybe I'm just secretly salty that their [supporters think I'm illegally on the payroll of the real estate industrial complex](https://twitter.com/reallyprofound/status/1049487286650335232). In any case, if you find their pro-rental rhetoric appealing, you may want to instead consider Green, COPE, OneCity, or Independent candidates.
 
-In any case, if you want to hate-read, or get a sense of why young people and renters need to actually vote, I’d say reading about Coalition would be your go-to. But before getting sucked too deeply into that vortex, make a specific plan for your own vote.
+If you want to hate-read, or get a sense of why young people and renters need to actually vote, I’d say reading about Coalition would be your go-to. But before getting sucked into that vortex, make a specific plan for your own vote.
 
 <a name="voting"></a>
 
