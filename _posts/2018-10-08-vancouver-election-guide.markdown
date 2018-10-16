@@ -10,7 +10,9 @@ categories:
 tags:
 ---
 
-*Updated through October 11 for new polling, endorsements, and corrections.*
+*Updated through October 16.*
+
+**Wednesday and Saturday are the last days to vote. If you're short on time, I've posted [three example Council ballots](/images/2018/vancouver-example-ballots.png). Polls are open until 8pm.**
 
 Canadian politics is, typically, boring. And we like it that way. We’ve seen what can happen when politics get too interesting. And well, America, you can keep it. Sorry.
 
@@ -96,7 +98,7 @@ In the urbanist left corner of the ring, we have OneCity. Young scrappy and hung
 
 OneCity has two Council candidates this year. The first is **Christine Boyle**, a community organizer, climate activist, and minister for the United Church (you know, the cool church that welcomes everybody regardless of orientation or religious background). The second is **Brandon Yan**, a non-profit director and LBGTQ2+ advocate that served on the City Planning Commission. Credible candidates: check.
 
-Despite OneCity’s unabashedly progressive message, the party seems to be well liked and endorsed, giving them a shot at getting on Council and shaking things up.
+Despite OneCity’s unabashedly progressive message, the party seems to be well liked and endorsed. They've also had [a late surge in the polls](https://researchco.ca/2018/10/16/vanelxn2018/), giving them a shot at  shaking things up.
 
 Like the other parties on the left, they’re not running a mayoral candidate of their own – OneCity and progressive independent Mayoral front-runner Kennedy Stewart have endorsed one another.
 
@@ -179,11 +181,11 @@ The most infamous is a strikingly conservative party called **Coalition**. They�
 
 There is also **Vancouver 1st**, who according to the polls is in the race for last place. They've garnered media attention for a promise to somehow bring back the Vancouver Grizzlies, and more recently for joining some Coalition candidiates in [criticizing SOGI](https://twitter.com/pattibacchus/status/1050209585238167552), BC schools' sexual orientation and gender identity policies. ಠ_ಠ
 
-Then there's **ProVancouver**. In the initial version of this guide, I had a hard time making sense of the party, so I dismissed them as anti-housing and not having a chance. This led to one of their Council candidates [warning followers to be extremely wary of this misleading guide](https://twitter.com/rohanarezel/status/1049398506111168512), followed by an angry pile-on by pro-Pro social media accounts. On [Oct 11, new Council polling](https://researchco.ca/2018/10/11/vancouver-council-2/) showed surprising gains for Pro and Coalition, which obliges me to say a bit more about them. They sought attention, and I guess they're getting some.
+Then there's **ProVancouver**. In the initial version of this guide, I had a hard time making sense of the party, so I dismissed them as anti-housing and not having a chance. This led to one of their Council candidates [warning followers to be extremely wary of this misleading guide](https://twitter.com/rohanarezel/status/1049398506111168512), followed by an angry pile-on by pro-Pro social media accounts. On [Oct 11, new Council polling](https://researchco.ca/2018/10/11/vancouver-council-2/) showed surprising gains for Pro and Coalition, which obliged me to say a bit more about them. They sought attention, and I guess they got some.
 
 While their [housing take](https://www.provancouver.ca/homes_not_investments) is a cromulent anti-developer, pro-rental platform, their organization and the behaviour of their candidates make some voters feel very uncomfortable, in a way that goes beyond platform disagreements. I really wish I had a simple argument for why this is the case.
 
-It may be their skepticism of newcomers, defense of parking and detached houses, lack of socially progressive messaging, supporters' alt-right style social media behaviour, a sense that they're populists, or maybe I'm just secretly salty that their [supporters think I'm illegally on the payroll of the real estate industrial complex](https://twitter.com/reallyprofound/status/1049487286650335232). In any case, if you find their pro-rental rhetoric appealing, you may want to instead consider Green, COPE, OneCity, or Independent candidates.
+It may be their skepticism of newcomers, defense of parking and detached houses, lack of socially progressive messaging, supporters' alt-right style social media behaviour, a sense that they're populists, or maybe I'm just secretly salty that their [proponents think I'm illegally on the payroll of the real estate industrial complex](https://twitter.com/reallyprofound/status/1049487286650335232). In any case, if you find their pro-rental rhetoric appealing, you may want to instead consider Green, COPE, OneCity, or Independent candidates.
 
 If you want to hate-read, or get a sense of why young people and renters need to actually vote, I’d say reading about Coalition would be your go-to. But before getting sucked into that vortex, make a specific plan for your own vote.
 
@@ -205,9 +207,10 @@ If you have the time and brain capacity to learn more from other sources, here a
 - The CBC’s [Vancouver voter’s guide](https://www.cbc.ca/news/canada/british-columbia/vancouver-council-candidates-1.4770924)
 - CBC Municipal Affairs Reporter [Justin McElroy's Twitter](https://twitter.com/j_mcelroy)
 - The Straight’s [list of key new ideas this election](https://www.straight.com/news/1147271/vancouver-election-candidates-bring-forth-fresh-ideas-shake-status-quo)
+- The [Globe and Mail's election overview](https://www.theglobeandmail.com/canada/british-columbia/article-vancouver-civic-election-2018-explainer/)
 - The Courier’s [bios for who’s running](https://www.vancourier.com/news/here-s-who-s-running-for-city-council-in-vancouver-this-election-1.23449961)
 - The [Tyee’s election guide](https://thetyee.ca/News/2018/09/10/Your-Guide-To-The-Vancouver-Election/)
-- Endorsements and slates from [The Cambie Report](https://cambiereport.ca/e-12-the-endorsements-episode/), [Christopher Porter](https://canadianveggie.wordpress.com/2018/10/06/vancouver-election-2018-primer-part-3-housing/), [James Wanless](http://james.wanless.info/2018-vancouver-election-slate/), [Colin Stein](https://pricetags.ca/2018/10/11/vanelxn2018-price-tags-editor-slate-colin/), [Ken Ohrn](https://pricetags.ca/2018/10/10/vanelxn2018-price-tags-editor-slate-ken/), and the [VDLC union group](http://www.vancouverlabour.ca/political-action) (which includes the BCTF's School Board picks)
+- Endorsements and slates from [The Cambie Report](https://cambiereport.ca/e-12-the-endorsements-episode/), [Todd Smith](https://www.strategicvote.ca), [Christopher Porter](https://canadianveggie.wordpress.com/2018/10/06/vancouver-election-2018-primer-part-3-housing/), [James Wanless](http://james.wanless.info/2018-vancouver-election-slate/), [Colin Stein](https://pricetags.ca/2018/10/11/vanelxn2018-price-tags-editor-slate-colin/), [Ken Ohrn](https://pricetags.ca/2018/10/10/vanelxn2018-price-tags-editor-slate-ken/), and the [VDLC union group](http://www.vancouverlabour.ca/political-action) (which includes the BCTF's School Board picks)
 - [The Cambie Report](https://cambiereport.ca)'s back catalog of candidate interviews
 
 For new readers curious where I'm coming from: I'm a thirty-something with a family, currently renting a condo in Mount Pleasant. I run a small business, and like many in my generation have become an advocate for affordable housing – for my family, my employees, and my friends who can barely afford to stay in a city with acres and acres of single family houses.
