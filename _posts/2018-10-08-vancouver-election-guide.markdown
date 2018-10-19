@@ -10,9 +10,9 @@ categories:
 tags:
 ---
 
-*Updated through October 16.*
+*Updated through October 19.*
 
-**Wednesday and Saturday are the last days to vote. If you're short on time, I've posted [three example Council ballots](/images/2018/vancouver-example-ballots.png). Polls are open until 8pm.**
+**Saturday is the final day to vote. If you're short on time, I've posted [three example Council ballots](/images/2018/vancouver-example-ballots.png). Polls are open until 8pm.**
 
 Canadian politics is, typically, boring. And we like it that way. We’ve seen what can happen when politics get too interesting. And well, America, you can keep it. Sorry.
 
