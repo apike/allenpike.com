@@ -32,7 +32,7 @@ Back in the day when mostly geeks used Macs, the forced-upgrade approach worked 
 
 
 
-* retardedly uselessly geeky ("Wtf, I can't read this crap.")
+* stupidly uselessly geeky ("Wtf, I can't read this crap.")
 
 * geeky but tolerable ("Uh, okay. Hrm.")
 
