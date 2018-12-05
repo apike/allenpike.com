@@ -37,7 +37,7 @@ A mech pilot doesn’t have the fine-grained control or precision they might hav
 
 At its best, being a leader feels like piloting a mech. Your team can achieve far more than you can. As a group they’re stronger, smarter, and can see more than you can. When your team smashes a problem into bits, it’s not literally you that did it, but you can get the deep satisfaction of smashing problems that are bigger and scarier than you could ever smash yourself.
 
-At its worst, being a leader can also feel like piloting a mech. Sometimes you try to go somewhere, but nothing happens. Maybe there isn’t enough fuel, there are serious technical issues, or you haven’t given a critical part it the care and attention it needs. Maybe a request is refused – “ERROR: COMMAND UNCLEAR OR ILL-ADVISED”. Maybe you hop out and set your mech on autopilot, only to later realize it’s rampaged off doing exactly as you’d asked for weeks straight, and now you have this big fancy video editing feature built out that had no budget or detailed requirements.
+At its worst, being a leader can also feel like piloting a mech. Sometimes you try to go somewhere, but nothing happens. Maybe there isn’t enough fuel, there are serious technical issues, or you haven’t given a critical part the care and attention it needs. Maybe a request is refused – “ERROR: COMMAND UNCLEAR OR ILL-ADVISED”. Maybe you hop out and set your mech on autopilot, only to later realize it’s rampaged off doing exactly as you’d asked for weeks straight, and now you have this big fancy video editing feature built out that had no budget or detailed requirements.
 
 You know, typical giant-robot stuff.
 
