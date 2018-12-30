@@ -22,7 +22,7 @@ And it’s beautiful, and it’s great. But it also hurts your heart a little bi
 
 It is a strange feeling, that hurt. Why would it be sad when she starts to say “octopus”? Or “I want to do it myself”, or “No dada pick me up”? I mean, it’s certainly for the best. I can hardly be her lifelong transportation, caregiver, and translator as it pertains to 8-limbed mollusks.
 
-But children inspire love, such deep unconditional love. You love and treasure how they are, down to the smallest quirk. Then, suddenly, right in front of you, they change. While one might grow used to the slow, sad change of growing apart from an adult you love, this feels very different. Overnight, no more “dada up?” No more oppatoo.
+But kids inspire love, such deep unconditional love. You love and treasure how they are, down to the smallest quirk. Then, suddenly, right in front of you, they change. While one might grow used to the slow, sad change of growing apart from an adult you love, this feels very different. Overnight, no more “dada up?” No more oppatoo.
 
 In a flash, the behaviors, quirks, and tiny things you’ve grown to love disappear. Just like that, they’re replaced by new phrases, new quirks. New things you’ll also grow to love – before they disappear too.
 
