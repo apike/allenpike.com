@@ -46,6 +46,7 @@ Here are two example videos of talks I've given:
 
 I enjoy guesting on podcasts &ndash; they're most of the fun of giving a talk, with a lot less work. Here are some shows I've been on:
 
+* [Fun Fact](https://funfact.fm/), the podcast I co-host with Arik Devens.
 * [Giant Robots 264](http://giantrobots.fm/264), where we talk about building great product teams.
 * [Clockwise 174](https://www.relay.fm/clockwise/174), where we discuss iPad, Apple Watch, Apple-produced original content, and iTunes
 * Release Notes [190, where I talk about our products](https://releasenotes.tv/190-allen-pike-part-1/), and [191, where I talk about client work](https://releasenotes.tv/191-allen-pike-part-2/).

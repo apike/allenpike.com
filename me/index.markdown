@@ -15,7 +15,8 @@ My job involves product design, development, leadership, and [speaking](/speakin
 
 **Projects**
 
-* [Steamclock Software](http://www.steamclock.com/): We make products for clients as well as ourselves. We also have [a blog](http://www.steamclock.com/blog/), where we show our work.
+* [Steamclock Software](https://steamclock.com/): We make products for clients as well as ourselves. We also have [a blog](http://www.steamclock.com/blog/), where we show our work.
+* [Fun Fact](https://funfact.fm/), the podcast I co-host with Arik Devens.
 * [Public Speaking and Podcasts](/speaking/): For better or worse, I like to talk.
 * [VanCocoa](http://www.vancocoa.com/): The Vancouver Cocoa speaker series.
 * [VanJS](http://www.vanjs.com/): The Vancouver JavaScript speaker series.
