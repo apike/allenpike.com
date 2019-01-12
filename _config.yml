@@ -2,6 +2,8 @@ name: Allen Pike
 
 permalink: /:year/:title
 
-baseurl: "https://www.allenpike.com"
+future: true
+
+url: "https://www.allenpike.com"
 
 include: ['_redirects']
