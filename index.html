@@ -11,7 +11,11 @@ isHome: true
 
     <hr />
 
-    <h1><a href='{{ post.url }}'>{{ post.title }}</a></h1>
+{% if post.link %}
+  <h1><a href='{{ post.link }}'>{{ post.title }} →</a></h1>
+{% else %}
+  <h1><a href='{{ post.url }}'>{{ post.title }}</a></h1>
+{% endif %}
     <p><span class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
         
     <div class="post">

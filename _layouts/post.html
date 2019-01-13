@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-<h1><a href='.'>{{ page.title }}</a></h1>
+{% if page.link %}
+  <h1><a href='{{ page.link }}'>{{ page.title }} →</a></h1>
+{% else %}
+  <h1><a href='.'>{{ page.title }}</a></h1>
+{% endif %}
 <p class="meta">{{ page.date | date: "%B %-d, %Y" }}</p>
 
 {% if page.categories.last == "sarcastic news" %}
