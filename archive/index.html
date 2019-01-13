@@ -16,7 +16,7 @@ title: Post Archive
 
       {% if post.featured %} <b> {% endif %}
       <li><a href="{{ post.url }}">{{ post.title }}</a> {% if post.featured %} </b> {% endif %}
-      <span>{% if post.link %}  → {{ post.link | remove:'http://' | remove:'https://' | split:'/' | first }}{% elsif post.summary %} &ndash; {{ post.summary }} {% endif %}</span></li>
+      <span>{% if post.link %}  &ndash; A link post about {{ post.link | remove:'http://' | remove:'https://' | split:'/' | first }}.{% elsif post.summary %} &ndash; {{ post.summary }} {% endif %}</span></li>
     {% endfor %}
   </ul>
 </div>
