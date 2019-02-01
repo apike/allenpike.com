@@ -4,7 +4,7 @@ date: "2019-01-31 20:10:10 -08:00"
 layout: post
 title: "Navigation Should Be Boring"
 summary: "Apps should be interesting, but not like that."
-image: "/images/2019/XxXaQXQQQQQ.jpg"
+image: "/images/2019/translate-square.jpg"
 categories:
 - Article
 tags:
