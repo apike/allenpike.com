@@ -1,6 +1,6 @@
 ---
 author: allen
-date: "2019-01-31 20:10:10 -08:00"
+date: "2019-01-31 13:10:10 -08:00"
 layout: post
 title: "Navigation Should Be Boring"
 summary: "Apps should be interesting, but not like that."
