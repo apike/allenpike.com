@@ -16,35 +16,39 @@ Since we started Steamclock, I've usually worked on a new type of project every 
 
 * **[Two Spies](http://www.steamclock.com/spies/)**, a turn-based iPhone game I've been noodling on for some time.
 
+* **[Quests](http://www.steamclock.com/quests/)**, a Mac menubar app to see your assigned issues and pull requests.
+
+* **[Fun Fact](http://funfact.fm/)**: A bi-weekly podcast full of incredibly important facts.
+
 * **[Consulting work](http://www.steamclock.com/services/)**: We help companies ship great mobile apps. Some of my interesting client projects at Steamclock have been:
 
 	* an interactive 3D map of the internet
 	* an international mountain conditions app
 	* an app for running rental and accommodation businesses
+    * multiple stock investing apps
 	* a realtime video chat app
-	* apps for security analysis on iOS and Android
 	* an app for configuring solar-powered lights using Bluetooth
-	* many photo sharing apps (people *love* photo sharing apps)
-	* work on the ill-fated webOS app store
+	* many social networks (people *love* social networks)
+	* work on the webOS App Store of all things
 	* a JavaScript app for Fortune 500 company
+	* apps for security analysis on iOS and Android
 	* a web app for doing developer support on Stack Overflow
-	* an iPhone app for finding fresh food
-	* an interactive retail app
+	* apps for interactive retail and point of sale
 	* a system for running valet businesses
 	* an Android app for tracking commercial fishing
-	* an iPhone app for ordering bespoke suits.
+	* an iOS app for ordering bespoke suits.
 
-* **[Up Up Down Down](http://upup.fm/)**: A podcast about the craft of video games.
+* **Meetups**: I started the [Vancouver Javascript Developers](http://www.vanjs.com) group, and the new [Vancouver Xcoders iOS meetup](https://www.meetup.com/Vancouver-Xcoders/).
 
-* **Meetups**: I started the [Vancouver Javascript Developers](http://www.vanjs.com) group, and the related [VanCocoa iOS meetup](http://www.vancocoa.com/).
-
-* **Not being at a computer**: I play guitar, play ice hockey, act, and otherwise dabble in the world away from computers. There is nothing to link here, which is for the best.
+* **Not being at a computer**: I play guitar, play ice hockey, write music, and otherwise dabble in the world away from computers. There is nothing to link here, which is for the best.
 
 **Talks and Podcast Appearances**
 
-I love teaching and discussing tech and other topics. <a href="/me/">Sometimes, people record it.</a>
+I love teaching and discussing tech and other topics. <a href="/speaking/">Sometimes, people record it.</a>
 
-**Older Steamclock-era Projects** (2010-2015)
+**Older Steamclock-era Projects** (2010-2017)
+
+* **[Up Up Down Down](http://upup.fm/)**: A podcast about the craft of video games.
 
 * **[Party Monster](http://www.steamclock.com/partymonster/)**: A queueing DJ app for parties and road trips. We made a [funky video](http://www.allenpike.com/2012/making-a-funky-app-video/) for it as well.
 
