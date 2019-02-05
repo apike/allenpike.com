@@ -44,7 +44,7 @@ Since we started Steamclock, I've usually worked on a new type of project every 
 
 **Talks and Podcast Appearances**
 
-I love teaching and discussing tech and other topics. <a href="/me/">Sometimes, people record it.</a>
+I love teaching and discussing tech and other topics. <a href="/speaking/">Sometimes, people record it.</a>
 
 **Older Steamclock-era Projects** (2010-2017)
 
