@@ -4,6 +4,6 @@ permalink: /:year/:title
 
 future: true
 
-url: "https://www.allenpike.com"
+url: "https://allenpike.com"
 
 include: ['_redirects']

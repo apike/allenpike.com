@@ -13,15 +13,15 @@
         <meta property="og:site_name" content="Allen Pike" />
         <meta property="og:title" content="{{ page.title }}" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
-        <meta property="og:image" content="{{ site.baseurl }}{{ page.image }}" />
+        <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+        <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
         <meta property="og:description" content="{{ page.summary }}" />
         
         <meta name="twitter:card"         content="summary" />
-        <meta name="twitter:description"  content="{{ page.summary }}" />
         <meta name="twitter:site"         content="@apike" />
         <meta name="twitter:title"        content="{{ page.title }}" />
-        <meta name="twitter:image"        content="{{ site.baseurl }}{{ page.image }}" />
+        <meta name="twitter:description"  content="{{ page.summary }}" />
+        <meta name="twitter:image"        content="{{ site.url }}{{ page.image }}" />
         {% endif %}
 
         <meta name="viewport" content="width=device-width">
