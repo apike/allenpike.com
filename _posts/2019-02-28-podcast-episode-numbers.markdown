@@ -4,7 +4,7 @@ date: "2019-02-28 13:10:10 -08:00"
 layout: post
 title: "325: Podcast Episode Numbers"
 summary: "Podcast episode numbers may not belong in titles."
-image: "/images/2019/X7X7X7Xggxhgx&X&X8X&X&gxUGYUXGYUXGYUX.jpg"
+image: "/images/2019/podcast-player-numbers.jpg"
 categories:
 - Article
 tags:
