@@ -47,7 +47,7 @@ Thankfully, most people do not listen to podcasts in desktop iTunes. The big sho
 
 ## 045: The Why Do You Care About This Allen Show – Ne...
 
-With iOS 11 and the new metadata, Apple built accommodations for episode numbers into the UI, allowing them to cleanly and consistently show numbers as part of the UI in contexts where it matters – such as serial shows – and _not_ show episode numbers in contexts where it very much doesn’t matter. For an example, let's take a look at the Top Episodes list.
+With iOS 11 and the new metadata, Apple built accommodations for episode numbers into the UI, allowing them to cleanly and consistently show numbers in contexts where it matters – such as serial shows – and _not_ show episode numbers in contexts where it doesn’t matter. For an example, let's take a look at the Top Episodes list.
 
 <img src="/images/2019/podcasts-top-episodes.jpg" style="float: right; width: 300px">
 
@@ -59,15 +59,15 @@ If they can get podcasters to provide title and episode number metadata separate
 
 And while numbers in titles is a time-honoured tradition, I have to admit that episodes of newer shows that follow Apple's guidelines look pretty nice amongst their metadata-laden peers.
 
-<img src="/images/2019/podcast-player-numbers.jpg">
+<a href="/images/2019/podcast-player-numbers.jpg"><img src="/images/2019/podcast-player-numbers.jpg"></a>
 
 The more I look at these screenshots, the more sympathetic I am to the ideal of relegating the episode numbers to metadata, and having player apps take the responsibility of showing those numbers where they're useful. In fact, when it comes to finding specific episodes or playing "episodic" shows chronologically, modern podcast apps already have some helpful features that make episode numbers less important than they once were.
 
 For example, in Overcast you can tell a smart playlist to sort by "Oldest to Newest by Podcast". Then, if you go into a show's back catalog and add a horde of early episodes, they'll automatically stay together in chronological order. It's pretty hidden, but in Castro you can also queue up a show chronologically by subscribing to a show, then going to Library → _That Show_, then dragging "All" to your queue.
 
-While neither of these approaches are as nice as a simple UI for playing a show from the beginning, I think they can bridge the gap as shows move episode numbers into metadata and players get smarter about it.
+While neither of these approaches are as nice as a simple UI for playing a show from the beginning, I think they can bridge the gap if shows start to move episode numbers into metadata and players get smarter about it.
 
-Similarly with episode discovery, instead of scrolling to a number you can type an episode title into Apple Podcasts and it will come up. In Overcast you need to search for the show first and then the episode title, but the functionality is still there.
+Similarly with episode discovery, instead of scrolling to find a numbered show, you can type an episode title into Apple Podcasts and it will come right up. In Overcast you need to search for the show first and then the episode title, but the functionality is still there.
 
 Unfortunately, there is still a gap between the web and podcast players when it comes to linking an episode. As far as I know, there's no way yet for your podcast's website to predict the URL for "Open Episode X in Player Y", which would make it easier to go from a Google search or a shownotes link right to listening to an episode. With luck this will come.
 
@@ -77,9 +77,11 @@ Regardless of what any 3rd party podcast apps are doing, the reality is that App
 
 A more interesting question remains though: for semi-episodic shows like Fun Fact where people may want to start at the beginning, should we keep the episode number in the `<title>` tag for 3rd party clients like Overcast and Castro? Certainly some people with opinions on the internet [think so](https://twitter.com/apike/status/1100837204346032128).
 
-But I have to admit: I can't unsee what I've seen. I’ve beheld the clean and clear presentation of numberless episode titles. I’ve heard from the listeners who are scared off from trying out podcasts where every title advertises how many episodes they've missed. I've come to terms with the fact that even a few months in, starting with the most recent episode is the way to go for our show. And most dangerously of all, I’ve come to the conclusion that It Would Be Nice™ if podcast players directly used the episode meta tag to only show numbers where it matters.
+But I have to admit: I can't unsee what I've seen. I’ve beheld the clean and clear presentation of numberless episode titles. I’ve heard from the listeners who are scared off from trying out podcasts where every title advertises how many episodes they've missed. I've come to terms with the fact that for our show – even a few months in – starting with the most recent episode is the way to go. And most dangerously of all, I’ve come to the conclusion that It Would Be Nice™ if podcast players directly used the episode meta tag to only show numbers where it matters.
 
-So, as of today, our episode titles are clean and number-free. It was difficult and emotionally taxing, but I have made peace with my decision. May the the era of clean podcast titles one day come to pass.
+So, as of today, our episode titles are clean and number-free. It was difficult and emotionally taxing, but I have made peace with my decision.
+
+May the the era of clean podcast titles one day come to pass.
 
 ---
 
