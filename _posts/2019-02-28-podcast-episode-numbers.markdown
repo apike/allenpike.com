@@ -10,7 +10,7 @@ categories:
 tags:
 ---
 
-In iOS 11, Apple  made a variety of [changes and improvements](https://developer.apple.com/videos/play/wwdc2017/512) to the Apple Podcasts app and spec. Among other things, they added support for a new show format: serial podcasts. Finally, narrative-driven shows could request be shown in strict chronological order.
+In iOS 11, Apple  made a variety of [changes and improvements](https://developer.apple.com/videos/play/wwdc2017/512) to the Apple Podcasts app and spec. Among other things, they added support for a new show format: serial podcasts. Finally, narrative-driven shows could request to be shown in strict chronological order.
 
 As part of this change, Apple added support for an "episode number" tag, and recommended that podcasters stop including episode numbers directly in the title of each episode. _Sure whatever, metadata best practices blah blah._
 
