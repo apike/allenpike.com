@@ -14,7 +14,7 @@ tags:
 ---
 
 <img src='/images/2014/castro-upup.jpg' width='200'>
-In November, my co-founder Nigel and I started planning an app to help record podcasts. Before we could do it right, we needed to do two things first: [investigate the podcasting industry](http://www.allenpike.com/2013/fall-and-rise-of-podcasting/), and start [a show of our own](http://www.upup.fm). Before we could start a show, we needed a format.
+In November, my co-founder Nigel and I started planning an app to help record podcasts. Before we could do it right, we needed to do two things first: [investigate the podcasting industry](/2013/fall-and-rise-of-podcasting/), and start [a show of our own](http://www.upup.fm). Before we could start a show, we needed a format.
 
 ##  Formatting...
 [A wise man](https://twitter.com/dwiskus) once told me about podcast formats, "Whatever you do, don't make it two guys talking about tech news." Luckily, there's something I enjoy discussing with Nigel about more than tech news, and that's the games industry.

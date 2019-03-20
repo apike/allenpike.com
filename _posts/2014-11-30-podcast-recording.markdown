@@ -10,7 +10,7 @@ categories:
 - Article
 ---
 
-A year ago I [wrote about the modern era of podcasts](http://www.allenpike.com/2013/fall-and-rise-of-podcasting/). In that article, I made a forward-looking statement:
+A year ago I [wrote about the modern era of podcasts](/2013/fall-and-rise-of-podcasting/). In that article, I made a forward-looking statement:
 
 > With all this growth, what improvements are we seeing in the tools? As of this writing, a horde of developers are building podcast listening apps. Podcast recording apps, on the other hand?
 > 	
@@ -39,7 +39,7 @@ Okay, so, crazy idea: why doesn't our team at Steamclock build a Mac app that so
 
 Last winter I started investigating exactly this. I spoke with various podcasters whose work I enjoy, and they were incredibly enthusiastic. One said, and I quote, "Take all my money. No, really, this sounds amazing, like an app of my dreams, and I love it." Okay, that's a good sign. Every podcaster I talked to about the idea, even ones who weren't doing double-enders, had various awesome feature ideas. I was giddy with excitement.
 
-I then dug deeper, researching the future and sustainability of podcasting and its recent growth, and [concluded its future was bright](http://www.allenpike.com/2013/fall-and-rise-of-podcasting/). Nigel and I started [our own podcast](http://upup.fm/) to better understand the process, which has been surprisingly successful. Nigel built a proof of concept of the app, which we called MicDrop because we're hilarious. In some ways this would be the perfect product for us: it would take advantage of our strengths in Cocoa development, realtime audio, web backends, and UI design.
+I then dug deeper, researching the future and sustainability of podcasting and its recent growth, and [concluded its future was bright](/2013/fall-and-rise-of-podcasting/). Nigel and I started [our own podcast](http://upup.fm/) to better understand the process, which has been surprisingly successful. Nigel built a proof of concept of the app, which we called MicDrop because we're hilarious. In some ways this would be the perfect product for us: it would take advantage of our strengths in Cocoa development, realtime audio, web backends, and UI design.
 
 The next step, the final step before going all in on building this, was for me to figure out how to make it sustainable in such a niche market. I just had to do the "napkin math" to show that if we built the app, we could maintain it at a level we could be proud of. This step has proved problematic.
 
@@ -52,7 +52,7 @@ Unfortunately, the math works similarly for the enthusiast market. There are per
 
 We've gone through a few alternative ideas - a subscription-based model, a pared down app, and even a Kickstarter. No matter how I run the numbers, I end up at the same place: we could break even on a minimal app, but the market is just too small to sustain a great app. That's a deal-breaker.
 
-I'd love to tackle a bigger niche product, something more pro than our current iOS apps. In fact, we've been [actively prototyping more pro or "prosumer" products](http://www.allenpike.com/2013/maximum-viable-products/) for some time now. But multi-ender recording software is a mighty big project for a mighty small audience, and so far I haven't been able to figure out how to make the math work.
+I'd love to tackle a bigger niche product, something more pro than our current iOS apps. In fact, we've been [actively prototyping more pro or "prosumer" products](/2013/maximum-viable-products/) for some time now. But multi-ender recording software is a mighty big project for a mighty small audience, and so far I haven't been able to figure out how to make the math work.
 
 ## Cast away
 Although we've put the idea in the parking lot for now, others have seen the need and are working on solving it. Julian and Eric of Debacle Software have spent the last year building [Cast](https://tryca.st/), a web app that will tackle not only the recording problem, but also basic editing and hosting.

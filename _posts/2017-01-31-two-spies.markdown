@@ -17,7 +17,7 @@ When I was a kid, I had the itch for making games. I sketched games, I designed 
 
 Of the many games I made over the years, the most popular one was called Political Asylum. Asylum was an online game where you ran for president using whatever strategy you saw fit: trust and integrity, advertising and bribery, or even assassination of political opponents. Liberals and fascists duked it out for the hearts and minds of the electorate.
 
-Asylum was written in PHP &ndash; the gold standard in game development languages, believe me &ndash; and this allowed it to reach a surprisingly wide range of people. The game ended up getting millions of page views, which was remarkable considering that [the interface](http://www.allenpike.com/political-asylum/) looked as if some poor creature had consumed an abundance of HTML tables and input elements and regurgitated them onto the screen.
+Asylum was written in PHP &ndash; the gold standard in game development languages, believe me &ndash; and this allowed it to reach a surprisingly wide range of people. The game ended up getting millions of page views, which was remarkable considering that [the interface](/political-asylum/) looked as if some poor creature had consumed an abundance of HTML tables and input elements and regurgitated them onto the screen.
 
 <div class='centered'>
 <img src='/images/2017/advisors-uihell.jpg'>

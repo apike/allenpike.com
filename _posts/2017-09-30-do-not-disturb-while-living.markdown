@@ -50,7 +50,7 @@ Basically, we need a way to tell our phones to leave us alone for an hour.
 
 <img src='/images/2017/dnd-control.jpg' style='max-width: 240px; margin-bottom: 0'>
 
-“Well Allen,” you might say, “since you’re *so great* at [accurately predicting](http://www.allenpike.com/2017/developing-for-iphone-pro/) the future of Apple’s UI, where would the iOS team *even put* this supposed DND timer control?”
+“Well Allen,” you might say, “since you’re *so great* at [accurately predicting](/2017/developing-for-iphone-pro/) the future of Apple’s UI, where would the iOS team *even put* this supposed DND timer control?”
 
 Well rhetorical internet person, luckily for me, I don’t really need to speculate: iOS 11 already has an alternate mode for Control Center widgets. Most Control Center widgets have a 3D Touch action now, but not Do Not Disturb. In exactly the way you can now 3D Touch the Timer button to set a countdown, you should be able to Go Deep on Do Not Disturb.
 

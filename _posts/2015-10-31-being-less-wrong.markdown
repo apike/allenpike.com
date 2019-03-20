@@ -29,7 +29,7 @@ As appealing as these projects may be, they first need a sanity check that they'
 
 Estimation is especially important in the world of consulting. Your initial estimate is often one of the few things a prospective client knows about you, and a lack of a previous working relationship often means they're going to take it very seriously if your estimate is wrong. Contractors in any field need to manage their communication around time and cost precisely.
 
-I learned this the hard way as a teenager. I did my first stint as a contract software developer at the end of high school, and it was, well, educational. Software engineering books enumerate many of the estimation and project management errors you can make, and early on I succeeded at [making all the errors in a single project](http://www.allenpike.com/2009/the-california-guys/).
+I learned this the hard way as a teenager. I did my first stint as a contract software developer at the end of high school, and it was, well, educational. Software engineering books enumerate many of the estimation and project management errors you can make, and early on I succeeded at [making all the errors in a single project](/2009/the-california-guys/).
 
 Whether by crash course or gradual study, engineering managers learn a lot about managing time and costs. We develop an intuition for certain kinds of technical or product decisions that tend to be surprisingly risky or expensive. We learn to be mindful of the critical path, keeping an eye out for slow tasks that might block progress further down the line. On larger teams, we learn to estimate the accuracy of the folks contributing to our larger estimate, and how important it is to communicate the level of certainty we have in our estimates.
 
