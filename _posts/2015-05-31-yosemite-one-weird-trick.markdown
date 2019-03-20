@@ -12,7 +12,7 @@ categories:
 
 <img src='/images/2015/pentium-snail.jpg' width='300' style='margin-bottom: 0'>
 
-Recently, my 13" Retina MacBook has become very slow. It was never a snappy machine, mind you. Even brand new, its integrated graphics could barely handle the display. When I decided against returning it in 2012, my review summary was "[Awkward](http://www.allenpike.com/2012/the-retina-13-awkward/)." Three years later, it still feels like a compromise, and [web browsing performance has gotten even worse](http://www.quirksmode.org/blog/archives/2015/05/web_vs_native_l.html).
+Recently, my 13" Retina MacBook has become very slow. It was never a snappy machine, mind you. Even brand new, its integrated graphics could barely handle the display. When I decided against returning it in 2012, my review summary was "[Awkward](/2012/the-retina-13-awkward/)." Three years later, it still feels like a compromise, and [web browsing performance has gotten even worse](http://www.quirksmode.org/blog/archives/2015/05/web_vs_native_l.html).
 
 Around the time Yosemite arrived though, I began to experience a whole new kind of slowness. A kind of slowness that reminded me of my Windows 3.1 days. I could just switch apps and watch as the integrated graphics struggled heroically to render a window piece by piece. 
 

@@ -8,7 +8,7 @@ title: Project Archive
 wordpress_id: 2331
 ---
 
-For a summary of what I do, see [my resume](http://www.allenpike.com/resume/). What follows is a catalog of most of the things I've done so far. You could think of it as the world's most disastrously long and self-deprecating resume.
+For a summary of what I do, see [my resume](/resume/). What follows is a catalog of most of the things I've done so far. You could think of it as the world's most disastrously long and self-deprecating resume.
 
 **Current Projects**
 
@@ -50,7 +50,7 @@ I love teaching and discussing tech and other topics. <a href="/speaking/">Somet
 
 * **[Up Up Down Down](http://upup.fm/)**: A podcast about the craft of video games.
 
-* **[Party Monster](http://www.steamclock.com/partymonster/)**: A queueing DJ app for parties and road trips. We made a [funky video](http://www.allenpike.com/2012/making-a-funky-app-video/) for it as well.
+* **[Party Monster](http://www.steamclock.com/partymonster/)**: A queueing DJ app for parties and road trips. We made a [funky video](/2012/making-a-funky-app-video/) for it as well.
 
 * **[WeddingDJ](http://www.steamclock.com/weddingdj/)**: The best darn iPhone app for running music at weddings.
 
@@ -84,7 +84,7 @@ For reasons I don't fully understand, Apple offered me a job in 2008. I never th
 
 My first real tech job was at a small software company that builds apps for education. I'd been a friend of the company since the late .com era, letting me watch them explode, implode, and rebuild over most of a decade.
 
-* **DiscoNet**: My main job at Discovery was creating and iterating the company intranet and CRM system. I had a lot of freedom with this project, as evidenced by the fact I was somehow allowed to name it DiscoNet. Disco would later [resurface as a theme](http://www.allenpike.com/2012/making-a-funky-app-video/) in my software work.
+* **DiscoNet**: My main job at Discovery was creating and iterating the company intranet and CRM system. I had a lot of freedom with this project, as evidenced by the fact I was somehow allowed to name it DiscoNet. Disco would later [resurface as a theme](/2012/making-a-funky-app-video/) in my software work.
 
 * **Learn Faces**: I built a game for school staff to learn students' names and faces using JavaScript. Which is pretty random.
 
@@ -92,7 +92,7 @@ My first real tech job was at a small software company that builds apps for educ
 
 * **Just Ask Oldguy**: I designed a Q&A site where my former boss answered random questions from the internet.
 
-* **Budgetable**: I built a [financial management site](http://www.allenpike.com/2006/whats-a-budgetable/), and then sold the domain to a team who is [actually going somewhere with it](http://www.budgetable.com/).
+* **Budgetable**: I built a [financial management site](/2006/whats-a-budgetable/), and then sold the domain to a team who is [actually going somewhere with it](http://www.budgetable.com/).
 
 **University Era Projects** (2002-2008)
 
@@ -100,9 +100,9 @@ I started university at UCFV, but I upgraded to SFU within a year to preserve my
 
 * **[Altering Time](/altering-time/)**: What started as a forum turned into a long-running community site. It included multiplayer strategy games and user-generated content - before it was cool.
 
-* **[Political Asylum](http://www.allenpike.com/political-asylum/)**: My first multiplayer game, Asylum was a rat's nest of PHP and MySQL supported some wicked political machinations. 
+* **[Political Asylum](/political-asylum/)**: My first multiplayer game, Asylum was a rat's nest of PHP and MySQL supported some wicked political machinations. 
 
-* **[Engineering Faith](http://www.allenpike.com/engineering-faith/)**: Excited by the success of Asylum, I built a second game about creating your own religion. It was very well architected, but I forgot to make it fun. Oops.
+* **[Engineering Faith](/engineering-faith/)**: Excited by the success of Asylum, I built a second game about creating your own religion. It was very well architected, but I forgot to make it fun. Oops.
 
 * **SFU CSSS**: I spent time as the VP Operations, Acting President, and Secretary of the Computing Science Student Society. I have since retired from politics.
 
@@ -114,7 +114,7 @@ I started university at UCFV, but I upgraded to SFU within a year to preserve my
 
 * **Other Project Courses**: I took all the project classes I could in school. Besides the plants and bizarro gender quiz, I built a small distributed system, a pinball game, a raytracer, a student society website, a Java compiler, an STV voting system, and 3D fireworks simulation in C#. All of these were bad.
 
-* **Freelance web development**: For the better part of a year I did solo web contracting, and [learned many lessons](http://www.allenpike.com/2009/the-california-guys/) on the way. I built sites for my mom's work (a credit union), a construction company, a venture investor, a project management startup, and my stepmom's doggy daycare. It was, uh, world-class.
+* **Freelance web development**: For the better part of a year I did solo web contracting, and [learned many lessons](/2009/the-california-guys/) on the way. I built sites for my mom's work (a credit union), a construction company, a venture investor, a project management startup, and my stepmom's doggy daycare. It was, uh, world-class.
 
 **High School and Earlier** (1990s)
 
@@ -125,7 +125,7 @@ I started university at UCFV, but I upgraded to SFU within a year to preserve my
 * **[ACSS Theatre Company Video](/2002/the-theatre-company-movie/)**: This ancient nostalgic video has a horror story attached to it that should have scared me off of taking on large projects in the future. It did not.
 
 
-* **[FantasyTech 3](http://www.allenpike.com/2006/fantasytech-3-goto-fun/)**: I wrote a giant text-based RPG in QBASIC. How is this not on my resume?
+* **[FantasyTech 3](/2006/fantasytech-3-goto-fun/)**: I wrote a giant text-based RPG in QBASIC. How is this not on my resume?
 
 * **WarTech**: I was likely the only person ever to make a turn-based strategy in C++Builder. My friends lauded it as "kind of fun".
 

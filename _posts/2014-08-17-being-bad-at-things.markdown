@@ -16,7 +16,7 @@ Today, I turned 30. Even at this advanced age, I recently realized something cru
 
 <a href='http://www.gocomics.com/calvinandhobbes/2011/09/24'><img src='/images/2014/lessons.png' style='width:220px'></a>
 
-As a kid, I was bad at being bad at things. I excelled at certain specific subjects and skills, which made everything else seem like a waste of time. I wasn't a "natural" at music, art, or sports, so I set them aside. Malcolm Gladwell claims we need 10,000 hours to master something, and nobody's got time for that. I didn't even have the attention span to thoughtfully practice something for twenty minutes. Programming was fun, so I programmed. [Oh, how I programmed](http://www.allenpike.com/2006/fantasytech-3-goto-fun/).
+As a kid, I was bad at being bad at things. I excelled at certain specific subjects and skills, which made everything else seem like a waste of time. I wasn't a "natural" at music, art, or sports, so I set them aside. Malcolm Gladwell claims we need 10,000 hours to master something, and nobody's got time for that. I didn't even have the attention span to thoughtfully practice something for twenty minutes. Programming was fun, so I programmed. [Oh, how I programmed](/2006/fantasytech-3-goto-fun/).
 
 By 20, I felt good at making software. I was still useless at sports, art, and music, but that didn't concern me - others were well on their way to mastery of those things. I could never catch up to them, their natural talents having been honed since they were children, and I was now hopelessly behind. Luckily, I knew the importance of focus: spreading yourself too thinly just leads to doing many things poorly. I would instead do one thing well, and come to accept that as an adult, I am now too old to learn new things.
 

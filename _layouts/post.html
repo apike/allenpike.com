@@ -4,7 +4,7 @@ layout: default
 {% if page.link %}
   <h1><a href='{{ page.link }}'>{{ page.title }} →</a></h1>
 {% else %}
-  <h1><a href='.'>{{ page.title }}</a></h1>
+  <h1><a href='{{ page.url }}'>{{ page.title }}</a></h1>
 {% endif %}
 <p class="meta">{{ page.date | date: "%B %-d, %Y" }}</p>
 

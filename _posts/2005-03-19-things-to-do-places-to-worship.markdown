@@ -10,7 +10,7 @@ categories:
 - Faith
 ---
 
-![](http://www.alteringtime.com/faith/images/tiny_map.gif) The last two weeks have been pretty good for Faith development. Primarily my time has been going into the "Places of Worship" page. This is where you build temples, send missions to other regions of the world, and deal with other regional issues. It's actually quite an undertaking, since Engineering Faith actually takes place in a 2D space, as opposed to Political Asylum's lumping of all politicians into one big area.
+![](https://www.allenpike.com/images/old/tiny_map.gif) The last two weeks have been pretty good for Faith development. Primarily my time has been going into the "Places of Worship" page. This is where you build temples, send missions to other regions of the world, and deal with other regional issues. It's actually quite an undertaking, since Engineering Faith actually takes place in a 2D space, as opposed to Political Asylum's lumping of all politicians into one big area.
 
 Right now the game has four continents, and depending on certain factors, you'll end up on one when you start. Once your faith gets large, you can send missions to other continents, allowing you to have followers in other areas. It adds some interesting dynamics to the game.
 

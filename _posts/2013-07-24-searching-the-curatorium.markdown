@@ -54,7 +54,7 @@ Going through the top 50, only 10 are specifically about Twitter. 6 more are gen
 Google's results for "twitter iphone app" are better, but are still not a good way to find Tweetbot or Twitterrific. It's not until #15 that they're linked, via Rene Ritchie's [Twitter apps roundup](http://www.imore.com/top-5-alternative-twitter-apps-iphone-ipad) which ranks them both at the top. Neither their official sites nor the App Store pages for Twitterrific or Tweetbot are in the top 100.
 
 ## Why don't great apps have great ranks?
-In [my echo chamber](https://twitter.com/apike/following), Twitterrific and Tweetbot are used by many and praised by all. In the real world, [most people are not looking for a paid Twitter app](http://www.allenpike.com/2013/maximum-viable-products/). The App Store is curated with this in mind, and I get that.
+In [my echo chamber](https://twitter.com/apike/following), Twitterrific and Tweetbot are used by many and praised by all. In the real world, [most people are not looking for a paid Twitter app](/2013/maximum-viable-products/). The App Store is curated with this in mind, and I get that.
 
 Still, it's frustrating that the Store search algorithm cares almost exclusively about downloads, app title, and keywords. Paid apps get fewer downloads than free apps, so they're lost in the noise. Instead of Twitterrific, we get Instagram at #2. This isn't because Instagram is about "Twitter" at all, but because it's insanely popular, and meets the minimum keyword relevance requirement to appear. 
 

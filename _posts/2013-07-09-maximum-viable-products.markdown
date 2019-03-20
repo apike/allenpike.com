@@ -17,7 +17,7 @@ tags:
 
 ---
 
-<iframe src="http://player.vimeo.com/video/42851640?byline=0&amp;portrait=0&amp;color=9322cc" width="100%" height="350" frameborder="0" webkitAllowFullScreen="1" mozallowfullscreen="1" allowFullScreen="1"> </iframe>
+<iframe src="https://player.vimeo.com/video/42851640?byline=0&amp;portrait=0&amp;color=9322cc" width="100%" height="350" frameborder="0" webkitAllowFullScreen="1" mozallowfullscreen="1" allowFullScreen="1"> </iframe>
 
 > "Minimum Viable Product. It's an interesting term, and I don't... I've never... really thought about it before. We don't really do Minimum Viable Products, I guess we do Maximum Viable Products." -- [Cabel Sasser](https://vimeo.com/42851640)
 
@@ -61,4 +61,4 @@ Yesterday Apple [launched a promotion](http://www.macworld.com/article/2043859/a
 
 Hint: it's not your mom.
 
-*Update: I gave a more in-depth talk on this topic at Çingleton 4 which is [available online](http://www.allenpike.com/2015/maximum-viable-at-cingleton/).*
+*Update: I gave a more in-depth talk on this topic at Çingleton 4 which is [available online](/2015/maximum-viable-at-cingleton/).*

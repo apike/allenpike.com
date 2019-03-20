@@ -14,7 +14,7 @@ tags:
 - Vancouver
 ---
 
-![](/images/wp-uploads/2012/02/woz-jobs.jpg)Yesterday I [put fuel](http://www.allenpike.com/2012/homes-for-vancouver-startups/) on[ Jesse's fire](http://id8.ca/two-problems-with-vancouver-and-three-ways-to-fix-it) by talking about the importance of helping startups be physically close to one another. Work spaces are a small part of the bigger issue: how do we get great tech companies to grow and anchor in our city?
+![](/images/wp-uploads/2012/02/woz-jobs.jpg)Yesterday I [put fuel](https://www.allenpike.com/2012/homes-for-vancouver-startups/) on[ Jesse's fire](http://id8.ca/two-problems-with-vancouver-and-three-ways-to-fix-it) by talking about the importance of helping startups be physically close to one another. Work spaces are a small part of the bigger issue: how do we get great tech companies to grow and anchor in our city?
 
 Greg and Danny at BCIC [put it thusly](http://www.bcic.ca/blog/191-general/1449-the-rationale-for-bcics-support-of-startups):
 

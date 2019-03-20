@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
   <title>Allen Pike</title>
-  <link href="http://www.allenpike.com/"/>
-  <link type="application/atom+xml" rel="self" href="http://www.allenpike.com/feed/"/>
+  <link href="https://www.allenpike.com/"/>
+  <link type="application/atom+xml" rel="self" href="https://www.allenpike.com/feed/"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://www.allenpike.com/</id>
+  <id>https://www.allenpike.com/</id>
   <author>
     <name>Allen Pike</name>
   </author>
@@ -16,7 +16,7 @@ layout: nil
   {% for post in site.posts limit:3 %}
   {% capture coda %}{% if post.link %}<a href="{{ post.url }}">∞</a>{% endif %}{% endcapture %}
   <entry>
-    <id>http://www.allenpike.com{{ post.url }}</id>
+    <id>https://www.allenpike.com{{ post.url }}</id>
     <link type="text/html" rel="alternate" href="{% if post.link %}{{ post.link }}{% else %}https://www.allenpike.com{{ post.url }}{% endif %}"/>
     <title>{{ post.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
