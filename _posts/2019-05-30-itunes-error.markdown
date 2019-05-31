@@ -28,7 +28,7 @@ iTunes brought together a shiny interface and powerful library management that J
 <a href="/images/2019/itunes/old-restore.png"><img src="/images/2019/itunes/old-restore.png"></a>
 
 
-Two years after its debut, iTunes was already at version 4. The addition of the iTunes Music Store Apple turned a trusty utility into an internet marketplace overnight. The  Store completely overturned the music industry *and* overturned Apple itself, kickstarting its shift from a computer company to a device and services company.
+Two years after its debut, iTunes was already at version 4. The addition of the iTunes Music Store turned a trusty utility into an internet marketplace overnight. The  Store completely overturned the music industry *and* overturned Apple itself, kickstarting its shift from a computer company to a device and services company.
 
 <a href="/images/2019/itunes/hamilton-error.png"><img src="/images/2019/itunes/hamilton-error.png"></a>
 
@@ -66,7 +66,7 @@ Of course, a focused and clean music-only app for Mac is still the endgame. The 
 
 Retiring iTunes is a hard thing to do, given the wild web of legacy things it enables. Building a ground-up replacement for music on the Mac is a tall order, especially if they wanted to bring across the powerful library management features that made Mac users fall in love with it all those years ago.
 
-Alternatively, Apple must have at least experimented with bringing much-maligned but generally more modern Music app from iOS to the Mac. Perhaps they could use some kind of [almond-flavoured confection](https://daringfireball.net/linked/2019/02/20/gurman-wwdc-2019) to ease the transition.
+Alternatively, Apple must have at least experimented with bringing the much-maligned but generally more modern Music app from iOS to the Mac. Perhaps they could use some kind of [almond-flavoured confection](https://daringfireball.net/linked/2019/02/20/gurman-wwdc-2019) to ease the transition.
 
 Regardless, replacing an app the size of iTunes is a big job.
 
