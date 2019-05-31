@@ -23,7 +23,7 @@ Yes, an *application*. That's what we called apps back when dinosaurs roamed the
 
 <a href="/images/2019/itunes/og-itunes.png"><img src="/images/2019/itunes/og-itunes.png" alt="iTunes, circa 2001"></a>
 
-iTunes brought together a shiny interface and powerful library management that Just Worked™. What we didn't know in 2001 was that iTunes was the first piece of a "digital hub" strategy that would change the Apple forever. From its humble beginnings as a nice way to play music, iTunes quickly became the core of Apple's push into consumer electronics: first the iPod, and later the iPhone.
+iTunes brought together a shiny interface and powerful library management that Just Worked™. What we didn't know in 2001 was that iTunes was the first piece of a "digital hub" strategy that would change Apple forever. From its humble beginnings as a nice way to play music, iTunes quickly became the core of Apple's push into consumer electronics: first the iPod, and later the iPhone.
 
 <a href="/images/2019/itunes/old-restore.png"><img src="/images/2019/itunes/old-restore.png"></a>
 
@@ -38,7 +38,7 @@ Later that year, iTunes arrived on Windows. Apple quickly gained a foothold on m
 
 <a href="/images/2019/itunes/windows-working.png"><img src="/images/2019/itunes/windows-working.png"></a>
 
-And add functionality they did. Over the years, iTunes accumulated features for local music, playing and burning CDs, the iTunes Store, iTunes in the Cloud, iTunes Match, Apple Music, TV, movies, Smart playlists, Genius playlists, podcasts, network library sharing, device backup, internet radio, ratings, iTunes Extras, iTunes U, device software update and restore, media sync, ringtone sync, contact and calendar sync, AirPlay, queueing, literally rearranging the icons on your iPhone home screen and – most importantly – displaying a bangin' visualization of the Hootie and the Blowfish track you just purchased for $0.99.
+And add functionality they did. Over the years, iTunes accumulated features for local music, playing and burning CDs, the iTunes Store, iTunes in the Cloud, iTunes Match, Apple Music, TV, movies, Smart playlists, Genius playlists, podcasts, network library sharing, device backup, internet radio, ratings, iTunes Extras, iTunes U, device software update and restore, media sync, ringtone sync, contact and calendar sync, AirPlay, queueing, Ping, Connect, literally rearranging the icons on your iPhone home screen and – most importantly – displaying a bangin' visualization of the Hootie and the Blowfish track you just purchased for $0.99.
 
 <a href="/images/2019/itunes/could-not-purchase.png"><img src="/images/2019/itunes/could-not-purchase.png"></a>
 
@@ -56,7 +56,7 @@ While building the UI for many of these new features using web technology might 
 
 <a href="/images/2019/itunes/500-zero-size.png"><img src="/images/2019/itunes/500-zero-size.png"></a>
 
-By 2015, it was time for a reset. With great fanfare and an remarkable performance by Eddy Cue, Apple Music was born. With Apple Music, the iTunes team was finally given the time and space to fully overhaul the app, ditching 15 years of legacy chaos once and for all.
+By 2015, it was time for a reset. With great fanfare and a remarkable performance by Eddy Cue, Apple Music was born. With Apple Music, the iTunes team was finally given the time and space to fully overhaul the app, ditching 15 years of legacy chaos once and for all.
 
 Just kidding, it was just stuck on top of what was already there.
 
@@ -74,7 +74,7 @@ Regardless, replacing an app the size of iTunes is a big job.
 
 So we waited. The world turned. Users slowly shifted from iTunes to Spotify. A movie came out about a gumshoe Pikachu and it was [somehow not horrible](https://www.rottentomatoes.com/m/pokemon_detective_pikachu). That is to say, it's taken a very long time – so long that one might assume there has been a false start or two along the way.
 
-But if the rumour and leak mill is to be believed, iTunes' end is finally nigh. In macOS 10.15 [we will finally see a Music.app for Mac](https://9to5mac.com/2019/05/29/macos-10-15-music-tv-app-screenshots/). Surprisingly, this new app is said to be based based not on the iOS app or a new codebase, but on the venerable iTunes itself.
+But if the rumour and leak mill is to be believed, iTunes' end is finally nigh. In macOS 10.15 [we will finally see a Music.app for Mac](https://9to5mac.com/2019/05/29/macos-10-15-music-tv-app-screenshots/). Surprisingly, this new app is said to be based not on the iOS app or a new codebase, but on the venerable iTunes itself.
 
 There will surely be naysayers that claim iTunes should have been tossed entirely. And admittely, if the new Music app ditches iTunes' interface but can't cure its deep and baffling love for obtuse modal error dialogs, I too will bemoan its preservation. But arguing for code to be rewritten just because it's old has never been the right way to build systems that work.
 
