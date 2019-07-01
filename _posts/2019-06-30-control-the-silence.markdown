@@ -30,7 +30,7 @@ The next level up is about **keeping things moving**. Flow. How can you make thi
 
 You see, people are going to want to talk. Socializing is a lot of why people come to events, especially those blowhards way at the back. That's why you need to make it clear to the crowd when it’s talk time, and when it’s pay-attention time.
 
-If your event is well run, they will have some house music playing in the background before and between presentations. At a small event, you can often rig background music up yourself. House music is nice for getting folks to start talking to one another.
+If your event is well run, they will have some house music playing in the background before and between presentations. If not, you can often rig background music up yourself. House music is nice for getting folks to start talking to one another.
 
 House music is *even nicer*, though, for getting people to **stop** talking. When it’s time to intro the next speaker or deliver a status update, just fade out the house music – or, ideally, have a sound tech do this on your signal. The sudden silence will draw everybody’s attention, and your intro blurb (or glib rhetorical question) will shut up the remaining verbal stragglers. You then say your bit, and hand that hard-won energy off to the next speaker by introducing them by name.
 
@@ -47,4 +47,4 @@ Luckily, there are two simple ways to prevent a botched handoff:
 
 MCing an event isn’t rocket surgery. It does take a bit of practice, but the biggest requirement is simply caring about how things flow, and putting the work in to make them flow well.
 
-Being the steward of an audience’s attention is a privilege. If you treat that attention as a precious resource, then they’ll be willing and ready to give it when you request it.
+Being the steward of an audience’s attention is a privilege. If you treat that attention as a precious resource, then they’ll be willing and ready to give it when you need it.
