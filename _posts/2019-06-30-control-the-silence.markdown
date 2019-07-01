@@ -40,7 +40,7 @@ The reverse flow happens on the way out: you thank the speaker by name, tell peo
 
 There are a couple sub-tricks to keeping folks’ attention as an MC. If it’s time for the next presenter and you jump into introducing them, you might realize post-intro that they’re not actually ready. “Oh, uh, I need to get my laptop set up.” Cue 2 minutes of awkward silence as your speaker fumbles around, inwardly panicking, while the audience slowly starts to talk amongst themselves again. Bad MC, bad! By the time things really are ready to go, the energy and attention have been lost to the wind.
 
-Luckily, there are two simple ways to prevent a botched handoff:
+Luckily, there are two simple ways to prevent a botched handoff: 
 
 1. Check with your next-up speaker if they’re good to go before you get the audience’s attention.
 2. If you realize you've gotten the audience’s attention too early, and you can’t shuck and jive long enough to fill the gap, just *give the attention back.* Instead of letting things get awkward, explain that you'll need a few more minutes and we’ll be going shortly – then get the music back on.
