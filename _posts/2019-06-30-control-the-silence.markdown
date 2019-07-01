@@ -4,7 +4,7 @@ date: "2019-06-30 08:10:10 -08:00"
 layout: post
 title: "Control the Silence"
 summary: "The one weird trick to MCing an event."
-image: "/images/2019/itunes/invalid-square.jpg"
+image: "/images/2019/tada.jpg"
 categories:
 - Article
 tags:
