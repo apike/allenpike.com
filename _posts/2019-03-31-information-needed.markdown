@@ -74,8 +74,7 @@ If your app’s business model was crafted specifically to circumvent Apple’s 
 
 One of the few accounts online of this process [comes from this Japanese blog post by Takuya Matsuyama](https://blog.craftz.dog/avoiding-in-app-purchase-4b7cf310f386), who outlines what App Review may ask in this “business model review” scenario:
 
-> - Is your app a mobile extension of an existing service?
-> - Does this existing service have a cost?
+> - Does your app access any paid content or services?
 > - What are the paid content or services, and what are the costs?
 > - Do individual customers pay for the content or services?
 > - If no, does a company or organization pay for the content or services?
