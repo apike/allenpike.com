@@ -1,6 +1,6 @@
 ---
 author: allen
-date: "2019-06-30 08:10:10 -08:00"
+date: "2019-07-31 08:10:10 -08:00"
 layout: post
 title: "Being More than Nice"
 summary: "Being nice proves insufficient."
