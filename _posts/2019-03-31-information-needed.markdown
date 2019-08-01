@@ -8,6 +8,7 @@ image: "/images/2019/bridge.jpg"
 categories:
 - Article
 tags:
+- steamclock
 ---
 
 If you publish apps for iOS, understanding the App Store review process is part of your job. While [the core guidelines](https://developer.apple.com/app-store/review/guidelines/) are public, their enforcement relies on a large set of private rules and policies, policed by human beings. When you’re trying to release an update to your customers, the keeper of the [Bridge of Death](https://www.youtube.com/watch?v=dPOyOM7wxlE) is not the nicely summarized guidelines, but the machinery that enforces them.

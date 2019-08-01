@@ -8,6 +8,7 @@ image: "/images/2018/titan-square.jpg"
 categories:
 - Article
 tags:
+- steamclock
 ---
 
 Congratulations, you’re getting promoted! You have excelled at the Thing You Do to such a degree that you’ll now be leading a whole _team_ of people who Do That Thing. Very responsibility, much excite.

@@ -7,7 +7,9 @@ summary: "Apps should be interesting, but not like that."
 image: "/images/2019/translate-square.jpg"
 categories:
 - Article
+featured: true
 tags:
+- steamclock
 ---
 
 When launching a product, especially a consumer-oriented one, you want it to be interesting. A novel, bold, or distinctive UI can make an app stand out from the crowd, be memorable, and inspire curiosity. Plus, it’s cool.

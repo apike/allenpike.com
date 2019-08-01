@@ -5,6 +5,7 @@ layout: post
 title: "iTunes: An Error Occurred"
 summary: "Like all good things, iTunes comes to an end."
 image: "/images/2019/itunes/invalid-square.jpg"
+featured: true
 categories:
 - Article
 tags:

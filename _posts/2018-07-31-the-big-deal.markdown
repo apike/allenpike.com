@@ -9,6 +9,7 @@ image: "/images/2018/rud.jpg"
 categories:
 - Article
 tags:
+- steamclock
 ---
 
 In the years I’ve run a consulting studio, I’ve noticed something odd about consulting studios: they often implode. Big ones, little ones, and ostensibly successful ones all seem have a weird habit of suddenly letting go half their staff.

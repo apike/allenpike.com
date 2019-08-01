@@ -8,6 +8,7 @@ image: "/images/2019/aggro.png"
 categories:
 - Article
 tags:
+- steamclock
 ---
 
 I try to be nice to people.
