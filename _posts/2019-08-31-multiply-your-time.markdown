@@ -1,6 +1,6 @@
 ---
 author: allen
-date: "2019-08-31 20:10:10 -08:00"
+date: "2019-08-31 11:10:10 -08:00"
 layout: post
 title: "Multiply Your Time"
 summary: "Separating the garbage from the important tasks."
