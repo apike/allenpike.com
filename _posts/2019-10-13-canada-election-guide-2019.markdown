@@ -22,7 +22,20 @@ And even if those controversies haven’t changed the party allegiance of many t
 
 Naturally, voters have a variety of alternatives to consider. Unfortunately, none of the alternatives seem to be inspiring a *ton* of enthusiasm either. Despite rigorous campaigning by some fresh faces, [the CBC poll tracker](https://newsinteractives.cbc.ca/elections/poll-tracker/canada/) has changed little since the campaign’s outset, mostly projecting a minority government by the Liberals of the Conservatives. While predicting the vote is hard enough in the best of times, we may see particularly inaccurate polling this year due to a spike in voter apathy, and the potential for substantially lower turnout.
 
-## The Issues
+- [The Issues, or Lack Thereof](#issues)
+- [The NDP](#ndp)
+- [Strategic Voting](#strategic)
+- [The Green Party](#greens)
+- [The Bloc Québécois](#bloc)
+- [The Liberal Party](#liberals)
+- [The Conservative Party](#conservatives)
+- [The People's Party](#peoples)
+- [Actually Voting](#voting)
+
+<a name="issues"></a>
+
+## The Issues, or Lack Thereof
+
 Unlike many elections, and certainly unlike those south of the border, there are not a lot of big, emotional issues driving this Canadian election. Still, in an election year where none of the leaders are inspiring a ton of enthusiasm, the issues are going to drive the vote for many people.
 
 As a quick refresher for what the federal issues are, it’s worth checking in on what the federal government actually *does* in Canada. You may be losing sleep over the sorry state of our road signage, but those aren’t the kind of signs Ottawa is looking at.
@@ -39,6 +52,8 @@ Given that, rather than digging into any issue in detail, I’m going to recap t
 
 Please don’t hate me.
 
+<a name="ndp"></a>
+
 ## The NDP
 Bringing up the left side of the House, we have longtime social-democrats, the National Democratic Party. As with many left-wing organizations, over the years the party has struggled to find balance between its more radically progressive elements and the more electable ones, and has spent most of its history in 3rd place or worse. That said, if your politics are progressive, and wealth inequality in Canada is a serious concern for you, then the NDP should be on your radar already.
 
@@ -47,6 +62,8 @@ As is their style, the NDP promises to spend more money on more programs than th
 Since being elected leader of the NDP in 2017, Jagmeet Singh hasn’t exactly lit a fire under the party’s base.  Most press coverage of Singh has focused on either his early struggles to build a national campaign, or commentary on his deft and moving responses to questions about race. That said, Singh has recently received positive press for his debate performances, and has in recent days picked up some of the polling numbers Trudeau has lost.
 
 **You should consider voting NDP if** you’re firmly on the progressive end of the spectrum, especially if they’re likely the strongest progressive party in your riding. For many voters on the left, though, the question of whether to vote NDP in a given election or riding comes down to strategic voting.
+
+<a name="strategic"></a>
 
 ## Strategic voting
 
@@ -63,7 +80,10 @@ The core goal of strategic voting on the left is to not hand a left-leaning ridi
 
 If only we could get a prime minister who pledged to stop first past the post, we wouldn’t have to worry about strategic voting anymore. One can dream.
 
+<a name="greens"></a>
+
 ## The Green Party
+
 Traditionally a protest vote, the Green Party has been getting substantially more attention this election cycle. This is due in part to the ever-increasing priority of climate as a critical election issues, but also because Greens have had electoral successes at the municipal and provincial levels in recent years.
 
 With more attention has come more scrutiny, and for the first time that I’m aware, the Green Party has gotten press for campaign-trail gaffes –  [insufficiently vetting candidates](https://www.cbc.ca/news/politics/green-party-re-vetting-candidates-abortion-quebec-1.5282892), for example. Running a truly national campaign is tough.
@@ -74,16 +94,22 @@ While the Green Party is further left than the NDP on some issues, they are surp
 
 Elizabeth May has long been party leader and lone MP, and is the longest-standing leader of Canada’s parties. While this may be the year the Greens pick up a couple additional seats – for example, on Vancouver Island – their support has traditionally been spread so thinly across the country that they pose a serious challenge in very few ridings. That said, the fact climate is a huge pillar of their platform could make this the year they break out.
 
-**You should consider voting Green if** your riding is one of the few that has a strong Green candidate with a chance of winning, or if you want to lodge a protest vote on behalf of climate. If you’re a Green supporter looking to vote strategically, the rules I describe above all apply.::link up?::
+**You should consider voting Green if** your riding is one of the few that has a strong Green candidate with a chance of winning, or if you want to lodge a protest vote on behalf of climate. If you’re a Green supporter looking to vote strategically, the [rules i describe above](#strategic) all apply.:
+
+<a name="bloc"></a>
 
 ## Bloc Québécois 
+
 Given that the Bloc is a separatist party that only runs candidates in Quebec, the personal blog of a tech guy from Vancouver is _probably_ not the go-to source of information. On the other hand, they don’t seem to even have an English website, so maybe you *are* looking for information on them? If so, I apologize.
 
 From what I’ve gathered, support for the Bloc has risen in the polls since last election’s lows, and in a minority government situation they could hold the balance of power. So they’re important to Canada, but not an option on most Canadians’ ballots.
 
 **You should consider voting Bloc if** you’re a left-leaning voter who is interested in Quebec separatism and have actually read about their platform in French. Or, perhaps, if you’re an “Anything but Conservative” voter who is in a riding where Bloc is the best defensive vote.
 
+<a name="liberals"></a>
+
 ## The Liberal Party
+
 The Liberals are Canada’s winningest political party, longtime experts at finding a balanced position in the center of Canadian politics – in the middle, but a bit to the left.
 
 In 2015, Trudeau’s positivity, charisma, enthusiasm, and vocal support of progressive social values earned the Liberals a lot of new votes. He got “Stop Harper” votes from the left, open-minded votes from the right, previously non-existent votes from the young, and a non-trivial number of votes from fringe-party voters eager to do away with First Past the Post.
@@ -92,13 +118,15 @@ Over the last four years, the Liberals haven’t exactly screwed Canada up – b
 
 That said, there is an enduring appeal to centrism, and the Liberals continue to be the party whose views are closest to the median Canadian. Since the demise of Canada’s Progressive Conservative party in 2003, the Liberals have also been the closest we have to a libertarian party – the most fiscally conservative party you can elect that is still progressive in a social sense.
 
-Perhaps most importantly for the Liberals, they are the natural “not Conservative” strategic vote. As with most modern Canadian elections, the Conservatives and Liberals are the only two parties with a shot at actually forming government. At the riding level, if you live somewhere that the Conservatives have a good chance of winning, the Liberals are probably the next most likely party to win. You can read my ::overview of strategic voting here::.
+Perhaps most importantly for the Liberals, they are the natural “not Conservative” strategic vote. As with most modern Canadian elections, the Conservatives and Liberals are the only two parties with a shot at actually forming government. At the riding level, if you live somewhere that the Conservatives have a good chance of winning, the Liberals are probably the next most likely party to win. You can read my [overview of strategic voting above](#strategic).
 
 An amusing wrinkle for the center-left Federal Liberals every election is that the de facto right-wing political party in British Columbia is called the BC Liberals. I find this funny in two ways: both that the two parties share a name but have very different positions in politics, and that BC is a liberal enough place that the most conservative major party we have is titled the “liberals”.
 
 **You should consider consider voting Liberal if** you’re a moderate or centre-left voter who thinks Trudeau really does mean well and is learning from his various foibles, or if you’re a progressive voter who falls in the “anything but Conservative” camp and the Liberals have the best shot at defeating the Conservatives in your riding.
 
 And please, if you voted for Trudeau last time and are annoyed at him for one of many valid reasons, please still take the effort to vote this year – even if it’s just to formally record your displeasure.
+
+<a name="conservatives"></a>
 
 ## Conservative Party of Canada
 In 2003, the center-right Progressive Conservatives and the right-wing Canadian Alliance merged. While this annoyed the most moderate and most radical factions of those parties, it vastly improved conservatives’ electoral chances in this country, and led to almost 10 years of Conservative government.
@@ -121,6 +149,8 @@ All that said, the biggest challenge for Conservatives is probably on the climat
 2. You lean Conservative and couldn’t stomach voting for Trudeau again, especially if you’re not very concerned about climate targets or the potential of Scheer enacting some socially conservative policies
 3. You live in [Beauce, Quebec](http://338canada.com/districts/24007e.htm), and have the irresistable chance to deny the People’s Party from getting a single seat in parliament.
 
+<a name="peoples"></a>
+
 ## The People’s Party
 A natural consequence of a unified Conservative party is that there will, on occasion, be politicians who are too conservative, too extreme, to be part of a big Conservative tent. This election, we have somebody wild enough to try to out-conservative the Conservatives: Maxime Bernier.
 
@@ -129,6 +159,8 @@ Bernier says he would do “nothing” about climate change, thinks Canada’s �
 That said, we’ve learned from elections worldwide that it’s too easy to dismiss populists as being idiots.
 
 If you are considering voting for the People’s Party of Canada in any riding other than Maxime Bernier’s, you’re probably just splitting the vote and hurting the Conservatives, the party with an actual chance to advance your views. While in the short term it may be better for progressive politics in Canada to have a split conservative vote, I think legitimizing this kind of rhetoric sends a terrible message to the country and our children. Please just don’t.
+
+<a name="voting"></a>
 
 ## Actually voting
 Your vote: it’s in you to give.
@@ -144,13 +176,13 @@ If you’ve registered to vote you should have received a voting information car
 [Voting hours vary by province](https://www.elections.ca/content2.aspx?section=faq&dir=votinghours&document=index&lang=e), but are **7:00am to 7:00pm in BC**, and are **9:30am to 9:30pm in Ontario**.
 
 ## Learning more
-If you have any feedback or (especially) corrections on this guide, please **get in touch**!
+If you have any feedback or (especially) corrections on this guide, please [get in touch](/contact/)!
 
 While I hope this guide is a helpful starting point for people, I’m just a lone designer and developer from Vancouver – if you’re able, it’s great to do your own research, and spread the word about what you learn. Some starting points for doing your own research:
 
 - [338Canada](http://338canada.com), a rough but valuable trove of polling data and projections
 - [Justin McElroy](https://twitter.com/j_mcelroy), CBC Vancouver’s local affairs reporter and professional ranker of things
-- The CBC’s [Party Platforms Guide](https://newsinteractives.cbc.ca/elections/federal/2019/party-platforms/)
+- Party Platform Guides by [the CBC](https://newsinteractives.cbc.ca/elections/federal/2019/party-platforms/) and [Maclean's](https://www.macleans.ca/politics/2019-federal-election-platform-guide-where-the-parties-stand-on-everything/)
 - The [Vote Compass](https://votecompass.cbc.ca/canada/), which is a neat tool even though the issues this year make its results kind of uninteresting and at times misleading
 - The [Oct 7 Leaders’ debate](https://www.youtube.com/watch?v=MG6in0Ix4SY) made available in full on Youtube by CTV news including, inexplicably, hours of preamble
 - A variety of political podcasts, including the CBC’s [Party Lines](https://www.cbc.ca/radio/podcasts/party-lines/) and BC’s [PolitiCoast](https://politicoast.ca)
