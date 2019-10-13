@@ -174,7 +174,7 @@ To vote on **Monday, October 21**, you just need to:
 - Be 18, and a Canadian citizen
 - Vote at your assigned polling station in your riding
 
-If you’ve registered to vote you should have received a voting information card that will make voting faster. If you don’t have a voting card, you should still be able to vote, as long as you are at your assigned polling station.
+If you’ve registered to vote you should have received a voting information card that will make voting faster. If you don’t have a voting card, you should still be able to vote, as long as you [find your assigned polling station](https://www.elections.ca/scripts/vis/FindED?L=e&PAGEID=20).
 
 [Voting hours vary by province](https://www.elections.ca/content2.aspx?section=faq&dir=votinghours&document=index&lang=e), but are **7:00am to 7:00pm in BC**, and are **9:30am to 9:30pm in Ontario**.
 
@@ -187,5 +187,5 @@ While I hope this guide is a helpful starting point for people, I’m just a lon
 - [Justin McElroy](https://twitter.com/j_mcelroy), CBC Vancouver’s local affairs reporter and professional ranker of things
 - Party Platform Guides by [the CBC](https://newsinteractives.cbc.ca/elections/federal/2019/party-platforms/) and [Maclean's](https://www.macleans.ca/politics/2019-federal-election-platform-guide-where-the-parties-stand-on-everything/)
 - The [Vote Compass](https://votecompass.cbc.ca/canada/), which is a neat tool even though the issues this year make its results kind of uninteresting and at times misleading
-- The [Oct 7 Leaders’ debate](https://www.youtube.com/watch?v=MG6in0Ix4SY) made available in full on Youtube by CTV news including, inexplicably, hours of preamble
+- The [Oct 7 Leaders’ debate](https://www.youtube.com/watch?v=MG6in0Ix4SY), made available in full on Youtube by CTV news including, inexplicably, hours of preamble
 - A variety of political podcasts, including the CBC’s [Party Lines](https://www.cbc.ca/radio/podcasts/party-lines/) and BC’s [PolitiCoast](https://politicoast.ca)
