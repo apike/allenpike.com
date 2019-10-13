@@ -3,8 +3,8 @@ author: allen
 date: "2019-10-13 11:10:10 -08:00"
 layout: post
 title: "Canada Election Guide, 2019"
-summary: "Canada votes."
-image: "/images/2019/XYXYXYXYXYXYXYXY"
+summary: "Your vote – it's in you to give."
+image: "/images/2019/seat-projection.png"
 categories:
 - Article
 tags:
@@ -20,7 +20,7 @@ On the other hand, people distinctly remember the promises he did not keep – c
 
 And even if those controversies haven’t changed the party allegiance of many traditional Liberal voters, they’ve certainly dampened enthusiasm for Trudeau among progressives generally.
 
-<img src="/images/2019/pop-vote.jpg">
+<img src="/images/2019/seat-projection.png">
 
 Of course, voters have a variety of alternative parties to consider. Unfortunately, none of the alternatives seem to be inspiring a ton of enthusiasm either. Despite rigorous campaigning by some fresh faces, [the CBC poll tracker](https://newsinteractives.cbc.ca/elections/poll-tracker/canada/) has changed little since the campaign’s outset, mostly projecting a minority government by the Liberals or the Conservatives.
 
