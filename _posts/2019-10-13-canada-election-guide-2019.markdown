@@ -20,6 +20,8 @@ On the other hand, people distinctly remember the promises he did not keep – c
 
 And even if those controversies haven’t changed the party allegiance of many traditional Liberal voters, they’ve certainly dampened enthusiasm for Trudeau among progressives generally.
 
+<img src="/images/2019/pop-vote.jpg">
+
 Of course, voters have a variety of alternative parties to consider. Unfortunately, none of the alternatives seem to be inspiring a ton of enthusiasm either. Despite rigorous campaigning by some fresh faces, [the CBC poll tracker](https://newsinteractives.cbc.ca/elections/poll-tracker/canada/) has changed little since the campaign’s outset, mostly projecting a minority government by the Liberals or the Conservatives.
 
 While predicting election odds is hard enough in the best of times, we may see particularly inaccurate polling this year since higher apathy and uncertainty about who what party to vote for will likely drive down turnout.
