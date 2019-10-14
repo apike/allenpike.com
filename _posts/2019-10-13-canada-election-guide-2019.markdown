@@ -170,7 +170,7 @@ If you are considering voting for the People’s Party of Canada in any riding o
 
 ## Actually voting
 
-To vote on **Monday, October 21**, you just need to:
+To vote on **Monday, October 21** – or during advance polling until Monday, October 14 – you just need to:
 
 - Have ID that proves your address
 - Be 18, and a Canadian citizen
