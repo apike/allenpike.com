@@ -61,7 +61,7 @@ Please don’t hate me.
 <a name="ndp"></a>
 
 ## The NDP
-Bringing up the left side of the House, we have longtime social-democrats, the National Democratic Party. As with many left-wing organizations, over the years the party has struggled to find balance between its more radically progressive elements and the more electable ones, and has spent most of its history in 3rd place or worse. That said, if your politics are progressive, and wealth inequality in Canada is a serious concern for you, then the NDP should be on your radar already.
+Bringing up the left side of the House, we have longtime social-democrats, the New Democratic Party. As with many left-wing organizations, over the years the party has struggled to find balance between its more radically progressive elements and the more electable ones, and has spent most of its history in 3rd place or worse. That said, if your politics are progressive, and wealth inequality in Canada is a serious concern for you, then the NDP should be on your radar already.
 
 As is their style, the NDP promises to spend more money on social programs than the more moderate parties, and have predictably progressive perspectives on social and climate issues. For example, the NDP is pledging to build 50,000 new affordable homes per year, whereas the Greens promise to build 25,000 and the Liberals are pledging 10,000. Of course it’s easy for the 3rd place party to make pledges, and the bigger question is about which party might actually achieve their targets, and how they’ll pay for it all – a tale as old as time.
 
