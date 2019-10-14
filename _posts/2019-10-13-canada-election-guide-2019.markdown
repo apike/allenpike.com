@@ -100,7 +100,7 @@ While the Green Party is further left than the NDP on some issues, they are surp
 
 Elizabeth May has long been party leader and lone MP, and is the longest-standing leader of Canada’s parties. While this may be the year the Greens pick up a couple additional seats – for example, on Vancouver Island – their support has traditionally been spread so thinly across the country that they pose a serious challenge in very few ridings. That said, the fact climate is a huge pillar of their platform could make this the year they break out.
 
-**You should consider voting Green if** your riding is one of the few that has a strong Green candidate with a chance of winning, or if you want to lodge a protest vote on behalf of climate. If you’re a Green supporter looking to vote strategically, the [rules i describe above](#strategic) all apply.
+**You should consider voting Green if** your riding is one of the few that has a strong Green candidate with a chance of winning, or if you want to lodge a protest vote on behalf of climate. If you’re a Green supporter looking to vote strategically, the [rules I describe above](#strategic) all apply.
 
 <a name="bloc"></a>
 
