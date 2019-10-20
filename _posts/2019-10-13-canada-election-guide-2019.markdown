@@ -10,7 +10,9 @@ categories:
 tags:
 ---
 
-In one week – on **Monday, October 21** – Canada votes.
+*Updated Sat, Oct 19 based on latest polling.*
+
+On **Monday, October 21**, Canada votes.
 
 [Last election](https://en.wikipedia.org/wiki/2015_Canadian_federal_election), Justin Trudeau’s Liberals swept into power. A wave of optimism and enthusiasm won the Liberals the largest gain in seats ever in a Federal election. Trudeau was seen as a champion of the center *and* the left, and drove the highest voter turnout in over 20 years. The result: a total rout. The leaders of all three other major parties left or were pushed out.
 
@@ -22,7 +24,7 @@ And even if those controversies haven’t changed the party allegiance of many t
 
 <a href="http://338canada.com/"><img src="/images/2019/seat-projection.png"></a>
 
-Of course, thanks to our parliamentary system, voters have a variety of alternative parties to consider. Unfortunately, none of the alternatives seem to be inspiring a ton of enthusiasm either. Despite rigorous campaigning by some fresh faces, [the CBC poll tracker](https://newsinteractives.cbc.ca/elections/poll-tracker/canada/) has changed little since the campaign’s outset, mostly projecting a minority government by the Liberals or the Conservatives.
+Of course, thanks to our parliamentary system, voters have a variety of alternative parties to consider. Unfortunately, none of the alternatives seem to be inspiring a ton of enthusiasm either. Despite rigorous campaigning by some fresh faces, [the CBC poll tracker](https://newsinteractives.cbc.ca/elections/poll-tracker/canada/) changed little for most of the  campaign, mostly projecting a minority government by the Liberals or the Conservatives.
 
 While predicting election odds is hard enough in the best of times, we may see particularly inaccurate polling this year since higher apathy and uncertainty about who what party to vote for will likely drive down turnout.
 
@@ -36,6 +38,7 @@ Hopefully, this guide will motivate you to use your vote on Monday. It's in you 
 - [The Liberal Party](#liberals)
 - [The Conservative Party](#conservatives)
 - [The People's Party](#peoples)
+- [Addendum: Vancouver Granville](#granville)
 - [Actually Voting](#voting)
 
 <a name="issues"></a>
@@ -65,9 +68,9 @@ Bringing up the left side of the House, we have longtime social-democrats, the N
 
 As is their style, the NDP promises to spend more money on social programs than the more moderate parties, and have predictably progressive perspectives on social and climate issues. For example, the NDP is pledging to build 50,000 new affordable homes per year, whereas the Greens promise to build 25,000 and the Liberals are pledging 10,000. Of course it’s easy for the 3rd place party to make pledges, and the bigger question is about which party might actually achieve their targets, and how they’ll pay for it all – a tale as old as time.
 
-Since being elected leader of the NDP in 2017, Jagmeet Singh hasn’t exactly lit a fire under the party’s base.  Most press coverage of Singh has focused on either his early struggles to build a national campaign, or commentary on his deft and moving responses to questions about race. That said, Singh has recently received positive press for his debate performances, and has in recent days picked up some of the polling numbers Trudeau has lost.
+When he was elected leader of the NDP in 2017, Jagmeet Singh didn't exactly lit a fire under the party’s base.  Most press coverage of Singh has focused on either his early struggles to build a national campaign, or commentary on his deft and moving responses to questions about race. That said, Singh has more recently received positive press for his debate performances, and has in the final days of the campaign seen polling numbers pick up – both in terms of leader favourability and in party support.
 
-**You should consider voting NDP if** you’re firmly on the progressive end of the spectrum, especially if they’re likely the strongest progressive party in your riding. For many voters on the left, though, the question of whether to vote NDP in a given election or riding comes down to strategic voting.
+**You should consider voting NDP if** you’re firmly on the progressive end of the spectrum, especially if they're likely the strongest progressive party in your riding. For many voters on the left, though, the question of whether to vote NDP in a given election or riding comes down to strategic voting.
 
 <a name="strategic"></a>
 
@@ -90,15 +93,15 @@ If only we could get a prime minister who pledged to stop first past the post, w
 
 ## The Green Party
 
-Traditionally a protest vote, the Green Party has been getting substantially more attention this election cycle. This is due in part to the ever-increasing priority of climate as a critical election issue, but also because Greens have had electoral successes at the municipal and provincial levels in recent years.
+Traditionally a protest vote, early this election cycle the Green Party got substantially more attention than usual. This was due in part to the ever-increasing priority of climate as a critical election issue, but also because Greens have had electoral successes at the municipal and provincial levels in recent years.
 
 With more attention has come more scrutiny, and for the first time that I’m aware, the Green Party has gotten press for campaign-trail gaffes –  [insufficiently vetting candidates](https://www.cbc.ca/news/politics/green-party-re-vetting-candidates-abortion-quebec-1.5282892), for example. Running a truly national campaign is tough.
 
-An interesting facet of Green Party policy is that unlike other parties in Canada, they pledge to let elected Green Party MPs vote freely instead of being beholden to the party line. That sounds great in theory, but it has the consequence that in order to confidently vote Green, you need to understand the particular candidate you’re voting for – who may or may not fully agree with the party platform.
+An interesting facet of Green Party policy is that unlike other parties in Canada, they pledge to let elected Green Party MPs vote freely instead of being beholden to the party line. That sounds great in theory, but it does have the consequence that in order to confidently vote Green, you need to understand the particular candidate you’re voting for – who may or may not fully agree with the party platform.
 
-While the Green Party is further left than the NDP on some issues, they are surprisingly centrist or neutral on other issues. They [don’t consider themselves left-wing](https://www.greenparty.ca/en/blog/2019-01-14/left-right), and at most levels of government Greens seem less interested in taxing the rich to help the poor than the NDP do. Given that, the Greens have positioned themselves as a plausible alternative both for NDP and *especially* Liberal voters who want to send a clear message on climate.
+While the Green Party is further left than the NDP on some issues, they are surprisingly centrist or neutral on other issues. They [don’t consider themselves left-wing](https://www.greenparty.ca/en/blog/2019-01-14/left-right), and at most levels of government Greens seem less interested in taxing the rich to help the poor than the NDP do. From a strategic perspective, the Greens position themselves as a plausible alternative both for NDP and *especially* Liberal voters who want to send a clear message on climate.
 
-Elizabeth May has long been party leader and lone MP, and is the longest-standing leader of Canada’s parties. While this may be the year the Greens pick up a couple additional seats – for example, on Vancouver Island – their support has traditionally been spread so thinly across the country that they pose a serious challenge in very few ridings. That said, the fact climate is a huge pillar of their platform could make this the year they break out.
+Elizabeth May has long been party leader and lone MP, and is the longest-standing leader of Canada’s parties. While this may be the year the Greens pick up a couple additional seats – for example, on Vancouver Island – their support continues to be spread so thinly across the country that they pose a serious challenge in very few ridings. That said, the fact climate is a huge pillar of their platform could make this a landmark year for them.
 
 **You should consider voting Green if** your riding is one of the few that has a strong Green candidate with a chance of winning, or if you want to lodge a protest vote on behalf of climate. If you’re a Green supporter looking to vote strategically, the [rules I describe above](#strategic) all apply.
 
@@ -124,7 +127,7 @@ Over the last four years, the Liberals haven’t exactly screwed Canada up – b
 
 That said, there is an enduring appeal to centrism, and the Liberals continue to be the party whose views are closest to the median Canadian. Since the demise of Canada’s Progressive Conservative party in 2003, the Liberals have also been the closest we have to a libertarian party – the most fiscally conservative party you can elect that is still progressive in a social sense.
 
-Perhaps most importantly for the Liberals, they are the natural “not Conservative” strategic vote. As in most modern Canadian elections, the Conservatives and Liberals are the only two parties with a shot at actually forming government. At the riding level, if you live somewhere that the Conservatives have a good chance of winning, the Liberals are probably the next most likely party to win. You can read my [overview of strategic voting above](#strategic).
+Perhaps most importantly for the Liberals, they are the stereotypical “not Conservative” strategic vote. As in most modern Canadian elections, the Conservatives and Liberals are the only two parties with a shot at actually forming government. In ridings that the Conservatives have a good chance of winning, the Liberals are often the next most likely party to win. You can read my [overview of strategic voting above](#strategic).
 
 An amusing wrinkle for the center-left Federal Liberals every election is that the de facto right-wing political party in British Columbia is called the BC Liberals. I find this funny in two ways: both that the two parties share a name but have quite different positions in politics, and that BC is a liberal enough place that the most conservative major party we have is titled the “liberals”.
 
@@ -165,6 +168,28 @@ Bernier says he would do “nothing” about climate change, thinks Canada’s �
 That said, we’ve learned from elections worldwide that it’s too easy to dismiss populists as being idiots.
 
 If you are considering voting for the People’s Party of Canada in any riding other than Maxime Bernier’s, you’re probably just splitting the vote and hurting the Conservatives, the party with an actual chance to advance your views. While in the short term it may be better for progressive politics in Canada to have a split conservative vote, I think legitimizing this kind of rhetoric sends a terrible message to the country and our children. Please just don’t.
+
+<a name="granville"></a>
+
+## Addendum: Vancouver Granville
+
+By sheer luck – or lack thereof – this election I happen to live one of the most interesting ridings in the country: Vancouver Granville. As such, a few people have asked me for some context for this rather unusual race.
+
+Vancouver Granville's incumbent MP is [Jody Wilson-Raybould](https://en.wikipedia.org/wiki/Jody_Wilson-Raybould), who was the Minister of Justice and Attorney General of Canada until [the SNC-Lavalin affair](https://en.wikipedia.org/wiki/SNC-Lavalin_affair) resulted in the Prime Minster ejecting her from the Liberal Party. She is now running for re-election as an independent.
+
+While it's rare for an independent candidate to win a federal seat, it's also rare for a candidate to be the former Minister of Justice and Attorney General, the incumbent MP, and only _be_ independent because she recently took the sitting government to task for a breach of ethics. Which is to say, she seems to have a serious shot.
+
+Making things hard to call, though, is the fact that in 2015, the riding split very evenly on either side of the Liberals: 26% Conservative, 44% Liberal, and 27% NDP. A result like that should predict a stable Liberal hold this year, but now those Liberal votes will likely split, one way or another, between Wilson-Raybould and the new Liberal candidate – meaning whoever wins the riding could have fewer than 30% of the vote.
+
+Given that, Vancouver Granville is a headache for strategic voters and pollsters alike. [338Canada's model projects a tossup](http://338canada.com/districts/59036e.htm) between Wilson-Raybould and the Liberals, but if enthusiasm and turnout become the deciding factors, it could become be a race between JWR and the Conservatives. While strategic voters crave projections, 338's estimates are based on national data, and seem to struggle with the complexity of this riding.
+
+For example, when Wilson-Raybould was added to the 338 projection as an independent in June, the model semeed to think this would primarily hurt NDP and Conservative voters, but somehow increase the Green vote. Meanwhile, in real life, Green leader Elizabeth May has endorsed JWR _over her own Green candidate in the riding_.
+
+While that may seem odd for a recently Liberal MP, the Greens and the Liberals aren't far apart on most issues – and [the issues Wilson-Raybould outlines on her website](https://www.re-electjodywr.ca/issues) mesh pretty well with the Green platform.
+
+And although an independent might not necessarily have much power in our very party-dominated parliament, there is a tiny but fascinating chance that an independent MP could affect the balance of power in a very close minority government situation. Whatever your politics, it would be hard not to appreciate the irony of Jody Wilson-Raybould holding power over a weakened Trudeau government.
+
+All that said, one huge benefit of living in a "riding to watch" is that there are some surprisingly in-depth recent profiles of the race in places like [The Globe and Mail](https://www.theglobeandmail.com/canada/article-vancouver-granville-is-split-down-the-middle-as-former-liberal-jody/), [The Huffington Post](https://www.huffingtonpost.ca/entry/vancouver-granville-jody-wilson-raybould_ca_5daa17c6e4b0f34e3a756a8b), and [elsewhere](https://www.google.com/search?q=vancouver+granville&tbm=nws). Which is good, since this is one riding where a few votes could make a real impact.
 
 <a name="voting"></a>
 
