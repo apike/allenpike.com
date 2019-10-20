@@ -10,9 +10,9 @@ categories:
 tags:
 ---
 
-*Updated Sat, Oct 19 based on latest polling.*
+*Updated to reflect latest polling, and to add a [Vancouver Granville](#granville) section, through Oct 19.*
 
-On **Monday, October 21**, Canada votes.
+On **Monday**, Canada votes.
 
 [Last election](https://en.wikipedia.org/wiki/2015_Canadian_federal_election), Justin Trudeau’s Liberals swept into power. A wave of optimism and enthusiasm won the Liberals the largest gain in seats ever in a Federal election. Trudeau was seen as a champion of the center *and* the left, and drove the highest voter turnout in over 20 years. The result: a total rout. The leaders of all three other major parties left or were pushed out.
 
