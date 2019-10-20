@@ -1,0 +1,7 @@
+{
+  "script" : "bundle exec jekyll serve",
+  "actions" : [
+    "run"
+  ],
+  "identifier" : "DCE6A631-8825-4E44-8595-95699776E409"
+}

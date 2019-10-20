@@ -26,7 +26,7 @@ And even if those controversies haven’t changed the party allegiance of many t
 
 Of course, thanks to our parliamentary system, voters have a variety of alternative parties to consider. Unfortunately, none of the alternatives seem to be inspiring a ton of enthusiasm either. Despite rigorous campaigning by some fresh faces, [the CBC poll tracker](https://newsinteractives.cbc.ca/elections/poll-tracker/canada/) changed little for most of the  campaign, mostly projecting a minority government by the Liberals or the Conservatives.
 
-While predicting election odds is hard enough in the best of times, we may see particularly inaccurate polling this year since higher apathy and uncertainty about who what party to vote for will likely drive down turnout.
+While predicting election odds is hard enough in the best of times, we may see particularly inaccurate polling this year since higher apathy and uncertainty about what party to vote for will likely drive down turnout.
 
 Hopefully, this guide will motivate you to use your vote on Monday. It's in you to give.
 
@@ -68,7 +68,7 @@ Bringing up the left side of the House, we have longtime social-democrats, the N
 
 As is their style, the NDP promises to spend more money on social programs than the more moderate parties, and have predictably progressive perspectives on social and climate issues. For example, the NDP is pledging to build 50,000 new affordable homes per year, whereas the Greens promise to build 25,000 and the Liberals are pledging 10,000. Of course it’s easy for the 3rd place party to make pledges, and the bigger question is about which party might actually achieve their targets, and how they’ll pay for it all – a tale as old as time.
 
-When he was elected leader of the NDP in 2017, Jagmeet Singh didn't exactly lit a fire under the party’s base.  Most press coverage of Singh has focused on either his early struggles to build a national campaign, or commentary on his deft and moving responses to questions about race. That said, Singh has more recently received positive press for his debate performances, and has in the final days of the campaign seen polling numbers pick up – both in terms of leader favourability and in party support.
+When he was elected leader of the NDP in 2017, Jagmeet Singh didn't exactly light a fire under the party’s base.  Most press coverage of Singh has focused on either his early struggles to build a national campaign, or commentary on his deft and moving responses to questions about race. That said, Singh has more recently received positive press for his debate performances, and in the final days of the campaign has seen his polling numbers pick up – both in terms of leader favourability and in party support.
 
 **You should consider voting NDP if** you’re firmly on the progressive end of the spectrum, especially if they're likely the strongest progressive party in your riding. For many voters on the left, though, the question of whether to vote NDP in a given election or riding comes down to strategic voting.
 
@@ -183,7 +183,7 @@ Making things hard to call, though, is the fact that in 2015, the riding split v
 
 Given that, Vancouver Granville is a headache for strategic voters and pollsters alike. [338Canada's model projects a tossup](http://338canada.com/districts/59036e.htm) between Wilson-Raybould and the Liberals, but if enthusiasm and turnout become the deciding factors, it could become be a race between JWR and the Conservatives. While strategic voters crave projections, 338's estimates are based on national data, and seem to struggle with the complexity of this riding.
 
-For example, when Wilson-Raybould was added to the 338 projection as an independent in June, the model semeed to think this would primarily hurt NDP and Conservative voters, but somehow increase the Green vote. Meanwhile, in real life, Green leader Elizabeth May has endorsed JWR _over her own Green candidate in the riding_.
+For example, when Wilson-Raybould was added to the 338 projection as an independent in June, the model oddly semeed to think this would primarily hurt NDP and Conservative results, but somehow increase the Green vote. Meanwhile, in real life, Green leader Elizabeth May has endorsed JWR _over her own Green candidate in the riding_.
 
 While that may seem odd for a recently Liberal MP, the Greens and the Liberals aren't far apart on most issues – and [the issues Wilson-Raybould outlines on her website](https://www.re-electjodywr.ca/issues) mesh pretty well with the Green platform.
 
@@ -211,6 +211,7 @@ If you have any feedback or (especially) corrections on this guide, please [get 
 While I hope this guide is a helpful starting point for people, I’m just a lone designer and developer from Vancouver – if you’re able, it’s great to do your own research, and spread the word about what you learn. Some starting points for doing your own research:
 
 - [338Canada](http://338canada.com), a rough but valuable trove of polling data and projections
+- The [CBC Poll Tracker](https://newsinteractives.cbc.ca/elections/poll-tracker/canada/), which isn't very useful for strategic voting but is nicer than 338's
 - [Justin McElroy](https://twitter.com/j_mcelroy), CBC Vancouver’s local affairs reporter and professional ranker of things
 - Party Platform Guides by [the CBC](https://newsinteractives.cbc.ca/elections/federal/2019/party-platforms/) and [Maclean's](https://www.macleans.ca/politics/2019-federal-election-platform-guide-where-the-parties-stand-on-everything/)
 - The [Vote Compass](https://votecompass.cbc.ca/canada/), which is a neat tool even though the issues this year make its results kind of uninteresting and at times misleading
