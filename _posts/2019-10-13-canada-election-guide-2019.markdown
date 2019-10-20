@@ -173,7 +173,7 @@ If you are considering voting for the People’s Party of Canada in any riding o
 
 ## Addendum: Vancouver Granville
 
-By sheer luck – or lack thereof – this election I happen to live one of the most interesting ridings in the country: Vancouver Granville. As such, a few people have asked me for some context for this rather unusual race.
+By sheer luck – or lack thereof – this election I happen to live in one of the most interesting ridings in the country: Vancouver Granville. As such, a few people have asked me for some context for this rather unusual race.
 
 Vancouver Granville's incumbent MP is [Jody Wilson-Raybould](https://en.wikipedia.org/wiki/Jody_Wilson-Raybould), who was the Minister of Justice and Attorney General of Canada until [the SNC-Lavalin affair](https://en.wikipedia.org/wiki/SNC-Lavalin_affair) resulted in the Prime Minster ejecting her from the Liberal Party. She is now running for re-election as an independent.
 
