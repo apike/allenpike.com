@@ -14,7 +14,7 @@ An annoying thing about the future is that, at first, it sucks.
 
 The original iPhone was, to many people, obviously great. Although even the most optimistic iPhone users of 2008 mostly underestimated the impact smartphones would eventually have on work, play, and society, the iPhone was still clearly a product that mattered. A product from the future.
 
-But that was in 2008. If you were to go back in time a bit further, say to 2002, you might encounter the Handspring Treo. The Treo was *not* obviously great. To optimists, early smartphones were exciting and promising. But optimists get excited by dumb shit all the time. To most people, reasonable people, early smartphones like seemed like a sci-fi novelty. And who can blame them? Statistically, it *was* a sci-fi novelty.
+But that was in 2008. If you were to go back in time a bit further, say to 2002, you might encounter the Handspring Treo. The Treo was *not* obviously great. To optimists, early smartphones were exciting and promising. But optimists get excited by dumb shit all the time. To most people, reasonable people, early smartphones seemed like a sci-fi novelty. And who can blame them? Statistically, it *was* a sci-fi novelty.
 
 It is brutally difficult to distinguish the next big thing from the last big fad. For every smartphone, we have 100 [netbooks](https://en.wikipedia.org/wiki/Netbook). For every electric car, we have 100 jetpacks. Product ideas often seem like they *could* change everything, but once they become possible, they often turn out to just not be very compelling. So we learn to be skeptical.
 
