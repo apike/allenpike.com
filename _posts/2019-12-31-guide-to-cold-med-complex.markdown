@@ -25,7 +25,7 @@ Warily facing 73 different cold remedies in my local Shoppers Drug Mart, I found
 
 So, I started looking for symptoms. This one says it’s good for sore throat, this one mentions a dry cough. Quickly, I got bogged down in noise.
 
-Things came to a head as I was trying to work out which was better: Tylenol Cold, or Tylenol Flu. Exasperated, I pored over the boxes, looking back and forth. As impossible as it seemed, there it was, printed in in the legally required black and white: Tylenol [Cold](https://www.tylenol.ca/products/cough-cold-flu/tylenol-cold) and [Flu](https://www.tylenol.ca/products/cough-cold-flu/tylenol-flu) are… identical?  The same three active ingredients in the same quantities.
+Things came to a head as I was trying to work out which was better: Tylenol Cold, or Tylenol Flu. Exasperated, I pored over the boxes, looking back and forth. As impossible as it seemed, there it was, printed in the legally required black and white: Tylenol [Cold](https://www.tylenol.ca/products/cough-cold-flu/tylenol-cold) and [Flu](https://www.tylenol.ca/products/cough-cold-flu/tylenol-flu) are… identical?  The same three active ingredients in the same quantities.
 
 The more boxes I looked at, the more I saw combinations of the same few ingredients, in the same dosages. I saw identical products with different branding. I saw “Day” capsules with the same ingredients as the corresponding “Night” capsules. I saw, for the first time, the deep conspiracy that is the Cold-Industrial Complex.
 
