@@ -3,6 +3,7 @@ author: allen
 date: "2019-01-12 8:00:00 -08:00"
 layout: post
 title: "Fun Fact"
+link: "https://funfact.fm/subscribe/"
 categories:
 - Link
 tags:
