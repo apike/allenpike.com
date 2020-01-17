@@ -9,17 +9,16 @@ isMe: true
 ---
 
 <img src='/images/allen-pike-2016.jpg' style='width: 220px;' class='side'>
-I love creating things and perfecting products. I run [Steamclock Software](http://www.steamclock.com), where we build polished mobile and web apps in Vancouver. Previously, I was a Software Engineer at Apple.
+I love creating things and perfecting products. I run [Steamclock Software](http://www.steamclock.com), where we build very nice iOS and Android apps in Vancouver. Previously, I was a Software Engineer at Apple.
 
-My job involves product design, development, leadership, and [speaking](/speaking). I care a lot about great software, and the teams that make it. In my downtime, I play guitar, podcast, and make games.
+My job involves managing products, developing software, building teams, and [sharing what I know](/speaking). I care a lot about great software, and the people that make it. In my downtime, I play guitar, record podcasts, and make games.
 
-**Projects**
+**Things I've Done**
 
 * [Steamclock Software](http://www.steamclock.com/): We make products for clients as well as ourselves. We also have [a blog](http://www.steamclock.com/blog/), where we show our work.
 * [Public Speaking and Podcasts](/speaking/): I like to talk, often about software.
-* [Fun Fact](https://funfact.fm/): A podcast I do every other Friday.
+* [Two Spies](https://www.steamclock.com/spies/): A turn-based spy strategy game.
+* [Fun Fact](https://funfact.fm/): A podcast I do monthly, about facts.
 * [Vancouver Xcoders](https://www.meetup.com/Vancouver-Xcoders/): Our local iOS and Mac speaker series.
-* [VanJS](http://www.vanjs.com/): The Vancouver JavaScript speaker series.
-* [Two Spies](https://www.steamclock.com/spies/): A game I've been iterating as a side project.
-* [My resume](/resume/): What one would expect.
+* [My resume](/resume/): Obligatory, I suppose.
 * [Project List](/projects/): An exhaustive catalog of most things I've worked on.

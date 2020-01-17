@@ -10,17 +10,18 @@ wordpress_id: 198
 
 Allen is a designer and developer who runs Steamclock Software in Vancouver.
 
-**Availability**: Consulting and speaking can be arranged [via Steamclock](http://www.steamclock.com/). I am not seeking employment and am not open to relocation.
+**Availability**: Consulting and speaking can be arranged [via Steamclock](http://www.steamclock.com/). I'm not seeking employment and am not open to relocation.
 
 ## Work History
 
 #### [Steamclock Software](http://www.steamclocksoftware.com/), CEO and Co-founder, 2010 - present
 
-* Shipped dozens of top-notch iOS, Android, and web apps
-* Manages a team of 10 developers and designers
-* Does project management, product management, sales, and consulting
-* [Speaks](/speaking/) at conferences around the world
-* Writes and trains Swift and JavaScript
+* Ships top-notch iOS and Android apps – dozens and counting
+* Builds and supports our diverse and awesome team 
+* Leads product management, marketing, and client management
+* Mentors and develops our designers, developers, and production staff
+* Wrote Swift, did UX design, and managed projects as we built our team
+* Guides culture, strategy, finances, hiring, and business stuff
 
 #### [Apple](http://www.apple.com/), Software Engineer, 2008 - 2010
 
