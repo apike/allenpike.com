@@ -15,8 +15,12 @@ title: Post Archive
       {% assign prevyear = newyear %}
 
       {% if post.featured %} <b> {% endif %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a> {% if post.featured %} </b> {% endif %}
-      <span>{% if post.link %}  &ndash; A link post about {{ post.link | remove:'http://' | remove:'https://' | split:'/' | first }}.{% elsif post.summary %} &ndash; {{ post.summary }} {% endif %}</span></li>
+      {% if post.link %} <i> {% endif %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a>
+      {% if post.featured %} </b> {% endif %}
+      {% if post.link %} </i> {% endif %}
+      
+      <span>{% if post.link %}<i><a href="{{ post.link }}">→</a></i>{% elsif post.summary %} &ndash; {{ post.summary }} {% endif %}</span></li>
     {% endfor %}
   </ul>
 </div>

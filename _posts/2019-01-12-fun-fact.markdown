@@ -3,12 +3,11 @@ author: allen
 date: "2019-01-12 8:00:00 -08:00"
 layout: post
 title: "Fun Fact"
-link: "https://funfact.fm/subscribe/"
 categories:
 - Link
 tags:
 ---
 
-A new podcast where every other Friday, Arik Devens and I discuss a variety of fun facts. They range from historical, to practical, to garburetor-related. It's fun.
+[Fun Fact](https://funfact.fm/subscribe/) is a new podcast where, every other Friday, Arik Devens and I discuss a variety of fun facts. They range from historical, to practical, to garburetor-related. It's fun.
 
 *This year, in addition to my typical longer articles, I'll also post some simple links from time to time. This is one of those.*
