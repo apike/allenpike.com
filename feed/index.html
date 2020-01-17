@@ -14,17 +14,16 @@ layout: nil
   </author>
 
   {% for post in site.posts limit:3 %}
-  {% capture coda %}{% if post.link %}<a href="{{ post.url }}">∞</a>{% endif %}{% endcapture %}
   <entry>
     <id>https://www.allenpike.com{{ post.url }}</id>
-    <link type="text/html" rel="alternate" href="{% if post.link %}{{ post.link }}{% else %}https://www.allenpike.com{{ post.url }}{% endif %}"/>
+    <link type="text/html" rel="alternate" href="https://www.allenpike.com{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
       <name>Allen Pike</name>
       <uri>https://www.allenpike.com/</uri>
     </author>
-    <content type="html">{{ post.content | append: coda | xml_escape | relative_urls_to_absolute }}</content>
+    <content type="html">{{ post.content | xml_escape | relative_urls_to_absolute }}</content>
   </entry>
   {% endfor %}
  

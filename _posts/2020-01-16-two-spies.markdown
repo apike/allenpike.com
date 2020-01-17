@@ -1,0 +1,18 @@
+---
+author: allen
+date: "2020-01-16 8:00:00 -08:00"
+layout: post
+title: "Two Spies"
+link: "https://playspies.com/"
+categories:
+- Link
+tags:
+---
+
+[Two Spies](https://playspies.com/), the turn-based spy strategy game I've been iterating on and off for ages, is [now live](https://apps.apple.com/us/app/two-spies/id1466304408)! So far, the initial reception has kind of blown us away: almost a million rounds played, featured by Apple in 100 countries, hit top 25 board and strategy games, more than a thousand five star reviews already.
+
+Admittedly, I try not to put too much stock in app reviews. Once in a blue moon though, when the stars align, they can be a source of positivity. For example, I did enjoy [this recent one](https://appfigures.com/reviews/281857623339LkYH1-yJbyeVpDIJtMxhYyw):
+
+> Simply put, well done, good for you, here’s my support, like this, wow, amazing, mind blown, I’m crazy about this, and finally: HECK YA!
+
+Thanks, MrKatFace. I'm glad you like it.
