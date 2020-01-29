@@ -467,6 +467,10 @@ p.meta, span.meta {
   margin-bottom: 0.25em;
 }
 
+.archive li.featured a {
+  font-weight: bold;
+}
+
 .archive li span {
   color: #444;
 }
