@@ -3,7 +3,10 @@ author: allen
 date: "2020-01-31 8:00:00 -08:00"
 layout: post
 title: "Ode to the Beginning"
+summary: "The tech industry threatens to grow up."
+image: "/images/2020/seed.jpg"
 tags:
+
 ---
 
 I first got into technology in the 1990s. I started out by [writing Windows games in BASIC](https://allenpike.com/2006/fantasytech-3-goto-fun) and C++, which helped me start building a sense for what goes into making software.
