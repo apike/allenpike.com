@@ -2,7 +2,7 @@
 author: allen
 date: "2020-01-31 8:00:00 -08:00"
 layout: post
-title: "Clinging to the Beginning"
+title: "Ode to the Beginning"
 tags:
 ---
 
@@ -28,14 +28,14 @@ My initial instinct is that this has to be wrong. There *has* to be something fu
 
 Although there’s always reason to be skeptical of any argument of the form “this time is different,” Ben’s theory is unsettlingly plausible. Over the last decade, more and more of the product ideas and problems we see in technology are problems that would be 100x easier for Apple, Google, or Amazon to fix in their existing products than for a new business to try and address. Maybe today’s giants *are* the GM and Ford of our industry – the final survivors of an early period of chaos.
 
-While there is something sad about this, if true, I must admit there is some appeal to the idea that I might not wake up one day to find that mobile apps have become irrelevant. I don’t relish the idea that our expertise building on Apple’s and Google’s ecosystems may one day be unceremoniously be demoted to “experience with legacy platforms”.
+While there is something sad about this, if true, I must admit there is some appeal to the idea that I might not wake up one day to find that mobile apps have become irrelevant. I don’t relish the idea that our expertise building on Apple’s and Google’s ecosystems may soon be unceremoniously demoted to “experience with legacy platforms”.
 
-And it has been helpful to consider such a world. When the beginning does end in technology – when what we build today is liable to still matter in 25 or 50 years – how would we think differently about our work? What does it mean if you can no longer count on generational change eventually sweeping away your technical debt or other weaknesses in your company or product?
+And it has been helpful to consider such a world. When the beginning does end in technology – when what we build today is liable to still matter in 25 or 50 years – how would we think differently about our work? What does it mean if you can no longer count on generational change eventually sweeping away your technical debt or other weaknesses in your company and product?
 
 It seems then that longer term thinking might become more established, driving more full-hearted investment in teams and teaching and documenting and various nice things companies know are important in theory, but can feel quaint in an environment where everything is blown up [every sixteen minutes](https://allenpike.com/2015/javascript-framework-fatigue). It wouldn’t be all bad.
 
-It also seems that in a tech industry where the beginning is over – where waves of technical change no longer drive renewal – the onus would fall on us to make the new beginnings we want to see, both in our teams, our companies, and our work.
+It also seems that in a tech industry where the beginning ends – where waves of technical change no longer drive renewal – the onus would fall on us to make the new beginnings we want to see, both in our teams, our companies, and our work.
 
-All that said though, it would be nice if Ben is wrong. It would be cool if there was still at one more revolution left, something that would completely reshape how we think about technology and how we write software forever.
+All that said though, it would be nice if Ben is wrong. It would be cool if there was still at least one more revolution left, something that would completely reshape how we think about technology and how we write software forever.
 
 You know, for old times’ sake.
