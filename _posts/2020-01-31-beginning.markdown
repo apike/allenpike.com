@@ -6,6 +6,8 @@ title: "Ode to the Beginning"
 summary: "The tech industry threatens to grow up."
 image: "/images/2020/seed.jpg"
 tags:
+categories:
+- Article
 
 ---
 
