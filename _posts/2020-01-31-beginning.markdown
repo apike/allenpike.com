@@ -15,7 +15,7 @@ I first got into technology in the 1990s. I started out by [writing Windows game
 
 Then, everything changed. The web overturned the software world.  Many of the most important companies and apps of the era were washed away in the sea change. Excited by the huge new opportunities, I dove into designing and developing web apps.
 
-Then, everything changed. Mobile overturned the software world. Again much was was washed away, and entire new categories of software business became possible. Excited by the huge new opportunities, I dove into designing and developing mobile apps.
+Then, everything changed. Mobile overturned the software world. Again much was washed away, and entire new categories of software business became possible. Excited by the huge new opportunities, I dove into designing and developing mobile apps.
 
 The more I saw the progress of technology, the clearer it became that this is a fundamental process in the software industry. As long as there have been computers, there has been a generational pattern, where waves of new companies sweep in to build the newly possible. Periods of creative destruction, with new paradigms blowing away the old, have created awesome opportunities every decade or so since the 1960s. It seems everything old will soon be new again.
 
