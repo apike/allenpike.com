@@ -11,11 +11,11 @@ categories:
 
 ---
 
-As I was told, some years ago a team of contractors were visiting the office of a big potential client. Hoping to impress, the sales lead on the deal brought a product designer along to the meeting, as well as a software developer who was well versed in the relevant tech. The hope was that they’d be well-equipped to answer any remaining questions, put the client at ease, and finally seal the deal.
-
-<img src="/images/2020/cream-pot.jpg"> 
+As I was told, some years ago a team of contractors were visiting the office of a big potential client. Hoping to impress, the sales lead on the deal brought a skilled product designer along to the meeting, as well as a software developer who was well versed in the relevant tech. The hope was that they’d be well-equipped to answer any remaining questions, put the client at ease, and finally seal the deal.
 
 Now this was a pretty fancy client, and in preparation for the meeting a tray of refreshments had been laid out. Some pastries, tea, and even a little pitcher of cream for coffee. It was perhaps a more refined environment than the team was used to, but the discussion was going well.
+
+<img src="/images/2020/cream-pot.jpg"> 
 
 After a time, the developer pointed to the pitcher of cream and interjected, “Is anybody going to drink that?”
 
