@@ -4,7 +4,7 @@ date: "2020-02-28 8:00:00 -08:00"
 layout: post
 title: "Don't Drink the Cream"
 summary: "Social etiquette proves hard to navigate."
-image: "/images/2020/cream-pot.jpg"
+image: "/images/2020/cream-pot-small.jpg"
 tags:
 categories:
 - Article
