@@ -15,19 +15,19 @@ As I was told, some years ago a team of contractors were visiting the office of 
 
 Now this was a pretty fancy client, and in preparation for the meeting a tray of refreshments had been laid out. Some pastries, tea, and even a little pitcher of cream for coffee. It was perhaps a more refined environment than the team was used to, but the discussion was going well.
 
-<img src="/images/2020/cream-pot.jpg"> 
-
 After a time, the developer pointed to the pitcher of cream and interjected, “Is anybody going to drink that?”
 
 A moment of surprised silence followed. Then, the answer: “No..?” Nobody is going to drink that.
 
 So the developer nodded, said “Okay,” picked up the little pitcher, and drank the cream.
 
-Now, this was an unexpected turn of events. The client raised an eyebrow, but what was there to say? “Hey you, stop drinking that cream”? It was just established that nobody else wanted it. Who says you can’t drink the cream?
+This was an unexpected turn of events. The client raised an eyebrow, but what was there to say? “Hey you, stop drinking that cream”? It was just established that nobody else wanted it. Who says you can’t drink the cream?
 
 Well, nobody says that. Nobody says you can’t drink the cream, because “we all know” that you don’t drink the cream. We use observation, pattern matching, and sensitivity to social cues to conclude that even if you kind of *want* to drink the cream that’s been set out for coffee, you’re supposed to not.
 
 No matter how much preparation the sales manager did before the meeting, it’s unlikely he would have thought to brief the developer on the etiquette around imbibing condiments.
+
+<img src="/images/2020/cream-pot.jpg"> 
 
 I often think about this story for two reasons. The surface lesson here is that while most skills can be taught, there is a baseline level of EQ that is worth looking for when you’re recruiting a team, especially if they’re coming to present with you in a high-stakes situation. It’s easy to underestimate how helpful it is to have team members who have strong self-regulation and social awareness.
 
