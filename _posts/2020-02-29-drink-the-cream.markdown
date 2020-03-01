@@ -35,6 +35,6 @@ The second lesson, which to me the more interesting one, is that performing as e
 
 The good news is that social awareness *can* be learned. In fact, it can be really helpful for some people to get a note or heads up when they’re out of sync with social expectations. Some folks may get defensive, sure, but you’d be surprised how often people simply appreciate the tip.
 
-Even a well-meaning person may wonder to themselves, “Hm, I like to drink cream, but I’ve never seen anybody else do this before – is it considered okay to drink the cream?” But as of today, if you type “is it okay to drink the pitcher of cream” into Google, you just get a recipe for making a pitcher of White Russians, and a discussion of the health consequences of drinking whipping cream.
+Even a well-meaning person may wonder to themselves, “Hm, I like to drink cream, but I’ve never seen anybody else do this before – is it considered okay to drink the cream?” But as of today, if you type “is it okay to drink the pitcher of cream” into Google, you just get a recipe for making a pitcher of White Russians, and a discussion on the health consequences of drinking whipping cream.
 
 So, for anybody out there searching for the answer, a helpful tip. Despite there being no logical reason for this rule, even if you’re thirsty – even if nobody else is using it – don’t drink the cream.
