@@ -29,12 +29,12 @@ No matter how much preparation the sales manager did before the meeting, it’s 
 
 <img src="/images/2020/cream-pot.jpg"> 
 
-I often think about this story for two reasons. The surface lesson here is that while most skills can be taught, there is a baseline level of EQ that is worth looking for when you’re recruiting a team, especially if they’re coming to present with you in a high-stakes situation. It’s easy to underestimate how helpful it is to have team members who have strong self-regulation and social awareness.
+I often think about this story for two reasons. The surface lesson here is that while most skills can be taught, there is a baseline level of EQ that is worth looking for when you’re recruiting a team, especially for people who might present with you in a high-stakes situation. It’s easy to underestimate how helpful it is to have team members with strong self-regulation and social awareness.
 
-The second lesson, which to me the more interesting one, is that performing as expected in social situations is really complicated! Who cares if somebody drinks a pitcher of cream? It was probably going to get warm and go to waste anyway! For people who are predisposed to having lower social awareness, for example many people on the autism spectrum, the implied rules of social etiquette are a minefield. Rather than picking up social cues instinctively, some people need to learn them one by one, by trial and error, and many of them are completely arbitrary.
+The second lesson, which to me the more interesting one, is that performing as expected in social situations is really complicated! Who cares if somebody drinks a pitcher of cream? It was probably going to get warm and go to waste anyway! For people who are predisposed to having lower social awareness, including many people on the autism spectrum, the implied rules of social etiquette are a minefield. Rather than picking up social cues instinctively, some people need to learn them one by one, by trial and error, and many of them are completely arbitrary.
 
 The good news is that social awareness *can* be learned. In fact, it can be really helpful for some people to get a note or heads up when they’re out of sync with social expectations. Some folks may get defensive, sure, but you’d be surprised how often people simply appreciate the tip.
 
 Even a well-meaning person may wonder to themselves, “Hm, I like to drink cream, but I’ve never seen anybody else do this before – is it considered okay to drink the cream?” But as of today, if you type “is it okay to drink the pitcher of cream” into Google, you just get a recipe for making a pitcher of White Russians, and a discussion of the health consequences of drinking whipping cream.
 
-So, for anybody out there searching for the answer, a helpful tip. Despite there being no logical reason for this rule, and even if you’re thirsty – even if nobody else is using it – don’t drink the cream.
+So, for anybody out there searching for the answer, a helpful tip. Despite there being no logical reason for this rule, even if you’re thirsty – even if nobody else is using it – don’t drink the cream.
