@@ -23,7 +23,7 @@ Parents of young kids do a lot of explaining.
 
 It’s delightful how as strange as the truth may seem, young kids just take it in stride. They’re constantly collecting new and surprising information, processing it, and promptly moving on with their new reality.
 
-<img src="/images/2020/calvin-color.jpg"> 
+<a href="https://www.gocomics.com/calvinandhobbes/2014/11/09"><img src="/images/2020/calvin-color.jpg"></a>
 
 Often, [explaining like they’re 5](https://www.reddit.com/r/explainlikeimfive/top/?t=all) – or like they’re 3½  in the case of my daughter – forces you to think think surprisingly deeply. What *is* the difference between sneaky and tricky? How can I explain London in terms of what she already knows? As a bonus, the tricky questions are frequently mixed in delightfully simple ones.
 
@@ -39,13 +39,13 @@ Kid questions like this aren’t hard because the answers are unclear, but becau
 
 “Why can’t we see Mama and baby brother anymore?”
 
-I picked her up, and we sat down on the floor, across from the sign that said “NICU Reception”. 
+I picked Ellie up, and we sat down on the floor, across from the sign that said “NICU Reception”. 
 
 “Well Ellie, you know how we get our flu shot, so we don’t get the flu? Well there’s a new germ, and they don’t have shots for it yet. So the hospitals made a new rule where they don’t have visitors, because they want to make sure the babies and nurses don’t get the new germ.”
 
 She had a couple follow-up questions. No, we don’t have the germ, and yes, we’ll see baby brother again. Of course we’ll see baby brother again. Within seconds, she’d absorbed this surprising information. I was still reeling, but she was ready to move on with her new reality.
 
-She reassured herself aloud: “We’ll be able to see baby Thomas when he comes home.” Heck yes we will.
+She reassured herself aloud: “We’ll be able to see baby brother when he comes home.” Heck yes we will.
 
 “Is he such a cutie baby?” He really is.
 
@@ -57,7 +57,7 @@ As two rambunctious extroverts, social isolation doesn’t come naturally for my
 
 This wasn’t the plan, back when March 2020 commenced – many years ago.
 
-But it’s clear now that all pre-existing plans have expired. The name of the game is adapting to being surprised.
+But it’s clear now that all pre-existing plans are obsolete. The name of the game is adapting to being surprised.
 
 And you know who’s used to being surprised? A 3 year old.
 
