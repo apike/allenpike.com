@@ -6,8 +6,8 @@
 /archives/          https://www.allenpike.com/archive/
 
 
-/feed/              https://feeds.allenpike.com/feed/
-/feed/*             https://feeds.allenpike.com/feed/
+/feed/              https://feeds.allenpike.com/feed/ 302!
+/feed/*             https://feeds.allenpike.com/feed/ 302!
 
 # AddType application/json .json
 # AddCharset UTF-8 .json
