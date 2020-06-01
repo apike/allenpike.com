@@ -21,7 +21,7 @@ Do you fund activists in Minneapolis because you’re rightly furious about what
 
 It can cause a bit of analysis paralysis.
 
-Maybe you give to all the causes you care about, or the first one every month that hits home for you, or you use some other philosophy that guides what you donate when. If you have an approach that is working for you, then awesome.
+Maybe you give to all the causes you care about, or the first one that hits home for you each month, or you use some other philosophy that guides what you donate when. If you have an approach that is working for you, then awesome.
 
 But if the paradox of choice has fuelled a bit of procrastination or inconsistency in your charitable acts, I have a suggestion that may help get you unstuck: **Choose an amount to give. Give half of it near, and half of it far.** 
 
