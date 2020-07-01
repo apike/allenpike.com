@@ -13,7 +13,7 @@ categories:
 
 Two weeks ago, news broke that Apple rejected the iOS version of Hey, Basecamp’s highly anticipated new email product. The reasoning? Like many apps on iOS, Hey didn’t support Apple’s in-app purchase system. Not long ago, Hey’s app would have been approved, but a recent change to the secret rules – not the public guidelines, but the actual policies Apple uses to selectively enforce those guidelines – resulted in a surprise rejection.
 
-As he often does, Michael Tsai compiled quotes from various articles and stories that resulted. The first comments were from pundits and observers, but they quickly gave way to [a catalogue of greivances, unpleasant surprises, and weird injustices developers have faced over years of App Review](https://mjtsai.com/blog/2020/06/16/hey-rejected-from-the-app-store/).
+As he often does, Michael Tsai compiled quotes from various articles and stories that resulted. The first comments were from pundits and observers, but they quickly gave way to [a catalogue of greivances, unpleasant surprises, and weird injustices developers have faced over years of App Review](https://mjtsai.com/blog/2020/06/16/hey-rejected-from-the-app-store/), often due to rules that have never been publicly acknowledged by Apple.
 
 <img src="/images/2020/developer-blown-wide.jpg" >
 
