@@ -21,7 +21,7 @@ In response to the ensuing bad press, Apple allowed Hey onto iOS – despite it 
 
 Which is definitely something. The idea seems to be that Hey will have a chance to challenge Apple’s public guideline about multi-platform apps, which says that apps can only allow users to access content, subscriptions, or features they have acquired elsewhere if they are also available via IAP.
 
-While controversial guidelines like this will surely be challenged, it seems that the things most worth reconsidering about App Review aren't even part of the public guidelines. Will Hey be able to challenge the secret rule that says they need to follow the IAP guideline, but that Slack doesn’t? What about the policy that iOS apps can’t be distributed directly to customers? Or Apple’s habit of quietly changing the undocumented approval policies, without notifying people that apps that used to be approved will now be rejected?
+While it's great that Apple is open to these rules being challenged, it seems that the things most worth reconsidering about App Review aren't even part of the public guidelines. Will Hey be able to challenge the secret rule that says they need to follow the IAP guideline, but that Slack doesn’t? What about the policy that iOS apps can’t be distributed directly to customers? Or Apple’s habit of quietly changing the undocumented approval policies, without notifying people that apps that used to be approved will now be rejected?
 
 Or the existence of secret App Store policies at all?
 
