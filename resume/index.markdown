@@ -18,16 +18,20 @@ Allen is a designer and developer who runs Steamclock Software in Vancouver.
 
 * Ships top-notch iOS and Android apps – dozens and counting
 * Builds and supports our diverse and awesome team 
-* Leads product management, marketing, and client management
 * Mentors and develops our designers, developers, and production staff
+* Leads product management, marketing, and client management
 * Wrote Swift, did UX design, and managed projects as we built our team
 * Guides culture, strategy, finances, hiring, and business stuff
 
+#### [Royal Pixel Service](http://playspies.com/), Director 2018 - present
+
+* Designed and developed Two Spies, a popular and highly rated mobile game
+* Leads a team developing a variety of product prototypes and experiments
+
 #### [Apple](http://www.apple.com/), Software Engineer, 2008 - 2010
 
-* Worked on iWork ’09 for Mac and iWork for iPad in Objective-C
-* Helped launch iWork.com with JavaScript and CSS
-* Developed modern web applications for iPhone and iPad
+* Contributed to iWork ’09 for Mac and iWork for iPad, writing Objective-C
+* Helped launch the iWork.com JavaScript web app
 
 #### [Discovery Software](http://www.discoverysoftware.com/), Software Developer, 2003 - 2008
 
@@ -43,10 +47,10 @@ Allen is a designer and developer who runs Steamclock Software in Vancouver.
 
 #### [Independent Work](/)
 
-* Taught two semesters of CMPT 470 for SFU Computing Science
-* Runs two Vancouver speaker series, VanJS and VanCocoa
-* Hosted a game design and development podcast, Up Up Down Down
-* Developed a number of games and side projects
+* Taught CMPT 470, a Wep Applications course, for SFU Computing Science
+* Has run and spoken at various of technical meetups and conferences
+* Hosted and produced two podcasts, Up Up Down Down and Fun Fact
+* Developed a variety of games and side projects over the years
 
 ## Education
 
