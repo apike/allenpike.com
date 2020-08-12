@@ -23,9 +23,9 @@ Allen is a designer and developer who runs Steamclock Software in Vancouver.
 * Wrote Swift, did UX design, and managed projects as we built our team
 * Guides culture, strategy, finances, hiring, and business stuff
 
-#### [Royal Pixel Service](http://playspies.com/), Director 2018 - present
+#### [Royal Pixel Service](http://playspies.com/), Director, 2018 - present
 
-* Designed and developed Two Spies, a popular and highly rated mobile game
+* Designed and developed Two Spies, a highly rated mobile game featured by Apple
 * Leads a team developing a variety of product prototypes and experiments
 
 #### [Apple](http://www.apple.com/), Software Engineer, 2008 - 2010
