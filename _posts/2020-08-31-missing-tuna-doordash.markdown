@@ -13,7 +13,7 @@ categories:
 
 Fairly often, when I order food from DoorDash, I find that an item is missing. Of course, this should not be surprising, since DoorDash is a bizarre capitalist Rube Goldberg machine where every party – the restaurant, the driver, and DoorDash itself – seems to be having a bad time. It’s only fair that by patronizing and enabling this system, I should have a bad time too.
 
-<img src="/images/2020/tuna-culprit.jpg" >
+<img src="/images/2020/tuna-culprit.jpg" style="width: 200px">
 
 In their defense, DoorDash has long had a system for handling missing items. In the early days, they’d specially dispatch a driver to bring you the absent dish. This was impressive, but rather slow and surely hideously expensive for them.
 
