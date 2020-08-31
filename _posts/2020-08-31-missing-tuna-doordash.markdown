@@ -33,9 +33,9 @@ So it’s not great, but whatever. I shouldn’t be using DoorDash anyway. This 
 
 ## Something’s fishy
 
-This week though, things changed yet again. As it happens, my latest order was missing a mango tuna roll. Whether it was due a policy change, a magic threshold, or my stubborn ass being too willing to keep ordering from restaurants that leave out items, DoorDash’s system flagged me as a problem customer. Perhaps the algorithm found it suspicious that anybody really wanted a mango tuna roll in the first place.
+This week, things changed yet again. As it happens, my latest order was missing a mango tuna roll. Whether it was due a policy change, a magic threshold, or my stubborn ass being too willing to keep ordering from restaurants that leave out items, DoorDash’s system flagged me as a problem customer. Perhaps the algorithm found it suspicious that anybody really wanted a mango tuna roll in the first place. I really can't say.
 
-In any case, the app informed me that I wasn’t getting the roll, and I wasn’t getting refunded for it, and if I was unsatisfied I should to contact support. Eyebrow firmly raised, I contacted their support chat. The agent apologized, offered to “check what happened”, then after 60 seconds closed the chat. A second attempt led to a message that they would no longer compensate me for missing food due to my account history.
+In any case, the app informed me that I wasn’t getting the roll, and I wasn’t getting refunded for it, and if I was unsatisfied I should contact support. Eyebrow firmly raised, I politely informed their support chat about this injustice. The agent apologized, offered to “check what happened”, then after 60 seconds closed the chat. A second attempt led to a message that they would no longer compensate me for missing food due to my account history.
 
 The *nerve*! After the dozens of times I’ve offered them the opportunity to deliver me food at a loss, after *all the money they’ve spent on me*, they just toss me aside. I can only hope my tuna went to a good home.
 
