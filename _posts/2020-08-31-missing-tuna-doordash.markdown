@@ -43,8 +43,8 @@ I must say that it’s hard to justify using their service anymore if they’re 
 
 Now, in theory, I should start ordering our sushi directly from the restaurant, but there’s a little complication: our preferred sushi place doesn’t have their own delivery.
 
-Luckily for me, there are other fish in the sea. Not other sushi restaurants – there are hundreds of those, but any Vancouverite knows that finding the right sushi restaurant is a serious undertaking – but there are a variety of other delivery apps, eagerly waiting for a chance to bring my family sushi using their VCs' money.
+Luckily for me, there are other fish in the sea. Not other sushi restaurants – there are hundreds of those, but any Vancouverite knows that finding the right sushi restaurant is a serious undertaking. But there are a variety of other delivery apps, eagerly waiting for a chance to bring my family sushi using their VCs' money.
 
-So for now, I’ll switch to another app. Maybe they’ll have a better system for helping the restaurant ensure the whole order is in the bag before it’s picked up. Or maybe they’ll find a way to earn enough money to comp the occasional wayward tuna and still stay in business. Or maybe they’ll just implode, one by one, until my entire generation starves – or at least becomes tragically deficient in Omega-3 acids.
+So for now, I’ll switch to another app. Maybe they’ll have a better system for helping the restaurant ensure the whole order is in the bag before it’s picked up. Or maybe they’ll find a way to earn enough money to comp the occasional wayward tuna and still stay in business. Or – most likely – they’ll just implode, one by one, until my entire generation starves. Or at least becomes tragically deficient in Omega-3 acids.
 
 In any case, so long Doordash. Thanks for all the fish.
