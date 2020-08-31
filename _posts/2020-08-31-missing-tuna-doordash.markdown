@@ -15,19 +15,19 @@ Fairly often, when I order food from DoorDash, I find that an item is missing. O
 
 <img src="/images/2020/tuna-culprit.jpg" style="width: 200px">
 
-In their defense, DoorDash has long had a system for handling missing items. In the early days, they’d specially dispatch a driver to bring you the absent dish. This was impressive, but rather slow and surely hideously expensive for them.
+In their defense, DoorDash has long had a system for handling missing items. In the early days, they’d specially dispatch a driver to bring you the absent dish. This was impressive, but rather slow and hideously expensive for DoorDash.
 
-In recent times, they scaled back to refunding the whole order if a part of it was missing. This leaves you a bit hungry, but it’s easy to get over a missing dragon roll when you’re eating free salmon nigiri. And let’s be honest, those dragon rolls taste so good that eating them might not have been advisable in the first place.
+In modern times, they scaled back to refunding the whole order if a part of it was missing. This leaves you a bit hungry, but it’s easy to get over a missing dragon roll when you’re eating free salmon nigiri. And let’s be honest, those dragon rolls taste so good that eating them might not have been advisable in the first place.
 
 Still I’d often wonder, after receiving a notification that my dinner would be free, “How can this be sustainable?”
 
-The answer will surprise you: this was not sustainable.
+The answer will surprise you: it was not sustainable.
 
-If you’re the sort of morbid person that likes to follow financial news about food delivery and other “gig economy” companies, you might have seen that like its competitors, DoorDash [has a margin of roughly negative 50%](https://www.fool.com/investing/2020/08/04/why-a-doordash-ipo-might-not-deliver-for-investors.aspx). That’s Wall Street speak for “giant cash-fuelled bonfire”.
+If you’re the sort of morbid person that likes to follow financial news about food delivery and other “gig economy” companies, you might have seen that, like its competitors, DoorDash [has a margin of roughly negative 50%](https://www.fool.com/investing/2020/08/04/why-a-doordash-ipo-might-not-deliver-for-investors.aspx). That’s Wall Street speak for “giant cash-fuelled bonfire”.
 
 As you may know, cash is not the ideal fuel for a bonfire, and as such it was only a matter of time before things changed. This year, the inevitable happened: DoorDash switched to only refunding the missing item. This is patently reasonable – I can’t fathom how many orders it would have taken for them to make up the cost of refunding me $40 when they missed a single salmon roll – but it can still be a downer.
 
-You see, a few months back I ordered two personal pizzas – one for me and one for my wife. We paid a fee and tip for delivery, but only her pizza came. I ended up eating cereal for dinner. My experience was not five stars. ([For those keeping score](https://allenpike.com/2020/unified-theory-of-cereal), the cereal was Nature’s Path Flax Plus® Cinnamon Flakes, which *are* five stars.)
+You see, a few months back I ordered two personal pizzas – one for me and one for my wife. Only her pizza came. They refunded mine, but we still paid the full fee and tip, and I ended up eating cereal for dinner. My experience was not five stars. ([For those keeping score](https://allenpike.com/2020/unified-theory-of-cereal), the cereal was Nature’s Path Flax Plus® Cinnamon Flakes, which *are* five stars.)
 
 So it’s not great, but whatever. I shouldn’t be using DoorDash anyway. This is reasonable penance.
 
