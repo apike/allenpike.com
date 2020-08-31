@@ -37,7 +37,7 @@ This week, things changed yet again. As it happens, my latest order was missing 
 
 In any case, the app informed me that I wasn’t getting the roll, and I wasn’t getting refunded for it, and if I was unsatisfied I should contact support. Eyebrow firmly raised, I politely informed their support chat about this injustice. The agent apologized, offered to “check what happened”, then after 60 seconds closed the chat. A second attempt led to a message that they would no longer compensate me for missing food due to my account history.
 
-The *nerve*! After the dozens of times I’ve offered them the opportunity to deliver me food at a loss, after *all the money they’ve spent on me*, they just toss me aside. I can only hope my tuna went to a good home.
+The *nerve*! After the dozens of times I’ve offered them the opportunity to deliver me food at a loss, after *all the money they’ve spent on me*, they just toss me aside. They clearly don't appreciate what a critical part of their business I am. I can only hope my tuna went to a good home.
 
 I must say that it’s hard to justify using their service anymore if they’re going to continue charging me for food I didn’t get. From here on out, Doordash isn’t going going to get any more chances to lose money on me, no sir.
 
