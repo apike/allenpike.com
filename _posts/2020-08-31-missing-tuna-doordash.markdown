@@ -21,6 +21,8 @@ Still I’d often wonder, after receiving a notification that my dinner would be
 
 The answer will surprise you: it was not sustainable.
 
+------
+
 If you’re the sort of morbid person that likes to follow financial news about food delivery and other “gig economy” companies, you might have seen that, like its competitors, DoorDash [has a margin of roughly negative 50%](https://www.fool.com/investing/2020/08/04/why-a-doordash-ipo-might-not-deliver-for-investors.aspx). That’s Wall Street speak for “giant cash-fuelled bonfire”.
 
 As you may know, cash is not the ideal fuel for a bonfire, and as such it was only a matter of time before things changed. This year, the inevitable happened: DoorDash switched to only refunding the missing item. This is patently reasonable – I can’t fathom how many orders it would have taken for them to make up the cost of refunding me $40 when they missed a single salmon roll – but it can still be a downer.
