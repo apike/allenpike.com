@@ -11,9 +11,7 @@ categories:
 
 ---
 
-Fairly often, when I order food from DoorDash, I find that an item is missing. Of course, this should not be surprising, since DoorDash is a bizarre capitalist Rube Goldberg machine where every party – the restaurant, the driver, and DoorDash itself – seems to be having a bad time. It’s only fair that by patronizing and enabling this system, I should have a bad time too.
-
-<img src="/images/2020/tuna-culprit.jpg" style="width: 200px">
+<img src="/images/2020/tuna-culprit.jpg" style="width: 200px"> Fairly often, when I order food from DoorDash, I find that an item is missing. Of course, this should not be surprising, since DoorDash is a bizarre capitalist Rube Goldberg machine where every party – the restaurant, the driver, and DoorDash itself – seems to be having a bad time. It’s only fair that by patronizing and enabling this system, I should have a bad time too.
 
 In their defense, DoorDash has long had a system for handling missing items. In the early days, they’d specially dispatch a driver to bring you the absent dish. This was impressive, but rather slow and hideously expensive for DoorDash.
 
@@ -47,4 +45,4 @@ Luckily for me, there are other fish in the sea. Not other sushi restaurants –
 
 So for now, I’ll switch to another app. Maybe they’ll have a better system for helping the restaurant ensure the whole order is in the bag before it’s picked up. Or maybe they’ll find a way to earn enough money to comp the occasional wayward tuna and still stay in business. Or – most likely – they’ll just implode, one by one, until my entire generation starves. Or at least becomes tragically deficient in Omega-3 acids.
 
-In any case, so long Doordash. Thanks for all the fish.
+In any case, so long DoorDash. Thanks for all the fish.
