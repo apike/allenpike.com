@@ -41,7 +41,7 @@ A second attempt led to a message that they would no longer compensate me for mi
 
 The *nerve*! After the dozens of times I’ve offered them the opportunity to deliver me food at a loss, after *all the money they’ve spent on me*, they just toss me aside. They clearly don't appreciate what a critical part of their business I am. I can only hope my tuna went to a good home.
 
-I must say that it’s hard to justify using their service anymore if they’re going to continue charging me for food I didn’t get. From here on out, Doordash isn’t going going to get any more chances to lose money on me, no sir.
+I must say that it’s hard to justify using their service anymore if they’re going to continue charging me for food I didn’t get. From here on out, Doordash isn’t going to get any more chances to lose money on me, no sir.
 
 Now, in theory, I should start ordering our sushi directly from the restaurant, but there’s a little complication: our preferred sushi place doesn’t have their own delivery.
 
