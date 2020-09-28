@@ -11,7 +11,7 @@ categories:
 
 ---
 
-A famous notion in the business world is the “Curse of the new HQ”. The theory is that companies tend to build out a swanky new office just as their success peaks, at which point a fancy space full of potential turns into an expensive millstone.
+A famous notion in the business world is the “Curse of the new HQ”. The theory is that companies tend to build out a swanky new office just as their success peaks, at which point a fancy space full of potential becomes an expensive millstone.
 
 I saw this happen up close when I was first starting out in technology. I watched a growing company design and build a beautiful new office building, only to lose a client that was [too big to lose](https://allenpike.com/2018/the-big-deal). Within a year, I was helping them move out to a much more modest space. Although there doesn’t seem to be a lot of evidence for this being a statistically significant phenomenon, I’ve long been cautious about building out any kind of office for Steamclock.
 
@@ -23,7 +23,7 @@ Oops.
 
 Within a month, our entire industry was working from home, as we waved goodbye to ye olde precedented times. Like everybody else on earth, I started searching for small desks online.
 
-On account of our new space limitations, I didn't have a lot of options for where to put a desk. More precisely, it seemed there were *no* options. But as they say, “Desperate times call for removing the wire shelving from the closet near the baby’s crib and cramming a tiny standing desk in there.” A standing desk, not just for ergonomic reasons, but because there wasn’t room for a chair.
+On account of our new space limitations, I didn't have a lot of options for where to put a desk. Initially, it seemed there were *no* options. But as they say, “Desperate times call for removing the wire shelving from the closet near the baby’s crib and cramming a tiny standing desk in there.” A standing desk, not just for ergonomic reasons, but because there wasn’t room for a chair.
 
 So there I was, six months ago today, wiring up a bedroom closet. Half CEO’s office, half sundress storage. Population: me.
 
@@ -35,7 +35,7 @@ In time though, I came to terms with it. I made it nicer over time. I set up lig
 
 <img src="/images/2020/closet-cam.jpg"> 
 
-And work did get done. Our one-day-a-week working from home culture adapted to the new world. After some time folks re-oriented and settled in, we’ve been productive and effective. We lost business in the travel sector, but gained more business in e-commerce. We kept the band together, and even have a new employee starting next week. Our work is far from over, but so far Steamclock’s doing well for a company in a world of turmoil, run from a closet office.
+And work did get done. Our one-day-a-week working from home culture adapted to the new world. Since the initial "reorient and refocus" period, we’ve been productive and effective. We lost business in the travel sector, but gained more business in e-commerce. We kept the band together, and even have a new employee starting next week. Our work is far from over, but so far Steamclock’s doing well for a company in a world of turmoil, run from a closet office.
 
 Still, it’s a very small office.
 
