@@ -37,17 +37,19 @@ That’s it. That’s the article.
 
 Good night everybody!
 
----
+------
 
 This post is now over.
 
-When I say “Don’t build a social network” it’s not some kind of “hack” where I claim the *real way* to build a successful social network is to not *think of it* as a social network. Trust me, half the social networks I’ve worked on had executives insisting that they were not in fact social networks. “Just because our app revolves around people posting things, following one another, and viewing the aggregated content in a feed doesn’t make it a social network”. 🙃
+When I say “Don’t build a social network” it’s not some kind of “hack” where I claim the *real way* to build a successful social network is to not *think of it* as a social network.
+
+Trust me, half the social networks I’ve worked on had executives insisting that they were not in fact social networks. “Just because our app revolves around people posting things, following one another, and viewing the aggregated content in a feed doesn’t make it a social network”. 🙃
 
 I’m not saying don’t *call it* a social network, I’m saying it is a bad idea to try and build a new platform that revolves around consumers posting content and viewing one another’s content, and you should not do that.
 
 Thanks for tuning in – please like and subscribe, and remember to smash that bell!
 
----
+------
 
 You’re still here.
 
@@ -55,7 +57,7 @@ Okay. I’ll make you a deal.
 
 As long you promise not to use this information to actually go and try to build a social network, I’ll share a couple of the things that I’ve learned about why it’s incredibly hard to do. The goal is to convince you not to do it.
 
-Although the “table stakes” of user expectations are very high in this space, the truth is that it’s not terribly difficult to *build* a social network. The fiendishly difficult part is successfully launching one, and then turning it into a profitable business.
+Although it can take a lot of engineering work to meet the “table stakes” of user expectations in this space, the truth is that it’s not entirely difficult to *build* a social network. The truly difficult part – fiendishly difficult, really – is successfully launching one, and then turning it into a profitable business.
 
 ## Trying to iterate a community
 Gall’s Law tells us that “a complex system that works is invariably found to have evolved from a simple system that worked.” This generally holds true in the world of software. So much so, that it broadly outlines the challenges of building software products: understanding what parts need to be complex, keeping the rest simple, and evolving the key parts effectively enough that they get Good before you run out of time or money.
@@ -102,3 +104,5 @@ And – if history is any indicator – my efforts at rebuffing them will endear
 This is my fate. But it doesn’t have to be yours. I’ve said my piece, I’ve made my case.
 
 Don’t build a social network.
+
+That said, it would be great if somebody did build a better social network. The existing ones are kind of trash...
