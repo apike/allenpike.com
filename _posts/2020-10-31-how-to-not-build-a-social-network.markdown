@@ -78,22 +78,22 @@ So sure, you might have this very nice app, only for it to be initially colonize
 
 While you’re now excited to finally be getting some user data to start validation, and you appreciate users’ feedback that they wish the app would “run fast,” your team is concerned that they may be hitting a local maxima. While you’re happy to tell your investors about your recent uptick in active users, your growth team is finding that the difficulty of acquiring and retaining new users who are *not* Sonic fans has actually increased, entrenching the existing userbase. Given that you’d still need to scale your network to the hundreds of millions of users to build an independent advertising business that can compete with Facebook and Google, your investors start pushing you to find an acquirer.
 
-For Sale: One social network; better than Facebook (we think); as is where is; currently infested with hedgehogs. Will consider all offers.
+FOR SALE: One social network; better than Facebook (we think); as is where is; currently infested with hedgehogs. Will consider all offers.
 
 <p style="text-align: center"><video style="width: 250px;" autoplay loop muted playsinline src="/images/2020/mike-holmes-sonic.mp4"></video></p>
 
-## Starting small
+## Shooting the moon
 There are countless things that can doom a social networking startup, but most seem to follow a common trajectory:
 
-1. Raise investment on an interesting concept and the vision of a thriving user community.
-2. Launch with engagement and retention rates so low that the system needs to be constantly “fed” with expensive new user acquisition to keep learning and iterating the product, after which *maybe* the user base has some growth but levels off well below the enormous size that could make an ad-driven platform profitable.
+1. Raise investment around an interesting concept and the vision of a thriving user community.
+2. Launch with engagement and retention rates so low that the system needs to be constantly “fed” with expensive new user acquisition to keep learning and iterating the product, after which *maybe* you see some user growth but it levels off well below the enormous size that could make an ad-driven platform profitable.
 3. The product team struggles to get traction fast enough to justify the high burn rate, and investors lose interest and cut off the venture.
 
-To be fair, the arc of most tech startups follow a variation of the above. The issue with social networks specifically is that the number of active contributors necessary to have a compelling system and the number of active users needed to ever turn a profit are just far higher than for other types of software. This makes them expensive to iterate and experiment on, *and* necessitates a smash hit in order to be sustainable. All startups are hard, but this combo makes social media startups exquisitely difficult.
+To be fair, the arc of most tech startups follow a variation of the above. The issue with social networks specifically is that the number of contributing users necessary to have a compelling product and the number of active users needed to ever turn a profit are just far higher than for most software. This makes them expensive to iterate and experiment on, *and* necessitates a smash hit in order to be sustainable. All startups are hard, but this combo makes social media startups exquisitely difficult.
 
 As it happens, realizing this points us to a potential formula for building a social app in a less risky way: develop a platform that is very compelling even with a small initial group of users. If you can make something so useful that you can get a small group to pay for it directly, rather than needing to scale to the point that you can profitably sell ads, you can be sustainable and then grow organically. This is perhaps then less of a social network, and moreso a social tool.
 
-You can see this general approach in certain non-traditional social platforms like Pinboard, most modern dating apps, and even the subscription-required social spaces for fans that have proliferated due to Patreon and its ilk. By building something that users will pay for directly, they don’t need Instagram scale to be sustainable.
+You can see this general approach in certain non-traditional social platforms like Pinboard, most modern dating apps, and even the subscription-required social spaces for fans that have proliferated due to Patreon and its ilk. If you build something that users will pay for directly, you don't need anything near Instagram scale to be sustainable.
 
 Of course, paid social platforms generally have less potential upside than something that tries to dethrone Facebook or Twitter. So, just as people buy lottery tickets, people will still try and build new social networks.
 
