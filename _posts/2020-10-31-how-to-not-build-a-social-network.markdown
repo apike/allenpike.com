@@ -95,7 +95,7 @@ As it happens, realizing this points us to a potential formula for building a so
 
 You can see this general approach in certain non-traditional social platforms like Pinboard, most modern dating apps, and even the subscription-required social spaces for fans that have proliferated due to Patreon and its ilk. If you build something that users will pay for directly, a quirky but rabid fanbase becomes an asset.
 
-Of course, a paid social platform for Sanic gifs has less potential upside than something that tries to dethrone Facebook or Twitter. So, just as people buy lottery tickets, people will still try and build new social networks.
+Of course, a paid social platform for <a href="https://www.google.com/search?q=sanic&tbm=isch">Sanic GIFs</a> has less potential upside than something that tries to dethrone Facebook or Twitter. So, just as people buy lottery tickets, people will still try and build new social networks.
 
 And, inevitably, they will keep trying to hire our team at Steamclock to help them do so. And I will keep trying to convince them not to build a social network at all, partially with arguments like I’ve made here and partially by outlining our ever-growing list of special requirements we have for social app projects.
 
