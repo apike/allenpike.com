@@ -78,7 +78,7 @@ While you’re now excited to finally be getting some user data to start validat
 
 For Sale: One social network; better than Facebook (we think); as is where is; currently infested with hedgehogs. Will consider all offers.
 
-<video autoplay loop muted playsinline src=“/images/2020/mike-holmes-sonic.mp4”></video>
+<video autoplay loop muted playsinline src="/images/2020/mike-holmes-sonic.mp4"></video>
 
 ## Starting small
 There are countless things that can doom a social networking startup, but most seem to follow a common trajectory:
