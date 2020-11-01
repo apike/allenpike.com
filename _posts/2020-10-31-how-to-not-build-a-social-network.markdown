@@ -72,7 +72,7 @@ As a rule, social software doesn’t work that way. If you cloned Facebook at fu
 
 Part of this is the well-known “network effect” where a social platform gets more valuable when there are a ton of people already on it. But there is also a subtle, related issue – a kind of “noise floor” where for a social product, it’s hard to get any signal at all from your users when there aren’t a lot of them.
 
-Consider that even *if* your theoretically-better-than-Facebook platform started to get adoption in some niche, who’s to say those are the users that fit the product best? The same app in 10 parallel universes could have highly varying levels of success depending on who their early users are and how that effects the community norms, product evolution, and future growth.
+Consider that even *if* your theoretically-better-than-Facebook platform started to get adoption in some niche, who’s to say those are the users that fit the product best? The same app in 10 parallel universes could have highly varying levels of success depending on who their early users happened to be, and how that effected the community norms, product evolution, and so on.
 
 So sure, you might have this very nice app, only for it to be initially colonized by rabid fans of [badly drawn Sonic cartoons](https://dumbrunningsonic.tumblr.com/). Next thing you know, all your user onboarding algorithms “learn” that new users always want to be recommended looping gifs of a MS Paint style Sega mascot attempting to locomote poorly.
 
@@ -93,7 +93,7 @@ To be fair, the arc of most tech startups follow a variation of the above. The i
 
 As it happens, realizing this points us to a potential formula for building a social app in a less risky way: develop a platform that is very compelling even with a small initial group of users. If you can make something so useful that you can get a small group to pay for it directly, rather than needing to scale to the point that you can profitably sell ads, you can be sustainable and then grow organically. This is perhaps then less of a social network, and moreso a social tool.
 
-You can see this general approach in certain non-traditional social platforms like Pinboard, most modern dating apps, and even the subscription-required social spaces for fans that have proliferated due to Patreon and its ilk. If you build something that users will pay for directly, you don't need anything near Instagram scale to be sustainable.
+You can see this general approach in certain non-traditional social platforms like Pinboard, most modern dating apps, and even the subscription-required social spaces for fans that have proliferated due to Patreon and its ilk. If you build something that users will pay for directly, a quirky but rabid fanbase becomes be an asset.
 
 Of course, paid social platforms generally have less potential upside than something that tries to dethrone Facebook or Twitter. So, just as people buy lottery tickets, people will still try and build new social networks.
 
