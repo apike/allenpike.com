@@ -2,7 +2,7 @@
 author: allen
 date: "2020-10-31 8:00:00 -08:00"
 layout: post
-title: "How to Not Build a Social network"
+title: "How to Not Build a Social Network"
 summary: "I attempt to reason with raw ambition."
 image: "/images/2020/mike-holmes-sonic.jpg"
 tags:
@@ -13,9 +13,9 @@ categories:
 
 I hear that you’d like to build a new social network.
 
-Seems like a good idea, right? Today’s social media is a tire fire, the companies that dominate it rake in billions monthly, and you have a novel concept for a social app that won’t make people feel so blue, while hopefully making you a lot of green.
+Seems like a good idea, right? Today’s social media is a tire fire, the companies that dominate it rake in billions monthly, and you have a novel concept for a social app that might make people feel less blue, while making you a lot of green.
 
-So where do we start? Well, at the moment, the top result on Google for “how to build a social network” is [an Inc. article so bad that it brings me physical pain to read it](https://www.inc.com/john-rampton/how-to-create-powerful-social-network-platform-in-.html):
+So where do we start? Well, at the moment, the top result on Google for “how to build a social network” is [an Inc. article so bad that it brings me physical pain to read](https://www.inc.com/john-rampton/how-to-create-powerful-social-network-platform-in-.html):
 
 > The overall vision of your website is crucial. Macro scan that will break things down into categories such as user functions, administrative functions, and advertising is a must thing to do.
 
@@ -25,7 +25,7 @@ Macro scan? A must thing? Website?
 
 Wat indeed.
 
-I regret to inform you that success is extremely **not** inevitable,  no matter how much you plan in advance. If you start building a social media app with any sort of “my vision’s strength will inherently lead me to success” mindset, your aspiring startup is going to quickly get impaled on a sharp and very expensive spike.
+I regret to inform you that success is extremely **not** inevitable,  no matter how much you plan in advance. If you start building a social media app with any sort of “my vision’s strength will inherently lead me to success” mindset, your aspiring startup is going to get impaled on a sharp and very expensive spike.
 
 Over the last ten years I’ve worked on almost a dozen social networking apps. I’ve worked on chat apps, sharing apps, and dating apps. I’ve seen product-market misfits, product launch faceplants, and strong teams that flirted with traction but just couldn’t get the numbers required to find a path to profitability.
 
