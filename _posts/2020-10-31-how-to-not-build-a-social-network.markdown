@@ -66,11 +66,11 @@ Successful software businesses are generally built this way: you make a thing th
 
 One awesome thing about designing and developing tools – that is, apps that solve a particular problem – is that you can usefully test most tools using a pretty small number of users. If you can find 10 engaged customers that are a reasonable representation of the target market for your tool, you can often learn a lot about how you should be improving your thing, or determine if you need a change of plans entirely.
 
-As a rule, social software doesn’t work that way. If you cloned Facebook at full detail and fidelity, plus made it meaningfully better in a way that you think users would significantly prefer over Facebook, you couldn’t just onboard 10 representative people and determine if your thing was good. Your possibly-awesome codebase with no users would just be a staggeringly complicated ghost town.
+As a rule, social software doesn’t work that way. If you cloned Facebook at full detail and fidelity – which would be a staggering amount of work at this point – plus made it meaningfully better in a way that you think users would significantly prefer over Facebook, you couldn’t just onboard 10 representative people and determine if your thing was good. Your possibly-awesome codebase with no users would just be a bizarrely complicated ghost town.
 
-Search for a friend it says, no results. Recommended groups, none. Top photos from your network, nothing. Trends, zilch. What an overwhelming waste of time. What am I supposed to do with this? Invite my friends? Not likely.
+*Search for a friend it says, no results. Recommended groups, none. Top photos from your network, nothing. Trends, zilch. What an overwhelming waste of time. What am I supposed to do with this? Invite my friends? Not likely.*
 
-Part of this is the well-known “network effect” where a social platform gets more valuable when there are a ton of people already on it. But there is also a subtle, related issue – a kind of “noise floor” where for a given social product, it’s hard to get any signal at all from your users when there aren’t a lot of them.
+Part of this is the well-known “network effect” where a social platform gets more valuable when there are a ton of people already on it. But there is also a subtle, related issue – a kind of “noise floor” where for a social product, it’s hard to get any signal at all from your users when there aren’t a lot of them.
 
 Consider that even *if* your theoretically-better-than-Facebook platform started to get adoption in some niche, who’s to say those are the users that fit the product best? The same app in 10 parallel universes could have highly varying levels of success depending on who their early users are and how that effects the community norms, product evolution, and future growth.
 
@@ -80,7 +80,7 @@ While you’re now excited to finally be getting some user data to start validat
 
 For Sale: One social network; better than Facebook (we think); as is where is; currently infested with hedgehogs. Will consider all offers.
 
-<video autoplay loop muted playsinline src="/images/2020/mike-holmes-sonic.mp4"></video>
+<p style="text-align: center"><video style="width: 250px;" autoplay loop muted playsinline src="/images/2020/mike-holmes-sonic.mp4"></video></p>
 
 ## Starting small
 There are countless things that can doom a social networking startup, but most seem to follow a common trajectory:
