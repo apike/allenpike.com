@@ -3,7 +3,7 @@ author: allen
 date: "2020-10-31 8:00:00 -08:00"
 layout: post
 title: "How to Not Build a Social Network"
-summary: "I attempt to reason with raw ambition."
+summary: "I attempt stop you from making a mistake."
 image: "/images/2020/mike-holmes-sonic.jpg"
 tags:
 categories:
