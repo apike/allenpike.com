@@ -37,7 +37,7 @@ That’s it. That’s the article.
 
 Good night everybody!
 
-——-
+---
 
 This post is now over.
 
@@ -47,7 +47,7 @@ I’m not saying don’t *call it* a social network, I’m saying it is a bad id
 
 Thanks for tuning in – please like and subscribe, and remember to smash that bell!
 
-——-
+---
 
 You’re still here.
 
