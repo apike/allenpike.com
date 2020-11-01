@@ -93,7 +93,7 @@ To be fair, the arc of most tech startups follow a variation of the above. The i
 
 As it happens, realizing this points us to a potential formula for building a social app in a less risky way: develop a platform that is very compelling even with a small initial group of users. If you can make something so useful that you can get a small group to pay for it directly, rather than needing to scale to the point that you can profitably sell ads, you can be sustainable and then grow organically. This is perhaps then less of a social network, and moreso a social tool.
 
-You can see this general approach in certain non-traditional social platforms like Pinboard, most modern dating apps, and even the subscription-required social spaces for fans that have proliferated due to Patreon and its ilk. If you build something that users will pay for directly, a quirky but rabid fanbase becomes be an asset.
+You can see this general approach in certain non-traditional social platforms like Pinboard, most modern dating apps, and even the subscription-required social spaces for fans that have proliferated due to Patreon and its ilk. If you build something that users will pay for directly, a quirky but rabid fanbase becomes an asset.
 
 Of course, a paid social platform for Sanic gifs has less potential upside than something that tries to dethrone Facebook or Twitter. So, just as people buy lottery tickets, people will still try and build new social networks.
 
