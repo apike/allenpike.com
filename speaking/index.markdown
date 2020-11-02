@@ -47,6 +47,7 @@ Here are two example videos of talks I've given:
 I enjoy guesting on podcasts &ndash; they're most of the fun of giving a talk, with a lot less work. Here are some shows I've been on:
 
 * The [Fun Fact Podcast](https://funfact.fm), where Arik Devens and I discuss important facts.
+* [The Omni Show 64](https://theomnishow.omnigroup.com/episode/how-allen-pike-uses-omnifocus-to-run-steamclock), where I talk about how I manage tasks, and focusing on what's important rather than just urgent.
 * [Giant Robots 264](http://giantrobots.fm/264), where we talk about building great product teams.
 * [Clockwise 174](https://www.relay.fm/clockwise/174), where we discuss iPad, Apple Watch, Apple-produced original content, and iTunes
 * Release Notes [190, where I talk about our products](https://releasenotes.tv/190-allen-pike-part-1/), and [191, where I talk about client work](https://releasenotes.tv/191-allen-pike-part-2/).
