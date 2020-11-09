@@ -1,8 +1,8 @@
 ---
 author: allen
-date: "2020-01-16 8:00:00 -08:00"
+date: "2020-11-09 8:00:00 -08:00"
 layout: post
-title: "Two Spies"
+title: "On Refining Apps' Text"
 link: "https://steamclock.com/blog/2020/10/microcopy/"
 categories:
 - Link
