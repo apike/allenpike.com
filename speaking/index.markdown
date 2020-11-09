@@ -7,7 +7,7 @@ slug: speaking
 title: Speaking and Podcasts
 ---
 
-I enjoy teaching and telling stories, especially around software design and development. In recent years I've been lucky enough to be invited to do so at over a dozen conferences around the world. If you run a conference and want to talk, [get in touch](/contact/).
+I enjoy teaching and telling stories, especially around software design and development. In recent years I've been lucky enough to be invited to do so at a couple dozen conferences and podcasts over the years. If you run a conference or podcast and would like to chat, [get in touch](/contact/).
 
 <img src='/images/allen-speaking.jpg' />
 <p style='text-align: center; font-style: italic;'>A slide from a talk I gave in 2017 at Microsoft.</p>
