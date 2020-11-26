@@ -32,7 +32,7 @@ Upon discovering this, he asked mournfully, “Why didn’t you tell me?”
 It was a very good question. I may have felt like I was being nice, and perhaps by some shallow definition I was. But I was definitely not being kind. Immediately, I felt like the one with egg on my face. While I can only hope my friend has long since forgotten this minor cruelty, that moment has stuck with me.
 
 ## Being kind vs. being nice
-The distinction between niceness and kindness can seem subtle. While being nice might involve acting polite, positive, and pleasant, being kind is deeper – it’s about being caring, sympathetic, and helpful. In many circumstances the kind thing to do is simply to be nice. In some circumstances though, the kind thing to do is to be direct. Or clear. Or firm.
+The distinction between niceness and kindness can seem subtle. While being nice might involve acting polite, positive, and pleasant, being kind is deeper – it’s about being caring, empathetic, and helpful. In many circumstances the kind thing to do is simply to be nice. In some circumstances though, the kind thing to do is to be direct. Or clear. Or firm.
 
 In learning to run a business, I found early on that however nice you are, you still need to set distinct boundaries and limits with clients in order to, for example, [get paid](https://allenpike.com/2016/getting-paid-receivables). And when it comes to close friends and family, it can be second nature to prioritize kindness, even when it means having a less than nice conversation to help fix a problem.
 
