@@ -3,7 +3,7 @@ author: allen
 comments: true
 date: "2017-06-30 20:00:00"
 layout: post
-slug: "the-hire-list"
+slug: "what-your-career-wants-to-be"
 title: "What Your Career Wants to Be"
 summary: "We learn Bluetooth, and it works."
 image: "/images/2017/panzerbird.jpg"
