@@ -23,9 +23,9 @@ Knowing this, society has some structures, rituals of a sort, that attempt to re
 
 Or at least a fresh mind and a belly full of hazelnut chocolates.
 
-<img src="/images/2020/speed.png"> 
-
 So I guess we’re not *entirely* on our own with regards to pacing our lives, but for the most part we need to take the reins when it comes to what’s enough and what’s too much.
+
+<img src="/images/2020/speed.png"> 
 
 Meanwhile, cooped up at home, a friend or coworker is less likely to notice if we need a break, a shoulder, or a kick in the pants. In such a state, it’s even easier to let the world’s randomness put us off track. To let it overwhelm, or stagnate, or – a pairing that once sounded unlikely but is recently all the rage – both overwhelm and stagnate at the same time.
 
