@@ -20,7 +20,7 @@ One day, when I attempted the task of emptying the bin, I found it over-full. An
 
 <img src="/images/2019/trash-cans.png">
 
-It may be obvious to you, but for years I ignored the root cause of my age-long grief. I did nothing about the thing that actually enabled people to pile in more garbage than the bag could hold: the bin was bigger than its bag. By buying a smaller bin, the same bags simply couldn’t be over-filled. Even the most precariously over-filled bin could be wrapped up swiftly and neatly, using the specially reserved portion of bag draped on the outside of the bin, ready and waiting for duty.
+It may be obvious to you, but for years I ignored the root cause of my age-long grief: the bin was bigger than its bag. By buying a smaller bin, the same bags simply couldn’t be over-filled. Even the most precariously over-filled bin could be wrapped up swiftly and neatly, using the specially reserved portion of bag draped on the outside of the bin, ready and waiting for duty.
 
 
 It was glorious.
