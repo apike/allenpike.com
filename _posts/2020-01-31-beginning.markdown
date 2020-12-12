@@ -19,7 +19,7 @@ Then, everything changed. Mobile overturned the software world. Again much was w
 
 The more I saw the progress of technology, the clearer it became that this is a fundamental process in the software industry. As long as there have been computers, there has been a generational pattern, where waves of new companies sweep in to build the newly possible. Periods of creative destruction, with new paradigms blowing away the old, have created awesome opportunities every decade or so since the 1960s. It seems everything old will soon be new again.
 
-As I’ve built a career in software – and Steamclock’s business – I’ve taken pride in expecting the unexpected. I’ve tried not to get too comfortable in the now, avoided bets that things will stay the same, and tried not to depend too much to the platforms of today, since prophecy tells us all will soon be destroyed by the next Great Reset.
+As I’ve built a career in software – and Steamclock’s business – I’ve taken pride in expecting the unexpected. I’ve tried not to get too comfortable in the now, avoided bets that things will stay the same, and tried not to depend too much on the platforms of today, since prophecy tells us all will soon be destroyed by the next Great Reset.
 
 It would seem, today, that a reset is nigh. Mobile platforms have aged and become remarkably stable, and the big tech companies have slowed and matured. It *feels* like the next big thing is due on set imminently. Honestly, it’s felt like that for years now. Is it chatbots? No. Blockchain? No. AR? I don’t know, but it has to be something. Right?
 
