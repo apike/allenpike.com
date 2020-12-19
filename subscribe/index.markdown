@@ -23,4 +23,4 @@ target="popupwindow" onsubmit="window.open('https://feed.press/e/mailverify?feed
 <input type="hidden" value="allenpike" name="feed_id"/>
 </form>
 
-It is the style nowadays to send out newsletters as if they were correspondence &ndash; artisanal missives exclusively for subscribers. As nice as may be, my "newsletter" currently consists of a copy of each article I write, delivered to your inbox. Plain and simple.
+It is the style nowadays to send out newsletters as if they were correspondence &ndash; artisanal missives exclusively for subscribers. As nice as that may be, my "newsletter" currently consists of a copy of each article I write, delivered to your inbox. Plain and simple.
