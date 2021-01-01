@@ -1,6 +1,6 @@
 ---
 author: allen
-date: "2020-11-30 8:00:00 -08:00"
+date: "2020-12-31 8:00:00 -08:00"
 layout: post
 title: "Two Birds, One Scone"
 summary: "On retiring words from our vocabulary."
