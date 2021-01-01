@@ -3,7 +3,7 @@ author: allen
 date: "2020-11-30 8:00:00 -08:00"
 layout: post
 title: "Two Birds, One Scone"
-summary: "On removing words from our vocabulary."
+summary: "On retiring words from our vocabulary."
 image: "/images/2020/bird-square.jpg"
 tags:
 categories:
