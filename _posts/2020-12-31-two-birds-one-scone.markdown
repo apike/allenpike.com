@@ -77,7 +77,7 @@ If you are interested in prioritizing “crazy” for a vocabulary eviction, I h
 
 Especially if you're in a visible position – parent, writer, manager – it's worth putting in the effort, slowly over time, to work words and phrases out of your vocabulary that might be seen as hurtful. Even if there’s no consensus yet that they’re offensive. Even if nobody notices, other than people who read your reluctantly self-righteous blog post about developing a just vocabulary.
 
-Truly though, words are one case where I think the price of being an early adopter is worthwhile.
+Truly though, words are a case where I think the price of being an early adopter is worthwhile.
 
 We can’t control how people interpret what we say, but we can practice continual improvement of the words we choose.
 
