@@ -65,7 +65,7 @@ And maybe that’s a little bit true.
 
 But that idea, the concern that we should be motivated by the social-justice word police out on the internet, is not a productive frame of mind for doing this work. Fear of backlash is a bad place to start from when you’re doing slow, meaningful, lifelong self improvement.
 
-Because – and this is easy to forget in the noise – the actual goal is not to just avoid backlash. The goal is to show love. It’s to be respectful of people worthy of respect, to invest in small changes that can make people feel more welcome in this harsh world. The goal is to slowly build a better understanding of how our words make people feel, and the example we set when we use them. To refine our communication so it gets across the love and respect and empathy we hold inside.
+Because – and this is easy to forget in the noise – the actual goal is not to just avoid backlash. The goal is to show love. It’s to be respectful of people worthy of respect, to invest in small changes that can make people feel more welcome in this harsh world. The goal is to slowly build a better understanding of how our words make people feel, and the example we set when we use them. To refine our communication so it gets across the love and respect and empathy we've built.
 
 And if it prevents you from getting destroyed on the internet for saying something awful and necessitating a screenshot of your heartfelt Notes-app apology, well then that’s a nice bonus.
 
