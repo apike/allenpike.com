@@ -57,7 +57,7 @@ Like many changes, words are retired first slowly, then quickly.
 
 ## A strategy for evolution
 
-One of the things the last few decades of civil rights progress has taught us is that social justice is an ongoing process. The sheer scale of the racism, sexism, ableism, and other aspects of discrimination in our day to day speech is staggering. We can't fix it all simultaneously. Society develops awareness of it, and strips it out, in waves. And as with any society-scale change, the size of it all can feel overwhelming.
+One of the things the last few decades of civil rights progress has taught us is that social justice is an ongoing process. The sheer scale of the racism, sexism, ableism, and other kinds of discrimination in our day to day speech is staggering. We can't fix it all simultaneously. Society develops awareness of it, and strips it out, in waves. And as with any society-scale change, the size of it all can feel overwhelming.
 
 It can seem, especially if you’re Very Online, that there is a correct and socially acceptable way to talk, and it’s constantly changing, and you’re constantly at risk of being wrong, and even if you’re putting in effort, there is a legion of more-correct hyper-woke Twitter people poised to strike you down if you speak in error or ignorance.
 
@@ -65,7 +65,7 @@ And maybe that’s a little bit true.
 
 But that idea, the concern that we should be motivated by the social-justice word police out on the internet, is not a productive frame of mind for doing this work. Fear of backlash is a bad place to start from when you’re doing slow, meaningful, lifelong self improvement.
 
-Because – and this is easy to forget in the noise – the actual goal is not to just avoid backlash. The goal is to show love. It’s to be respectful of people worthy of respect, to invest in small changes that can make people feel more welcome in this harsh world. The goal is to slowly build a better understanding of how our words make people feel, and the example we set when we use them, and refine our communication so it gets across the love and respect and empathy we have.
+Because – and this is easy to forget in the noise – the actual goal is not to just avoid backlash. The goal is to show love. It’s to be respectful of people worthy of respect, to invest in small changes that can make people feel more welcome in this harsh world. The goal is to slowly build a better understanding of how our words make people feel, and the example we set when we use them. To refine our communication so it gets across the love and respect and empathy we hold inside.
 
 And if it prevents you from getting destroyed on the internet for saying something dumb and necessitating a screenshot of your heartfelt Notes-app apology, well then that’s a nice bonus.
 
