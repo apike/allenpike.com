@@ -67,7 +67,7 @@ But that idea, the concern that we should be motivated by the social-justice wor
 
 Because – and this is easy to forget in the noise – the actual goal is not to just avoid backlash. The goal is to show love. It’s to be respectful of people worthy of respect, to invest in small changes that can make people feel more welcome in this harsh world. The goal is to slowly build a better understanding of how our words make people feel, and the example we set when we use them. To refine our communication so it gets across the love and respect and empathy we hold inside.
 
-And if it prevents you from getting destroyed on the internet for saying something dumb and necessitating a screenshot of your heartfelt Notes-app apology, well then that’s a nice bonus.
+And if it prevents you from getting destroyed on the internet for saying something awful and necessitating a screenshot of your heartfelt Notes-app apology, well then that’s a nice bonus.
 
 An empathy-first mindset to language actually feeds two birds with one scone: it informs and motivates our process of doing better, and can also act as a damper on the “smash people on the internet” instinct. The goal is not to alienate. We don't need to be the person who learned how to use “[racialized](https://www.merriam-webster.com/dictionary/racialized)” last month and then turn around and jump on somebody who did not use it today. Heck, Apple’s autocorrect hasn’t even picked up that racialized is a word yet.
 
