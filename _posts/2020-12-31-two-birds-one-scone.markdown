@@ -31,7 +31,7 @@ While our language continually mints new words, our society also deprecates old 
 
 Other times, though, we retire a phrase because it has an in-built hurtful or discriminatory connotation, or has developed one. As our society has become more tolerant, many overtly racist, sexist, and homophobic terms have fallen out of use in everyday speech.
 
-More recently, we’ve started making progress on less overt but still racist language, [ableist terms](https://diversity.caltech.edu/documents/1901/ableist_terms.pdf), [gendered](https://www.gaystarnews.com/article/gender-neutral-phrases-to-know/) [phrases](https://gusto.com/blog/people-management/gendered-language-workplace), [insults that stigmatize people living with mental illness](https://www.lehighcenter.com/lifestyle/mental-illness-dictionary-5-words-we-should-stop-using-to-describe-people/), and… wait a minute. Did we actually have a major league sports team using the name “Redskins” in 2020?
+More recently, we’ve started making progress on [less overt but still racist language](https://www.upworthy.com/10-common-phrases-that-are-actually-racist-af), [ableist terms](https://diversity.caltech.edu/documents/1901/ableist_terms.pdf), [gendered](https://www.gaystarnews.com/article/gender-neutral-phrases-to-know/) [phrases](https://gusto.com/blog/people-management/gendered-language-workplace), [insults that stigmatize people living with mental illness](https://www.lehighcenter.com/lifestyle/mental-illness-dictionary-5-words-we-should-stop-using-to-describe-people/), and… wait a minute. Did we actually have a major league sports team using the name “Redskins” in 2020?
 
 There’s still a lot of work to be done. That work though, the process of improving our expressive vocabularies, is a complex process.
 
