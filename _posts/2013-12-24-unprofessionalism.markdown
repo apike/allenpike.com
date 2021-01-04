@@ -32,7 +32,7 @@ It was a lot of fun to get the positive feedback. People appreciated our silly l
 
 > "Congratulations on subtracting functionality for the sake of a circlejerk, you obnoxious cunt." - [eifersucht12a](http://www.reddit.com/r/iphone/comments/1e0ycf/finally_an_app_developer_with_a_good_sense_of/c9w2d4i)
 
-Wait, what? We did something unprofessional and knew we might get some blowback, but I was surprised by that last one. I shouldn't have been - this is what happens when you reveal to the awkward truth: you're a human being.
+Wait, what? We did something unprofessional and knew we might get some blowback, but I was surprised by that last one. I shouldn't have been - this is what happens when you reveal the awkward truth: you're a human being.
 
 
 ## Pissing people off
