@@ -10,6 +10,8 @@ categories:
 - Article
 ---
 
+*Update, January 2021: This 2014 guide is still basically true, although TFSA limits continue to increase. I've updated a couple of the funds I referenced in this article to newer, even easier to use ones. Happy investing!*
+
 Tomorrow, Canadians will get an additional $5500 of [TFSA](http://en.wikipedia.org/wiki/Tax-Free_Savings_Account) contribution room. Most of us won't do anything with it. Most people that do do anything will put the money into a cash savings account that, after inflation, loses money. [Only 5%](http://newsroom.bmo.com/press-releases/bmo-annual-tfsa-report-tfsa-adoption-among-canadi-tsx-bmo-201312190918655001) will put the money where it's probably best kept: ETFs. The rest of the country is treating their Tax-Free Savings Accounts like, well, savings accounts.
 
 <img src='/images/2014/mansion.jpg' width='300'>
@@ -44,17 +46,17 @@ John Bogle first noted this way back in 1951, penning his senior thesis, "Mutual
 
 <img src='/images/2014/squeam.jpg' width='300'>
 
-If you're a Canadian over the age of 24, you should now have $36,500 in TFSA contribution room. If you haven't been putting it to good use, but are intimidated by investing it, I encourage you to pick a very simple index fund investment strategy and stick to it. The site [Canadian Couch Potato](http://canadiancouchpotato.com/couch-potato-faq/) has some good info and example portfolios for this kind of investing.
+If you're an adult Canadian, you'll have tens of thousands of dollars in TFSA contribution room. If you haven't been putting it to good use, but are intimidated by investing it, I encourage you to pick a very simple index fund investment strategy and stick to it. The site [Canadian Couch Potato](http://canadiancouchpotato.com/couch-potato-faq/) has some good info and example portfolios for this kind of investing.
 
 My preferred way to buy index funds is to buy them online on the stock market. You buy a kind of stock called an ETF, or an exchange-traded fund. ETFs are just like other stocks in that they have a ticker symbol and you can buy or sell them any time, but they're composed of hundreds of other stocks or bonds. A balanced investment portfolio can be as simple as putting your money in three or four ETFs.
 
 If you really do want to keep things dead simple, you can just do like I do and use [Questrade](http://questrade.com), a low cost online stock brokerage that lets you buy ETFs for free, and some [Vanguard ETFs](https://www.vanguardcanada.ca/individual/etfs/etfs.htm) to build an almost absurdly simple low-cost investment account:
 
-1. Go to Questrade.com and open a TFSA.
-2. Fund your Questrade account with your bank's online bill payments.
-3. Use the money in your Questrade account to buy Vanguard ETFs. For example, put 30% in VCN (Canadian Stocks), 30% in VXC (Global Stocks), and 40% in VAB (Canadian Bonds). Bam.
+1. Go to [Questrade](https://www.questrade.com/) or [WealthSimple Trade](https://www.wealthsimple.com/en-ca/product/trade) and open a TFSA.
+2. Fund that account using your bank's online bill payment function.
+3. Use the money in your trading account to buy Vanguard ETFs. This can be as simple as putting 100% of the funds into stock symbol [VGRO](https://www.vanguardcanada.ca/advisors/products/en/detail/etf/9579/balanced), a very broad long term growth-oriented index fund. Bam.
 
-It can be as simple as that. Don't panic sell when the markets go down, keep funding your account every three months until your TFSA is maxed, and you're doing better than the vast majority of people. At that point, you might even decide to just let it ride, knowing that over the long term, you're enjoying compound growth. Maybe you'll look into new services like [WealthBar](https://www.wealthbar.com/) that embrace ETF investing but help you manage your portfolio online.
+It can be as simple as that. Don't panic sell when the markets go down, keep funding your account every three months until your TFSA is maxed, and you're doing better than the vast majority of people. At that point, you might even decide to just let it ride, knowing that over the long term, you're enjoying compound growth. If the idea of buying a stock is too much for you, maybe you'll look into modern services like [CI Direct](https://www.wealthbar.com/) and [WealthSimple](https://www.wealthsimple.com/en-ca/) that embrace ETF investing behind the scenes but manage the details on your behalf.
 
 Or maybe, if you're anything like me, a small initial experiment will motivate deeper understanding. You'll go [deeper down the rabbit hole](http://canadiancouchpotato.com/couch-potato-faq/), start reading [bizarre real estate doomer blogs](http://www.greaterfool.ca/), and build mildly elaborate systems for the care and feeding of your retirement funds. You'll read about rebalancing, diversification, bond funds, and central banks. Next thing you know, you're subjecting the audience of your tech blog to your insane ramblings about Canadian index investing.
 
