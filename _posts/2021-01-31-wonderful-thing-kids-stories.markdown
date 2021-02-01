@@ -19,11 +19,11 @@ Kids love screen time. Parents love screen time. During screen time, kids can do
 
 <img src="/images/2021/hug.jpg">
 
-Everybody is happy, at least, until the designated time limit comes up. Eventually – whether by parental intervention, or by Apple’s excellent Screen Time feature – we return to reality.
+Everybody is happy, at least, until the designated time limit comes up. Eventually – whether by parental intervention, or by Apple’s excellent Screen Time controls – we return to reality.
 
-As a result, parents spend a lot of time asking themselves: what indoor activities are wholesome *and* engaging enough that they facilitate half-assedly accomplishing things that are sort of required for our household to function?
+As a result, parents spend a lot of time asking themselves: what indoor activities are wholesome *and* engaging enough that they facilitate half-assedly accomplishing things that are required for our household to function?
 
-There are a lot of options. Drawing princesses. Playing with princess Lego. Building structurally unsound princess castles out of random household objects. I’m here to point out an option that under-utilized, perhaps only for technical reasons: streaming kids’ audio stories.
+There are a lot of options. Drawing princesses. Playing with princess Lego. Building structurally unsound princess castles out of random household objects. I’m here to point out an option that is under-utilized, perhaps only for technical reasons: streaming kids’ audio stories.
 
 ## Once upon a time
 Watching a story on-screen is a pretty passive activity. Contrast that to when kids are *told* a story: they imagine the story unfolding, get exposed to new vocab, and are less likely to be scared when the villain magically transforms into a giant demon octopus thing.
@@ -32,7 +32,7 @@ So, if you subscribe to Apple Music – or are willing to try it out – check o
 
 But there are a few, uh, provisos. A couple of quid pro quos.
 
-For starters, although Apple Music has a lot of kids’ stories on it, it’s fiendishly difficult to find them. There are no official playlists or categories for stories. They’re just buried deep in a sea of dodgy search results. So you get to play a game.
+For starters, although Apple Music has a lot of kids’ stories, it’s fiendishly difficult to find them. There are no official playlists or categories for stories. They’re just buried deep in a sea of dodgy search results. So you get to play a game.
 
 > Hm, do they have a Moana story? Nope. The Gruffalo? Ye… no, it’s just the music. What about Winnie the Pooh? Okay cool, now to locate the story track amongst all this music… Ah okay, I can search “winnie the pooh story” and it’ll work. Oh, other times the tracks are just titled, e.g. “Yertle the Turtle” so if I search “yertle the turtle story” it’ll return nothing...
 
@@ -47,12 +47,12 @@ I know there’s only so much we can do to set positive examples for our kids. B
 To its credit, Disney Plus locks down some of its most egregious historical artifacts from being accessible by kids. Apple Music, meanwhile, decided that once a wholesome Winnie the Pooh story completes, it should auto-play “similar” tracks, specifically [this uncensored version of Peter Pan](https://music.apple.com/ca/album/peter-pan/1444070292?i=1444070295). Yes Peter Pan, the movie where characters infamously and repeatedly refer to indigenous people as “redskins”. Where they sing:
 
 <blockquote>
-In the Injun book it say
-When first brave married squaw
-He gave out with heap big “Ugh!”
-When he saw his Mother-in-Law
+In the Injun book it say<br>
+When first brave married squaw<br>
+He gave out with heap big “Ugh!”<br>
+When he saw his Mother-in-Law<br>
 
-What made the red man red?
+What made the red man red?<br>
 What made the red man red?
 </blockquote>
 
