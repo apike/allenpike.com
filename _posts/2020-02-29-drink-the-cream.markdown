@@ -6,6 +6,7 @@ title: "Don't Drink the Cream"
 summary: "Social etiquette proves hard to navigate."
 image: "/images/2020/cream-pot-small.jpg"
 tags:
+featured: true
 categories:
 - Article
 
