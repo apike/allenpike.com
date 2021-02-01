@@ -40,7 +40,7 @@ I said it was a game, not that it was a *fun* game.
 
 Still, some of the stories are quite good. Our daughter loves them! In some cases she’ll play and listen for an hour while we get some human-adult stuff done. It’s great.
 
-Some of the stories, however, are *not* great. Some are just kind of poorly acted or produced – tiresome but tolerable. More annoying, to me, is the minefield of “why did we think this was a good idea” plots and topics that many kids’ stories revolve around if they were produced before, say, 2010. You know, princesses whose sole purpose in life is to marry. Characters who shame one another for being fat or ugly. A surprising amount of murder? Generally just a lot of people being horrible to one another.
+Some of the stories, however, are *not* great. Some are just kind of poorly acted or produced – tiresome but tolerable. More annoying, to me, is the minefield of “why did we think this was a good idea” plots and topics that many kids’ stories revolve around if they were produced before, say, 2000. You know, princesses whose sole purpose in life is to marry. Characters who shame one another for being fat or ugly. A surprising amount of murder? Generally just a lot of people being horrible to one another.
 
 I know there’s only so much we can do to set positive examples for our kids. But if a 4 year old is going to be enraptured by a story, why *not* make it one without sexism, murder, or blatant racism? Is it too much to dream?
 
