@@ -2,7 +2,7 @@
 author: allen
 date: "2020-12-31 8:00:00 -08:00"
 layout: post
-title: "The Wonderful Thing about Stories"
+title: "Streaming Stories and Troubling Tales"
 summary: "Apple Music and Spotify offer kids's stories and trouble."
 image: "/images/2021/peter-pan-square.jpg"
 tags:
