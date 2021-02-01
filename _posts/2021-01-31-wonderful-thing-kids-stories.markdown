@@ -69,7 +69,7 @@ Not exactly a robust role model.
 
 Meanwhile, the stronger modern stories like Moana, Frozen, and Brave didn’t have audio versions. Or, in the case of Brave, *did* have a “Songs and Story” edition, but not available on Apple Music. How peculiar.
 
-Recently though, things changed. Apple Music suddenly added some of Ellie's favourite stories: Frozen, Ratatouille, Moana, WALL-E, Peppa Pig, and a thwack of other new stories. And in doing so, they revealed why so few kids’ stories were being released in the streaming era.
+Recently though, things changed. Apple Music suddenly added some of Ellie's favourite stories: Frozen, Ratatouille, Moana, WALL-E, Peppa Pig, and more. And in doing so, they revealed why so few kids’ stories were being released in the streaming era.
 
 Here is [a Peppa Pig story](https://music.apple.com/ca/album/pirate-treasure/1542856018) released on Apple Music this month.
 
@@ -83,16 +83,16 @@ So while Disney was previously producing 50-minute audio versions of their anima
 
 Streaming giveth, and streaming taketh away.
 
-## I want to be &nbsp where the stories are
+## I want to be… where the stories are
 So stories are great, but Apple’s offering here leaves something to be desired. What’s a bear to do?
 
-**Audiobooks**. Audible has a number of kids’ stories. However, the books often cost $20 each. This can be a good investment if your kid will listen to a given story multiple times, but that can be hard to predict. I’d love to get a 20 to 50 minute long version of Moana, but [the options on Audible are hours long](https://www.audible.ca/pd/Moana-Audiobook/B0722NRWV6?qid=1611440800&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=b278ed0a-c3b2-4491-808c-7cb2190a487c&pf_rd_r=E1NBJCZ2CD5B3ZAD5F0F). Does your kid have a 3 hour long attention span?
+**Audiobooks**. Audible has a number of kids’ stories. However, the books often cost $20 each. This can be a good investment if your kid will listen to a given story multiple times, but that can be hard to predict. I’ve long pined for a 30 to 60 minute long version of Moana, but [the options on Audible are hours long](https://www.audible.ca/pd/Moana-Audiobook/B0722NRWV6?qid=1611440800&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=b278ed0a-c3b2-4491-808c-7cb2190a487c&pf_rd_r=E1NBJCZ2CD5B3ZAD5F0F). Does your kid have a 3 hour long attention span?
 
 Audiobooks are also much less likely to include the voices, sounds, and music from the properties the books are based on. And audiobook apps certainly don’t expect you to build up a playlist of books and shuffle them, listen to the same book repeatedly, and overall behave like a 4 year old. Oddly.
 
 **Spotify**. A few years back, Spotify didn’t have much in the way of kids’ stories. Recently they seem to have leapfrogged Apple Music on this front, offering not only many of the same stories, but a whole Spotify Kids app. This makes discovering them far easier than on Apple Music. Having kids stuff in its own app also makes it easier to keep kids’ listening interests from destroying your own recommendations and playlists. (Spotify thinks my favourite album of 2020 is the soundtrack to Pixar’s *Cars*. It is not.)
 
-<img src="/images/2021/peter-pan.jpg" style="float:right; width: 250px"> While that’s all great, Spotify loses a pile o’ points for not only offering the [aforementioned “redskins” edition of Peter Pan](https://open.spotify.com/album/5PJQeTLrwSsIBBm1TY6mSg?si=DSuwDeQVQBKyrx2mqJzB4w), but prominently featuring it right at the top level of the Stories app in the *Spotify Kids app*. Yikes.
+<img src="/images/2021/peter-pan.jpg" style="float:right; width: 250px"> While having curated lists is great in theory, Spotify not only offers the [aforementioned “redskins” edition of Peter Pan](https://open.spotify.com/album/5PJQeTLrwSsIBBm1TY6mSg?si=DSuwDeQVQBKyrx2mqJzB4w), but happily features it at the top level of the Stories section in the *Spotify Kids app*. Yikes.
 
 **Podcasts**. There are a number of kids’ story podcasts out there. Some are pretty good. For example, our daughter likes specific episodes of [Earth Rangers](https://podcasts.apple.com/ca/podcast/earth-rangers/id1408102830) and [Girl Tales](https://podcasts.apple.com/ca/podcast/girl-tales/id1269253764). Now, good luck getting the Podcasts app to help you listen to specific episodes over and over. (In the app’s defense, I don’t particularly want to listen to them over and over either.)
 
@@ -107,7 +107,7 @@ I should say that [their Princess and the Pea](https://podcasts.apple.com/ca/pod
 Unfortunately, when I tried to play the episode for Ellie, after two grown-up ads, she asked to hear a Disney story instead. We try our best.
 
 ## The moral of the story
-I do think audio stories are a great addition to any parent’s bag of tricks, even if they’re a little tricky to collect. I’ve exported the current state of our [‎Kids’ Stories playlist](https://music.apple.com/ca/playlist/kids-stories/pl.u-GGYRi81vXy) on Apple Music – if you’re curious, be our guest.
+I do think audio stories are a great addition to any parent’s bag of tricks, even if they’re a little tricky to collect. I’ve exported the current state of our [‎Kids’ Stories playlist](https://music.apple.com/ca/playlist/kids-stories/pl.u-j4eWIq1PNz) on Apple Music – if you’re curious, be our guest.
 
 And to any poor unfortunate souls entertaining young ones out there, stuck inside and trying to make do: best of luck.
 
