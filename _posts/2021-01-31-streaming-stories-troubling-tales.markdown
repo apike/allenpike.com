@@ -3,7 +3,7 @@ author: allen
 date: "2020-12-31 8:00:00 -08:00"
 layout: post
 title: "Streaming Stories and Troubling Tales"
-summary: "Apple Music and Spotify offer kids's stories and trouble."
+summary: "Apple Music proves an imperfect source of kids' stories."
 image: "/images/2021/peter-pan-square.jpg"
 tags:
 categories:
