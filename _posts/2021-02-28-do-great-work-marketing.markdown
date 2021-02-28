@@ -4,7 +4,7 @@ date: "2021-02-28 8:00:00 -08:00"
 layout: post
 title: "Do Great Work, Then Tell People About It"
 summary: "On marketing, and when it matters."
-image: "/images/2021/XXXXX.jpg"
+image: "/images/2021/fyre-ideate.jpg"
 categories:
 - Article
 tags:
@@ -16,7 +16,7 @@ I’ve spent a lot of time building new products with different people. I’ve p
 
 One of the more alarming flags is a founder that has finished the marketing before they start the product.
 
-(fyre festival slide)
+<img src="/images/2021/fyre-ideate.jpg" />
 
 ## Telling tales
 
