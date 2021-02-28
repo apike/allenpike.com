@@ -4,7 +4,7 @@ date: "2021-02-28 8:00:00 -08:00"
 layout: post
 title: "Do Great Work, Then Tell People About It"
 summary: "On marketing, and when it matters."
-image: "/images/2021/fyre-ideate.jpg"
+image: "/images/2021/fyre-square.jpg"
 categories:
 - Article
 tags:
