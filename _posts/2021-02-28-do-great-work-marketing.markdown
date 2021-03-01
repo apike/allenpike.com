@@ -17,7 +17,7 @@ I’ve spent a lot of time building new products with different people. I’ve p
 One of the more alarming flags is a founder that has finished the marketing before they start the product.
 
 <img src="/images/2021/fyre-ideate.jpg" />
-*No matter how hard you ideate, you need a good product.*
+<div class="centered"><p>No matter how hard you ideate, you need a good product.</p></div>
 
 ## Telling tales
 
