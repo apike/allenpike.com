@@ -59,7 +59,7 @@ Since my setup is *relatively* simple as far as OmniFocus setups go, it might be
 
 ## The Forecast
 
-My most important view is OmniFocus’ Forecast view. This is where I pull work from, primarily. In the Forecast you set can up a “hero tag” so any actions with that tag will appear, sortable, underneat anything that is now due.
+My most important view is OmniFocus’ Forecast view. This is where I pull work from, primarily. In the Forecast you set can up a “hero tag” so any actions with that tag will appear, sortable, underneath anything that is now due.
 
 <a href="/images/2021/omnifocus-forecast.jpg"><img src="/images/2021/omnifocus-forecast.jpg"></a>
 
@@ -79,23 +79,23 @@ David Allen defines a project as anything that takes multiple steps, and which y
 
 <a href="/images/2021/omnifocus-projects.jpg"><img src="/images/2021/omnifocus-projects.jpg"></a>
 
-Instead, I keep about 10-15 about ongoing Projects, mostly named after areas of responsibility in my job, roughly sorted by importance. They all start with emoji. Obviously.
+Instead, I keep about 10-15 ongoing work Projects, mostly named after areas of responsibility in my role, roughly sorted by importance. I keep about the same number of home Projects, set off in a folder. They all start with emoji. Obviously.
 
-I often name Projects with reminders about why the thing matters, paired with a quick keyword for autocomplete filing purposes. I do marketing to bring in new clients and customers – it’s not an end to itself – so it’s called “🧁 Find new clients – marketing”.
+I often name Projects with reminders about why the thing matters, paired with a quick keywords for autocomplete filing purposes. I do marketing to bring in new clients and customers – it’s not an end to itself – so it’s called “🧁 Find new clients – marketing”.
 
 Sometimes a project is important and complex enough that I do want to promote it to a top-level OmniFocus Project. Often, though, multi-step things live in my system just as the next action I’m going to take on them, often with a reminder of why attached. For example, I might have an action like “Refine this hiring principles doc, so I can share it with the team”. 
 
 Finally, I’ve learned to notice certain patterns that indicate something has gotten off track and needs a changeup. If a project isn’t well served by this system – it’s stressing me out, or not getting done, or just gumming up the works – I’ll usually try promoting it, demoting it, splitting it, or renaming it to get things moving.
 
 ## Getting Things Calmer
-I have two special projects. These sit on the top of my work and home project lists, respectively: “🎯 Make work more relaxed and focused” and “🧘🏽‍♀️ Make home calmer”. These are for things that are distracting me, impeding me, or otherwise harshing my vibe.
+I have two special projects. These sit on the top of my work and home project lists, respectively: “🎯 Make work more relaxed and focused” and “🧘🏽‍♀️ Make home calmer”. These are for fixing things that are distracting me, impeding me, or otherwise harshing my vibe.
 
-Sometimes these lists clear out and I’m just happily working on project work. Other times though, there are so many things I *should* be doing that I notice myself getting overwhelmed and actually doing fewer things. That’s a warning sign that you’re veering towards burnout. In those times, I find it really useful to put a priority on clearing out things that are contributing to that stress or distraction. This might be responding to an intense email, finding a meeting we can cancel to open up more focus time, even just cleaning up my desk. Simple tasks that help bring back focus can have a huge payoff.
+Sometimes these lists clear out and I’m just happily working on project work. Other times though, there are so many things I *should* be doing that I notice myself getting overwhelmed and actually doing fewer things. If you notice this, it's a warning sign that you’re veering towards burnout. In those times, I find it really useful to put a priority on clearing out things that are contributing to that stress or distraction. This might be responding to an intense email, finding a meeting we can cancel to open up more focus time, even just cleaning up my desk. Simple tasks that help bring back focus can have a huge payoff.
 
 ## Someday
 One issue I’ve recently been getting more strict about is “someday/maybe” projects. As I’ve gotten more and more ideas of things that seem worth doing – from our team, from books, from the daily inputs of running a team and being a parent – my OmniFocus projects have become infested with interesting potential actions that, if I’m brutally honest with myself, I probably won't actually get to. Especially not in the next few months.
 
-If you can get real and convince yourself you’re not gonna do the thing, you can just delete it. That’s not always fast and easy though. Look at all those cool ideas! It would be so great if I did them! So what a lot of people do is put things they want to reconsider doing later in a giant “Someday” project. When I've tried that, “Someday” quickly becomes a black hole from which ideas will not return. A source of angst, and admission of defeat.
+If you can get real and convince yourself you’re not gonna do the thing, you can just delete it. That’s not always fast and easy though. Look at all those cool ideas! It would be so great if I did them! So what a lot of people do is put things they want to reconsider doing later in a giant “Someday” project. When I've tried that, “Someday” quickly becomes a black hole from which ideas will not return. An admission of defeat, and source of angst.
 
 But!
 
@@ -103,25 +103,25 @@ I’ve had great success recently with, instead of one giant Someday list, demot
 
 Like many habits worth building, this is kind of an arbitrary distinction, and its benefits are mostly psychological. Which is fine! It satisfies my monkey brain and that helps me live my best life. A life which may or may not involve actually doing anything with the things I stick on those lists. 😅
 
-There’s another form of Someday task I’ve been recently banishing with great benefit: other peoples’ Someday tasks. As a manager, I often have or receive ideas about things another team member could do. In busy times, I was really reluctant to say “Hey, how about someday you do X?” since it was liable to distract people from the actual top priorities of the day. So I’d instead store them in my OmniFocus, and I'd feel recurring angst about whether now was the time to promote this to a “Hey now you should think about this” idea.
+There’s another form of Someday task I’ve been recently banishing with great benefit: other people’s Someday tasks. As a manager, I often have or receive ideas about things another team member could do. In busy times, I'd be reluctant to say “Hey, how about someday you do X?” since it was liable to distract people from the actual top priorities of the day. So I’d instead store them in my OmniFocus, and I'd feel recurring angst about whether now was the time to promote this to a “Hey now you should think about this” idea.
 
 Recognizing the folly of this, I’ve made a big move to get those things out of my personal system and into ones we share as a team. It doesn’t matter if it’s Notion, Google Docs, Trello, or even a shared Apple Note. Having these ideas and tasks off my computer and on the fringes of our team’s radar – yet clearly labelled as “someday” tasks – has been a big win for us all.
 
 ## Tags
-Like many people, I set up my OmniFocus with a “Home” tag and an “Office” tag, so I can filter out stuff I shouldn’t be looking at right now. I have a sub-tag of Office, “Now ☕️”, that I use as my next actions for work, and keep in my Forecast view. I used to call it “Today”, but that was too often a lie and was causing a bit of angst, so now it’s “Now”. Always be iterating.
+Like many people, I set up my OmniFocus with a “Home” tag and an “Office” tag, so I can filter out stuff I don't want to look at right now. I have a sub-tag of Office, “Now ☕️”, that I use as my next actions for work, which I keep in my Forecast view. I used to call it “Today”, but that was too often a lie and was causing a bit of angst, so now it’s “Now”. Always be iterating.
 
-Beyond that, I mostly use tags to experiment and prototype. For example, I recently noticed how often I was looking at actions that I could in *theory* do any day, but which I couldn’t do right now because the baby was sleeping. My home tasks were starting to get crowded with blocked actions: take a specific baby picture, fix something in the baby’s bedroom, whatever. If the baby *was* awake, I probably wouldn’t be looking at OmniFocus! So I’ve been trying out a sub-tag of Home I’ve called “Baby Awake” for these actions. It’s usually On Hold, which hides them unless I specifically seek them out. Seems to be working well so far.
+Beyond that, I mostly use tags to experiment and prototype. For example, I recently noticed how often I was looking at actions that I could in *theory* do any day, but which I couldn’t do right now because the baby was sleeping. My home tasks were starting to get crowded with blocked actions: take a specific baby picture, fix something in the baby’s bedroom, whatever. The problem is that whenever the baby *is* awake, I'm probably not looking at OmniFocus! So I’ve been trying out a sub-tag of Home I’ve called “Baby Awake” for these actions. It’s usually On Hold, which hides them unless I specifically seek them out. Seems to be working well so far.
 
 This is the kind of thing tags are great at: trying out workflows. They can be easily discarded if they don’t end up be worth the effort of maintaining.
 
 ## Flags and Perspectives
 Flags are another thing you can use for ad-hoc prototyping of new workflows. The main thing you need to avoid with flags is over-using them. If most of your actions are flagged, then none of them are flagged.
 
-Currently, I use flags to indicate “this thing is more important than most other things in its project”. I often sort things in my projects in rough priority order at Review time, and flagging something as it goes into the project helps me do that quickly.
+Currently, I use flags to indicate “this thing is more important than most other things in its project”. I often sort things in my Projects in rough priority order at Review time, and flagging something as it goes into the Project helps me do that quickly.
 
-Flags also power a Perspective I’ve called “Office Next”. That’s where I go when I’ve checked off most of the “Now” items that appear in my Forecast, so I can populate it with a few good candidates for what’s next. Importantly, that Perspective only shows me things I haven’t yet tagged as “Now”.
+Flags also power a Perspective I’ve called “Office Next”. That’s where I go when I’ve checked off most of the “Now” items that appear in my Forecast, so I can populate it with a few good candidates for what’s next. Importantly, that Perspective only shows me things I haven’t yet promoted to “Now”.
 
-I also have a Home Now perspective which makes use of flagging. This is more or less the Home version of the Forecast view I use for work. It's also pretty simple: basically things that are due or flagged in my Home projects.
+I also have a “Home Now” perspective which makes use of flagging. This is more or less the Home version of the Forecast view I use for work. It's also pretty simple: basically things that are due or flagged in my Home projects.
 
 I know that there are a lot of folks who advise against relying on flagging as a core part of your workflow. Flags' meaning isn’t explicit, and they're easy to make a mess of. But flags are also really visible, and easy to make use of. In my opinion, they’re a handy tool in the toolbox.
 
