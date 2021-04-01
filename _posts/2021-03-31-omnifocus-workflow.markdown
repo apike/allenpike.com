@@ -75,7 +75,7 @@ My follow-on rule is if I find myself still not starting an action, even though 
 
 ## Projects
 
-David Allen defines a project as anything that takes multiple steps, and which you will will complete in the next 12 months. That’s cool, but I find it a huge distraction trying to organize my OmniFocus Projects that way. Creating hordes of Projects with 3 items in each is too much work for me, and it’s a pain trying to clean up my inbox when I have a horde of Projects set up that are weirdly worded because I wanted them all to be actionable and completable.
+David Allen defines a project as anything that takes multiple steps, and which you will complete in the next 12 months. That’s cool, but I find it a huge distraction trying to organize my OmniFocus Projects that way. Creating hordes of Projects with 3 items in each is too much work for me, and it’s a pain trying to clean up my inbox when I have a horde of Projects set up that are weirdly worded because I wanted them all to be actionable and completable.
 
 <a href="/images/2021/omnifocus-projects.jpg"><img src="/images/2021/omnifocus-projects.jpg"></a>
 
