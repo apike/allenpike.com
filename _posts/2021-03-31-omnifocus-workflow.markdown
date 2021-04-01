@@ -2,7 +2,7 @@
 author: allen
 date: "2021-03-31 8:00:00 -08:00"
 layout: post
-title: "An Iterative Workflow for Attention"
+title: "Iterating a Workflow for Attention"
 summary: "My current OmniFocus setup, and why it works."
 image: "/images/2021/omnifocus-square.jpg"
 categories:
