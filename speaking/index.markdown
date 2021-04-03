@@ -33,7 +33,7 @@ Here are three example videos of talks I've given:
 **A Workflow for Directing Attention, for Learn OmniFocus**
 
 <div class='videoWrapper'>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mIwV3FK-omI&t=419s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mIwV3FK-omI&t=419s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
