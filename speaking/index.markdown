@@ -33,8 +33,9 @@ Here are three example videos of talks I've given:
 **A Workflow for Directing Attention, for Learn OmniFocus**
 
 <div class='videoWrapper'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mIwV3FK-omI&t=419s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mIwV3FK-omI?start=417s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 
 **Competing with Art, at CocoaLove in Philadelphia**
