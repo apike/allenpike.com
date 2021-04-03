@@ -136,3 +136,7 @@ How did somebody who is not instinctually a planner, a person predisposed agains
 Likely, you’ll get off track from time to time. The framework you try at first is unlikely to be the right one for the way you currently work, and your particular mix of strengths and weaknesses. Sometimes it’ll get out of hand. That’s how it goes!
 
 All you need to do is come back to the core principles – getting the not-now stuff off your mind and the most important stuff on your mind – and iterate.
+
+----
+
+*I also [presented this topic at Learn OmniFocus](https://www.youtube.com/watch?v=mIwV3FK-omI&t=419s), where I gave a more in depth view of my workflow setup.*

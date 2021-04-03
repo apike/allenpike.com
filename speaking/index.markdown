@@ -28,7 +28,14 @@ Also, on occasion, I'll MC a conference or show.
 
 ### Videos
 
-Here are two example videos of talks I've given:
+Here are three example videos of talks I've given:
+
+**A Workflow for Directing Attention, for Learn OmniFocus**
+
+<div class='videoWrapper'>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mIwV3FK-omI&t=419s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 
 **Competing with Art, at CocoaLove in Philadelphia**
 
