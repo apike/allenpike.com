@@ -47,10 +47,10 @@ Allen is a designer and developer who runs Steamclock Software in Vancouver.
 
 #### [Independent Work](/)
 
-* Taught CMPT 470, a Wep Applications course, for SFU Computing Science
-* Has run and spoken at various of technical meetups and conferences
+* Taught CMPT 470, a Web Applications course, for SFU Computing Science
+* Has run and spoken at many technical meetups and conferences
 * Hosted and produced two podcasts, Up Up Down Down and Fun Fact
-* Developed a variety of games and side projects over the years
+* Developed a variety of games and side projects
 
 ## Education
 
