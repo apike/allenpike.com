@@ -12,18 +12,18 @@ tags:
 
 For most of my life, I rarely read books.
 
-I’m a pretty high-energy person, but a rather slow reader. Since I became an Extremely Online teenager, books have felt a bit... sluggish. Less informative, per hour invested, than the alternatives. Low density.
+I’m a pretty high-energy person, but a rather slow reader. Ever since I grew into an Extremely Online teenager, books have felt a bit... sluggish. Less informative, per hour invested, than the alternatives. Low density.
 
-I’ve always loved the *idea*of books. But actually finishing one can be a challenge.
-
-Did you know that finishing a book can take days, if not weeks?! Meanwhile, our world is thronging with fascinating topics, perspectives, and information. There are *so many* things one could be learning about. Spending hours and hours working through a single non-fiction book on a single topic can feel like a bit of slog. You could read dozens of short-form articles – or thousands of tweets – in that amount of time!
+I’ve always loved the *idea* of books. But did you know that finishing a book can take days, if not weeks?! Meanwhile, our world is thronging with fascinating topics, perspectives, and information. There are *so many* things one could be learning about. You could read dozens of short-form articles – or thousands of tweets – in the time it would take to finish a book!
 
 ## Going wide
-Unfortunately, there’s a problem with gorging short form writing. Although it can expose you to a wide array of things, your understanding of those things eventually hits diminishing returns. Eventually, you’ve read all the quick takes you can handle on a given topic. Sooner or later, you’ll burn out on the latest drama recap. A book, on the other hand, can do something very different. It can help you go deep.
+Unfortunately, there’s a problem with gorging short form writing. Although it can expose you to a wide array of things, your understanding of those things eventually hits diminishing returns. Eventually, all the quick takes start to sound familiar. The Wikipedia articles start to feel a bit samey.
 
-In long form, authors can do more. They can do more setup, provide more context, and build a more thorough framework for considering a topic. They can also give more memorable examples, work through more potential criticisms, and offer more repetition of their most useful ideas.
+A book, on the other hand, can take you in a different direction. It can help you go deep.
 
-Something I’ve only recently come to understand, though, is the value to readers of going deep themselves. Taking the time to read something over multiple days, highlighting passages, taking notes, and thinking about a topic throughout the week helps you really process it. You can consider something in a deeper and more meaningful way, often leveling it up from something you’ve been exposed to towards something you can teach. You can really immerse yourself in how this thing really *really* works.
+In long form, authors can do more. They can do more setup, provide more context, and build a more thorough framework for considering a topic. They can also give more memorable examples, work through more potential criticisms, and offer more variants of their most useful ideas.
+
+Something I’ve only recently come to understand, though, is the value to readers of going deep themselves. Taking the time to read something a little bit each day, highlighting passages, taking notes, and thinking about a topic throughout the week helps you really process it. You can consider something in a deeper and more meaningful way, often leveling it up from something you’ve been exposed to towards something you can do – or even teach. You can really immerse yourself in how this thing really *really* works.
 
 Of course, it’s not possible to engage in depth with every topic out there. But for me, going deep on a few things a year has been really cool.
 
@@ -31,12 +31,14 @@ Of course, it’s not possible to engage in depth with every topic out there. Bu
 
 When building teams, we sometimes talk about the value of “[T-shaped people](https://en.wikipedia.org/wiki/T-shaped_skills)” – folks who have a broad array of experiences and skills, but also deep experience in a specific area. In the same way, mixing a few deep books in with the broad reading we do online can make for a powerful combination. A T-shaped information diet.
 
-One nice thing about making time for a book is that it gives you some distance from the shitstorm du jour. Not all books are timeless, certainly. But their production cycle lends itself to discussion of topics and ideas that could still be meaningful years, or even decades later. Whether you get your recommendations from Goodreads, friends, or coworkers, you’re probably not going to be inundated with books like “Everything you need to know about production delays with Apple’s AirPod Socks” or “You Won’t BELIEVE What Elon Musk Just Said About NFTs”. And that’s pretty great.
+And it can be really nice to get some distance from the shitstorm du jour. Not all books are timeless, certainly. But their production cycle lends itself to discussion of topics and ideas that might still be meaningful years, or even decades later. Whether you get your recommendations from Goodreads, friends, or coworkers, you’re probably not going to be inundated with books like *Everything you need to know about production delays with Apple’s AirPod Socks* or *You Won’t BELIEVE What Elon Musk Just Said About NFTs*. And that’s pretty great.
 
-Since books often have more durable value, they’re worth a little more investment. You can justify adding a few notes, highlighting some passages – Kindle makes this easy – and writing a brief reflection afterward. Now, you have gained not just the knowledge of the book, but a new tool in your belt. A new seed you can plant in the minds of others – or your future self. You can look back on your notes when you revisit the topic. You can consider if and when to re-read it.
+Since books often have more durable value, you can justify putting a little more into readint them. You might add a few notes, highlight some passages – Kindle makes this easy – and write a brief reflection afterward.
 
-Books are at their best when you read them at the right time, and sometimes that time isn’t now. But by taking notes, you can cue yourself to revisit them later, when they’re exactly what you need.
+Now, you have gained not just the knowledge of the book, but a new tool in your belt. A new seed you can plant in the minds of others – or your future self. You can refer to your notes when you revisit the topic.
 
-Recommending a book to others can be a bit trickier. A lot of busy people don’t exactly love having “read a whole-ass book” added to their todo lists. But if you have a culture of reading on your team or in your family, building a library of books you can suggest, or even just refer to, can feel like a superpower.
+Of course, any book is at its best when you read it at the right time, and sometimes that time isn’t now. But by taking notes, you can cue yourself to revisit it later, when it's exactly what you need.
 
-Getting there can be a little slow. But sometimes – when everything is feeling like a lot – slowing down can be worthwhile. Nice, even. Just for a while.
+Recommending a book to others can be a bit trickier. A lot of busy people don’t exactly love having “read a whole-ass book” added to their todo lists. But if you have a culture of reading on your team or in your family, then building a library of books you can suggest or refer to can really help you help the people around you.
+
+Admittedly, getting there can be a little slow. But sometimes – especially when everything is feeling like a lot – slowing down can be worthwhile. Nice, even. Just for a while.
