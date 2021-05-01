@@ -29,13 +29,13 @@ Of course, it’s not possible to engage in depth with every topic out there. Bu
 
 <img src="/images/2021/levar.jpg">
 
-When building teams, we sometimes talk about the value of “[T-shaped people](https://en.wikipedia.org/wiki/T-shaped_skills)” – folks who have a broad array of experiences and skills, but also deep experience in a specific area. In the same way, mixing a few deep books in with the broad reading we do online can make for a powerful combination. A T-shaped information diet.
+When building teams, we sometimes talk about the value of “[T-shaped people](https://en.wikipedia.org/wiki/T-shaped_skills)” – folks who have a broad array of experiences and skills, but also deep experience in a specific area. In the same way, mixing a few deeper works in with the broad reading we do online can make for a powerful combination. A T-shaped information diet.
 
-And it can be really nice to get some distance from the shitstorm du jour. Not all books are timeless, certainly. But their production cycle lends itself to discussion of topics and ideas that might still be meaningful years, or even decades later. Whether you get your recommendations from Goodreads, friends, or coworkers, you’re probably not going to be inundated with books like *Everything you need to know about production delays with Apple’s AirPod Socks* or *You Won’t BELIEVE What Elon Musk Just Said About NFTs*. And that’s pretty great.
+And it can be really nice to get some distance from the shitstorm du jour. Not all books are timeless, certainly. But their production cycle lends itself to ideas and treatments that might still be meaningful years, or even decades later. Whether you get your recommendations from Goodreads, friends, or coworkers, you’re probably not going to be inundated with books like *Everything you need to know about Apple’s AirPod Socks production delay rumours*. Or *You Won’t BELIEVE What Elon Musk Just Said About NFTs*. And that’s pretty great.
 
-Since books often have more durable value, you can justify putting a little more into readint them. You might add a few notes, highlight some passages – Kindle makes this easy – and write a brief reflection afterward.
+Since books often have more durable value, you can also justify putting a little more into reading them. You might add a few notes, highlight some passages – Kindle makes this easy – and write a brief reflection afterward.
 
-Now, you have gained not just the knowledge of the book, but a new tool in your belt. A new seed you can plant in the minds of others – or your future self. You can refer to your notes when you revisit the topic.
+Afterwards, you have gained not just the knowledge of the book, but a new tool in your belt. A new seed you can plant in the minds of others – or your future self. You can refer to your notes when you revisit the topic.
 
 Of course, any book is at its best when you read it at the right time, and sometimes that time isn’t now. But by taking notes, you can cue yourself to revisit it later, when it's exactly what you need.
 
