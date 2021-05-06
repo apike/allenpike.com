@@ -13,4 +13,4 @@ I talk to a lot different companies about their mobile app plans. Sometimes they
 
 More often, it is... not that. Usually they just need a website.
 
-So my team made a checklist to [help explain to folks why they might (but probably don't) need an app](https://shouldyoubuildamobile.app/).
+So my team made a little checklist to [help explain to folks why they might (but probably don't) need an app](https://shouldyoubuildamobile.app/).
