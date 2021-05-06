@@ -9,8 +9,8 @@ categories:
 tags:
 ---
 
-A big chunk of my job involves talking to different companies about their plans on mobile. Sometimes they have a really compelling business case for an app. Sometimes they can justify making a big investment in levelling up their customers' experience on mobile.
+I talk to a lot different companies about their mobile app plans. Sometimes they have a really compelling business case for an app. Sometimes getting a quality app their customers' hands is the key to supercharging their business, and is something that will pay dividends for years.
 
-And sometimes they... can not.
+More often, it is... not that. Usually they just need a website.
 
-So my team made a [a whiz-bang checklist that you can send to anybody who thinks they need an app](https://shouldyoubuildamobile.app/).
+So my team made a checklist to [help explain to folks why they might (but probably don't) need an app](https://shouldyoubuildamobile.app/).
