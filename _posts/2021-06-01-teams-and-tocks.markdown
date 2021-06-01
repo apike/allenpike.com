@@ -13,7 +13,7 @@ As we grow at Steamclock – we’re now at 14 and [hiring our 15th](https://ste
 
 Which is great. But it’s a problem set that is a bit more… ambiguous. We want to constantly improve. But how do we separate the big opportunities from the stuff that’s just inherently annoying?
 
-There's a sentiment I softimes hear when we’re considering these kinds of problems:
+There's a sentiment I sometimes hear when we’re considering these kinds of problems:
 
 > **Well it’s not great. But we’re already better at this than any company I’ve worked at before.**
 
