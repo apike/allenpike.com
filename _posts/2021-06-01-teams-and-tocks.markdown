@@ -2,7 +2,7 @@
 author: allen
 date: "2021-06-01 8:00:00 -08:00"
 layout: post
-title: "The teams you worked on may have sucked"
+title: "The Teams You Worked on May Have Sucked"
 summary: "On who we compare ourselves to."
 categories:
 - Article
