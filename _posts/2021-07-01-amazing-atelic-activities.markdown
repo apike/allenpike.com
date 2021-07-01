@@ -4,7 +4,7 @@ date: "2021-07-01 8:00:00 -08:00"
 layout: post
 title: "Amazing Atelic Activities"
 summary: "On doing things for the doing."
-image: "/images/2021/the-journey.png"
+image: "/images/2021/journey-square.jpg"
 categories:
 - Article
 tags:
