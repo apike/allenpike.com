@@ -12,8 +12,6 @@ tags:
 
 Early in one's life, it’s easy to be driven by goals. Pass the test, get the grade. Get a job, buy a car. Get into university, finish university. Get married, have a kid. There are a lot of things to do!
 
-(Push button receive bacon)
-
 While the specific goals vary from person to person, our lives start out with a lot of low hanging fruit. Things that haven’t been done, but are clearly worth getting done. It can be a big motivator.
 
 At a certain point though, perhaps in your 30s or 40s, this loop becomes less satisfying. The most straightforward goals have been achieved, and the most ambitious goals are starting to look, uh, ambitious. Even when you’ve done what you set out to do, it doesn’t feel quite right. “I’ve achieved all these things. I’m successful! Why don’t I float through each day radiating the tranquil joy of an accomplished human? Why do I still sometimes wake up feeling, a little bit, [like a duffel bag of shit](https://www.youtube.com/watch?v=Nn8TL12lXR0)?”
