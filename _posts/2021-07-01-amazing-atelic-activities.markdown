@@ -40,5 +40,3 @@ This isn’t a secret formula to guarantee a purposeful and fulfilling life – 
 Honestly, even just being thoughtful about when I’m doing something for the sake of doing it has been nice. I walk a little slower when I’m just going for a walk, I’m a bit less focused on finishing games, and I’ve been getting better at enjoying the parts of my job that I really enjoy – in the afternoons, once I’ve checked off the thing that really needs doing.
 
 It’s amazing.
-
-<a href="https://www.youtube.com/watch?v=zSmOvYzSeaQ"><img src="/images/2021/cybersmoke.jpg"></a>
