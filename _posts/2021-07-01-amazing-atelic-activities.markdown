@@ -4,6 +4,7 @@ date: "2021-07-01 8:00:00 -08:00"
 layout: post
 title: "Amazing Atelic Activities"
 summary: "On doing things for the doing."
+image: "/images/2021/the-journey.png"
 categories:
 - Article
 tags:
@@ -25,9 +26,9 @@ I was initially hesitant to read an article about midlife crises. I’m not even
 
 And even if I did, what an embarrassing privileged white guy thing to do. People are out there – as we speak – fighting for their rights, fighting for their lives. Meanwhile I’m sitting here like a jackass thinking, “Hm, checking off these OmniFocus tasks isn’t giving me as deep a sense of self actualization as I’d imagined; what is my path to lasting purpose?”
 
-Still, checking off those OmniFocus tasks really wasn’t giving me as deep a sense of self actualization as I’d imagined, and I have been thinking more about purposeful work. So when [the article](https://www.edbatista.com/2019/03/not-every-end-is-a-goal-on-midlife-malaise.html) put the following very useful idea on my radar, I was primed to receive it. Perhaps it will help you too.
+Still, checking off those OmniFocus tasks really *wasn’t* giving me as deep a sense of self actualization as I’d imagined. So when [that article](https://www.edbatista.com/2019/03/not-every-end-is-a-goal-on-midlife-malaise.html) put the following very useful idea on my radar, I was primed to receive it. Perhaps it will help you too.
 
-**You can divide ways you spend your time into two categories.**.
+**You can divide how you spend your time into two categories.**.
 
 1. **Telic activities.** Things whose purpose is the end. Drive home. Have a wedding. Unclog a drain. Ship an app.
 2. **Atelic activities.** Things whose purpose is the middle. Explore the forest. Listen to music. Tinker with something you enjoy.
@@ -36,10 +37,10 @@ The problem for ambitious people comes when we load up on telic activities. We p
 
 And that ideal balance tends to shift as you get older. Your youthful focus on telic activities – things you’re glad to be done with – ideally adjusts over time to more atelic activities – things you’re glad to be doing.
 
-This isn’t a secret formula to guarantee a purposeful and fulfilling life – that can only be achieved by [playing a very 90s VR game where you watch a guy play a very 90s VR game about motorcycles and making out and… weird 3D dogs](https://www.youtube.com/watch?v=zSmOvYzSeaQ)? But I’ve found it helpful in my journey.
+This isn’t a secret formula to guarantee a purposeful and fulfilling life – that can only be achieved by [playing a very 90s VR game where you watch a guy play a similar VR game about motorcycles and making out and… weird 3D dogs](https://www.youtube.com/watch?v=zSmOvYzSeaQ)? But I’ve found it helpful.
 
-Honestly, even just being thoughtful about when I’m doing something for the sake of doing it has been nice. I walk a little slower when I’m just going for a walk, I’m a bit less focused on finishing games, and I’ve been getting better at letting myself enjoy the parts of my job that I really enjoy – in the afternoons, once I’ve checked off the thing that really needs doing.
+Honestly, even just being thoughtful about when I’m doing something for the sake of doing it has been nice. I walk a little slower when I’m just going for a walk, I’m a bit less focused on finishing games, and I’ve been getting better at enjoying the parts of my job that I really enjoy – in the afternoons, once I’ve checked off the thing that really needs doing.
 
 It’s amazing.
 
-<img src="/images/2021/cybersmoke.jpg">
+<a href="https://www.youtube.com/watch?v=zSmOvYzSeaQ"><img src="/images/2021/cybersmoke.jpg"></a>
