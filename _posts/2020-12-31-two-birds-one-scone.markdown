@@ -5,6 +5,7 @@ layout: post
 title: "Two Birds, One Scone"
 summary: "On retiring words from our vocabulary."
 image: "/images/2020/bird-square.jpg"
+featured: true
 tags:
 categories:
 - Article
