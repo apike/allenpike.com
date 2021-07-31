@@ -24,7 +24,7 @@ I would gather input from our team on a topic, draft a doc on it, we’d iterate
 
 And if a doc isn’t being referred to, it’s not doing any good.
 
-We already do a lot of things to help ensure our docs are useful: we make them short and sweet, well maintained, consistently formatted, and for the most part they’re on topics we’ve agreed are important. We work to organize them in an easy to navigate hierarchy with our Coda (think Notion but with more powerful automation and a bit rougher around the edges). So why was nobody referring to some of them?
+We already do a lot of things to help ensure our docs are useful: we make them short and sweet, well maintained, consistently formatted, and for the most part they’re on topics we’ve agreed are important. We work to organize them in an easy to navigate hierarchy in our Coda (think Notion but with more powerful automation and a bit rougher around the edges). So why was nobody referring to some of them?
 
 ## The power of guides
 
