@@ -79,6 +79,6 @@ Of course, there is more than one way to use cross-platform technology to reduce
 
 In the end, the best we can do is be thoughtful and watchful of these technologies and what problems they solve well. We watch them evolve, talk to people who are using them, and take in what teams share about their experiences – all with a pinch of salt.
 
-Will Rust more of a success story for cross-platform app cores than C++ was? Will React Native tamp down its problems and become a more and more compelling competitor in this space?
+Will Rust turn into more of a success story for cross-platform app cores than C++ was? Will React Native tamp down its problems and become a more and more compelling competitor in this space?
 
 It will be fascinating to see.
