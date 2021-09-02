@@ -73,7 +73,7 @@ The reality of coordination overhead at scale adds an additional layer to the tr
 
 So instead of a simple “good vs. cheap” tradeoff, we get something more like this.
 
-<img src="/images/2021/polished-coordinated-chart.png" style="float: right">
+<img src="/images/2021/polished-coordinated-chart.png" style="float: right; max-width: 400px">
 
 The upshot of this is that large feature-driven product teams feel a great gravity towards cross-platform tools, even if a high priority on UX would predispose them to building native clients everywhere. On mobile platforms, where teams are often more disciplined about features and more focused on UX polish, teams more often go native than they do on desktop.
 
