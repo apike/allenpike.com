@@ -3,7 +3,7 @@ author: allen
 date: "2021-09-01 8:00:00 -08:00"
 layout: post
 title: "The Persistent Gravity of Cross Platform"
-summary: "Scaling a product org is hard."
+summary: "Coordinating a large product org is hard."
 image: "/images/2021/polished-coordinated-chart.png"
 categories:
 - Article
