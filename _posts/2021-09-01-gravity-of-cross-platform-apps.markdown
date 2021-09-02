@@ -77,7 +77,7 @@ The reality of coordination overhead at scale adds an additional layer to the tr
 
 Of course, there is more than one way to use cross-platform technology to reduce the drag of coordination. As controversial as 1Password's move to Electron for UI was, their decision to base all their apps on a shared Rust library was well received. Fascinatingly, in recent years teams like [Dropbox](https://dropbox.tech/mobile/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android) and [Slack](https://slack.engineering/client-consistency-at-slack-beyond-libslack/) have written about moving *away* from having a cross-platform core library powering their mobile apps – both teams are now fully native on iOS and Android. In a similar way, there seem to be two long lines of app teams, one announcing that they've moved towards React Native, and another announcing they’ve migrated away from it – a topic well deserving of its own post.
 
-In the end, the best we can do is be thoughtful and watchful of these technologies and what they are and aren't good at. We watch them evolve, talk to people who are using them, and read what teams share about their experiences – all with a pinch of salt.
+In the end, the best we can do is be thoughtful and watchful of these technologies and what problems they solve well. We watch them evolve, talk to people who are using them, and take in what teams share about their experiences – all with a pinch of salt.
 
-Will Rust be a success story for cross-platform app cores where C++ was not? Will React Native tamp down its problems and become a more and more compelling competitor in this space? It will interesting to see.
+Will Rust be a success story for cross-platform app cores where C++ was not? Will React Native tamp down its problems and become a more and more compelling competitor in this space? It will be fascinating to see.
 
