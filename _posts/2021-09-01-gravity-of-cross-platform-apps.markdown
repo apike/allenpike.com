@@ -1,9 +1,9 @@
 ---
 author: allen
-date: "2021-07-01 8:00:00 -08:00"
+date: "2021-09-01 8:00:00 -08:00"
 layout: post
-title: "Amazing Atelic Activities"
-summary: "The Persistent Gravity of Cross Platform"
+title: "The Persistent Gravity of Cross Platform"
+summary: "Scaling a product org is hard."
 image: "/images/2021/journey-square.jpg"
 categories:
 - Article
