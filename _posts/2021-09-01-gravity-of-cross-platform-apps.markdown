@@ -5,6 +5,7 @@ layout: post
 title: "The Persistent Gravity of Cross Platform"
 summary: "Coordinating a large product org is hard."
 image: "/images/2021/polished-coordinated-chart.png"
+featured: true
 categories:
 - Article
 tags:
