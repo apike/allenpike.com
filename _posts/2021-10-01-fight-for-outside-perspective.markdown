@@ -38,7 +38,7 @@ If you let your calendar be driven primarily by whomever has asked for meetings 
 
 So here’s what you need to do: **regularly review your calendar to ensure a healthy proportion of your meetings are with outside people**.
 
-## It's who you know
+## Iterating who you know
 
 When you’re considering how you spend your week, especially any item that repeats weekly, ask yourself whether that time might be better spent talking to:
 
