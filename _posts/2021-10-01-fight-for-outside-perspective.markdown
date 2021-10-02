@@ -64,6 +64,6 @@ Of course, that’s easy to say. If you’re anything like me, your brain really
 5. There are a lot of talented coaches, therapists, consultants, and others out there who are practiced at asking you good questions and helping you get perspective. Research a few, reach out to multiple, and don’t feel bad about trying multiple before you settle in with one for a while.
 6. In addition to blocking out focus time on your calendar, block out times to get outside perspective. Maybe you have 40 minutes once a week for “Go for a walk with somebody smart” or “Talk to a potential customer” or whatever you need most right now.
 
-Together, these approaches that have helped rebalance my perspective diet for the better. Obviously your team and business deserve the majority of the time, but if they get *too much* of your time, you could be doing them a disservice.
+Together, these approaches have helped rebalance my perspective diet for the better. Obviously your team and business deserve the majority of the time, but if they get *too much* of your time, you could be doing them a disservice.
 
 Of course, that’s just my perspective.
