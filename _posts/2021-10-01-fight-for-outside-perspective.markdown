@@ -29,7 +29,7 @@ We *intend* to say no to the least important meetings. **But in practice, we ten
 
 Consider two ways you could spend 40 minutes:
 
-1. Catching up with a an awesome someday hire. Easy to avoid, high importance. Tends to fall by the wayside under calendar pressure.
+1. Catching up with an awesome someday hire. Easy to avoid, high importance. Tends to fall by the wayside under calendar pressure.
 2. Agendaless weekly status update. Harder to avoid, questionable importance. Tends to stay on the calendar.
 
 Perversely, some of your best long term time investments – building new relationships or getting your assumptions challenged by outside folks – tend to get crowded off your calendar. Your manager might ask to talk to you Tuesday. Your next senior hire probably won’t. You might get a calendar invite from a team that wants a status update – but a team at some other company that knows *exactly* how to solve your biggest problem doesn’t even know who you are yet.
