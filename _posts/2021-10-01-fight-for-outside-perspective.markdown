@@ -3,7 +3,7 @@ author: allen
 date: "2021-10-01 8:00:00 -08:00"
 layout: post
 title: "Fight for Outside Perspective"
-summary: "When you find yourself only meeting with your team."
+summary: "The case of too many team meetings."
 featured: false
 categories:
 - Article
@@ -37,6 +37,8 @@ Perversely, some of your best long term time investments – building new relati
 If you let your calendar be driven primarily by whomever has asked for meetings and whichever meetings were set to auto-repeat, your schedule will get more and more inward-looking over time. The bigger your company, the worse it is.
 
 So here’s what you need to do: **regularly review your calendar to ensure a healthy proportion of your meetings are with outside people**.
+
+## It's who you know
 
 When you’re considering how you spend your week, especially any item that repeats weekly, ask yourself whether that time might be better spent talking to:
 
