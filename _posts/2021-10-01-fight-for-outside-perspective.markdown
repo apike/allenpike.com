@@ -1,6 +1,6 @@
 ---
 author: allen
-date: "2021-10-01 8:00:00 -08:00"
+date: "2021-10-01 11:00:00 -08:00"
 layout: post
 title: "Fight for Outside Perspective"
 summary: "The case of too many team meetings."
@@ -14,7 +14,7 @@ To build a product, you need to talk to people. You need to talk to potential cu
 
 Any leader that isn’t getting outside perspective is going to eventually get stuck.
 
-Unfortunately, with our own teams getting first crack at our calendars, and the shift to remote work sweeping away many a business lunch or chat over coffee, a lot of leaders are indeed getting stuck. Here's how it goes down.
+Unfortunately, with our own teams getting first crack at our calendars, and the shift to remote work sweeping away many a business lunch or chat over coffee, a lot of leaders are getting stuck. Here's how it goes down.
 
 ## The War on Meetings
 Let’s say you find yourself with a calendar full of meetings. Purely hypothetically, of course.
