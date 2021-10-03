@@ -13,7 +13,7 @@ tags:
 
 ---
 
-Once upon a time, back when Netscape roamed the earth, software development was hard. Desktop apps shipped in cardboard boxes, web apps ran on Solaris boxes, and video games came on little plastic boxes. In this box-crazed world, making sure software was right the first time was Super Important™.
+Once upon a time, back when Netscape roamed the earth, software development was hard. Desktop apps shipped in cardboard boxes, web apps ran on Solaris boxes, and video games came in little plastic boxes. In this box-crazed world, making sure software was right the first time was Super Important™.
 
 Back then, writing an app &ndash; or "application" as it was referred to in the archaic English of the time &ndash; was an arduous process. Good design patterns were still evolving, and system libraries were of little help. Much of the code in any given app was, effectively, boilerplate. Collection classes, sync frameworks, windowing systems, memory management schemes &ndash; a wretched hive of tricky computing science problems.
 
