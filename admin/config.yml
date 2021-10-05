@@ -1,0 +1,28 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+publish_mode: editorial_workflow
+media_folder: "images/2021" # Media files will be stored in the repo under images/uploads
+
+
+collections:
+  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog" # Used in the UI
+    folder: "_posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Author", name: "author", widget: "hidden", default: "allen"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Summary", name: "summary", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Sharing Image", name: "image", widget: "image"}
+      - {label: "Featured", name: "featured", widget: "boolean", default: "false"}
+      - {label: "Categories", name: "categories", widget: "list", default: ["Article"]}
+      - {label: "Tags", name: "tags", widget: "list"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+
+# Need this format for date: "2021-10-01 11:00:00 -08:00"
