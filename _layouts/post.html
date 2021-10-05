@@ -1,11 +1,17 @@
 ---
 layout: default
 ---
-<h1><a href='{{ page.url }}'>{{ page.title }}</a>
+<h1><a href='{{ page.url }}'>{{ page.title | widow }}</a>
 {% if page.link %}<a class="link" href="{{ page.link }}">→</a>{% endif %}</h1>
 {% if page.summary %}<p class="summary">{{ page.summary }}</p>{% endif %}
 
-<p class="meta">{{ page.date | date: "%B %-d, %Y" }}</p>
+<p class="meta">{{ page.date | date: "%B %-d, %Y" }} &bull;
+{% assign words = content | number_of_words %}
+{% if words < 360 %}
+  1 min
+{% else %}
+  {{ words | divided_by:180 }} min
+{% endif %} read</p>
 
 <hr class="subtle">
 
