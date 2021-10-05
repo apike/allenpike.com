@@ -247,15 +247,17 @@ div.centered p {
 
 @media (max-width: 500px) {
 
+  a.sitename {
+    font-size:  19px;
+  }
+
   .navigation {
     padding-bottom: 6px;
   }
 
   .navigation ul {
-    clear: left;
-    margin: 0px;
+    margin: -2px 0 2px 0;
     padding: 0px;
-    text-align: right;
   }
 
   h1 {

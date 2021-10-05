@@ -4,7 +4,7 @@ comments: false
 layout: page
 isSubscribe: true
 slug: subscribe
-title: Subscribe
+title: Follow or Subscribe
 ---
 
 There are a three ways you can subscribe to my articles and other writing.
