@@ -104,6 +104,14 @@ hr {
   border-width: 1px 0px 0px 0px;
 }
 
+.footnotes {
+  font-size: 16px;
+}
+
+.footnotes ol {
+  margin-left: 3em;
+}
+
 li.active {
   font-weight: bold;
 }

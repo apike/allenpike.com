@@ -13,7 +13,7 @@ tags:
 - Usability
 ---
 
-![](/images/wp-uploads/2012/03/twitter-protected.png)On Twitter, you can set your account to "protected" to make your tweets private. In this mode, only people you approve can see your tweets. Interestingly, this restriction now also applies to @replies and @mentions ((I've been told that you used to be able to see your @replies from private accounts, implying this is a recent change.)).
+![](/images/wp-uploads/2012/03/twitter-protected.png)On Twitter, you can set your account to "protected" to make your tweets private. In this mode, only people you approve can see your tweets. Interestingly, this restriction now also applies to @replies and @mentions. I've been told that you used to be able to see your @replies from private accounts, implying this is a recent change.
 
 I don't generally follow anybody who has a private Twitter account, mostly on principle. I can't evaluate what they write or how often they write it, so I just let them enjoy their privacy. It had never really occurred to me how isolated these users are though - they can't be retweeted, and the people they mention often can't respond to what they're saying.
 

@@ -20,7 +20,7 @@ tags:
 
 ![](/images/wp-uploads/2009/02/devil.png)**Some lessons in contracting learned by being a slave programmer.**
 
-When the tech bubble burst, I was young and inexperienced. The local ISP where I’d been learning PHP laid me off, so I struck out on my own doing freelance web development. They say you have to learn through mistakes (([Some disagree](http://www.37signals.com/svn/posts/1555-learning-from-failure-is-overrated), but failure was the learning tool I had at my disposal.)), and software engineering books usually enumerate the kinds of mistakes available for you to make. Fortunately for my learning, I made all of these mistakes in one project.
+When the tech bubble burst, I was young and inexperienced. The local ISP where I’d been learning PHP laid me off, so I struck out on my own doing freelance web development. They say you have to learn through mistakes – [some disagree](http://www.37signals.com/svn/posts/1555-learning-from-failure-is-overrated), but failure was the learning tool I had at my disposal. Software engineering books usually enumerate the kinds of mistakes available for you to make. Fortunately for my learning, I made all of these mistakes in one project.
 
 <!-- more -->
 
@@ -32,7 +32,7 @@ A guy from California found my site and gave me a call. He was so authoritative 
 
 The product he envisioned was a hosted project management web app. The starting point was some open source PHP code that had been abandoned by its creator. His request was for a fixed bid on a set of improvements, both design and functionality.
 
-This opportunity both excited and frightened me. The previous contract I’d done was a site from scratch and had taken about 80 hours, and I’d learned a lot since then. Based on that information, for improving an existing system I bid using 50 hours at $20/hour ((He talked me down from $25, which he said was high. This is always hard to fend of for people starting off who don't have connections in the industry. I was a newbie, and we both knew it.)). I thought $20/hour was workable, since at the ISP I was making less. I thought wrong.
+This opportunity both excited and frightened me. The previous contract I’d done was a site from scratch and had taken about 80 hours, and I’d learned a lot since then. Based on that information, for improving an existing system I bid using 50 hours at $20/hour[^1]. I thought $20/hour was workable, since at the ISP I was making less. I thought wrong.
 
 As you may know, fixed bids are very dangerous things to make. Even for hourly projects, you might not bill for every single hour you spend, depending on how diligent you are about billing for administration time, estimates, and such. Of course, fixed bids can work if you have crystal clear requirements, a strict scope, and strong understanding of the task at hand. I had none of those things. I wasn’t even allowed to see the code before I made the bid, although I talked my way into seeing the system in action via webcast.
 
@@ -54,7 +54,7 @@ Pretty soon, all-nighters were the norm to meet the milestone deadlines. The vis
 
 After a couple months of this, I burnt out. Once I’d worked five times the number of hours in my estimate, I had to call it the end. Of course any sane individual would have walked away long before this, but I hadn’t had an income in months and was irrational. I needed to get paid, right then. Although he wished we had met the original “requirements”, he was very positive on the work I’d done, and thanked me effusively for everything.
 
-Months of repeated reminders later, I finally got the cheque. Well, I got _a_ cheque: he underpaid by 20%. When I complained, he said that I under-delivered. I ended up making way less than minimum wage ((This was much less fun than [when I did it on purpose](http://www.antipode.ca/2006/fantasytech-3-goto-fun/).)), and I’m pretty sure he didn’t feel bad about it. I was resentful, insulted, bitter, and getting sick of ramen noodles.
+Months of repeated reminders later, I finally got the cheque. Well, I got _a_ cheque: he underpaid by 20%. When I complained, he said that I under-delivered. I ended up making way less than minimum wage[^2], and I’m pretty sure he didn’t feel bad about it. I was resentful, insulted, bitter, and getting sick of ramen noodles.
 
 
 ### **Redemption**
@@ -71,3 +71,6 @@ When he wanted arbitrary design changes or creative requirements changes, I woul
 At first I was skeptical, tense, and irritable. The haunting memories of the last California Guy kept me suspicious that the project would fail. Instead, after each phase he came back for more. We got paid promptly by offering to suspend work on the current phase if a cheque was late. After quite a few equally-sized bids and successes, both sides parted ways amicably. We got paid, I got to sleep, and today his site is still running, almost exactly as I left it.
 
 Long ago I wanted to meet the first California Guy so I could tell him off. Now, I want to meet him so I can thank him.
+
+[^1]: He talked me down from $25, which he said was high. This is always hard to fend of for people starting off who don't have connections in the industry. I was a newbie, and we both knew it.
+[^2]: This was much less fun than [when I did it on purpose](http://www.antipode.ca/2006/fantasytech-3-goto-fun/).

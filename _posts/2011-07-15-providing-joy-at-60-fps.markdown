@@ -50,7 +50,7 @@ A special kind of activity indicator is placeholder content. Users can sometimes
 
 So you have spinners now, but want to show them as briefly as possible. Although ideally you respond within 16ms, users are used to waiting for internet content to be delivered, especially when they know their wireless connection is weak. Even on a good wifi connection, your app's request will have perceptible latency to get to the server and come back with a simple response.
 
-Unfortunately, any time your backend servers take in responding is in addition to that latency. Every moment it takes for you to get a response back to the user is more frustration and impatience. Your goal should be to get content back to the user in 100ms ((IBM did this research decades ago, but [Jakob Nielsen has various explorations of it](http://www.useit.com/papers/responsetime.html) online.)). After one second, users lose their feeling of task flow. On the web, users are intolerant of waiting for servers to respond. Within a mobile app, they are even less tolerant - if you can't provide a faster experience than a normal web site, you might as well just have a web site.
+Unfortunately, any time your backend servers take in responding is in addition to that latency. Every moment it takes for you to get a response back to the user is more frustration and impatience. Your goal should be to get content back to the user in 100ms[^1]. After one second, users lose their feeling of task flow. On the web, users are intolerant of waiting for servers to respond. Within a mobile app, they are even less tolerant - if you can't provide a faster experience than a normal web site, you might as well just have a web site.
 
 **Launch time**
 
@@ -65,3 +65,5 @@ Every tap should have consequences when you lift your finger. First, though, com
 **Result: Joy**
 
 Congratulations! You now have a responsive app that is a joy to use. Of course, it also needs to be functional, usable, beautiful, and useful. But that is for another day.
+
+[^1]: IBM did this research decades ago, but [Jakob Nielsen has various explorations of it](http://www.useit.com/papers/responsetime.html) online.

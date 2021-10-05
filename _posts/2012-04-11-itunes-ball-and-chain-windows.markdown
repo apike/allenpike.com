@@ -24,8 +24,10 @@ Except that they can't split iTunes into multiple apps because many, if not most
 
 [Jason Snell points out](http://www.macworld.com/article/1166274/itunes_time_to_right_the_syncing_ship.html) that when the Mac App Store launched, it was a separate app instead of shoved into iTunes. A sign of things to come? No, just functionality that isn't needed on Windows.
 
-Besides the app splitting issue, it's important to remember that iTunes is the most prominent Apple app that isn't a modern Cocoa app. Almost all the apps that ship with OS X have been ported to modern Objective-C, except for iTunes: everybody's favorite cross-platform behemoth written in C ((Of course, iTunes has company - its old drinking buddies Adobe CS and Microsoft Office.)). That doesn't forgive its issues, but it does help explain them.
+Besides the app splitting issue, it's important to remember that iTunes is the most prominent Apple app that isn't a modern Cocoa app. Almost all the apps that ship with OS X have been ported to modern Objective-C, except for iTunes: everybody's favorite cross-platform behemoth written in C[^1]. That doesn't forgive its issues, but it does help explain them.
 
 ![](/images/wp-uploads/2012/04/pc-free1.png)iOS 5 is the hero in all of this. As iCloud duplicates more and more of iTunes' sync functionality, they can start removing it from iTunes. Apple is very explicit about it in their marketing materials: they call it "PC Free". They're not quite there yet, but they're driving towards a future where you don't need to manage your iOS device with a PC at all - Mac or Windows. PC Free is the golden ticket to cutting the kitchen sink out of iTunes, and golden it is.
 
 Don't get me wrong - there are other reasons that iTunes blows. Craig Hockenberry [brings up the legal complexities](http://furbo.org/2012/04/11/itunes-manglement/) involved. Everybody knows that syncing is an insanely hard problem to perfect. That said, if you're looking for something to blame, then blame Windows. At least, for now.
+
+[^1]: Of course, iTunes has company - its old drinking buddies Adobe CS and Microsoft Office.

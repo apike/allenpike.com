@@ -21,7 +21,7 @@ tags:
 ## Viewports
 
 
-Mobile Safari presents desktop-sized sites on small screens by rendering to a virtual browser screen that is 980px ((Of course, when the iPad is in landscape orientation of 1024px wide, it will use 1024px.)) wide, and letting you pan and zoom that page. Viewport tags let you tell Mobile Safari that your site displays properly narrower than 980px, and set other preferences for scaling your page.
+Mobile Safari presents desktop-sized sites on small screens by rendering to a virtual browser screen that is 980px[^1] wide, and letting you pan and zoom that page. Viewport tags let you tell Mobile Safari that your site displays properly narrower than 980px, and set other preferences for scaling your page.
 
 Craig Hockenberry famously [determined the ideal viewport tag](http://furbo.org/2007/07/24/one-line-of-code/) for content sites in the iPhone era. That technique is no longer sufficient for the iPad because it can blow up your content larger than 1:1, blurring your images.
 
@@ -66,3 +66,5 @@ In Craig's aforelinked viewport post from 2007, he suggested adding an initial-s
 Setting a small initial-scale nowadays has an interesting effect: if your chosen initial-scale is less than would be required to fit the width of the screen, your viewport is expanded. For example, if you set a viewport of 640px wide, and an initial-scale of 0.5, it will display normally on the iPhone (scaled 0.5x to fit 640px into 320px.) On the iPad, however, it will expand your viewport to 1280px, which was probably not your intention.
 
 Overall, the initial-scale hack doesn't seem to have utility anymore, and has odd side effects, so I imagine sites that have adopted the initial-scale hack, [such as Daring Fireball](http://daringfireball.net/linked/2007/07/24/one-line), will drop it as iPad usage increases.
+
+[^1]: Of course, when the iPad is in landscape orientation of 1024px wide, it will use 1024px.

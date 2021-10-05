@@ -11,7 +11,7 @@ wordpress_id: 1480
 ![](/images/wp-uploads/2010/03/logo.png)
 ([Back to about Altering Time](/altering-time/).)
 
-Political Asylum was a success, but the code was as bad as you'd expect from a teenager in the middle of learning PHP ((That said, my code was a lot better than when I [first learned to program](http://www.antipode.ca/2006/fantasytech-3-goto-fun/).)). I learned a hell of a lot about game design and web applications, and applied it all to my next web-based game: Engineering Faith.
+Political Asylum was a success, but the code was as bad as you'd expect from a teenager in the middle of learning PHP – although admittedly, it had [once been even worse](http://www.antipode.ca/2006/fantasytech-3-goto-fun/). I learned a hell of a lot about game design and web applications, and applied it all to my next web-based game: Engineering Faith.
 
 In Faith, you designed your own religion. You could pick from dozens of rules, laws, and customs: are your followers nudists who have ten kids each, or are they ritually silent, tattooed warriors? You created beings for them to worship, places for them to worship, and acquired artifacts for them to venerate. All these things were constantly affecting your people's many attributes, which changed as time passed in real life.
 
