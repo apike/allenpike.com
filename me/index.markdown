@@ -13,7 +13,7 @@ I love creating things and perfecting products. I run [Steamclock Software](http
 
 My job involves managing products, developing software, building teams, and [sharing what I know](/speaking). I care a lot about great software, and the people that make it. In my downtime, I play guitar, record podcasts, and make games.
 
-**Things I've Done**
+**Things I've Made**
 
 * [Steamclock Software](http://www.steamclock.com/): We make products for clients as well as ourselves. We also have [a blog](http://www.steamclock.com/blog/), where we show our work.
 * [Public Speaking and Podcasts](/speaking/): I like to talk, often about software.
