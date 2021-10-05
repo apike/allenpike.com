@@ -3,8 +3,11 @@ layout: default
 ---
 <h1><a href='{{ page.url }}'>{{ page.title }}</a>
 {% if page.link %}<a class="link" href="{{ page.link }}">→</a>{% endif %}</h1>
+{% if page.summary %}<p class="summary">{{ page.summary }}</p>{% endif %}
 
 <p class="meta">{{ page.date | date: "%B %-d, %Y" }}</p>
+
+<hr class="subtle">
 
 {% if page.categories.last == "Sarcastic News" %}
 	<p class='warning'>This an old, sarcastic news post from when I was in college. I apologise.</p>
