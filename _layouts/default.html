@@ -42,9 +42,6 @@
         <!-- Fathom - cookieless analytics -->
         <script src="https://smelt.allenpike.com/script.js" data-site="FATFGKEE" defer></script>
         <!-- / Fathom -->
-
-        <!-- For Netlify CMS -->
-        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     </head>
     <body>
 
@@ -85,18 +82,5 @@
               <p class="prologue">© Allen Pike. See also <a href="http://www.twitter.com/apike/">Twitter</a> and <a href="http://www.steamclock.com/">Steamclock</a>.</p>
 
         </div> <!-- /container -->
-
-        <script>
-          // Send Netlify editor back to admin if they're logged in
-          if (window.netlifyIdentity) {
-            window.netlifyIdentity.on("init", user => {
-              if (!user) {
-                window.netlifyIdentity.on("login", () => {
-                  document.location.href = "/admin/";
-                });
-              }
-            });
-          }
-        </script>        
     </body>
 </html>
