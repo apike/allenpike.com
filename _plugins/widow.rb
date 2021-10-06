@@ -2,11 +2,7 @@ module Jekyll
   module Widow
 
     def widow(text)
-      text.gsub!(/ ([^ ]*)$/, '&nbsp;\1')
-    end
-
-    def widow2(text)
-      "foob"
+      return text.gsub(/ ([^ ]*)$/, '&nbsp;\1')
     end
 
   end
