@@ -5,9 +5,10 @@ layout: post
 title: "6 Months in the Closet"
 summary: "I make do with a rather small office."
 image: "/images/2020/closet-doorknob.jpg"
-tags:
 categories:
 - Article
+tags:
+- personal
 
 ---
 

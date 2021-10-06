@@ -8,6 +8,7 @@ image: "/images/2019/trash-cans.png"
 categories:
 - Article
 tags:
+- thoughtfulness
 ---
 
 One of my most hated things is when someone over-fills a garbage bag.

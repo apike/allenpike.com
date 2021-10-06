@@ -6,10 +6,10 @@ title: "Two Birds, One Scone"
 summary: "On retiring words from our vocabulary."
 image: "/images/2020/bird-square.jpg"
 featured: true
-tags:
 categories:
 - Article
-
+tags:
+- justly
 ---
 
 Humans are wired for language. Soon after birth we start noticing phonemes, and within a year we’re recognizing words. Then we’re off to the races, absorbing vocabulary, trying out new words, and refining how we communicate.

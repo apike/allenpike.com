@@ -11,6 +11,7 @@ categories:
 - Article
 tags:
 - steamclock
+- warstory
 ---
 
 A fun thing about programming is that most days, you make progress. Maybe you fix some issues, maybe you add a feature, maybe you build towards something bigger. Your code moves ever forward.

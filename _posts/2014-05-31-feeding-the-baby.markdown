@@ -11,7 +11,9 @@ categories:
 - Article
 oldtags:
 - Story
+tags:
 - steamclock
+- personal
 
 ---
 

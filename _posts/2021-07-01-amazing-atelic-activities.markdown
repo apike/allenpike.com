@@ -8,6 +8,7 @@ image: "/images/2021/journey-square.jpg"
 categories:
 - Article
 tags:
+- thoughtfulness
 ---
 
 Early in one's life, it’s easy to be driven by goals. Pass the test, get the grade. Get a job, buy a car. Get into university, finish university. Get married, have a kid. There are a lot of things to do!

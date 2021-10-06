@@ -9,6 +9,7 @@ image: "/images/2018/linkedin-square.jpg"
 categories:
 - Article
 tags:
+- thoughtfulness
 ---
 
 Email is awful.

@@ -5,10 +5,10 @@ layout: post
 title: "Living, Fast and Slow"
 summary: "On the importance of pacing."
 image: "/images/2020/kare-hare.png"
-tags:
 categories:
 - Article
-
+tags:
+- thoughtfulness
 ---
 
 At the core of narrative design is the concept of pacing.

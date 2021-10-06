@@ -9,6 +9,7 @@ image: "/images/2017/character-square.png"
 categories:
 - Article
 tags:
+- thoughtfulness
 ---
 
 Unlike us, our ancestors were calorie-restricted. Just like cats, pandas, and almost all large animals, humans have evolved a strong natural drive to be lazy. In the wild, laziness is smart business &ndash; seeking comfort and reserving energy for the hunt is a winning strategy in a harsh world.

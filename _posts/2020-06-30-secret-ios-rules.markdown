@@ -6,6 +6,7 @@ title: "The Secret Rules of iOS Development"
 summary: "Undocumented rules make for unpleasant surprises."
 image: "/images/2020/developer-blown.jpg"
 tags:
+- iosdev
 categories:
 - Article
 

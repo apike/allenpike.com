@@ -6,6 +6,7 @@ title: "Explain Like I'm 3"
 summary: "A new germ turns things upside down."
 image: "/images/2020/ellie-thomas.jpg"
 tags:
+- personal
 featured: true
 categories:
 - Article

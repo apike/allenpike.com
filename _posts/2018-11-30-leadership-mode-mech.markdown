@@ -9,6 +9,7 @@ categories:
 - Article
 tags:
 - steamclock
+- teams
 ---
 
 Congratulations, you’re getting promoted! You have excelled at the Thing You Do to such a degree that you’ll now be leading a whole _team_ of people who Do That Thing. Very responsibility, much excite.

@@ -8,6 +8,7 @@ image: "/images/2021/heiro-point.jpg"
 categories:
 - Article
 tags:
+- writing
 ---
 
 I like to write.

@@ -9,6 +9,7 @@ categories:
 - Article
 tags:
 - steamclock
+- thoughtfulness
 ---
 
 I try to be nice to people.

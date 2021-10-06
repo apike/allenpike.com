@@ -15,6 +15,7 @@ oldtags:
 - Startups
 tags:
 - steamclock
+- products
 
 ---
 

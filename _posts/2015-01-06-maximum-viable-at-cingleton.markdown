@@ -8,6 +8,7 @@ summary: "I give a talk."
 title: "Maximal Products at Çingleton"
 categories:
 - Article
+- products
 ---
 
 In October I had the privilege of speaking at the final Çingleton conference. I've now given this talk, titled "Maximum Viable Products," in six cities in three countries, but the Çingleton version was my favourite.
