@@ -8,7 +8,7 @@ title: Games, cores, and functional languages
 wordpress_id: 247
 categories:
 - Article
-tags:
+oldtags:
 - Consoles
 - Expressive Programming
 - Games

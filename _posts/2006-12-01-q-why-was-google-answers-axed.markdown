@@ -8,7 +8,7 @@ title: 'Q: Why was Google Answers axed?'
 wordpress_id: 127
 categories:
 - Article
-tags:
+oldtags:
 - Google
 - Simplicity
 ---

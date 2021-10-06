@@ -9,7 +9,7 @@ wordpress_id: 51
 categories:
 - Article
 - Sarcastic News
-tags:
+oldtags:
 - Mozilla
 ---
 

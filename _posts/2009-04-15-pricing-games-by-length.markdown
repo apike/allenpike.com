@@ -8,7 +8,7 @@ title: Pricing games by length
 wordpress_id: 782
 categories:
 - Link
-tags:
+oldtags:
 - Games
 - Pricing
 - Socioeconomics

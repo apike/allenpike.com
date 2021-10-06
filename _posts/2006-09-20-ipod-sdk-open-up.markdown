@@ -8,7 +8,7 @@ title: iPod SDK, where art thou?
 wordpress_id: 96
 categories:
 - Article
-tags:
+oldtags:
 - Apple
 - DRM
 - iPod

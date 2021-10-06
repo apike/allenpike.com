@@ -8,7 +8,7 @@ title: Vancouver now in 3D
 wordpress_id: 575
 categories:
 - Link
-tags:
+oldtags:
 - Google
 - Maps
 - Vancouver

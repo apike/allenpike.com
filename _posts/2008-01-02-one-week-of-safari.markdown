@@ -8,7 +8,7 @@ title: One week of Safari
 wordpress_id: 266
 categories:
 - Article
-tags:
+oldtags:
 - Firefox
 - Location Bar
 - Review

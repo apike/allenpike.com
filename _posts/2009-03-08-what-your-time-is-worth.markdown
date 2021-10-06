@@ -8,7 +8,7 @@ title: What your time is worth
 wordpress_id: 707
 categories:
 - Article
-tags:
+oldtags:
 - Startups
 ---
 

@@ -8,7 +8,7 @@ title: Getting people to do boring things for fun and profit
 wordpress_id: 88
 categories:
 - Article
-tags:
+oldtags:
 - Games
 - Google
 - Product Design

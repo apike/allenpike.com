@@ -9,7 +9,7 @@ title: "Schrödinger's Shift Key"
 featured: true
 categories:
 - Article
-tags:
+oldtags:
 - Story
 ---
 

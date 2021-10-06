@@ -6,7 +6,7 @@ layout: post
 slug: next-gen-barcodes-track-your-every-move
 title: Next-gen barcodes track your every move
 wordpress_id: 209
-tags:
+oldtags:
 - Privacy
 ---
 

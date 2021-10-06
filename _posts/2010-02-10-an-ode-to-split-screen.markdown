@@ -8,7 +8,7 @@ title: An ode to split screen
 wordpress_id: 1219
 categories:
 - Article
-tags:
+oldtags:
 - Games
 - PlayStation
 - Split Screen

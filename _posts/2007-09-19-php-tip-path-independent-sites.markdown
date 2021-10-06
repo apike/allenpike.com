@@ -6,7 +6,7 @@ layout: post
 slug: php-tip-path-independent-sites
 title: 'PHP tip: Path-independent sites'
 wordpress_id: 190
-tags:
+oldtags:
 - Apache
 - PHP
 ---

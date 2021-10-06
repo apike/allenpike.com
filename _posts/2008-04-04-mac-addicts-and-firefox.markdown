@@ -8,7 +8,7 @@ title: Mac addicts and Firefox
 wordpress_id: 298
 categories:
 - Link
-tags:
+oldtags:
 - Firefox
 - Mac OS X
 - Safari

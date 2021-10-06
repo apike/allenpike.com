@@ -8,7 +8,7 @@ title: Reddit killing Silicon Valley?
 wordpress_id: 186
 categories:
 - Article
-tags:
+oldtags:
 - America
 - Reddit
 - Startups

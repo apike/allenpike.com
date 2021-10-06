@@ -8,7 +8,7 @@ title: Google offers 1000MB of free email
 wordpress_id: 55
 categories:
 - Sarcastic News
-tags:
+oldtags:
 - Google
 ---
 

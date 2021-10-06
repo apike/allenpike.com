@@ -8,7 +8,7 @@ title: Twitter is fixing links
 wordpress_id: 1725
 categories:
 - Link
-tags:
+oldtags:
 - Twitter
 - Usability
 ---

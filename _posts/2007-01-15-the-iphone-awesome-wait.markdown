@@ -8,7 +8,7 @@ title: 'The iPhone: Awesome! Wait...'
 wordpress_id: 136
 categories:
 - Article
-tags:
+oldtags:
 - Cell Phones
 - iPhone
 - Product Design

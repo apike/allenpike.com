@@ -8,7 +8,7 @@ title: The Zuney Bin
 wordpress_id: 125
 categories:
 - Article
-tags:
+oldtags:
 - DRM
 - Failure
 - Microsoft

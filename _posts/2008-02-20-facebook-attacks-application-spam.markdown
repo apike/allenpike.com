@@ -8,7 +8,7 @@ title: Facebook attacks application spam
 wordpress_id: 281
 categories:
 - Link
-tags:
+oldtags:
 - Facebook
 - Social Networking
 - Spam

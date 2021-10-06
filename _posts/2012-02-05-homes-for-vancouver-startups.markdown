@@ -8,7 +8,7 @@ title: Homes for Vancouver startups
 wordpress_id: 2128
 categories:
 - Article
-tags:
+oldtags:
 - Startups
 - Steam Clock
 - Vancouver

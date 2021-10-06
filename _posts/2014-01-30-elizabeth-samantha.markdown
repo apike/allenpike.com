@@ -8,7 +8,7 @@ summary: "AI companions warm my heart."
 title: "Elizabeth and Samantha"
 categories:
 - Article
-tags:
+oldtags:
 - Humanity
 - Gaming
 ---

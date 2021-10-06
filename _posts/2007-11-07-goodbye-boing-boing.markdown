@@ -8,7 +8,7 @@ title: Goodbye Boing Boing
 wordpress_id: 233
 categories:
 - Article
-tags:
+oldtags:
 - Blogging
 - RSS
 - Shark Jumping

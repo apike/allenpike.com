@@ -8,7 +8,7 @@ title: The pain of text formatting on iOS
 wordpress_id: 2118
 categories:
 - Article
-tags:
+oldtags:
 - Cocoa
 - iOS
 - Performance

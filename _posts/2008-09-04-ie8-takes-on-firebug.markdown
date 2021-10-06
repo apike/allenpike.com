@@ -8,7 +8,7 @@ title: IE8 takes on Firebug
 wordpress_id: 382
 categories:
 - Link
-tags:
+oldtags:
 - CSS
 - Debugging
 - Internet Explorer

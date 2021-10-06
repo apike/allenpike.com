@@ -8,7 +8,7 @@ title: OLPC dream dies
 wordpress_id: 285
 categories:
 - Link
-tags:
+oldtags:
 - Laptops
 - Linux
 - Shark Jumping

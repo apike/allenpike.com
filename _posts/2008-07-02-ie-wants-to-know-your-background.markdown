@@ -8,7 +8,7 @@ title: IE wants to know your background
 wordpress_id: 311
 categories:
 - Link
-tags:
+oldtags:
 - CSS
 - Failure
 - Internet Explorer

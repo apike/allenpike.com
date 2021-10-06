@@ -9,7 +9,7 @@ wordpress_id: 58
 categories:
 - Article
 - Sarcastic News
-tags:
+oldtags:
 - Apple
 - Intel
 ---

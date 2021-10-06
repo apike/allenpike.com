@@ -8,7 +8,7 @@ title: Programming as checklists
 wordpress_id: 264
 categories:
 - Link
-tags:
+oldtags:
 - Software Engineering
 ---
 

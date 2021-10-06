@@ -9,7 +9,7 @@ wordpress_id: 49
 categories:
 - Article
 - Sarcastic News
-tags:
+oldtags:
 - America
 ---
 

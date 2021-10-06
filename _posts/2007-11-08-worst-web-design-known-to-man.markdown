@@ -8,7 +8,7 @@ title: Worst web design known to man
 wordpress_id: 235
 categories:
 - Link
-tags:
+oldtags:
 - Failure
 - User Interface
 - Web Design

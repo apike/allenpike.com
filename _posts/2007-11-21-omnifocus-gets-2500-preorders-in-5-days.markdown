@@ -8,7 +8,7 @@ title: OmniFocus gets 2500 preorders in 5 days
 wordpress_id: 244
 categories:
 - Link
-tags:
+oldtags:
 - Indie Software
 - Mac OS X
 ---

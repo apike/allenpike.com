@@ -8,7 +8,7 @@ title: 'GMail for HTML5: Loading code via comments'
 wordpress_id: 1045
 categories:
 - Link
-tags:
+oldtags:
 - HTML5
 - iPhone
 - Javascript

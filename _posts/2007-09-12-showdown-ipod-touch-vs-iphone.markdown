@@ -8,7 +8,7 @@ title: 'Showdown: iPod touch vs. iPhone'
 wordpress_id: 188
 categories:
 - Article
-tags:
+oldtags:
 - Apple
 - iPhone
 - iPod

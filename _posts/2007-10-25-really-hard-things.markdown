@@ -8,7 +8,7 @@ title: Really hard things
 wordpress_id: 218
 categories:
 - Article
-tags:
+oldtags:
 - Philosophy
 - Psychology
 - School

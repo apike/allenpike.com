@@ -8,7 +8,7 @@ title: Thinking about Amazon's SimpleDB
 wordpress_id: 269
 categories:
 - Link
-tags:
+oldtags:
 - Amazon
 - Databases
 - NoSQL

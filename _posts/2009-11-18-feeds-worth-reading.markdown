@@ -8,7 +8,7 @@ title: Feeds worth reading
 wordpress_id: 1217
 categories:
 - Article
-tags:
+oldtags:
 - Blogging
 - Personal
 - Reading

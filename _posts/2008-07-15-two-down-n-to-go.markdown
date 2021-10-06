@@ -8,7 +8,7 @@ title: Two down, n to go
 wordpress_id: 317
 categories:
 - Article
-tags:
+oldtags:
 - Antipode
 - Blogging
 ---

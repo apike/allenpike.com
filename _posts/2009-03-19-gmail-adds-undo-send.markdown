@@ -8,7 +8,7 @@ title: GMail adds Undo Send
 wordpress_id: 767
 categories:
 - Link
-tags:
+oldtags:
 - Email
 - Google
 - Undo

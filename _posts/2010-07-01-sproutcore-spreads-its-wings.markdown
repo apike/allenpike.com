@@ -8,7 +8,7 @@ title: SproutCore spreads its wings
 wordpress_id: 1767
 categories:
 - Link
-tags:
+oldtags:
 - Apple
 - Javascript
 - SproutCore

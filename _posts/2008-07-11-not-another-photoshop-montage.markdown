@@ -8,7 +8,7 @@ title: Not another photoshop montage
 wordpress_id: 314
 categories:
 - Link
-tags:
+oldtags:
 - Apple
 - Detail
 ---

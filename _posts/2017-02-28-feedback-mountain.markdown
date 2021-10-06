@@ -9,7 +9,7 @@ summary: "I get religion about 1:1s."
 image: "/images/2017/penguin-crop.jpg"
 categories:
 - Article
-tags:
+oldtags:
 - steamclock
 ---
 

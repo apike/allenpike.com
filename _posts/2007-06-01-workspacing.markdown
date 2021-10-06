@@ -8,7 +8,7 @@ title: Workspacing
 wordpress_id: 149
 categories:
 - Article
-tags:
+oldtags:
 - Productivity
 - Socioeconomics
 - Startups

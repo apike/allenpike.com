@@ -8,7 +8,7 @@ title: Report from WWDC 2006
 wordpress_id: 77
 categories:
 - Article
-tags:
+oldtags:
 - Apple
 - Conferences
 - Mac OS X

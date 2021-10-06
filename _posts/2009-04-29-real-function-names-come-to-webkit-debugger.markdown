@@ -8,7 +8,7 @@ title: Real function names come to WebKit debugger
 wordpress_id: 793
 categories:
 - Link
-tags:
+oldtags:
 - Debugging
 - Javascript
 - SproutCore

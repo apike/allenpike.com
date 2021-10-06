@@ -8,7 +8,7 @@ title: Hosting software rocks
 wordpress_id: 260
 categories:
 - Link
-tags:
+oldtags:
 - 37signals
 - Startups
 - Web Apps

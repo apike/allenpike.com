@@ -8,7 +8,7 @@ title: Bye Bye Internet Explorer 6
 wordpress_id: 102
 categories:
 - Article
-tags:
+oldtags:
 - Firefox
 - Internet Explorer
 - Microsoft

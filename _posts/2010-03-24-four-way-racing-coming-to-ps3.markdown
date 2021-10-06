@@ -8,7 +8,7 @@ title: Four-way racing coming to PS3
 wordpress_id: 1584
 categories:
 - Link
-tags:
+oldtags:
 - Games
 - PlayStation
 - Split Screen

@@ -8,7 +8,7 @@ title: Shaw trying to drown Novus
 wordpress_id: 926
 categories:
 - Article
-tags:
+oldtags:
 - ISPs
 - Vancouver
 ---

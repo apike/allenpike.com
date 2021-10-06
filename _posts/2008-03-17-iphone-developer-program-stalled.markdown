@@ -8,7 +8,7 @@ title: iPhone developer program stalled
 wordpress_id: 286
 categories:
 - Link
-tags:
+oldtags:
 - Apple
 - iPhone
 - SDK

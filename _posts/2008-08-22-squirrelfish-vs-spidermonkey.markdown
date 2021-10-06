@@ -8,7 +8,7 @@ title: Javascript engine showdown
 wordpress_id: 370
 categories:
 - Article
-tags:
+oldtags:
 - Gecko
 - Javascript
 - WebKit

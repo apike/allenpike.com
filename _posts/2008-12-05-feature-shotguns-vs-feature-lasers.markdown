@@ -8,7 +8,7 @@ title: Feature shotguns vs. feature lasers
 wordpress_id: 496
 categories:
 - Article
-tags:
+oldtags:
 - iPhone
 - Twitter
 - User Interface

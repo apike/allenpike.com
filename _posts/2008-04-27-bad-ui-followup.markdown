@@ -8,7 +8,7 @@ title: Bad UI followup
 wordpress_id: 307
 categories:
 - Link
-tags:
+oldtags:
 - Failure
 - User Interface
 ---

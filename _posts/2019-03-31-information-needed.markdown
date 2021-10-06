@@ -7,7 +7,7 @@ summary: "App Review just has a few questions for you."
 image: "/images/2019/bridge.jpg"
 categories:
 - Article
-tags:
+oldtags:
 - steamclock
 ---
 

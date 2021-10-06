@@ -9,7 +9,7 @@ wordpress_id: 1612
 categories:
 - Article
 - Best Of
-tags:
+oldtags:
 - iPad
 - iPhone
 - Safari

@@ -8,7 +8,7 @@ title: CSS3 Borders still mired
 wordpress_id: 424
 categories:
 - Link
-tags:
+oldtags:
 - CSS
 - Failure
 ---

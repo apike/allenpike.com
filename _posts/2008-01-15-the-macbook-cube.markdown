@@ -8,7 +8,7 @@ title: The MacBook Cube
 wordpress_id: 275
 categories:
 - Link
-tags:
+oldtags:
 - Apple
 - Portability
 ---

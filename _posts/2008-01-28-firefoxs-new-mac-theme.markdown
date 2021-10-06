@@ -8,7 +8,7 @@ title: Firefox's new Mac theme
 wordpress_id: 276
 categories:
 - Article
-tags:
+oldtags:
 - Firefox
 - Mac OS X
 - Safari

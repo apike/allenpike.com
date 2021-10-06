@@ -8,7 +8,7 @@ title: Mobifying the world
 wordpress_id: 777
 categories:
 - Link
-tags:
+oldtags:
 - Startups
 - Vancouver
 ---

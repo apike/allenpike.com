@@ -8,7 +8,7 @@ summary: "We search Twitter on the App Store."
 title: "Searching the Curatorium"
 categories:
 - Article
-tags:
+oldtags:
 - iOS
 - Product Design
 - Startups

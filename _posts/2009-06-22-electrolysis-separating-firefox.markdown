@@ -8,7 +8,7 @@ title: 'Electrolysis: Separating Firefox'
 wordpress_id: 835
 categories:
 - Link
-tags:
+oldtags:
 - Gecko
 ---
 

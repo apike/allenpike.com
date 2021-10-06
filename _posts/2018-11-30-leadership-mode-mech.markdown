@@ -7,7 +7,7 @@ summary: "On taking the controls of a powerful team."
 image: "/images/2018/titan-square.jpg"
 categories:
 - Article
-tags:
+oldtags:
 - steamclock
 ---
 

@@ -8,7 +8,7 @@ title: Micro-subscriptions are here
 wordpress_id: 1952
 categories:
 - Article
-tags:
+oldtags:
 - App Store
 - iOS
 - iPhone

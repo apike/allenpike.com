@@ -8,7 +8,7 @@ title: Chrome for Mac annoyances
 wordpress_id: 1288
 categories:
 - Article
-tags:
+oldtags:
 - Chrome
 - Location Bar
 - Mac OS X

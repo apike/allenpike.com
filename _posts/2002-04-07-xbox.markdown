@@ -8,7 +8,7 @@ title: Microsoft Xbox sells poorly in Japan
 wordpress_id: 35
 categories:
 - Sarcastic News
-tags:
+oldtags:
 - Consoles
 - Games
 - Microsoft

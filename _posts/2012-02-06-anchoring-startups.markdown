@@ -8,7 +8,7 @@ title: Anchoring startups
 wordpress_id: 2139
 categories:
 - Article
-tags:
+oldtags:
 - Bootstrapping
 - Startups
 - Vancouver

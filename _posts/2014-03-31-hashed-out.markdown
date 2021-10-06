@@ -8,7 +8,7 @@ summary: "Hashtags get banned."
 title: "Hashed Out"
 categories:
 - Article
-tags:
+oldtags:
 - Twitter
 ---
 

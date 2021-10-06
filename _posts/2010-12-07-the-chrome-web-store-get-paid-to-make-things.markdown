@@ -8,7 +8,7 @@ title: 'The Chrome Web Store: get paid to make things'
 wordpress_id: 1693
 categories:
 - Article
-tags:
+oldtags:
 - App Store
 - Bootstrapping
 - Chrome

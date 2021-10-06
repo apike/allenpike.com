@@ -8,7 +8,7 @@ title: Array.sort browser differences
 wordpress_id: 762
 categories:
 - Article
-tags:
+oldtags:
 - Gecko
 - Javascript
 - WebKit

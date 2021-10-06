@@ -8,7 +8,7 @@ title: Shipley on being oneself
 wordpress_id: 309
 categories:
 - Link
-tags:
+oldtags:
 - Celebrity
 - Indie Software
 - Personal

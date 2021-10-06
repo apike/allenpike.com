@@ -8,7 +8,7 @@ title: More JSLint, less JSWTF
 wordpress_id: 1408
 categories:
 - Article
-tags:
+oldtags:
 - Javascript
 - Textmate
 ---

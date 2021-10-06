@@ -8,7 +8,7 @@ title: iPhone coming to everyone else in Canada
 wordpress_id: 1120
 categories:
 - Link
-tags:
+oldtags:
 - iPhone
 - Vancouver
 - Wireless providers

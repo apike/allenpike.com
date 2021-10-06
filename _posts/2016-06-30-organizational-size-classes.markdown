@@ -8,7 +8,7 @@ title: "Organizational Size Classes"
 summary: "I come to terms with growth."
 categories:
 - Article
-tags:
+oldtags:
 - steamclock
 
 ---

@@ -8,7 +8,7 @@ title: Twitter and URL mangling
 wordpress_id: 608
 categories:
 - Article
-tags:
+oldtags:
 - Twitter
 - Usability
 ---

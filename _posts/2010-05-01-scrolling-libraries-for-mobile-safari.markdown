@@ -8,7 +8,7 @@ title: Scrolling libraries for Mobile Safari
 wordpress_id: 1661
 categories:
 - Article
-tags:
+oldtags:
 - iPad
 - iPhone
 - Javascript

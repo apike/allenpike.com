@@ -8,7 +8,7 @@ title: Google's 3D on the web vs. Mozilla's
 wordpress_id: 791
 categories:
 - Link
-tags:
+oldtags:
 - Games
 - Gecko
 - Google

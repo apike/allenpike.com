@@ -8,7 +8,7 @@ title: Canadian iPhone plans released
 wordpress_id: 310
 categories:
 - Link
-tags:
+oldtags:
 - iPhone
 - Vancouver
 - Wireless providers

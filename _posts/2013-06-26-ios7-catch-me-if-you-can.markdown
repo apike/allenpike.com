@@ -9,7 +9,7 @@ title: "iOS 7: Catch Me if You Can"
 categories:
 - Article
 - Best Of
-tags:
+oldtags:
 - Apple
 - iOS
 - UI Design

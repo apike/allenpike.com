@@ -8,7 +8,7 @@ title: '"New cell phones suck" - youth'
 wordpress_id: 54
 categories:
 - Sarcastic News
-tags:
+oldtags:
 - Cell Phones
 ---
 

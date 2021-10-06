@@ -8,7 +8,7 @@ title: Death to minimization
 wordpress_id: 239
 categories:
 - Article
-tags:
+oldtags:
 - Failure
 - Mac OS X
 - User Interface

@@ -8,7 +8,7 @@ title: Firefox 3 hits beta
 wordpress_id: 242
 categories:
 - Link
-tags:
+oldtags:
 - CSS
 - Firebug
 - Firefox

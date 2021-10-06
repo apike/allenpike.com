@@ -8,7 +8,7 @@ title: You will lose all unsaved progress!
 wordpress_id: 284
 categories:
 - Article
-tags:
+oldtags:
 - Failure
 - Games
 - Modal Dialogs

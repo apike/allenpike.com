@@ -8,7 +8,7 @@ summary: "The iPad 2 shambles along."
 title: "The iPad Zombie"
 categories:
 - Article
-tags:
+oldtags:
 - Story
 ---
 

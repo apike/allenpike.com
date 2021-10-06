@@ -8,7 +8,7 @@ title: C++ getting lambdas and closures
 wordpress_id: 295
 categories:
 - Link
-tags:
+oldtags:
 - C++
 - Expressive Programming
 ---

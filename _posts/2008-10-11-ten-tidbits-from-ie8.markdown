@@ -8,7 +8,7 @@ title: Ten Tidbits from IE8
 wordpress_id: 391
 categories:
 - Article
-tags:
+oldtags:
 - Chrome
 - CSS
 - Internet Explorer

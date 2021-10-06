@@ -8,7 +8,7 @@ title: The horror of sneaker design
 wordpress_id: 353
 categories:
 - Link
-tags:
+oldtags:
 - 37signals
 - Failure
 - Simplicity

@@ -8,7 +8,7 @@ title: Designing a dune buggy genetically
 wordpress_id: 509
 categories:
 - Link
-tags:
+oldtags:
 - Algorithms
 - Physics
 - Science

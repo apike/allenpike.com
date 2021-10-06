@@ -7,6 +7,7 @@ link: "https://steamclock.com/blog/2021/04/remote-hiring/"
 categories:
 - Link
 tags:
+- Steamclock
 ---
 
 I’ve spent the last year trying to decide if Steamclock should go all-remote, or if we’re better off going back to all-in-office. Both options have substantial upsides! And both avoid the dreaded “hybrid” meetings with half the team in a conference room and half on Zoom.

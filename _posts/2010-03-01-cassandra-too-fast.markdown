@@ -8,7 +8,7 @@ title: 'Cassandra: Too fast'
 wordpress_id: 1445
 categories:
 - Link
-tags:
+oldtags:
 - Databases
 - Facebook
 - NoSQL

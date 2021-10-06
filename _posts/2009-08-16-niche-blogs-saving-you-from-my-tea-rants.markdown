@@ -8,7 +8,7 @@ title: 'Niche blogs: Saving you from my tea rants'
 wordpress_id: 908
 categories:
 - Article
-tags:
+oldtags:
 - Blogging
 - Reading
 ---

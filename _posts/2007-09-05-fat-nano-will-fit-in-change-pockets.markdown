@@ -8,7 +8,7 @@ title: Fat nano will fit in change pockets
 wordpress_id: 184
 categories:
 - Article
-tags:
+oldtags:
 - iPhone
 - iPod
 ---

@@ -8,7 +8,7 @@ title: 'Safari 4: Webkit gets dressed up'
 wordpress_id: 635
 categories:
 - Article
-tags:
+oldtags:
 - Location Bar
 - Safari
 - User Interface

@@ -8,7 +8,7 @@ title: Crafting realistic interfaces
 wordpress_id: 1338
 categories:
 - Link
-tags:
+oldtags:
 - User Interface
 - Visual Design
 ---

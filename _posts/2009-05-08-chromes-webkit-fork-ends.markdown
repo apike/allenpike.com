@@ -8,7 +8,7 @@ title: Chrome's Webkit fork ends
 wordpress_id: 816
 categories:
 - Link
-tags:
+oldtags:
 - Chrome
 - WebKit
 ---

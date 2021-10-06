@@ -8,7 +8,7 @@ title: 'Video: Making a JS meetup blow minds'
 wordpress_id: 2017
 categories:
 - Article
-tags:
+oldtags:
 - Javascript
 - JSConf
 - VanJS

@@ -8,7 +8,7 @@ title: Wesabe spices up your budgets
 wordpress_id: 559
 categories:
 - Article
-tags:
+oldtags:
 - Budgetable
 - Review
 - Web Apps

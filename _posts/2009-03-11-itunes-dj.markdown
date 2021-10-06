@@ -8,7 +8,7 @@ title: iTunes DJ
 wordpress_id: 752
 categories:
 - Link
-tags:
+oldtags:
 - iTunes
 - Music
 ---

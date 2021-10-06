@@ -8,7 +8,7 @@ title: Accessing Twitter with the OAuth Gem and Rails
 wordpress_id: 1269
 categories:
 - Article
-tags:
+oldtags:
 - OAuth
 - Ruby
 - Twitter

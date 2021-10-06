@@ -8,7 +8,7 @@ title: Elegant authentication in CodeIgniter?
 wordpress_id: 289
 categories:
 - Article
-tags:
+oldtags:
 - CodeIgniter
 - Frameworks
 - PHP

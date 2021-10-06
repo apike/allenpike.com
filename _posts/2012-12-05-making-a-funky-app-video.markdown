@@ -9,7 +9,7 @@ wordpress_id: 2537
 categories:
 - Article
 - Best Of
-tags:
+oldtags:
 - Party Monster
 - Story
 - steamclock
