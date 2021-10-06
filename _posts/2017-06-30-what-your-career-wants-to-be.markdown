@@ -9,7 +9,7 @@ summary: "We learn Bluetooth, and it works."
 image: "/images/2017/panzerbird.jpg"
 categories:
 - Article
-oldtags:
+tags:
 - steamclock
 ---
 

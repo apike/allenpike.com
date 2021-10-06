@@ -8,7 +8,7 @@ title: "Creative Destruction"
 summary: "Good apps die young."
 categories:
 - Article
-oldtags:
+tags:
 - steamclock
 
 ---

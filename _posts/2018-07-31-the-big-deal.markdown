@@ -8,7 +8,7 @@ summary: "The danger of a client you can't afford to lose."
 image: "/images/2018/rud.jpg"
 categories:
 - Article
-oldtags:
+tags:
 - steamclock
 ---
 

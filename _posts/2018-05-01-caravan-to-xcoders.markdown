@@ -8,7 +8,7 @@ summary: "A Meetup competitor lives and dies."
 image: "/images/2018/vancocoa-square.jpg"
 categories:
 - Article
-oldtags:
+tags:
 - steamclock
 ---
 

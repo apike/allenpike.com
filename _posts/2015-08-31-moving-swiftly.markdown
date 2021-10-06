@@ -8,7 +8,7 @@ title: "Moving Swiftly"
 summary: "Steamclock bets big on Swift."
 categories:
 - Article
-oldtags:
+tags:
 - steamclock
 
 ---
