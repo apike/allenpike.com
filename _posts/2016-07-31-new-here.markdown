@@ -8,6 +8,8 @@ title: "New Here"
 summary: "A wild baby appears."
 categories:
 - Article
+tags:
+- personal
 ---
 
 On July 11, we welcomed Elizabeth Pike into our family. She weighed only 4.6 lbs, most of which was cheek. She was rather early and very small, so we spent our first week with her in the hospital, where she fuelled up on the world's tiniest IV. 

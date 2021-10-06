@@ -16,6 +16,9 @@ oldtags:
 - iOS
 - iPhone
 - Usability
+tags:
+- best
+- products
 ---
 
 ![](/images/wp-uploads/2011/07/progress.png)At Steam Clock we go to a lot of effort to make sure we ship apps with a high level of polish. Making your app solve the user's problems well is the first 90% of building a great app. Polishing the hell out of that experience so it's a joy to use is the final 90% of the work.

@@ -16,6 +16,8 @@ oldtags:
 - Failure
 - Software Engineering
 - Startups
+tags:
+- best
 ---
 
 ![](/images/wp-uploads/2009/02/devil.png)**Some lessons in contracting learned by being a slave programmer.**

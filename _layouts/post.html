@@ -26,7 +26,7 @@ layout: default
     {%- for tag in page.tags -%}
 	   		{% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
     		{% if page.previous_in[tag] %}
-	    		<p>Part of a series on <a href="/series/{{ tag }}">{{ tag_title }}</a>. Next Up: <a href="{{ page.previous_in[tag].url }}">{{ page.previous_in[tag].title }} →</a></p>
+	    		<p>Part of the series <a href="/series/{{ tag }}">{{ tag_title }}</a>. Next up: <a href="{{ page.previous_in[tag].url }}">{{ page.previous_in[tag].title }} →</a></p>
 	    	{% else %}
 	    		<p>Latest in the series <a href="/series/{{ tag }}">{{ tag_title }}</a>.
 	    	{% endif %}
