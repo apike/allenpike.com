@@ -6,12 +6,7 @@ layout: default
 {% if page.summary %}<p class="summary">{{ page.summary }}</p>{% endif %}
 
 <p class="meta">{{ page.date | date: "%B %-d, %Y" }} &bull;
-{% assign words = content | number_of_words %}
-{% if words < 360 %}
-  1 min
-{% else %}
-  {{ words | divided_by:180 }} min
-{% endif %} read</p>
+{{ content | reading_time }} read</p>
 
 <hr class="subtle">
 
