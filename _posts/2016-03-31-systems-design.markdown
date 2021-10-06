@@ -8,7 +8,7 @@ title: "Diagrammatically Correct"
 summary: "Prototypers hack, architects diagram."
 categories:
 - Article
-oldtags:
+tags:
 - steamclock
 
 ---

@@ -12,6 +12,7 @@ oldtags:
 - App Store
 - Party Monster
 - Product Design
+tags:
 - steamclock
 ---
 

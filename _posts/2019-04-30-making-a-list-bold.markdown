@@ -7,7 +7,7 @@ summary: "One weird trick for writing readable lists."
 image: "/images/2019/lists-share.png"
 categories:
 - Article
-oldtags:
+tags:
 - steamclock
 
 ---

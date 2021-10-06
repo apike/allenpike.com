@@ -10,8 +10,9 @@ categories:
 - Article
 oldtags:
 - iPhone
-- steamclock
 - WeddingDJ
+tags:
+- steamclock
 ---
 
 [![](/images/wp-uploads/2010/09/weddingdj.png)](/images/wp-uploads/2010/09/weddingdj.png)Steam Clock Software's first app is now live on the app store: [WeddingDJ](http://www.steamclocksw.com/weddingdj/). WeddingDJ solves the tricky and dangerous issues that can come up when you run a wedding's music using an iPod[^2]. We help plan things out, fade everything in and out gracefully, and make sure an MC or other recruit can run the music for your ceremonies reliably.

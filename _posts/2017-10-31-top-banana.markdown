@@ -9,7 +9,7 @@ summary: "A general plan for generalists."
 image: "/images/2017/bananas-square.jpg"
 categories:
 - Article
-oldtags:
+tags:
 - steamclock
 ---
 

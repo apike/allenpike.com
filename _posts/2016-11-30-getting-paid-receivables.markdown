@@ -9,7 +9,7 @@ summary: "We get paid the nice way."
 image: "/images/2016/money-pile.jpg"
 categories:
 - Article
-oldtags:
+tags:
 - steamclock
 ---
 
