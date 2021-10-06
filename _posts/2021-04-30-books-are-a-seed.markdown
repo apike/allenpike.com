@@ -9,8 +9,8 @@ categories:
 - Article
 featured: true
 tags:
-- Best Of
-- Living Thoughtfully
+- best
+- thoughtfulness
 ---
 
 For most of my life, I rarely read books.

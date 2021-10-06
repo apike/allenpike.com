@@ -18,9 +18,10 @@ title: 'Article Series'
 
 <div id="full-tags-list">
 {%- for tag in tags_list -%}
+    {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
     <h2 id="{{- tag -}}" class="linked-section">
         <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
+        &nbsp;{{- tag_title -}}&nbsp;({{site.tags[tag].size}})
     </h2>
     <div class="post-list">
         {%- for post in site.tags[tag] -%}
