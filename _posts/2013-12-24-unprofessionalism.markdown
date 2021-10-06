@@ -11,6 +11,8 @@ categories:
 - Article
 oldtags:
 - Humanity
+tags:
+- best
 ---
 
 <img src="/images/2013/nickelback-refuse.jpg" width="238" class='side'/>

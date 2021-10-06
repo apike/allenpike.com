@@ -10,6 +10,7 @@ tags:
 featured: true
 categories:
 - Article
+- best
 
 ---
 

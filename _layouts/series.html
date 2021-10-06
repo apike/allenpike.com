@@ -4,19 +4,20 @@ layout: default
 {% assign series = site.data.seriestitles[page.tag] %}
 {% assign series_title = series.title | default: page.tag %}
 <div id="home">
-  <h1>A Series on {{ series_title }}</h1>
+  <h1>{{ series_title }}: A Series</h1>
   {% if series.subtitle %}
   <p>{{ series.subtitle }}</p>
   {% endif %}
   <hr class="subtle">
-  <ul class="posts archive">
-    {% for post in site.tags[page.tag] %}
-        <li class="
-          {% if post.featured %} featured {% endif %}
-          {% if post.link %} link {% endif %}
-          "><a href="{{ post.url }}">{{ post.title }}</a>
+    {% assign posts = site.tags[page.tag] | sort: "date" %}
+    {% for post in posts %}
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      
 
-      <span>{% if post.link %}<i><a href="{{ post.link }}">→</a></i>{% elsif post.summary %} &ndash; {{ post.summary }} {% endif %}</span></li>
+      <p>{% if post.link %}<i><a href="{{ post.link }}">→</a></i>{% elsif post.summary %} {{ post.summary }} {% endif %} &bull;
+            <span class="meta">{{ post.date | date: "%B %Y" }} &bull;
+{{ post.content | reading_time }} read</span></p>
+    </p>
     {% endfor %}
   </ul>
 </div>

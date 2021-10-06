@@ -15,6 +15,8 @@ oldtags:
 - Experience
 - Games
 - Software Engineering
+tags:
+- best
 ---
 
 ![FantasyTech 3 Menu](/images/wp-uploads/2006/11/ftech-menu.jpg)Of all the things I've written in my ten years of programming, my first big project, FantasyTech 3, was one of the most provoking. I like the word provoking because it doesn't say something is good, just that it provokes.

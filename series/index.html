@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 'Article Series'
+title: 'Special Series'
 ---
 
-{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+<p>Some sets of articles build off one another, in narrative or theme.</p>
 
 {%- capture site_tags -%}
     {%- for tag in site.tags -%}
@@ -13,25 +13,14 @@ title: 'Article Series'
 {%- assign tags_list = site_tags | split:',' | sort -%}
 
 {%- for tag in tags_list -%}
-    <a href="/series/{{- tag -}}" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
+     {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
+     {% if site.tags[tag].size < 3 %}
+        <!-- Tag too small ({{ site.tags[tag].size }}): {{ tag_title }} -->
+     {% else %}
+        <p><a href="/series/{{- tag -}}">{{- tag_title -}}</a> ({{site.tags[tag].size}})
+         {% if site.data.seriestitles[tag].subtitle %}
+            <br> {{ site.data.seriestitles[tag].subtitle }}
+         {% endif %}
+     {% endif %}
+    </p>
 {%- endfor -%}
-
-<div id="full-tags-list">
-{%- for tag in tags_list -%}
-    {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
-    <h2 id="{{- tag -}}" class="linked-section">
-        <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;{{- tag_title -}}&nbsp;({{site.tags[tag].size}})
-    </h2>
-    <div class="post-list">
-        {%- for post in site.tags[tag] -%}
-            <div class="tag-entry">
-                <a href="{{ post.url | relative_url }}">{{- post.title -}}</a>
-                <div class="entry-date">
-                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
-                </div>
-            </div>
-        {%- endfor -%}
-    </div>
-{%- endfor -%}
-</div>

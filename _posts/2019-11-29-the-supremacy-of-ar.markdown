@@ -10,6 +10,7 @@ categories:
 - Article
 tags:
 - tech
+- best
 ---
 
 An annoying thing about the future is that, at first, it sucks.

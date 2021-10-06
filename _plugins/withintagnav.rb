@@ -2,6 +2,10 @@ module Jekyll
   class WithinTagPostNavigation < Generator
     def generate(site)
       site.tags.each_pair do |tag, posts|
+        if posts.count < 3
+          next
+        end
+
         posts.sort! { |a,b| b <=> a}
         posts.each do |post|
           index = posts.index post
