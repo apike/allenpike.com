@@ -8,6 +8,7 @@ featured: false
 categories:
 - Article
 tags:
+- Developing Teams
 ---
 
 To build a product, you need to talk to people. You need to talk to potential customers, and to potential employees. People whose expertise you could use, and people who could use yours.
