@@ -8,6 +8,7 @@ image: "/images/2019/seat-projection.png"
 categories:
 - Article
 tags:
+- overboard
 ---
 
 *Updated to reflect latest polling, and to add a [Vancouver Granville](#granville) section, through Oct 19.*

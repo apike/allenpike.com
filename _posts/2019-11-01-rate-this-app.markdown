@@ -7,6 +7,7 @@ link: "https://steamclock.com/blog/2019/09/app-reviews/"
 categories:
 - Link
 tags:
+- iosdev
 ---
 
 Over on the Steamclock blog, I recently wrote [an article about letting users review iOS apps](https://steamclock.com/blog/2019/09/app-reviews/):

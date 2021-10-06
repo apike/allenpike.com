@@ -11,6 +11,7 @@ featured: true
 categories:
 - Article
 tags:
+- personal
 ---
 
 Most things in our world are continuums: you can have none, a little, a lot, or the whole thing. A few things are binary &ndash; it’s either there or it isn’t. A total solar eclipse is one of those binary things. Even when the the moon has covered 99% of the sun, our star is still blindingly bright and indistinctly shaped. When you get to 100%, then *bam*: you can behold the sun’s corona with the naked eye, one of the most beautiful things there is to see.

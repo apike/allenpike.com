@@ -9,6 +9,7 @@ image: "/images/2018/twitter-flip.png"
 categories:
 - Article
 tags:
+- justly
 ---
 
 A couple years ago, I started more intentionally broadening who I follow on social media. In particular, I’ve followed more people who aren’t just other white guys. It’s nice – I recommend it.

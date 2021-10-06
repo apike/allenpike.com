@@ -8,6 +8,7 @@ image: "/images/2018/ellie-lights-square.jpg"
 categories:
 - Article
 tags:
+- personal
 ---
 
 When you have a young child, other parents often offer advice. This advice comes in many forms and covers many topics, but one phrase is more common than any other. “Enjoy it while it lasts. It goes by faster than you think.” New parents hear this many times.

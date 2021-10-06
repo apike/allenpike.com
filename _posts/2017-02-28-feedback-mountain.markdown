@@ -11,6 +11,7 @@ categories:
 - Article
 tags:
 - steamclock
+- teams
 ---
 
 “Hire great people, and trust them to do good work”. I’ve always liked that idea. It feels right. Hiring great people is critical, and nobody likes to be micromanaged or criticized. So it seems simple &ndash; hire great people, and trust them to do good work. Try to stay out of their way.

@@ -6,6 +6,7 @@ title: "Half Here, Half There"
 summary: "A simple suggestion for putting money to work."
 image: "/images/2020/half-coin.jpg"
 tags:
+- justly
 categories:
 - Article
 

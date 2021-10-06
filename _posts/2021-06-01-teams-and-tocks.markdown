@@ -7,6 +7,8 @@ summary: "On who we compare ourselves to."
 categories:
 - Article
 tags:
+- teams
+- steamclock
 ---
 
 As we grow at Steamclock – we’re now at 14 and [hiring our 15th](https://steamclock.com/careers/lead-ios-mobile-developer) – we’re getting more intentional about how we do things. I worry less about how to do the work, and more about how to build the team and our processes.

@@ -1,10 +1,13 @@
 ---
 layout: default
 ---
-{% assign series_title = site.data.seriestitles[page.tag].title | default: page.tag %}
+{% assign series = site.data.seriestitles[page.tag] %}
+{% assign series_title = series.title | default: page.tag %}
 <div id="home">
   <h1>A Series on {{ series_title }}</h1>
-  <p>This could describe the series.</p>
+  {% if series.subtitle %}
+  <p>{{ series.subtitle }}</p>
+  {% endif %}
   <hr class="subtle">
   <ul class="posts archive">
     {% for post in site.tags[page.tag] %}
