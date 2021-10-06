@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
+{% assign series_title = site.data.seriestitles[page.tag].title | default: page.tag %}
+<h1>Series: {{ series_title }}</h1>
 
 <div class="post">
-This will render the series {{ page.tag }}
+This will render the series {{ series_title }}
 </div>
