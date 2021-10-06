@@ -8,7 +8,7 @@ title: Sony is Going after the touch
 wordpress_id: 1081
 categories:
 - Article
-tags:
+oldtags:
 - Apple
 - Games
 - iPod

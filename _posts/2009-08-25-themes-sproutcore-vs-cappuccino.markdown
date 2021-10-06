@@ -8,7 +8,7 @@ title: 'Web app theme showdown: Aristo and Ace'
 wordpress_id: 971
 categories:
 - Article
-tags:
+oldtags:
 - SproutCore
 - User Interface
 - Visual Design

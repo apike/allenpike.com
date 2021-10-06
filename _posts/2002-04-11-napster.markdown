@@ -6,7 +6,7 @@ layout: post
 slug: napster
 title: Napster to be purchased by Bertelsmann - both users interviewed
 wordpress_id: 36
-categories:
+oldtags:
 - Sarcastic News
 ---
 

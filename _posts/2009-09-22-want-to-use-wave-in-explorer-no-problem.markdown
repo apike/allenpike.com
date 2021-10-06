@@ -8,7 +8,7 @@ title: Want to use Wave in Explorer? No problem!
 wordpress_id: 1053
 categories:
 - Link
-tags:
+oldtags:
 - Chrome
 - Internet Explorer
 - Javascript

@@ -8,7 +8,7 @@ title: The Long Tail of your Tunes
 wordpress_id: 109
 categories:
 - Article
-tags:
+oldtags:
 - iPod
 - iTunes
 - Music

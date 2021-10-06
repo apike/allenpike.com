@@ -8,7 +8,7 @@ title: Prism, the image browser
 wordpress_id: 2059
 categories:
 - Article
-tags:
+oldtags:
 - iOS
 - iPad
 - Prism

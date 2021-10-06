@@ -8,7 +8,7 @@ title: I am not a contact
 wordpress_id: 892
 categories:
 - Article
-tags:
+oldtags:
 - Google
 - OS X
 - User Interface

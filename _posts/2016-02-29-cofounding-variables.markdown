@@ -8,7 +8,7 @@ title: "Cofounding Variables"
 summary: "Finding a co-founder gets weird."
 categories:
 - Article
-tags:
+oldtags:
 - steamclock
 
 ---

@@ -8,7 +8,7 @@ title: Competition in wireless coming to Canada
 wordpress_id: 257
 categories:
 - Link
-tags:
+oldtags:
 - ISPs
 - Vancouver
 - Wireless providers

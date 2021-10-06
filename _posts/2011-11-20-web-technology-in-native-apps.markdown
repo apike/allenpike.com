@@ -8,7 +8,7 @@ title: Web technology in native apps
 wordpress_id: 2050
 categories:
 - Article
-tags:
+oldtags:
 - App Store
 - HTML5
 - iOS

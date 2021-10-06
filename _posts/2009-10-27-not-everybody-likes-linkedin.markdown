@@ -8,7 +8,7 @@ title: Not everybody likes LinkedIn
 wordpress_id: 749
 categories:
 - Link
-tags:
+oldtags:
 - Social Networking
 - Vancouver
 ---

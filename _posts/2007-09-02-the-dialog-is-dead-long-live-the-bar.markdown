@@ -8,7 +8,7 @@ title: The dialog is dead, long live the bar
 wordpress_id: 180
 categories:
 - Article
-tags:
+oldtags:
 - Firefox
 - Modal Dialogs
 - User Interface

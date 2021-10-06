@@ -10,7 +10,7 @@ image: "/images/allen-pike-2014.jpg"
 featured: true
 categories:
 - Article
-tags:
+oldtags:
 - steamclock
 
 ---

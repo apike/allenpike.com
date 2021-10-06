@@ -8,7 +8,7 @@ title: A Tale of two Budgetable competitors
 wordpress_id: 1778
 categories:
 - Article
-tags:
+oldtags:
 - Budgetable
 - Startups
 - Web Apps

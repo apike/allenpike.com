@@ -8,7 +8,7 @@ title: iWork.com updated
 wordpress_id: 1060
 categories:
 - Article
-tags:
+oldtags:
 - iwork.com
 - Javascript
 - Personal

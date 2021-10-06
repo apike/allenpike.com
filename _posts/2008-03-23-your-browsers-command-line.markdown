@@ -9,7 +9,7 @@ wordpress_id: 272
 categories:
 - Article
 - Best Of
-tags:
+oldtags:
 - Chrome
 - Firefox
 - Location Bar

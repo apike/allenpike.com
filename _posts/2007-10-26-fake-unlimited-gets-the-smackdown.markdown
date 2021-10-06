@@ -8,7 +8,7 @@ title: Fake unlimited gets the smackdown
 wordpress_id: 226
 categories:
 - Link
-tags:
+oldtags:
 - iPhone
 - Unlimited
 - Wireless providers

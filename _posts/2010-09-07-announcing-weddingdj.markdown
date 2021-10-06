@@ -8,7 +8,7 @@ title: Announcing WeddingDJ
 wordpress_id: 1795
 categories:
 - Article
-tags:
+oldtags:
 - iPhone
 - steamclock
 - WeddingDJ

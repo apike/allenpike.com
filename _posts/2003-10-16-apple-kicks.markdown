@@ -9,7 +9,7 @@ wordpress_id: 52
 categories:
 - Article
 - Sarcastic News
-tags:
+oldtags:
 - Apple
 ---
 

@@ -9,7 +9,7 @@ title: "Maximum Viable Products"
 featured: true
 categories:
 - Article
-tags:
+oldtags:
 - iOS
 - Product Design
 - Startups

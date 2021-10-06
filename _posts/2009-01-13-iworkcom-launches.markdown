@@ -8,7 +8,7 @@ title: iWork.com launches
 wordpress_id: 524
 categories:
 - Article
-tags:
+oldtags:
 - Apple
 - iwork.com
 - Javascript

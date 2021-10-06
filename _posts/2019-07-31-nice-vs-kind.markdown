@@ -7,7 +7,7 @@ summary: "Being nice proves insufficient."
 image: "/images/2019/aggro.png"
 categories:
 - Article
-tags:
+oldtags:
 - steamclock
 ---
 

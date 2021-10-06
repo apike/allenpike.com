@@ -8,7 +8,7 @@ title: Taking advantage of IE
 wordpress_id: 633
 categories:
 - Link
-tags:
+oldtags:
 - CSS
 - Internet Explorer
 ---

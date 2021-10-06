@@ -8,7 +8,7 @@ title: Farewell floating footer
 wordpress_id: 292
 categories:
 - Link
-tags:
+oldtags:
 - Antipode
 - CSS
 - Web Design

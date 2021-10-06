@@ -8,7 +8,7 @@ title: A better object.toString() in Javascript
 wordpress_id: 363
 categories:
 - Link
-tags:
+oldtags:
 - Debugging
 - Javascript
 - JSON

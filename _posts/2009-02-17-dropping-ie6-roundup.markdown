@@ -8,7 +8,7 @@ title: Dropping IE6 Roundup
 wordpress_id: 623
 categories:
 - Link
-tags:
+oldtags:
 - Internet Explorer
 - Web Design
 ---

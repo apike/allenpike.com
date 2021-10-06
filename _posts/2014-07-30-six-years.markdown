@@ -8,7 +8,7 @@ summary: "The App Store matures."
 title: "A Lot Can Change in 6 Years"
 categories:
 - Article
-tags:
+oldtags:
 - iOS
 ---
 

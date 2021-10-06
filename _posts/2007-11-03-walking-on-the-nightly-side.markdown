@@ -8,7 +8,7 @@ title: Walking on the nightly side
 wordpress_id: 228
 categories:
 - Article
-tags:
+oldtags:
 - CSS
 - Firefox
 - Gecko

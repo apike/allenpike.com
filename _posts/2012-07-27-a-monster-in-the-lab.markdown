@@ -8,7 +8,7 @@ title: A Monster in the lab
 wordpress_id: 2385
 categories:
 - Article
-tags:
+oldtags:
 - iOS
 - Party Monster
 - Steam Clock

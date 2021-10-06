@@ -8,7 +8,7 @@ title: 'EA''s UI design sucks: won''t let you play hockey'
 wordpress_id: 138
 categories:
 - Article
-tags:
+oldtags:
 - Failure
 - Games
 - Modal Dialogs

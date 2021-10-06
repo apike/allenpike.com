@@ -8,7 +8,7 @@ title: JQuery kicking Prototype's ass
 wordpress_id: 434
 categories:
 - Link
-tags:
+oldtags:
 - Javascript
 - JQuery
 - Prototype

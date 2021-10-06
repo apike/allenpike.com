@@ -8,7 +8,7 @@ title: Flickr integrates Picnik
 wordpress_id: 263
 categories:
 - Link
-tags:
+oldtags:
 - Facebook
 - Photography
 - Product Design

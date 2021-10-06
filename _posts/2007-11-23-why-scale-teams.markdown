@@ -8,7 +8,7 @@ title: Why scale teams?
 wordpress_id: 245
 categories:
 - Link
-tags:
+oldtags:
 - Expressive Programming
 - Simplicity
 - Software Engineering

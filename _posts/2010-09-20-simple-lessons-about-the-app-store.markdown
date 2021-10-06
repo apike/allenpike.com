@@ -8,7 +8,7 @@ title: Simple lessons about the App Store
 wordpress_id: 1826
 categories:
 - Article
-tags:
+oldtags:
 - App Store
 - iPhone
 - Startups

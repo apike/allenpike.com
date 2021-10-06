@@ -8,7 +8,7 @@ title: New Weblog Format
 wordpress_id: 60
 categories:
 - Article
-tags:
+oldtags:
 - Altering Time
 - Blogging
 ---

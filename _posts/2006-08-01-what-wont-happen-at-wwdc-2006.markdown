@@ -8,7 +8,7 @@ title: What won't happen at WWDC 2006
 wordpress_id: 61
 categories:
 - Article
-tags:
+oldtags:
 - Apple
 - Conferences
 - Mac OS X

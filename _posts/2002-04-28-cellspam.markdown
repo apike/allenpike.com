@@ -8,7 +8,7 @@ title: Cell phone spam to be banned
 wordpress_id: 39
 categories:
 - Sarcastic News
-tags:
+oldtags:
 - Spam
 ---
 

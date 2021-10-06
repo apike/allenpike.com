@@ -8,7 +8,7 @@ title: Chromey Goodness
 wordpress_id: 512
 categories:
 - Link
-tags:
+oldtags:
 - Chrome
 - Google
 - Location Bar

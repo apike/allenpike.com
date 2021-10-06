@@ -8,7 +8,7 @@ title: Twitter and dogs' butts
 wordpress_id: 294
 categories:
 - Link
-tags:
+oldtags:
 - Twitter
 ---
 

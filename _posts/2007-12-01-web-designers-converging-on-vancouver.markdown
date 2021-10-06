@@ -8,7 +8,7 @@ title: Web designers converging on Vancouver
 wordpress_id: 251
 categories:
 - Link
-tags:
+oldtags:
 - Conferences
 - CSS
 - Vancouver

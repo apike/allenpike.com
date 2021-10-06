@@ -8,7 +8,7 @@ title: BuyMeNowNowNowNow!
 wordpress_id: 170
 categories:
 - Article
-tags:
+oldtags:
 - 37signals
 - Socioeconomics
 - Startups

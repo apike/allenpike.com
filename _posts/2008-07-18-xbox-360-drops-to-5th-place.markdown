@@ -8,7 +8,7 @@ title: XBox 360 drops to 5th place
 wordpress_id: 338
 categories:
 - Link
-tags:
+oldtags:
 - Consoles
 - Microsoft
 - XBox

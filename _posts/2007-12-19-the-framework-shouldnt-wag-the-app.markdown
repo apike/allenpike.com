@@ -8,7 +8,7 @@ title: The framework shouldn't wag the app
 wordpress_id: 267
 categories:
 - Link
-tags:
+oldtags:
 - Frameworks
 - Undo
 ---

@@ -8,7 +8,7 @@ summary: "Apple proves it's human."
 title: "A Company Made of People"
 categories:
 - Article
-tags:
+oldtags:
 - Apple
 ---
 

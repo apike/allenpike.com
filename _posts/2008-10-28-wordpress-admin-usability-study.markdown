@@ -8,7 +8,7 @@ title: WordPress admin usability study
 wordpress_id: 483
 categories:
 - Link
-tags:
+oldtags:
 - Blogging
 - User Interface
 ---

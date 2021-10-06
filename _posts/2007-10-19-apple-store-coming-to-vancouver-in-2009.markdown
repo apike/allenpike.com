@@ -8,7 +8,7 @@ title: Apple Store coming to Vancouver... in 2009
 wordpress_id: 223
 categories:
 - Link
-tags:
+oldtags:
 - Apple
 - Vancouver
 ---

@@ -8,7 +8,7 @@ title: 10 Days until Mac OS X 10.5
 wordpress_id: 217
 categories:
 - Link
-tags:
+oldtags:
 - Mac OS X
 ---
 

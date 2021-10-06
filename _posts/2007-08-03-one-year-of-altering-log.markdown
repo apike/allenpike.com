@@ -8,7 +8,7 @@ title: One Year of Altering Log
 wordpress_id: 153
 categories:
 - Article
-tags:
+oldtags:
 - Antipode
 - Blogging
 ---

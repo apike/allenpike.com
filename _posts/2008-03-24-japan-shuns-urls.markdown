@@ -8,7 +8,7 @@ title: Japan shuns URLs
 wordpress_id: 290
 categories:
 - Link
-tags:
+oldtags:
 - Location Bar
 - Socioeconomics
 - User Interface

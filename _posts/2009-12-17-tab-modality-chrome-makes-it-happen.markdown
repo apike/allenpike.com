@@ -8,7 +8,7 @@ title: 'Tab Modality: Chrome makes it happen'
 wordpress_id: 1324
 categories:
 - Link
-tags:
+oldtags:
 - Chrome
 - Modal Dialogs
 - User Interface

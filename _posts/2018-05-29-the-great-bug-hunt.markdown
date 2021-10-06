@@ -9,7 +9,7 @@ image: "/images/2018/campfire-square.jpg"
 featured: true
 categories:
 - Article
-tags:
+oldtags:
 - steamclock
 ---
 

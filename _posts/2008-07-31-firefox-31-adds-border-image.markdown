@@ -8,7 +8,7 @@ title: Firefox 3.1 adds border-image
 wordpress_id: 340
 categories:
 - Link
-tags:
+oldtags:
 - CSS
 - Gecko
 - WebKit

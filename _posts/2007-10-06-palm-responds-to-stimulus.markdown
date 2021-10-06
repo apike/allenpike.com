@@ -8,7 +8,7 @@ title: Palm responds to stimulus
 wordpress_id: 185
 categories:
 - Article
-tags:
+oldtags:
 - Apple
 - Cell Phones
 - Palm

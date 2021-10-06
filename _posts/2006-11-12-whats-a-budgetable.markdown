@@ -8,7 +8,7 @@ title: What's a Budgetable?
 wordpress_id: 62
 categories:
 - Article
-tags:
+oldtags:
 - Budgetable
 - Web Apps
 ---

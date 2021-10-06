@@ -8,7 +8,7 @@ title: Appled
 wordpress_id: 303
 categories:
 - Article
-tags:
+oldtags:
 - Apple
 - Personal
 ---

@@ -8,7 +8,7 @@ title: Friedisms
 wordpress_id: 1195
 categories:
 - Link
-tags:
+oldtags:
 - 37signals
 - Startups
 ---

@@ -8,7 +8,7 @@ title: SurfaceWare video
 wordpress_id: 481
 categories:
 - Link
-tags:
+oldtags:
 - Microsoft
 - Science
 - Surface

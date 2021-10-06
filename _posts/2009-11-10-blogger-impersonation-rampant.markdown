@@ -8,7 +8,7 @@ title: Blogger impersonation rampant
 wordpress_id: 1202
 categories:
 - Article
-tags:
+oldtags:
 - Blogging
 - Personal
 - Vancouver

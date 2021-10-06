@@ -8,7 +8,7 @@ title: 'Eee: Linux notebook for $200'
 wordpress_id: 231
 categories:
 - Link
-tags:
+oldtags:
 - Hardware
 - Laptops
 - Linux

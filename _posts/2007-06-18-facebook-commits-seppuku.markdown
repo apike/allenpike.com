@@ -8,7 +8,7 @@ title: Facebook commits seppuku
 wordpress_id: 139
 categories:
 - Article
-tags:
+oldtags:
 - Facebook
 - Failure
 - Social Networking

@@ -8,7 +8,7 @@ title: IE9 will be faster and rounder
 wordpress_id: 1266
 categories:
 - Link
-tags:
+oldtags:
 - CSS
 - Internet Explorer
 ---

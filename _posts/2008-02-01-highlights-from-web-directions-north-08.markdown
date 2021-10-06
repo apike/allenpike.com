@@ -8,7 +8,7 @@ title: Highlights from Web Directions North '08
 wordpress_id: 279
 categories:
 - Article
-tags:
+oldtags:
 - Conferences
 - Javascript
 - Vancouver

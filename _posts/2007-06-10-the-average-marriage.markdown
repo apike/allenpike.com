@@ -6,7 +6,7 @@ layout: post
 slug: the-average-marriage
 title: The average marriage
 wordpress_id: 146
-tags:
+oldtags:
 - Socioeconomics
 ---
 

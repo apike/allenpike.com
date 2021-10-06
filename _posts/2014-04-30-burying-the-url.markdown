@@ -8,7 +8,7 @@ summary: "Chrome considers hiding the location field."
 title: "Burying the URL"
 categories:
 - Article
-tags:
+oldtags:
 - Chrome
 - Browsers
 ---

@@ -8,7 +8,7 @@ title: Shipping Party Monster
 wordpress_id: 2511
 categories:
 - Article
-tags:
+oldtags:
 - App Store
 - Party Monster
 - Product Design

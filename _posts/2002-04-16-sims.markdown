@@ -8,7 +8,7 @@ title: The Sims more addictive than cocaine, experts suggest
 wordpress_id: 37
 categories:
 - Sarcastic News
-tags:
+oldtags:
 - Games
 ---
 

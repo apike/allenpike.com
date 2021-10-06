@@ -8,7 +8,7 @@ title: Kindle for iPhone
 wordpress_id: 659
 categories:
 - Link
-tags:
+oldtags:
 - Amazon
 - Books
 - iPhone

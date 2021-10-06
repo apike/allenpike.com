@@ -8,7 +8,7 @@ title: The horror of ring tunes
 wordpress_id: 131
 categories:
 - Article
-tags:
+oldtags:
 - Cell Phones
 - Failure
 - Music

@@ -8,7 +8,7 @@ title: Microsoft's anti-UNIX site hosted by UNIX
 wordpress_id: 34
 categories:
 - Sarcastic News
-tags:
+oldtags:
 - Microsoft
 ---
 

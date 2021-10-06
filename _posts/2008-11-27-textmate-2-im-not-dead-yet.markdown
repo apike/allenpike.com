@@ -8,7 +8,7 @@ title: 'Textmate 2: "I''m not dead yet!"'
 wordpress_id: 490
 categories:
 - Link
-tags:
+oldtags:
 - Editors
 - Mac OS X
 - Shark Jumping

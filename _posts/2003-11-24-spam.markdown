@@ -8,7 +8,7 @@ title: US passes anti-spam bill; spammers rejoice
 wordpress_id: 53
 categories:
 - Sarcastic News
-tags:
+oldtags:
 - Email
 - Spam
 ---

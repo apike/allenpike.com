@@ -8,7 +8,7 @@ title: Vancouver Javascript Meetup
 wordpress_id: 1129
 categories:
 - Link
-tags:
+oldtags:
 - Javascript
 - Meetup
 - Vancouver

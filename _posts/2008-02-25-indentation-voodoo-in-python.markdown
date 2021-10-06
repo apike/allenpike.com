@@ -8,7 +8,7 @@ title: Indentation voodoo in Python
 wordpress_id: 282
 categories:
 - Link
-tags:
+oldtags:
 - Expressive Programming
 - Python
 ---

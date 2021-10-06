@@ -6,7 +6,7 @@ layout: post
 slug: vancouver-skytrain-anagram-map
 title: Vancouver Skytrain anagram map
 wordpress_id: 207
-tags:
+oldtags:
 - Creation
 - Map
 - Transit

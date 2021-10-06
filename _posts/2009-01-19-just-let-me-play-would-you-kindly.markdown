@@ -8,7 +8,7 @@ title: Just let me play, would you kindly?
 wordpress_id: 542
 categories:
 - Article
-tags:
+oldtags:
 - Games
 - Immersion
 - Modal Dialogs

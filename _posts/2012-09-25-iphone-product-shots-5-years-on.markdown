@@ -8,7 +8,7 @@ title: iPhone product shots, 5 years on
 wordpress_id: 2439
 categories:
 - Article
-tags:
+oldtags:
 - Apple
 - iOS
 - iPhone

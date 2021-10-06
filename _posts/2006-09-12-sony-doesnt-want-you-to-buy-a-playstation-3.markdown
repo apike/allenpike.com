@@ -9,7 +9,7 @@ wordpress_id: 93
 categories:
 - Article
 - Sarcastic News
-tags:
+oldtags:
 - Consoles
 - Failure
 - Games

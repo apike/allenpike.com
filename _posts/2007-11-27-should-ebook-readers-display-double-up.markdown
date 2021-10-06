@@ -8,7 +8,7 @@ title: Should eBook readers display double-up?
 wordpress_id: 252
 categories:
 - Link
-tags:
+oldtags:
 - Amazon
 - Books
 - Reading

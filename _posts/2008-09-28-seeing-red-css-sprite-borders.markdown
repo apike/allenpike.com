@@ -8,7 +8,7 @@ title: 'Seeing red: CSS sprite borders'
 wordpress_id: 395
 categories:
 - Article
-tags:
+oldtags:
 - CSS
 - Failure
 - Gecko

@@ -8,7 +8,7 @@ summary: "I get less bad at being bad."
 title: "Being Bad at Things"
 categories:
 - Article
-tags:
+oldtags:
 - Story
 ---
 

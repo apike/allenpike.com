@@ -8,7 +8,7 @@ title: 3 megapixels in your lap
 wordpress_id: 2184
 categories:
 - Article
-tags:
+oldtags:
 - App Store
 - Cocoa
 - iOS
