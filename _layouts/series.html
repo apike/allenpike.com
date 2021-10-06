@@ -2,8 +2,18 @@
 layout: default
 ---
 {% assign series_title = site.data.seriestitles[page.tag].title | default: page.tag %}
-<h1>Series: {{ series_title }}</h1>
+<div id="home">
+  <h1>A Series on {{ series_title }}</h1>
+  <p>This could describe the series.</p>
+  <hr class="subtle">
+  <ul class="posts archive">
+    {% for post in site.tags[page.tag] %}
+        <li class="
+          {% if post.featured %} featured {% endif %}
+          {% if post.link %} link {% endif %}
+          "><a href="{{ post.url }}">{{ post.title }}</a>
 
-<div class="post">
-This will render the series {{ series_title }}
+      <span>{% if post.link %}<i><a href="{{ post.link }}">→</a></i>{% elsif post.summary %} &ndash; {{ post.summary }} {% endif %}</span></li>
+    {% endfor %}
+  </ul>
 </div>
