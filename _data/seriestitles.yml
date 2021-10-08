@@ -3,21 +3,27 @@ steamclock:
   subtitle: Some lessons and moments from building Steamclock.
 teams:
   title: Building Teams
+  subtitle: Approaches to leading and serving a team.
 thoughtfulness:
   title: Living Thoughtfully
+  subtitle: Making the most of what we've got.
 best:
   title: Best Of
   subtitle: Some of my favourite articles from over the years.
 products:
   title: Making Great Products
+  subtitle: Interesting aspects of product development.
 personal:
   title: Moments in a Life
+  subtitle: Some of the more interesting things I've experienced.
 justly:
   title: Trying to Live Justly
+  subtitle: On doing our best to do better.
 tech:
   title: The March of Technology
 overboard:
   title: Going Overboard
+  subtitle: Sometimes I get way too in to a topic.
 writing:
   title: Writing
 iosdev:

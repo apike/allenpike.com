@@ -20,13 +20,15 @@ layout: default
 {{ content }}
 </div>
 
+<hr class="subtle">
+
 <div id="nextnav">
 {% if page.tags.size > 0 %}
 
     {%- for tag in page.tags -%}
 	   		{% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
     		{% if page.previous_in[tag] %}
-	    		<p>Part of the series <a href="/series/{{ tag }}">{{ tag_title }}</a>. Next up: <a href="{{ page.previous_in[tag].url }}">{{ page.previous_in[tag].title }} →</a></p>
+	    		<p>Next in the <a href="/series/{{ tag }}"><b>{{ tag_title }}</b></a> series: <a href="{{ page.previous_in[tag].url }}">{{ page.previous_in[tag].title }} →</a></p>
 	    	{% else %}
 	    		<p>Latest in the series <a href="/series/{{ tag }}">{{ tag_title }}</a>.
 	    	{% endif %}
@@ -34,5 +36,5 @@ layout: default
 
 {% endif %}
 	
-<p>Liked this? <a href="/subscribe">Follow</a> to see what's next. If not, <a href="/contact/">you can send me a note</a>.</p>
+<p>Liked this? <a href="/subscribe">Follow</a> to see what's next.</p>
 </div>
