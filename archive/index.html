@@ -6,8 +6,37 @@ title: Post Archive
 
 <div id="home">
   <h1>Archive of articles</h1>
-  <p>I've written a number of articles. Some of my favourites are in bold. You can also view them <a href="/series/">by series</a>.</p>
+  <p>I've written a number of articles. You can explore them by series, or by date.</p>
   <hr class="subtle">
+
+{%- capture site_tags -%}
+    {%- for tag in site.tags -%}
+        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+{%- endcapture -%}
+{%- assign tags_list = site_tags | split:',' | sort -%}
+
+<h2>Article Series</h2>
+
+  <ul class="posts archive">
+{%- for tag in tags_list -%}
+     {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
+     {% if site.tags[tag].size < 4 %}
+        <!-- Tag too small ({{ site.tags[tag].size }}): {{ tag_title }} -->
+     {% else %}
+        <li><a href="/series/{{- tag -}}">{{- tag_title -}}</a>
+         {% if site.data.seriestitles[tag].subtitle %}
+            – {{ site.data.seriestitles[tag].subtitle }}
+         {% endif %}
+        </li>
+     {% endif %}
+{%- endfor -%}
+  </ul>
+
+  <br>
+
+
+
   <ul class="posts archive">
     {% assign prevyear  = "Future" %}
     {% for post in site.posts %}

@@ -9,7 +9,7 @@ isMe: true
 ---
 
 <img src='/images/allen-pike-2016.jpg' style='width: 220px;' class='side'>
-I love creating things and perfecting products. I run [Steamclock Software](http://www.steamclock.com), where we build very nice iOS and Android apps in Vancouver. Previously, I was a Software Engineer at Apple.
+I love building products and teams. I run [Steamclock Software](http://www.steamclock.com), where we build very nice iOS and Android apps in Vancouver. Previously, I was a Software Engineer at Apple.
 
 My job involves managing products, developing software, building teams, and [sharing what I know](/speaking). I care a lot about great software, and the people that make it. In my downtime, I play guitar, record podcasts, and make games.
 

@@ -15,7 +15,7 @@ oldtags:
 - Apple
 - Personal
 tags:
-- steamclock
+- personal
 ---
 
 ![](/images/wp-uploads/2010/06/badge.jpg)Today was my last day at Apple.

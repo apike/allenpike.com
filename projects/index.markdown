@@ -14,9 +14,7 @@ For a summary of what I do, see [my resume](/resume/). What follows is a catalog
 
 Since we started Steamclock, I've usually worked on a new type of project every month. We love working on our own apps, but client work can be fun too.
 
-* **[Two Spies](http://www.steamclock.com/spies/)**, a turn-based iPhone game I've been noodling on for some time.
-
-* **[Quests](http://www.steamclock.com/quests/)**, a Mac menubar app to see your assigned issues and pull requests.
+* **[Two Spies](http://www.steamclock.com/spies/)**, a turn-based iPhone game that proved more popular than I expected.
 
 * **[Fun Fact](http://funfact.fm/)**: A bi-weekly podcast full of incredibly important facts.
 
@@ -47,6 +45,8 @@ Since we started Steamclock, I've usually worked on a new type of project every 
 I love teaching and discussing tech and other topics. <a href="/speaking/">Sometimes, people record it.</a>
 
 **Older Steamclock-era Projects** (2010-2017)
+
+* **[Quests](http://www.steamclock.com/quests/)**, a Mac menubar app to see your assigned issues and pull requests.
 
 * **[Up Up Down Down](http://upup.fm/)**: A podcast about the craft of video games.
 

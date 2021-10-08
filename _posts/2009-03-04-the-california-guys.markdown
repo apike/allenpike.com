@@ -18,6 +18,7 @@ oldtags:
 - Startups
 tags:
 - best
+- personal
 ---
 
 ![](/images/wp-uploads/2009/02/devil.png)**Some lessons in contracting learned by being a slave programmer.**

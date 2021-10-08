@@ -9,7 +9,7 @@ layout: default
   <p>{{ series.subtitle }}</p>
   {% endif %}
   <hr class="subtle">
-    {% assign posts = site.tags[page.tag] | sort: "date" %}
+    {% assign posts = site.tags[page.tag] | sort: "date" | reverse %}
     {% for post in posts %}
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       
