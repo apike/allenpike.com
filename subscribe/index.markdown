@@ -7,11 +7,11 @@ slug: subscribe
 title: Follow or Subscribe
 ---
 
-There are a three ways you can subscribe to my articles and other writing.
+Here are three ways you can find out when I post an article:
 
-* [@apike on Twitter](https://twitter.com/apike/), where I post my articles, plus other bleeps and bloops.
+* [@apike on Twitter](https://twitter.com/apike/), where I post my writing, plus other bleeps and bloops.
 * [RSS Feed](/feed/), for the traditional.
-* Email, because everything old is new again.
+* Email, if you'd like your very own copy.
 
 <form style="margin-top: 1em" class="newsletter" action="https://feed.press/e/mailverify" method="post"
 target="popupwindow" onsubmit="window.open('https://feed.press/e/mailverify?feed_id=allenpike', 'popupwindow',
