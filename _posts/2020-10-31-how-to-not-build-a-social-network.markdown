@@ -6,6 +6,7 @@ title: "How to Not Build a Social Network"
 summary: "I attempt stop you from making a mistake."
 image: "/images/2020/mike-holmes-sonic.jpg"
 tags:
+- products
 categories:
 - Article
 
@@ -76,11 +77,11 @@ Consider that even *if* your theoretically-better-than-Facebook platform started
 
 So sure, you might have this very nice app, only for it to be initially colonized by rabid fans of [badly drawn Sonic cartoons](https://dumbrunningsonic.tumblr.com/). Next thing you know, all your user onboarding algorithms “learn” that new users always want to be recommended looping gifs of a MS Paint style Sega mascot attempting to locomote poorly.
 
+<p style="text-align: center"><video style="width: 250px;" autoplay loop muted playsinline src="/images/2020/mike-holmes-sonic.mp4"></video></p>
+
 While you’re now excited to finally be getting some user data to start validation, and you appreciate users’ feedback that they wish the app would “run fast,” your team is concerned that they may be hitting a local maxima. While you’re happy to tell your investors about your recent uptick in active users, your growth team is finding that the difficulty of acquiring and retaining new users who are *not* Sonic fans has actually increased, entrenching the existing userbase. Given that you’d still need to scale your network to the hundreds of millions of users to build an independent advertising business that can compete with Facebook and Google, your investors start pushing you to find an acquirer.
 
 FOR SALE: One social network; better than Facebook (we think); as is where is; currently infested with hedgehogs. Will consider all offers.
-
-<p style="text-align: center"><video style="width: 250px;" autoplay loop muted playsinline src="/images/2020/mike-holmes-sonic.mp4"></video></p>
 
 ## Shooting the moon
 There are countless things that can doom a social networking startup, but most seem to follow a common trajectory:
@@ -99,7 +100,7 @@ Of course, a paid social platform for <a href="https://www.google.com/search?q=s
 
 And, inevitably, they will keep trying to hire our team at Steamclock to help them do so. And I will keep trying to convince them not to build a social network at all, partially with arguments like I’ve made here and partially by outlining our ever-growing list of special requirements we have for social app projects.
 
-And – if history is any indicator – my efforts at rebuffing them will endear them to us, and convince them that they want our team of battle-worn app developers who have built who knows how many failed social networks to bring our experience to their project, giving it a better chance at avoiding the pitfalls of their predecessors. And they will probably fail too.
+And – if history is any indicator – my efforts at rebuffing them will accidentally endear them to us, and convince them that they want our team of battle-worn app developers who have built who knows how many failed social networks to bring our experience to their project – perhaps giving it a better chance at avoiding the pitfalls of their predecessors. Yet they will probably fail too.
 
 This is my fate. But it doesn’t have to be yours. I’ve said my piece, I’ve made my case.
 
