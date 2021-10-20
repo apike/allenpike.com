@@ -77,7 +77,7 @@ Consider that even *if* your theoretically-better-than-Facebook platform started
 
 So sure, you might have this very nice app, only for it to be initially colonized by rabid fans of [badly drawn Sonic cartoons](https://dumbrunningsonic.tumblr.com/). Next thing you know, all your user onboarding algorithms “learn” that new users always want to be recommended looping gifs of a MS Paint style Sega mascot attempting to locomote poorly.
 
-<p style="text-align: center"><video style="width: 250px;" autoplay loop muted playsinline src="/images/2020/mike-holmes-sonic.mp4"></video></p>
+<p style="text-align: center"><a href="https://johntmcgowan.wordpress.com/2012/01/30/650/"><img style="max-width: 250px;" src="/images/2020/mike-holmes-sonic.jpg"></a></p>
 
 While you’re now excited to finally be getting some user data to start validation, and you appreciate users’ feedback that they wish the app would “run fast,” your team is concerned that they may be hitting a local maxima. While you’re happy to tell your investors about your recent uptick in active users, your growth team is finding that the difficulty of acquiring and retaining new users who are *not* Sonic fans has actually increased, entrenching the existing userbase. Given that you’d still need to scale your network to the hundreds of millions of users to build an independent advertising business that can compete with Facebook and Google, your investors start pushing you to find an acquirer.
 
