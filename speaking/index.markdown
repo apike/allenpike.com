@@ -17,12 +17,12 @@ I enjoy teaching and telling stories, especially around software design and deve
 
 I often speak on the same topics that I [write about](/archive). Here are some examples:
 
-* **Product and project management for quality**, including [communication](/2017/principle-of-least-surprise/), iteration, and what it takes to drive great UX.
+* **Product and project management for quality**, including communication, iteration, and what it takes to drive great UX.
 * **Mobile app design and development**, especially topics around UI and product strategy.
-* **Lessons learned from shipping products**, whether it was our app that [mapped the internet](http://www.steamclock.com/blog/2013/03/mapping-the-internet/), our various internal product experiments, or one of the dozens of products we've shipped for clients.
-* **Engineering leadership**, including [engaging and retaining](/2017/feedback-mountain/) a team, technical decision-making, and advocating for quality.
+* **Lessons learned from shipping products**, including the various products I've led over the years, and the many dozens of products we've shipped for clients.
+* **Engineering leadership**, including building and engaging a product team, technical decision-making, and leading for quality.
 * **Running a business**, especially a software business.
-* **Personal stories** that inform, whether they're [heavy](/2017/bright-side-of-the-moon/) or [light](/2014/feeding-the-baby/).
+* **Personal stories** that inform, whether they're heavy or light.
 
 Also, on occasion, I'll MC a conference or show. 
 
@@ -55,6 +55,7 @@ Here are three example videos of talks I've given:
 I enjoy guesting on podcasts &ndash; they're most of the fun of giving a talk, with a lot less work. Here are some shows I've been on:
 
 * The [Fun Fact Podcast](https://funfact.fm), where Arik Devens and I discuss important facts.
+* [The Xcoders Podcast, March 2020](https://xcoders.org/2020/03/19/xcoders-podcast-march.html), where I talk about starting Vancouver Xcoders, and approaches for sharing code across platforms.
 * [The Omni Show 64](https://theomnishow.omnigroup.com/episode/how-allen-pike-uses-omnifocus-to-run-steamclock), where I talk about how I manage tasks, and focusing on what's important rather than just urgent.
 * [Giant Robots 264](http://giantrobots.fm/264), where we talk about building great product teams.
 * [Clockwise 174](https://www.relay.fm/clockwise/174), where we discuss iPad, Apple Watch, Apple-produced original content, and iTunes
