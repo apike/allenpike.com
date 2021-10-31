@@ -2,7 +2,7 @@
 layout: post
 author: allen
 title: Fresh Air Life
-summary: On building a habit of getting out in the rain.
+summary: On getting out in the rain.
 date: 2021-11-01T11:12:00.000Z
 image: /images/2021/winter-istock.jpg
 featured: false
@@ -15,7 +15,7 @@ Many of us live in a place that has weather. While weather has certain benefits,
 
 Warmth gives way to rain. Long days give way to short. The dark closes in.
 
-When this happens, there’s an instinct to hide oneself away from the cold. Personally, I like to make some hot tea, hook up a heating pad, bury myself in blankets, and play video games until spring comes.
+When this happens, instinct pushes us to hide from the cold. Personally, I'm inclined to make some hot tea, hook up a heating pad, bury myself in blankets, and play video games until spring comes.
 
 As a native of the Pacific Northwest, I’ve spent many rainy winters – and falls and springs – holed up inside. As a skinny nerd of the Canadian rainforest, I am in many ways a creature built for the indoors.
 
