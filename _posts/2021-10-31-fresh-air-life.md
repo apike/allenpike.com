@@ -25,15 +25,15 @@ However. As I’ve gotten older, I’ve found this can be a bit of a… drag. As
 
 A few years back, my dad proposed going on a camping trip… in October. Now, I love camping. Our summer camping trips across BC were one of my highlights growing up. But nothing ruins a camping trip like the cold and rain rolling in. And here in BC at least, October is Chapter 1 of cold and rain.
 
-So I was apprehensive. I knew my dad would soon be moving an ocean away. How many more chances would I have for a camping trip with him, even if it would be kind of miserable out?
+I was apprehensive. But I knew my dad would soon be moving an ocean away. How many more chances would I have for a camping trip with him, even if it would be rather miserable out?
 
 So I committed to going. I stuffed my bag with wool outer layers, synthetic under layers, and a jacket that was both rainproof and generously insulated.
 
-I also brought something I never had before: a mindset that it would be cold, and it would be rainy, and I would enjoy myself regardless.
+I also brought something else new: a mindset that it would be cold, and it would be rainy, but I would enjoy myself regardless.
 
 And you know what? It worked. It really, really worked. We got rained on, I stayed warm, and I had fun. I’m very grateful I decided to buckle down, layer up, and get out there.
 
-Ever since, my relationship to weather has changed. I’m willing to face it.
+Ever since, my relationship to weather has changed. Now, I’m up for it. After I put on a lot of clothes.
 
 ---
 
