@@ -17,7 +17,7 @@ Warmth gives way to rain. Long days give way to short. The dark closes in.
 
 When this happens, instinct pushes us to hide from the cold. Personally, I'm inclined to make some hot tea, hook up a heating pad, bury myself in blankets, and play video games until spring comes.
 
-As a native of the Pacific Northwest, I’ve spent many rainy winters – and falls and springs – holed up inside. As a skinny nerd of the Canadian rainforest, I am in many ways a creature built for the indoors.
+Growing up in the Pacific Northwest, I’ve spent many rainy winters – and falls and springs – holed up inside. As a skinny nerd of the Canadian rainforest, I am in many ways a creature built for the indoors.
 
 However. As I’ve gotten older, I’ve noticed this can be a bit of a… drag. As blissful as it is to warm up under the blankets on a rainy day, there is a certain kind of greyness that can settle over your life when you spend too much time indoors. I know getting out for a long walk does me good, but on a formidably wet day, the tea and the heating pad are a lot more appealing. Maybe [a SAD light](https://www.thecut.com/2016/01/sad-lamp-light-therapy-for-seasonal-depression.html) will make up some of the difference?
 
