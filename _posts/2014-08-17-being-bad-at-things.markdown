@@ -3,13 +3,16 @@ author: allen
 comments: true
 date: 2014-08-17 10:00:00
 layout: post
-slug: "learning"
-summary: "I get less bad at being bad."
+slug: "being-bad-at-things"
+summary: "I learn to be less bad at being bad."
 title: "Being Bad at Things"
 categories:
 - Article
 oldtags:
 - Story
+tags:
+thoughtfulness
+
 ---
 
 Today, I turned 30. Even at this advanced age, I recently realized something crucial: I'm not too old to learn new things.
