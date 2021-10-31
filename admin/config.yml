@@ -18,8 +18,8 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Sharing Image", name: "image", widget: "image"}
-      - {label: "Featured", name: "featured", widget: "boolean", default: "false"}
+      - {label: "Sharing Image", name: "image", widget: "image", required: false}
+      - {label: "Featured", name: "featured", widget: "boolean", default: false}
       - {label: "Categories", name: "categories", widget: "list", default: ["Article"]}
       - {label: "Tags", name: "tags", widget: "list"}
       - {label: "Body", name: "body", widget: "markdown"}
