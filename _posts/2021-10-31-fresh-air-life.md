@@ -37,18 +37,18 @@ Ever since, my relationship to weather has changed. Now, I’m up for it. After 
 
 ---
 
-Facing the weather with a smile is, I’ve since learned, a popular pastime in Scandinavia. In Norwegian they use the term “[friluftsliv](https://www.nationalgeographic.com/travel/article/how-norways-friluftsliv-could-help-us-through-a-coronavirus-winter)”, or “fresh air life”. The idea is that getting outside with a positive mindset, regardless of the weather, makes for a better life. While my camp in the rain taught me this concept, having a name for it has helped crystallized it and put it to sue.
+Facing the weather with a smile is, I’ve since learned, a popular pastime in Scandinavia. In Norwegian they use the term “[friluftsliv](https://www.nationalgeographic.com/travel/article/how-norways-friluftsliv-could-help-us-through-a-coronavirus-winter)”, or “fresh air life”. The idea is that getting outside with a positive mindset, regardless of the weather, makes for a better life. While my camp in the rain demonstrated this to me, having a name for it has crystallized it and helped me put it to use.
 
-When it’s kind of gross outside, and I’m considering altering my plans so I don’t need to walk for half an hour in the rain, I tell myself, “fresh air life”. When I’d been hoping to go for a hike but the forecast calls for rain, I tell msyelf, “fresh air life”. It’s kind of dumb, but it helps!
+Now, when it’s kind of gross outside, and I’m considering altering my plans so I don’t need to walk for half an hour in the rain, I say to myself: “fresh air life”. When I’d been hoping to go for a hike but the forecast calls for rain, I tell myself, “fresh air life”. It's kind of dumb, but it helps!
 
-Of course, getting outside in the cold only feels good if you yourself don’t get too cold – or especially, wet. The Norwegians have a saying for this too: “there’s no such thing as bad weather, just bad clothes”. In the Pacific Northwest, I would say you’re selling yourself short if you don’t have the following:
+Of course, getting outside in the cold is much more pleasant when you can keep yourself warm and dry. The Norwegians have a saying for this too: “there’s no such thing as bad weather, just bad clothes”. Everybody's mileage will vary here, but the Pacific Northwest I encourage folks to work towards a closet with the following:
 
-- Two waterproof jackets, a simple one and a toasty one
-- Some warm under layers and socks that are not cotton. Cotton is great until it gets wet, at which point it’s terrible.
-- A few zip-up midlayers to choose from, ideally without hoods so you can layer a couple and you’re not suddenly that guy with 3 hoods when you put your jacket on.
-- Some pants that aren’t cotton. These don’t need to be hardcore rain pants that go swish-swish every time you move, they just need to be made of something that dries fairly quickly.
+- Two waterproof jackets – a simple one and a toasty one
+- Some warm, non-cotton under layers and socks. Cotton is great until it gets wet, at which point it’s awful.
+- A few zip-up midlayers to choose from. Ideally without hoods, so you can layer a couple not have to deal with 3 simultaneous hoods.
+- Some non-cotton pants. These don’t need to be hardcore rain pants that go swish-swish every time you move, they just need to be made of something that dries fairly quickly.
 - Comfortable waterproof boots or shoes.
-- At least one warm hat (let’s be honest, it’ll be a toque) and maybe a rain hat (especially if you wear glasses and want to keep rain from running down them).
+- At least one warm hat – let’s be honest, it’ll be a toque. And maybe a rain hat, especially if you wear glasses and don't love torrents of rain streaming down them.
 
 Of course, in other climates, your loadout will vary wildly. And it can take some time, investment, and iteration to build up and solid a full set of weather-busting gear. But with the right clothes and the right mindset, you can have a joyous trek in any conditions.
 
