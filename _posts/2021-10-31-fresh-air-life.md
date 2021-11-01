@@ -23,7 +23,9 @@ However. As I’ve gotten older, I’ve found this can be a bit of a… drag. As
 
 ---
 
-A few years back, my dad proposed going on a camping trip… in October. Now, I love camping. Our summer camping trips across BC were one of my highlights growing up. But nothing ruins a camping trip like the cold and rain rolling in. And here in BC at least, October is Chapter 1 of cold and rain.
+A few years back, my dad proposed going on a camping trip… in October.
+
+Now, I love camping. Our summer camping trips across BC were one of my highlights growing up. But nothing ruins a camping trip like cold rain rolling in. And here in BC at least, October is Chapter 1 of cold rain.
 
 I was apprehensive. But I knew my dad would soon be moving an ocean away. How many more chances would I have for a camping trip with him, even if it would be rather miserable out?
 
@@ -37,20 +39,20 @@ Ever since, my relationship to weather has changed. Now, I’m up for it. After 
 
 ---
 
-Facing the weather with a smile is, I’ve since learned, a popular pastime in Scandinavia. In Norwegian they use the term “[friluftsliv](https://www.nationalgeographic.com/travel/article/how-norways-friluftsliv-could-help-us-through-a-coronavirus-winter)”, or “fresh air life”. The idea is that getting outside with a positive mindset, regardless of the weather, makes for a better life. While my camp in the rain demonstrated this to me, having a name for it has crystallized it and helped me put it to use.
+Facing the weather with a smile is, I’ve since learned, a popular pastime in Scandinavia. In Norwegian they use the term “[friluftsliv](https://www.nationalgeographic.com/travel/article/how-norways-friluftsliv-could-help-us-through-a-coronavirus-winter)”, or “fresh air life”. The idea is that getting outside with a positive mindset, regardless of the weather, makes for a better life. While my camp in the rain demonstrated this to me, having a name for it crystallized it and helped me put it to use.
 
 Now, when it’s kind of gross outside, and I’m considering altering my plans so I don’t need to walk for half an hour in the rain, I say to myself: “fresh air life”. When I’d been hoping to go for a hike but the forecast calls for rain, I tell myself, “fresh air life”. It's kind of dumb, but it helps!
 
-Of course, getting outside in the cold is much more pleasant when you can keep yourself warm and dry. The Norwegians have a saying for this too: “there’s no such thing as bad weather, just bad clothes”. Everybody's mileage will vary here, but the Pacific Northwest I encourage folks to work towards a closet with the following:
+Of course, getting outside in the cold is much more pleasant when you can keep yourself warm and dry. The Norwegians have a saying for this too: “there’s no such thing as bad weather, just bad clothes”. Everybody's mileage will vary here, but the Pacific Northwest I encourage folks to work towards a wardrobe with the following:
 
-- Two waterproof jackets – a simple one and a toasty one
-- Some warm, non-cotton under layers and socks. Cotton is great until it gets wet, at which point it’s awful.
-- A few zip-up midlayers to choose from. Ideally without hoods, so you can layer a couple not have to deal with 3 simultaneous hoods.
+- Two waterproof jackets – a simple one, and a toasty one.
+- Some warm, non-cotton long underwear and socks. Cotton is great until it gets wet, at which point it’s awful.
+- A few zip-up midlayers to choose from. Ideally without hoods, so you can layer a couple and not have to deal with 3 simultaneous hoods.
 - Some non-cotton pants. These don’t need to be hardcore rain pants that go swish-swish every time you move, they just need to be made of something that dries fairly quickly.
 - Comfortable waterproof boots or shoes.
-- At least one warm hat – let’s be honest, it’ll be a toque. And maybe a rain hat, especially if you wear glasses and don't love torrents of rain streaming down them.
+- At least one warm hat. And maybe also a rain hat, especially if you wear glasses and don't love torrents of rain streaming down them.
 
-Of course, in other climates, your loadout will vary wildly. And it can take some time, investment, and iteration to build up and solid a full set of weather-busting gear. But with the right clothes and the right mindset, you can have a joyous trek in any conditions.
+Of course, in other climates, your loadout will vary wildly. And it can take some time, investment, and iteration to build up a solid set of weather-busting gear. But with the right clothes and the right mindset, you can have a joyous trek in any conditions.
 
 And once you get in the habit, it can totally change your emotional relationship to the weather. You’ll find yourself getting more exercise, seeing more of your city and its surroundings, and seeing more people.
 
