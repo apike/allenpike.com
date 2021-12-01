@@ -33,15 +33,15 @@ This is the idea that there are a lot of things we care about, but within that t
 So the idea is that you focus on what’s in your control, to impact what you can influence, and take your focus off of the vast world of things you can’t affect. It’s a really useful framework for managing our attention and state of mind. But.
 
 ## Scaling, writ small
-An interesting thing happens to over your career, as your skills and capabilities grow: your circles of control and influence expand. You get more options, more problems you *could* solve, and more frustrations you could *potentially* fix instead of just staying zen to.
+An interesting thing happens over your career, as your skills and capabilities grow: your circles of control and influence expand. You get more options, more problems you *could* solve, and more frustrations you could *potentially* fix instead of just staying zen to.
 
 Of course, getting new capabilities is 99% great!
 
 For example, ten years ago I had to interface with a team that was rather dysfunctional. I had to acknowledge that the team’s dynamics were outside my circle of influence, stay focused on doing my own job well, and not worry too much about the kind of fucked up way this team was communicating – or, it seemed, not communicating. Their priority levels were 1, 1+, 1++, and 1+++. Those were the priorities. It was a whole thing.
 
-Nowadays, I have a lot more tools in my toolbox for trying to help a team prioritize, communicate, and get good outcomes. IN that same situation today, I could be a force for positive change.
+Nowadays, I have a lot more tools in my toolbox for trying to help a team prioritize, communicate, and get good outcomes. In that same situation today, I could be a force for positive change.
 
-Armed with the idea that I should try to help improve things where I can, I could start doing my part to improve the team’s dynamics and help them succeed. And maybe that would be effective! Or maybe it would turn out to be a deep gnarly problem, one that is not worth me investing in for this possibly-doomed team that is three layers removed from anything I need to be doing day to day and leading to me being backlogged on other work and my stress levels rising for some reason and *what is going on I thought I was good at focusing?*
+Armed with the idea that I should try to help improve things where I can, I could start doing my part to improve the team’s dynamics and help them succeed. And maybe that would be effective! Or maybe it would turn out to be a deep gnarly problem, one that is not worth me investing in for this possibly-doomed team that is three layers removed from anything I need to be doing day to day and leading to me being backlogged on other work and my stress levels are rising for some reason and *what is going on I thought I was good at focusing?*
 
 So while you may start with this helpful mental framework – focusing only on what you can control –  that hueristic gets less and less useful as your circle of control grows. Through your career, you accumulate more skills, capabilities, experience, and resources. Over time, you’re less constrained by what you *can* accomplish, and more constrained by the few things you *in practice* focus on.
 
@@ -49,7 +49,7 @@ Of course, this is the same dynamic as we see at the corporate scale: **focusing
 
 ## Scaling your own focus
 
-As an example, the [global eradication of polio](https://polioeradication.org) is not something I can personally influence. While it’s interesting and important, I try not to worry too much about it. But if you’re Melinda French Gates, you kind of *should* be worried about it – along with basically every other human problem – since you could potentially resolve it. You could let the scale of that overwhelm you, or you could build up a big foundation with process and bureaucracy to decide which species-scale problems you should focus on, and which global ills to, for now, put out of your mind.
+As an example, the [global eradication of polio](https://polioeradication.org) is not something I can personally influence. While it’s interesting and important, I try not to worry too much about it. But if you’re Melinda French Gates, you kind of *should* be worried about it – along with basically every other human problem – since you could potentially resolve it. You could let the scale of that overwhelm you, or you could build up a big foundation with process and heuristics to decide which species-scale problems you should focus on, and which global ills to, for now, put out of your mind.
 
 In the same way, I am well aware that I do not have the skills or influence required to be an effective CEO of both Twitter *and* Square at the same time.  That is not a thing I need to decide whether I should do. Meanwhile, Jack Dorsey [had activist investors descending on him](https://www.vox.com/recode/2020/3/1/21160375/jack-dorsey-twitter-elliott-management-paul-singer-ceo), demanding he focus on being the CEO of just *one* multi-billion-dollar public company, and for years he was like, “Eh, I don’t know… I just, I don’t want to just focus on one company, I would rather do both, it’s fine.” And maybe he was right! Focusing is hard when you could be doing a lot of things.
 
