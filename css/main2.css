@@ -241,8 +241,8 @@ div.centered p {
 @media (prefers-color-scheme: dark) {
 
   body {
-    background-color: #222;
-    color: #fefcfd;
+    background-color: #221e22;
+    color: #eae4e8;
   }
 
   h1, h2, h3, h4, h5 {
@@ -267,6 +267,10 @@ div.centered p {
 
   hr, .navigation {
     border-color: #b527d1;
+  }
+
+  hr.subtle {
+    border-color: #3f3e3f;
   }
 
 }
