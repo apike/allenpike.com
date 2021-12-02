@@ -261,6 +261,13 @@ div.centered p {
     color: #b527d1;
   }
 
+  p.meta, span.meta {
+    color: #aaa1ad;
+  }
+
+  hr, .navigation {
+    border-color: #b527d1;
+  }
 
 }
 
