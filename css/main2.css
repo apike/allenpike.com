@@ -238,23 +238,32 @@ div.centered p {
 
 
 
-/* ads */
+@media (prefers-color-scheme: dark) {
+
+  body {
+    background-color: #222;
+    color: #fefcfd;
+  }
+
+  h1, h2, h3, h4, h5 {
+    color: #9519ae
+  }
+
+  a:link {
+    color: #b527d1
+  }
+
+  a:visited {
+    color: #ad4fbf;
+  }
+
+  h1 a:link, h1 a:visited {
+    color: #b527d1;
+  }
 
 
-#fusionparent {
-  font-size: 12px;
-  line-height: 1.3;
 }
 
-.carbon-text {
-    color: #999;
-    display:block;
-    line-height: 1.5em;
-}
-
-#carbonads .carbon-poweredby {
-  color: black;
-}
 
 @media (max-width: 500px) {
 
