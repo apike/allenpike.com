@@ -250,15 +250,15 @@ div.centered p {
   }
 
   a:link {
-    color: #b527d1
+    color: #c441de;
   }
 
   a:visited {
-    color: #ad4fbf;
+    color: #a941de;
   }
 
   h1 a:link, h1 a:visited {
-    color: #b527d1;
+    color: #c441de;
   }
 
   p.meta, span.meta {
@@ -266,7 +266,7 @@ div.centered p {
   }
 
   hr, .navigation {
-    border-color: #b527d1;
+    border-color: #c441de;
   }
 
   hr.subtle {
