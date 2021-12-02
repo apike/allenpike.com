@@ -261,7 +261,7 @@ div.centered p {
     color: #c441de;
   }
 
-  p.meta, span.meta {
+  p.meta, span.meta, .archive li span {
     color: #aaa1ad;
   }
 
