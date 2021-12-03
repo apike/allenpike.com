@@ -500,19 +500,19 @@ p.meta, span.meta {
   }
 
   h1, h2, h3, h4, h5 {
-    color: #c85ade
+    color: #d362e9
   }
 
   a:link {
-    color: #c85ade;
+    color: #d362e9;
   }
 
   a:visited {
-    color: #c85ade;
+    color: #d362e9;
   }
 
   h1 a:link, h1 a:visited {
-    color: #c85ade;
+    color: #d362e9;
   }
 
   p.meta, span.meta, .archive li span {
@@ -520,7 +520,7 @@ p.meta, span.meta {
   }
 
   hr, .navigation {
-    border-color: #c85ade;
+    border-color: #d362e9;
   }
 
   hr.subtle {
