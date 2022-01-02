@@ -3,7 +3,7 @@ layout: post
 author: allen
 title: Beyond Optimism
 summary: A mindset for overcoming problems.
-date: 2022-01-02T06:42:02.770Z
+date: 2022-01-02T04:42:00.000Z
 featured: false
 categories:
   - Article
