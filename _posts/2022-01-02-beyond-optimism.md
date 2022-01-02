@@ -31,9 +31,9 @@ Leading from pessimism is particularly challenging. “Follow me! There are prob
 
 ## A paradox that isn’t
 
-So you have this balancing act. Too optimistic and you’re going to neglect important problems. Too pessimistic and you’re going to stagnate where you are. When your focus is being drawn to some risk or problem, you may wonder: is this my pessimism getting me down, or is it realism saving me from going over a cliff?
+So you have this balancing act. Too optimistic, and you’re going to neglect important problems. Too pessimistic, and you’re going to stagnate where you are. When your focus is being drawn to some risk or problem, you may wonder: is this my pessimism getting me down, or is it realism saving me from going over a cliff?
 
-I learned a great heuristic for handling this recently from Jim Collins’ book *Good To Great*. The book has a few interesting mental models for leadership – I wrote [a brief review of it on Goodreads](https://www.goodreads.com/review/show/3743192696?book_show_action=false) – but I found its take on optimism and pessimism in leadership particularly useful. According to the book, great companies generally adopt this mindset:
+A great heuristic for handling this is described in Jim Collins’ book *Good To Great*. The book has a few interesting mental models for leadership – I wrote [a brief review of it on Goodreads](https://www.goodreads.com/review/show/3743192696?book_show_action=false) – but I found its take on optimism and pessimism in leadership particularly useful. According to the book, great companies generally adopt the following mindset:
 
 > You must have the discipline to confront the most brutal facts of your current reality, whatever they might be. At the same time, you must maintain unwavering faith that you can and will prevail in the end, regardless of the difficulties.
 
@@ -41,8 +41,8 @@ I learned a great heuristic for handling this recently from Jim Collins’ book 
 
 There is no need to strike some universal balance of optimism vs. pessimism, or to attempt to reason through every unknown. Foster tenacious optimism about the long term – stay confident in your ability to overcome serious problems. Meanwhile, channel the pessimistic side of your brain into clearly acknowledging the reality in front of you.
 
-Jason Crawford, in the MIT Technology Review, [recently proposed the term “solutionism” for this way of thinking](https://www.technologyreview.com/2021/07/13/1028295/proud-solutionist-history-technology-industry/). Whether we’re considering climate change, a product, or our personal lives, we benefit greatly from a mindset that both acknowledges the severity of problems *and* our potential for overcoming them.
+Jason Crawford, in the MIT Technology Review, [recently proposed the term “solutionism” for this way of thinking](https://www.technologyreview.com/2021/07/13/1028295/proud-solutionist-history-technology-industry/). In so many endeavours, **we benefit from a mindset that both acknowledges the severity of problems *and* our potential for eventually overcoming them.**
 
-It’s this mindset that leads to best kind of leadership: confident experimentation. Confidence in the long term direction, bolstered by a willingness to take a series of iterative bets on what path will lead us there.
+It’s this mindset that fuels one of the most productive activities out there: confident experimentation. Confidence in the long term direction, bolstered by a willingness to take a series of iterative bets on what path will lead us there.
 
 Not blind optimism, and certainly not pessimism – just a thoughtful path forward.
