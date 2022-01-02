@@ -2,7 +2,7 @@
 layout: post
 author: allen
 title: Beyond Optimism
-summary: A mindset for overcoming problems.
+summary: On a mindset for doing hard things.
 date: 2022-01-01T20:30:37.360Z
 featured: false
 categories:
