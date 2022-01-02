@@ -21,7 +21,7 @@ Much has been written about the benefits of optimism. Positive thinking is said 
 
 However, undue optimism – blind optimism – has caused many a shipwreck. Besides the literal shipwrecks, stubborn optimism has led countless leaders to ignore uncomfortable facts, minimize signals that things are off track, and bet everything on unwinnable gambits.
 
-Read enough biographies and you’ll see a common pattern: flush with confidence from recent successes, our protagonist will ignore a massive problem until it’s too late. It could be a major industry shift, a big bet gone wrong, or the fact [the product basically just doesn’t work and might not even be possible as described and has anybody noticed it’s feeling a bit fraudy in here?](https://www.goodreads.com/book/show/37976541-bad-blood).
+Read enough biographies and you’ll see a common pattern: flush with confidence from recent successes, our protagonist will ignore a massive problem until it’s too late. It could be a major industry shift, a big bet gone wrong, or the fact [the product basically just doesn’t work and might not even be possible as described and has anybody noticed it’s feeling a bit fraudy in here?](https://www.goodreads.com/book/show/37976541-bad-blood)
 
 So perhaps we don’t want to be *too* optimistic. Optimism gets things moving, but in high doses it can lead you off a cliff.
 
@@ -33,7 +33,7 @@ Leading from pessimism is particularly challenging. “Follow me! There are prob
 
 So you have this balancing act. Too optimistic, and you’re going to neglect important problems. Too pessimistic, and you’re going to stagnate where you are. When your focus is being drawn to some risk or problem, you may wonder: is this my pessimism getting me down, or is it realism saving me from going over a cliff?
 
-A great heuristic for handling this is described in Jim Collins’ book *Good To Great*. The book has a few interesting mental models for leadership – I wrote [a brief review of it on Goodreads](https://www.goodreads.com/review/show/3743192696?book_show_action=false) – but I found its take on optimism and pessimism in leadership particularly useful. According to the book, great companies generally adopt the following mindset:
+A great approach for handling this is described in Jim Collins’ book *Good To Great*. The book has a few interesting mental models for leadership – I wrote [a brief review of it on Goodreads](https://www.goodreads.com/review/show/3743192696?book_show_action=false) – but I found its take on optimism and pessimism in leadership particularly useful. According to the book, great companies generally adopt the following mindset:
 
 > You must have the discipline to confront the most brutal facts of your current reality, whatever they might be. At the same time, you must maintain unwavering faith that you can and will prevail in the end, regardless of the difficulties.
 
