@@ -11,7 +11,7 @@ tags:
   - thoughtfulness
   - teams
 ---
-We’re often called to to consider future events. While you may endeavour to be a realist – evaluating what may come based on the facts and odds – the future is inherently uncertain. Whether we like it or not, gut judgement drives a lot of how we anticipate and prepare for the future.
+We’re often called on to consider future events. While you may endeavour to be a realist – evaluating what may come based on the facts and odds – the future is inherently uncertain. Whether we like it or not, gut judgement drives a lot of how we anticipate and prepare for the future.
 
 So faced with an uncertain future, how optimistic should we strive to be?
 
