@@ -8,7 +8,7 @@ featured: false
 categories:
   - Article
 tags:
-  - steamclock
+  - products
 ---
 Project management is, roughly, the art of ensuring a team gets what needs to be done, done.
 
