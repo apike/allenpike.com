@@ -13,19 +13,19 @@ tags:
 
 Recently my team has been putting together some case studies. You know, telling the story of things we’ve built in a more timeless way than a 6-year-old blog post exclaiming “this is launching today, check it out!” with a link that has since become a 404.
 
-When it came time to revisit [the development of Two Spies](https://steamclock.com/work/two-spies),  most of the fun tiny stories that went in to such an ostensibly simple project didn’t make it into a one-page case study. So, I wanted to share one of those details with you: how the game’s city-closing logic came about.
+When it came time to revisit [the development of Two Spies](https://steamclock.com/work/two-spies),  most of the tiny stories that went in to such an fun project didn’t make it into a one-page case study. So, I wanted to share one of those many details: how the game’s city-closing logic came about.
 
 It all goes back to our extensive play testing. 
 
 *CUE: That [one harp sound effect](https://www.youtube.com/watch?v=l8EO9Y1ZO9E) that for some reason means a flashback is happening.*
 
-We had a problem – one common in many games’ evolution. Some rounds would be a lot of fun, and some rounds would be damn boring. In particular, sometimes rounds would drag on for far too long.
+We had a problem – one common in many games’ evolution. Some rounds would be a lot of fun, and some rounds would be damn boring. In particular, depending on what your opponent did, rounds could drag on and on.
 
-So we made a number of iterations to improve how fast rounds completed. We wanted to offer more player abilities that kept things moving and presented interesting decisions, and make it so you could always overcome a player that was “turtling” – basically hiding in a corner all game with their head in their shell.
+We made a number of iterations to improve how fast rounds completed. We wanted to offer more player abilities that kept things moving, present more interesting decisions, and make sure you could always overcome a player that was “turtling” – you know, hiding in a corner all game with their head in their shell.
 
-Before long, we’d achieved our goal: hiding in a corner was an objectively bad strategy. Unfortunately, however, despite the strategy being bad, players would still sometimes try it. And when they did, the round would last *forever*. Well, not forever, but maybe 4x as long as normal. Which is 16x as long as you want a game to last, if your opponent is just sitting on their ass somewhere, hoping you’ll make a mistake before you overpower them.
+Before long, we’d achieved our goal: hiding in a corner doing nothing was an objectively bad strategy. Unfortunately, however, despite the strategy being bad, players would still sometimes try it. You know, to be annoying. And when they did, the round would last *forever*. Well, not forever, but maybe 4x as long as normal. Which is 16x as long as you want a game to last, if your opponent is just sitting on their ass somewhere, hoping you’ll make a mistake before you overpower them.
 
-Back in the day, game developers would cap round length with some kind of time limit. It worked, but it always felt a little unsatisfying. Luckily for us, Fortnite and PUBG had recently made famous a much better anti-turtling mechanic: The Storm. The idea being that as the game progresses, the area you can play in shrinks, pushing y’all together into an exciting endgame showdown.
+Back in the day, game designers would cap round length with some kind of time limit. It worked, but it always felt a little unsatisfying. Luckily for us, Fortnite and PUBG had recently made famous a much better anti-turtling mechanic: The Storm. The idea being that as the game progresses, the area you can play in shrinks, pushing y’all together into an exciting endgame showdown.
 
 So I quickly hacked together a prototype that would close cities at the edges of the map if the game went on too long – and it worked! Usually. Usually it worked. Occasionally, it would close a city that connected one half of the map to the other half.
 
