@@ -25,6 +25,8 @@ We had a problem – one common in many games’ evolution. Some rounds would be
 
 We made a number of iterations to improve how fast rounds completed. We wanted to offer more player abilities that kept things moving, present more interesting decisions, and make sure you could always overcome a player that was “turtling” – you know, hiding in a corner all game with their head in their shell.
 
+<img src="/images/2022/spies-dominating.jpg">
+
 Before long, we’d achieved our goal: hiding in a corner doing nothing was an objectively bad strategy. Unfortunately, however, despite the strategy being bad, players would still sometimes try it. You know, to be annoying. And when they did, the round would last *forever*. Well, not forever, but maybe 4x as long as normal. Which is 16x as long as you want a game to last, if your opponent is just sitting on their ass somewhere, hoping you’ll make a mistake before you overpower them.
 
 Back in the day, game designers would cap round length with some kind of time limit. It worked, but it always felt a little unsatisfying. Luckily for us, Fortnite and PUBG had recently made famous a much better anti-turtling mechanic: The Storm. The idea being that as the game progresses, the area you can play in shrinks, pushing y’all together into an exciting endgame showdown.
