@@ -19,6 +19,8 @@ It all goes back to our extensive play testing.
 
 *CUE: That [one harp sound effect](https://www.youtube.com/watch?v=l8EO9Y1ZO9E) that for some reason means a flashback is happening.*
 
+-----
+
 We had a problem – one common in many games’ evolution. Some rounds would be a lot of fun, and some rounds would be damn boring. In particular, depending on what your opponent did, rounds could drag on and on.
 
 We made a number of iterations to improve how fast rounds completed. We wanted to offer more player abilities that kept things moving, present more interesting decisions, and make sure you could always overcome a player that was “turtling” – you know, hiding in a corner all game with their head in their shell.
@@ -32,7 +34,6 @@ So I quickly hacked together a prototype that would close cities at the edges of
 This was… not great. If the players were on different sides of the map, it would turn an overlong game to an interminable one. Curses.
 
 <img src="/images/2022/spies-split.jpg">
-*Now you get over here, you rascal!*
 
 So what I needed to do was exclude a city from closing if it would divide the map. Using math.
 
@@ -43,7 +44,6 @@ So cool, I find an open source example of finding articulation points, port it t
 Except there was one remaining problem. Closing cities semi-randomly would sometimes leave a string of cities connected in a one-dimensional line. Now, there are some games that are interesting to play in one dimension – [QWOP](http://www.foddy.net/Athletics.html), for example – but Two Spies was not one of them.
 
 <img src="/images/2022/spies-line.jpg">
-*When there is no interesting decision, there is no fun.*
 
 So, goal #2 was: don’t create long lines of cities. Unfortunately, unlike the search term “graph theory identify node that splits graph”, there aren’t a lot of useful results for “graph theory identify node that doesn’t make graph more… liney”. The solution here used an inelegant but effective search through the possible choices, weighing them for this factor and a few others that would tend towards maintaining an interesting map shape as it shrank.
 
