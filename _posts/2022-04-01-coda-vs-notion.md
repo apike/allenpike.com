@@ -50,7 +50,7 @@ The old-school way to review changes would be to use a word processor’s Track 
 
 Coda *nominally* offers a version history, but it’s more of a proof of concept than a thing for people to use. It offers you a list of all previous versions for the entire doc hierarchy. You can scroll through those versions – some mere seconds apart from one another – but there’s no indication which of them actually affected the page you’re looking at, so you can’t actually use it to answer questions like “when did this content change last” or “what new sections did Maria add to this guide?” or any other meaningful question relating to what’s new.
 
-This seems like kind of an odd deficiency for a featureful product geared towards writing and sharing docs. Wouldn’t any team that is collaborating on a guide, policy, proposal, or other written doc want this feature? 
+This seems like kind of an odd deficiency for a featureful product geared towards writing and sharing docs. **Wouldn’t any team that is collaborating on a guide, policy, proposal, or other written doc want this feature? 🤔**
 
 Coda’s product team is pretty active and engaged, frequently shipping new features large and small, so I went to their forums to see if this was on its way, and leave my two cents. The [thread for this issue](https://community.coda.io/t/view-history-per-page/13381) has been pretty active, so they’re certainly aware of the need. In September ’21 the Coda team shared an update:
 
