@@ -30,9 +30,9 @@ You see, [Coda](https://coda.io/) had the structure we liked in Notion, where do
 
 Okay, there were also a couple things beyond the emoji that we liked about Coda, for example:
 
-1. Coda had more robust support for tables than Notion in our testing, and the Coda team was specifically focused on developing dynamic and scriptable functionality around tables and data. Maybe it could replace Google Sheets for us too?
-2. The way editing simple lists works in Coda was more natural, as opposed to Notion which had some really weird editor behaviours. Perhaps the worst of these was that selecting text across bullet points would cause the selection in Notion to “blow up” and start covering entire blocks of content that you didn’t want to select.
-3. You need to believe me how much nicer the page-icon emoji thing is in Coda. Not only do they have way more icons than just the standard emoji set, but they also do a good job of letting you type e.g. “research” and it shows research-related icons. If you type “research” into Notion’s page-icon picker, you get no results. Coda even auto-picks an icon based on the page title! 😍
+1. **Coda had more robust support for tables than Notion in our testing**, and the Coda team was specifically focused on developing dynamic and scriptable functionality around tables and data. Maybe it could replace Google Sheets for us too?
+2. **The way editing simple lists works in Coda was more natural**, as opposed to Notion which had some really weird editor behaviours. Perhaps the worst of these was that selecting text across bullet points would cause the selection in Notion to “blow up” and start covering entire blocks of content that you didn’t want to select.
+3. **You need to believe me how much nicer the page-icon emoji thing is in Coda.** Not only do they have way more icons than just the standard emoji set, but they also do a good job of letting you type e.g. “research” and it shows research-related icons. If you type “research” into Notion’s page-icon picker, you get no results. Coda even auto-suggests icons based on the page title! 😍
 
 <img src="/images/2022/coda-notion-emoji.jpg" >
 <div class="centered"><p>In Coda, a reasonable and nice page icon is a single click away – no emoji-hunting required.</p></div>
@@ -41,7 +41,7 @@ So after building out a demo-scale version of our docs in both Coda and Notion �
 
 It was great!
 
-But – of course, obviously – as we started to run our company with docs, there were some issues. Things we noticed that weren’t so obvious at demo-scale, that indicated to us that the use case of creating a knowledge base in Coda wasn’t as important to the Coda team than it was us.
+But – of course, obviously – we started to hit issues with Coda. Things that weren’t so obvious at demo-scale, that give me the sense that creating a knowledge repository isn't the use case Coda is really focused on.
 
 ## Take a look, I made some changes
 Here’s an example. A common thing you might want to do when collaborating on a doc – a proposed policy, a brief, a guide, whatever – is have one or more team members make some changes, then have another team member to review those changes.
