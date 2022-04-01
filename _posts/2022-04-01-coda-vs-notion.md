@@ -11,13 +11,15 @@ tags:
   - writing
 ---
 
-At Steamclock, [we like to share docs](https://allenpike.com/2021/how-to-write-docs-people-read). Guides, notes, plans – whatever helps get us on the same page and working more asynchronously.
+At Steamclock, [we like to share docs](https://allenpike.com/2021/how-to-write-docs-people-read). Guides, notes, plans – writing helps get think and working more asynchronously.
 
 Google Docs is okay for this purpose, but by early 2021, we knew we’d outgrown it. We’d seen glimpses of what more modern knowledge base and note-taking apps could do, and we wanted a piece of that. Something that would make our shared knowledge easier to find, navigate, and collaborate on. And ideally, something that was, I don’t know, a bit nicer?
 
-We could have just gone straight to [Notion](https://www.notion.so/). We’d seen our clients and partners getting good mileage out of Notion, which encourages a nice hierarchical structure for docs, making it easy for team members to quickly see related docs. And, critically, Notion lets you label each page with an emoji for easy identification and a little bit of delight. 
+We could have just gone straight to [Notion](https://www.notion.so/). We’d seen people getting good mileage out of Notion, and the way its hierarchical structure makes related docs easily findable. And, critically, Notion lets you label each page with an emoji. Very critical.
 
-Still, we didn’t want to just bandwagon the default thing everybody else was using, especially given how unintuitive Notion’s text editing behaved at times. We wanted to put in a bit of research. A bake-off, of sorts. So we surveyed the field.
+Still, we didn’t want to just bandwagon the default thing everybody else was using, especially give Notion's fairly unintutiive text editing and selection behaviour. We wanted to put in a bit of research. A bake-off, of sorts. So we surveyed the field.
+
+## Any Challengers?
 
 - Confluence: All function, no form. Nope.
 - OneNote: Not really intended for building a company knowledge base. Nope.
@@ -33,6 +35,7 @@ Okay, there were also a couple things beyond the emoji that we liked about Coda,
 3. You need to believe me how much nicer the page-icon emoji thing is in Coda. Not only do they have way more icons than just the standard emoji set, but they also do a good job of letting you type e.g. “research” and it shows research-related icons. If you type “research” into Notion’s page-icon picker, you get no results. Coda even auto-picks an icon based on the page title! 😍
 
 <img src="/images/2022/coda-notion-emoji.jpg" >
+<div class="centered"><p>In Coda, a reasonable and nice page icon is a single click away – no emoji-hunting required.</p></div>
 
 So after building out a demo-scale version of our docs in both Coda and Notion – a dozen or so docs in each – we decided that Coda was just a bit more compelling for our needs. We made the switch, worked through porting our various docs, guides, and notes, and it was so much better than Google Docs! We immediately tore into expanding and refining our guides on various things, ranging from onboarding to project management to development process and more. We started moving more of our decision-making processes to be asynchronous and doc-oriented. We started running more of our company with docs.
 
@@ -66,7 +69,9 @@ So, pretty quickly – but not quickly enough that we noticed during evaluation 
 
 The difficulty of searching for pages has led to a sense on our team that they can't find things in Coda. It increases the friction around referencing or maintaining pages, and reduces the overall participation of our team in our docs and guides. This is bad.
 
-(Show step 1 and 2 of not being able to find a page)
+<img src="/images/2022/coda-search-1.jpg" >
+
+<img src="/images/2022/coda-search-2.jpg" >
 
 Unlike the issue with version history, it *seems* like we are the only Coda users who care about this? Or at least, [I’m the only one complaining about it](https://community.coda.io/t/surface-pages-in-search-results/23765/3). This issue has been such a drag for our team that I’m legitimately curious how this isn’t something Coda is getting a lot of complaints about. It raises so many questions in my mind:
 
