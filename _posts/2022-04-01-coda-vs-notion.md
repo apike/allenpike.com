@@ -98,4 +98,4 @@ Meanwhile, while Coda was [rebuilding their editor to better support tables and 
 
 I doubt the Notion team fixed this just to aggravate me, an internet rando who’d recently pitched bringing their team over to a competing product in part because of this minor but infuriating UX quirk. But maybe, I don’t know.
 
-I’ll be keeping an eye out on Notion’s emoji picker. As of April 2022, it’s still woefully simplistic compared to Coda’s. With luck it will stay so, staving off unwanted thoughts of migrating our carefully curated but somewhat hard to find repository of docs to yet another system.
+I’ll be keeping an eye out on Notion’s emoji picker. As of April 2022, it’s still woefully simplistic compared to Coda’s. With luck it will stay so, staving off unwanted thoughts of migrating our carefully curated – but somewhat hard to search – repository of docs to yet another system.
