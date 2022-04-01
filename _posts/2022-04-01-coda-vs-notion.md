@@ -65,9 +65,11 @@ A huge selling point of Coda or Notion over Google Docs is the ability to organi
 
 However, Coda's search function doesn't actually surface these pages in their results. Coda searches for *docs*, which are the root-level containers like “Project Flamingo” or “iOS Development Guides” – that can have dozens of short mini-docs within them, which Coda calls Pages. Each page will have its own title, topic, and – yes – emoji.
 
-So, pretty quickly – but not quickly enough that we noticed during evaluation – you end up in a circumstance where you have a doc like "Employee Handbook" with a short but important page titled "Reimbursements”. But if you type `reimbursements` into search, Coda only returns the top-level handbook that has, since our team is so helpful and proactive at documenting things, a lot of other topics in it.
+So, pretty quickly – but not quickly enough that we noticed during evaluation – you end up in a circumstance where you have a doc like "Employee Handbook" with a short but important page titled "Reimbursements”. But if you type `reimbursements` into search, Coda only returns the top-level handbook that has, since our team is so darn good at documenting things, a lot of other topics in it.
 
-The difficulty of searching for pages has led to a sense on our team that they can't find things in Coda. It increases the friction around referencing or maintaining pages, and reduces the overall participation of our team in our docs and guides. This is bad.
+The difficulty of searching for pages has led to a sense on our team that **they can't find things in Coda**. It increases the friction around referencing or maintaining pages, and reduces the overall participation of our team in our docs and guides.
+
+This is bad.
 
 <img src="/images/2022/coda-search-1.jpg" >
 
@@ -77,18 +79,18 @@ Unlike the issue with version history, it *seems* like we are the only Coda user
 
 - What’s the point of writing a page if nobody can find it?
 - Am I just an extreme stickler for my team being able to effectively find docs?
-- Are Coda users working around this by making a single-page Doc for every important page?
-- Are people maybe creating some kind of “pointer” doc to help people find important pages instead of using search?
+- Are Coda users using some kind of weird workaround for this?
 - Or, and this seems maybe most likely, are teams that want to build guides and handbooks like ours just choosing Notion instead of Coda? Has the population of Coda users self-selected itself to to mostly care about tables rather than team-facing written docs like these?
-- Are we the only ones using Coda instead of something like Notion primarily for company handbooks, notes, process guides, and the like?
 
-It seems to me, from reading the tea leaves, like Coda’s development team is moving pretty rapidly, but they’re moving rapidly in the direction of providing more tools around tables and data-driven workflows. They don’t seem particularly concerned about making Coda a really great place to write, collaborate on, and share written documentation for your team.
+It seems to me, from reading the tea leaves, like Coda’s development team is moving pretty rapidly, but they’re moving rapidly in the direction of providing more tools around tables and data-driven workflows. They don’t seem particularly focused on making Coda a really great place to write, collaborate on, and share written documentation for your team.
 
-And don’t get me wrong – Coda’s functionality around tables is interesting. They have a table model where tables are actually kind of more like mini databases. It adds a learning curve since they do not really behave like spreadsheets, but it seems like a potentially fruitful path towards letting people build smart docs that help with the kind of project and process “glue” that people used FileMaker for back in the day.
+And don’t get me wrong – Coda’s functionality around tables is cool. They have a model where tables are actually kind of more like mini databases. It adds a learning curve since they do not really behave like spreadsheets, but it seems like a potentially fruitful path towards letting people build smart docs that help with the kind of project and process “glue” that people used FileMaker for back in the day.
 
-But that’s not our most important need. We need a great tool for sharing and maintaining written documentation. Things like guides, policies, and other prose-centric docs certainly can be maintained in Coda, and it’s better than Google Docs for sure, but we've found that as we built out these kinds of docs, there were missing features that made finding, using, and maintaining written docs kind of frustrating.
+But for teams that are focused on written docs, that's just a bonus. Extra credit.
 
-So a year in to using Coda, it's been an improvement over Google Docs, but I'm increasingly confident that for our writing-centric needs, Notion would have been a bit of a better fit. Not *that* much better, mind you. But enough better that it kind of annoys me.
+We need a great tool for sharing and maintaining written documentation. Things like guides, policies, and other prose-centric docs certainly can be maintained in Coda, and it’s better than Google Docs for sure, but we've found that as we built out these kinds of docs, there were missing features that made finding, using, and maintaining written docs kind of frustrating.
+
+So a year in to using Coda, I'm increasingly confident that for our writing-centric needs, Notion would have been a bit of a better fit. Not *that* much better, mind you. But enough better that it kind of annoys me.
 
 Meanwhile, while Coda was [rebuilding their editor to better support tables and be more scriptable](https://coda.io/@coda/the-doc-that-brings-it-all-together), Notion was rebuilding their editor to better support text. In January, Notion shared a video demoing their fix for the very same text selection behaviour that initially sparked my “there must be something better than Notion” quest last year.
 
@@ -96,4 +98,4 @@ Meanwhile, while Coda was [rebuilding their editor to better support tables and 
 
 I doubt the Notion team fixed this just to aggravate me, an internet rando who’d recently pitched bringing their team over to a competing product in part because of this minor but infuriating UX quirk. But maybe, I don’t know.
 
-I’ll be keeping an eye out on Notion’s emoji picker. As of April 2022, it’s still woefully simplistic compared to Coda’s. With luck it will stay so, staving off unwanted thoughts of migrating our carefully curated but somewhat hard to find repository of docs.
+I’ll be keeping an eye out on Notion’s emoji picker. As of April 2022, it’s still woefully simplistic compared to Coda’s. With luck it will stay so, staving off unwanted thoughts of migrating our carefully curated but somewhat hard to find repository of docs to yet another system.
