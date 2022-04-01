@@ -17,7 +17,7 @@ Google Docs is okay for this purpose, but by early 2021, we knew we’d outgrown
 
 We could have just gone straight to [Notion](https://www.notion.so/). We’d seen people getting good mileage out of Notion, and the way its hierarchical structure makes related docs easily findable. And, critically, Notion lets you label each page with an emoji. Very critical.
 
-Still, we didn’t want to just bandwagon the default thing everybody else was using, especially give Notion's fairly unintutiive text editing and selection behaviour. We wanted to put in a bit of research. A bake-off, of sorts. So we surveyed the field.
+Still, we didn’t want to just bandwagon the default thing everybody else was using, especially give Notion's fairly unintuitive text editing and selection behaviour. We wanted to put in a bit of research. A bake-off, of sorts. So we surveyed the field.
 
 ## Any Challengers?
 
