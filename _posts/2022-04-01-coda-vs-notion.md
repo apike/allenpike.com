@@ -2,7 +2,7 @@
 layout: post
 author: allen
 title: Coda vs. Notion, and Emoji Pickers
-summary: On doc platforms for sharing knowledge.
+summary: On tools for building knowledge together.
 date: 2022-04-01T12:42:18.627Z
 featured: false
 categories:
