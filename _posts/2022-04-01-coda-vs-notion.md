@@ -21,10 +21,10 @@ Still, we didn’t want to just bandwagon the default thing everybody else was u
 
 ## Any Challengers?
 
-- Confluence: All function, no form. Nope.
-- OneNote: Not really intended for building a company knowledge base. Nope.
-- ClickUp: “One app to replace them all” – sounds a bit ominous.  We already *have* project management software, we’re just looking for a place to keep and share notes and docs. So, nope.
-- Coda: Not the code editor that [became Nova](https://panic.com/coda/) – the all-in-one doc editor. This one was interesting.
+- **Confluence**: All function, no form. Nope.
+- **OneNote**: Not really intended for building a company knowledge base. Nope.
+- **ClickUp**: “One app to replace them all” – sounds a bit ominous.  We already *have* project management software, we’re just looking for a place to keep and share notes and docs. So, nope.
+- **Coda**: Not the code editor that [became Nova](https://panic.com/coda/) – the all-in-one doc editor. This one was interesting.
 
 You see, [Coda](https://coda.io/) had the structure we liked in Notion, where docs are organized into hierarchical sub-pages, labelled with the all-important emoji. But in Coda, there were more emoji to pick from! So that settled it.
 
