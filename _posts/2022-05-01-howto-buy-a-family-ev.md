@@ -45,7 +45,7 @@ Let’s step through them one by one.
 ## Tactic 1: Hustle
 If you want to get a family EV this year that really checks all the boxes, you’re going to have to hustle.
 
-The hot ticket of 2022 is what you could call the mid-priced true EV. These are the long-awaited SUVs and crossovers that have been designed from the platform up to be EVs, priced at the entry level for this market – currently around $45k CAD. All four of these models were released in the last year:
+The hot ticket of 2022 is what you could call the mid-priced true EV. These are the long-awaited SUVs and crossovers that have been designed from the platform up to be EVs, priced at the entry level for this market – currently around $45k CAD, thus qualifying for $8k in rebates. All four of these models were released in the last year:
 
 - **Hyundai Ioniq 5**
 - **Kia EV6**
