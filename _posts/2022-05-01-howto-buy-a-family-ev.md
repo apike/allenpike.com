@@ -133,11 +133,11 @@ EVs are great, yes. They are the future. But trying to get one in 2022 means exp
 
 As deeply unsatisfying as it is, the most rational tactic for many will just be to wait another year or three. Over the next couple years, there are going to be more and more models debuting, with more and more supply of each as global chip shortages are finally worked out, and the supply of used EVs will start to, you know, exist.
 
-A bit further out, once manufacturers can fulfill the demand for mid-priced EVs, we’ll start to see truly affordable options come onto the market. As volumes increase and charging infrastructure gets better, manufacturers will start offering high-volume EVs with modest batteries, and modest prices to match. It may take some time, but it’s coming.
+A bit further out, once manufacturers can meet the demand for mid-priced EVs, we’ll start to see truly affordable options come onto the market. As volumes increase and charging infrastructure fills out, manufacturers will start offering high-volume EVs with modest batteries, and modest prices to match. It may take time, but it’s coming.
 
 That may or may not be consolation. I know the frustration of living in a world where there is a really great car for you *in theory*, but you just can’t get your hands on one. But you just need patience.
 
 Or maybe you need to embark on a long and arduous journey of hustling, compromising, and/or overspending.
 
-Either way, when it works out, the future is going to be pretty great.
+Either way, when it works out, you'll have a great car.
 
