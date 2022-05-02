@@ -108,7 +108,7 @@ Money doesn’t solve all problems – but it solves some. If you desperately ne
 
 Mind you, most people are not going to spend six figures on a used car.
 
-In Canada, the most in-demand EVs are clustered around the $45k price range – partly because of battery costs, and partly because this was the most you could charge for an EV and still approve for the generous government rebate program. That program’s ceiling has [just been increased to $55k](https://electricautonomy.ca/2022/04/25/canada-federal-rebate-evs/), so demand for EVs in that $55k-and-under range is going to continue to be hot, hot hot.
+In Canada, the most in-demand EVs are clustered around the $45k price range – partly because of battery costs, and partly because this was the most you could charge for an EV and still approve for that delicious government rebate. That program’s ceiling has [just been increased to $55k](https://electricautonomy.ca/2022/04/25/canada-federal-rebate-evs/), so demand for EVs in that $55k-and-under range is going to continue to be hot, hot hot.
 
 If you have the wherewithal though, cranking up your budget outside that range will open up some options. I mean, you’re going to save a lot of money on gas, right? And you’ll never again need to maintain or replace an engine, spark plugs, motor oil, muffler, catalytic converter, fuel pump, alternator, or oil filter, or transmission. Doesn’t that mean you can afford to spend tens of thousands of dollars more on a car? 🤔
 
