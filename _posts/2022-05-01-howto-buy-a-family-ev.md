@@ -45,7 +45,7 @@ Let’s step through them one by one.
 ## Tactic 1: Hustle
 If you want to get a family EV this year that really checks all the boxes, you’re going to have to hustle.
 
-The hot ticket of 2022 is what you could call the mid-priced true EV. These are the long-awaited SUVs and crossovers that have been designed from the platform up to be EVs, priced at the entry level for this market – currently around $45k CAD, thus qualifying for $8k in rebates. All four of these models were released in the last year:
+The hot ticket of 2022 is what you could call the mid-priced true EV. These are the long-awaited SUVs and crossovers that have been designed from the platform up to be EVs, priced at the entry level for this market – currently around $45k CAD, qualifying for $8k in sweet rebates. All four of these models were released in the last year:
 
 - **Hyundai Ioniq 5**
 - **Kia EV6**
@@ -60,7 +60,7 @@ What do I mean by crafty? I’m talkin’ things like:
 
 - Contacting and working with various dealers at once
 - Putting down a deposit on a model that hasn’t come out yet
-- Following rumor blogs and subreddits, watching for signs for stock and releases of inventory
+- Following rumor blogs and subreddits, watching for signs of stock and releases of inventory
 - Subscribing to be notified so you can urgently put in a pre-order when they open up
 - Working to determine if your “pre-order” is a real manufacturer-legit reservation with a verified spot in line, or just a name in a spreadsheet that a salesperson at a dealership hopes to convert into an order next time the manufacturer starts accepting reservations again
 - Agreeing to buy a vehicle you haven’t even test driven yet
