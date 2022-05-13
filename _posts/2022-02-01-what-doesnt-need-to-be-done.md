@@ -4,11 +4,12 @@ author: allen
 title: What Doesn't Need to Be Done
 summary: Finishing things requires simplification.
 date: 2022-02-01T23:42:18.627Z
-featured: false
+featured: true
 categories:
   - Article
 tags:
   - products
+  - best
 ---
 Project management is, roughly, the art of ensuring a team gets what needs to be done, done.
 
