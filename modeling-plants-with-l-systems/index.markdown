@@ -30,13 +30,15 @@ Plants are a common part of everyday life, but are very difficult to model convi
 ## Description
 
 
-This project implements some of the techniques for modeling plants in pbrt using L-Systems. L-Systems were developed by Prusinkiewicz and collaborators at the University of Calgary. They discuss using L-Systems to define the movement of a LOGO-like turtle drawing algorithm. The alphabet of the L-Systems define different actions the drawing turtle can take. The L-System is then expanded into a full set of drawing instructions, which are then followed. By adding parameters to the grammar, the L-Systems can model higher-level plants like trees, as opposed to simple algae. Initially a 2D implementation was developed, but 3D plants can be modeled by increasing the number of parameters from 3 to 7. Additionally, a stochastic element can be applied to some of the elements in the grammar, which can make each model's details nondeterministic. This makes modeling a forest of plants possible, with each one having subtle and interesting variations.
+This project implements some of the techniques for modeling plants in pbrt using L-Systems. L-Systems were developed by Prusinkiewicz and collaborators at the University of Calgary. They discuss using L-Systems to define the movement of a LOGO-like turtle drawing algorithm. An L-System's alphabet defines different actions the drawing turtle can take. The L-System is then expanded into a full set of drawing instructions, which are then followed.
+
+By adding parameters to the grammar, the L-Systems can model higher-level plants like trees, as opposed to simple algae. Initially a 2D implementation was developed, but 3D plants can be modeled by increasing the number of parameters from 3 to 7. Additionally, a stochastic element can be applied to some of the elements in the grammar, which can make each model's details nondeterministic. This makes modeling a forest of plants possible, with each one having subtle and interesting variations.
 
 
 ## Implementation
 
 
-The plan was to implement L-Systems as a shape plugin in pbrt. This would allow you to define a L-System in a .pbrt scene file, as well as any other scene settings, and have pbrt render the output. The plant was to first render simple 2D L-Systems, evolving to support more parameters and more realistic plant models iteratively.
+The plan was to implement L-Systems as a shape plugin in pbrt. This would allow you to define a L-System in a .pbrt scene file, as well as any other scene settings, and have pbrt render the output. The plan was to first render simple 2D L-Systems, evolving to support more parameters and more realistic plant models iteratively.
 
 
 ## Results
@@ -94,7 +96,7 @@ For a group of plants to look realistic, they need to have random attributes. Ac
 ### Tree Realism
 
 
-The plant L-System wasn't treelike enough for my taste. I set out to improve the realism, which was more time-consuming than I expected. I first changed the leaves so they were filled shapes instead of outlines, and also added randomization to the angle and size of each leaf. I then modified the L-System to removed the leaves from the trunk portions of the tree, and created textures for the [leaf](/images/461/leaf.exr) and [bark](/images/461/bark.exr) surfaces. Another improvement I made was  modifying the branching so that the branches' origins are slighly inside their parent, rather than starting a the same point the parent terminated. The original definition allowed you to see cracks between the cylinders that make up the tree segments, but now the tree appears smooth. I also did [a high resolution render of this model](/images/461/huge-tree.jpg).
+The plant L-System wasn't treelike enough for my taste. I set out to improve the realism, which was more time-consuming than I expected. I first changed the leaves so they were filled shapes instead of outlines, and also added randomization to the angle and size of each leaf. I then modified the L-System to remove the leaves from the trunk portions of the tree, and created textures for the [leaf](/images/461/leaf.exr) and [bark](/images/461/bark.exr) surfaces. Another improvement I made was  modifying the branching so that the branches' origins are slighly inside their parent, rather than starting a the same point the parent terminated. The original definition allowed you to see cracks between the cylinders that make up the tree segments, but now the tree appears smooth. I also did [a high resolution render of this model](/images/461/huge-tree.jpg).
 
 
 ![](/images/461/tree.png)
@@ -106,7 +108,7 @@ The plant L-System wasn't treelike enough for my taste. I set out to improve the
 ### Difficulties
 
 
-Implementing an L-System shape plugin proved more difficult than I expected. One problem is that shapes can't have more than one type of material. Another problem is that it's awkward to define rotations and translations in a shape definition, rather than in a scene. I could have opted for implementing the entire plant as a triangle mesh, but that would have created unnecessary work compared to using cylinders. I came to realize that to get the functionality I wanted, an entirely new type of plugin, or possibly hacks to the pbrt core would be needed. Another issue was that if you generate a non-deterministic figure that you like and want to keep, it's gone forever.
+Implementing an L-System shape plugin proved more difficult than I expected. One problem is that shapes in pbrt can't have more than one type of material. Another problem is that it's awkward to define rotations and translations in a shape definition, rather than in a scene. I could have opted for implementing the entire plant as a triangle mesh, but that would have created unnecessary work compared to using cylinders. I came to realize that to get the functionality I wanted, an entirely new type of plugin, or possibly hacks to the pbrt core would be needed. Another issue was that if you generate a non-deterministic figure that you like and want to keep, it's gone forever.
 
 After enough frustration with my initial approach, I decided to write a pbrt scene file generator in a higher-level language. C++ is not as well suited to string manipulation as many higher-level languages are. This approach acheived exactly the same output in pbrt, but allowed more flexibility without hacking the guts of system. I spent some time learning Python, since I have heard great things about its ability to deal with exactly these sorts of problems. I translated the C++ code I had so far into Python as a starting point, and from then on was a lot more productive.
 
