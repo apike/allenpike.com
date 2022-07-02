@@ -11,26 +11,17 @@ tags:
   - steamclock
 ---
 
-It’s common for people to feel hesitant about writing. Before somebody even types a word, I often hear objections like “I don’t have anything important to say” or “I couldn’t really add anything, I’m not enough of an expert.” If that’s the kind of thing you might say, I have a story to share.
+A few years back, my team decided to get a custom meeting room table. In our search for something great, we were referred to a small studio that does great work: East Vancouver’s [Union Wood Co](https://www.unionwoodco.com/).
 
-Recently, I stumbled across a surprising fact: my work was cited in the Proceedings of the 18th International Conference on Geometry and Graphics. This surprised me because I don’t have anything important to say about geometry and graphics, and I am not even remotely an expert in that area.
+The team there met with us, showed us various samples, and asked thoughtful questions about what we needed.  When I asked if a table could be made to a custom shape – a superelliptical rectangle – they were all for it *and* totally [pulled it off](https://twitter.com/steamclocksw/status/1202383942248095744).
 
-I did, however, take one graduate-level computer graphics course 15 years ago. For my final project in that course, I read some papers from the '80s on using [L-sytems](https://en.wikipedia.org/wiki/L-system) to simulate plant structures. They seemed neat, so I implemented some of the formulas they described in code, and wrote a little tool that would render the results.
+Afterward, sitting at this delightful table, I reflected on why it came together so well. Getting something custom built can often be the path of frustration and expensive surprises, yet our experience was a delight. Was it because the furniture makers were experts? No. Was it because they charged a lot of money? No.
 
-I didn’t discover anything, or do anything new or novel. What I *did* do, however, was post the project [as a webpage](https://allenpike.com/modeling-plants-with-l-systems/) instead of submitting a PDF. Then, I more or less forgot about it.
+It was because they gave a shit.
 
-<img src="/images/2022/tree-realism.jpg" />
-<div class="centered"><p>Ah yes, such "realism", very impressive Allen.</p></div>
+In some ways, that’s the fundamental value proposition of a small boutique, whether it be a furniture shop or a software studio. Giving a shit as a service. Sure, you can always get a commodity good from off the shelf – when you’re selling soybean oil by the 100 ton lot, nobody wants to have a conversation with you about the subtle flavour profiles of different bean oils. But sometimes, you want to buy from someone that’s obsessed about the final product.
 
-In the intervening years I haven’t invested any time into L-systems, other than to keep the link from breaking. Despite this, a strange thing has happened. I’ve gotten emails about L-systems. I’ve gotten bizarrely high levels of traffic to my page about L-systems. 15 years later, [people](http://ivl.calit2.net/wiki/images/7/78/16_ProceduralModelingF17.pdf) are [citing](https://www.academia.edu/36948044/Cellular_automata_between_life_science_and_parametric_design_examples_of_stochastic_models_to_simulate_natural_processes_and_generate_morphogenetic_artefacts) my “work” on L-systems!
+I used to puzzle over why potential clients who reached out to me always seemed to get *more* interested in hiring us if I tried to dissuade them by asking challenging questions. I think the biggest reason is that pushing back demonstrated that I care. If you email 4 software studios for a quote and 3 say “Sure, here’s a quote” but the 4th says “Hm, we certainly could build it but we can’t be sure about cost without knowing X and Y, and here are some other concerns we’d have” then the 4th is going to seem like they give a shit.
 
-That small piece of writing has been useful to over ten thousand people. Not because it was some revelatory lightning bolt, but because I learned something and – even though I thought it was simultaneously both obscure and pretty well known – I made it a little bit more accessible to people by summarizing what I’d learned and posting it. Ta-da!
-
-If you know what to look for, you’ll see this pattern again and again. Somebody makes a habit of sharing what they’ve learned online, and some unpredictable subset of their articles ends up being surprisingly helpful to people.
-
-Of course, there are good reasons not to write. Maybe you prefer other creative outlets. Maybe you don’t get a sense of satisfaction from finishing and publishing an article. But I’d encourage you to banish “I don’t know anything worth writing about” from your list of valid reasons. You’re learning things *constantly*, and it’s so hard to predict which of those things will click for people.
-
-Out there somebody is wondering [if they should sign that NDA](https://allenpike.com/2016/disclosure-indicator-ndas), [how they can use more inclusive language](https://allenpike.com/2020/two-birds-one-scone), or [if they should drink the cream](https://allenpike.com/2020/drink-the-cream). Somebody would love to read about something you’ve learned.
-
-The only way they’ll have a chance, is if you start typing.
+So, I suppose the moral of the story is: find yourself work you can give a shit about. And work with people who give a shit. It’ll make shit a lot more pleasant – I guarantee it.
 
