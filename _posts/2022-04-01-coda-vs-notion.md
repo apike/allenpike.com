@@ -61,7 +61,7 @@ Well, that’s good to know at least. Their new editor, with better table suppor
 I would be more hopeful if this was the only mysteriously missing feature when it comes to written docs. There are others, but to me the most worrying canary is Coda’s search.
 
 ## Find! That! Page!
-A huge selling point of Coda or Notion over Google Docs is the ability to organize long docs or related docs into easily navigable and linkable titled pages with memorable little emoji, arranged in a heirarchy. It’s a key part of the whole thing.
+A huge selling point of Coda or Notion over Google Docs is the ability to organize long docs or related docs into easily navigable and linkable titled pages with memorable little emoji, arranged in a hierarchy. It’s a key part of the whole thing.
 
 However, Coda's search function doesn't actually surface these pages in their results. Coda searches for *docs*, which are the root-level containers like “Project Flamingo” or “iOS Development Guides” – that can have dozens of short mini-docs within them, which Coda calls Pages. Each page will have its own title, topic, and – yes – emoji.
 
