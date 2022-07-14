@@ -2,9 +2,9 @@
 layout: post
 author: allen
 title: Setting Two Spies Free
-summary: The end of an era.
 date: 2022-07-14T21:11:05.627Z
 featured: false
+link: "https://playspies.com/release/2022/06/season4/"
 categories:
   - Link
 ---
