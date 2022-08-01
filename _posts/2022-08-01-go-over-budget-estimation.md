@@ -4,12 +4,14 @@ author: allen
 title: How to Go Over Budget
 summary: On working within an estimate.
 date: 2022-08-01T12:42:18.627Z
+image: /images/2022/sharks-istock-square.jpg
 featured: false
 categories:
   - Article
 tags:
   - projects
   - teams
+
 ---
 
 Assembling a good project estimate can be hard. Unless you’ve shipped something similar before, you’ll probably need to consult experts, investigate risks, do product definition work, and gauge a thoughtful “iteration and surprises” buffer that considers the chance of external surprises, scope grenades, and shark attacks.
