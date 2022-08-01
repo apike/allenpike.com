@@ -12,13 +12,17 @@ tags:
   - teams
 ---
 
-Assembling a good project estimate can be hard. Unless you’ve shipped something similar before, you’ll probably need to consult experts, investigate risks, do product definition work, and gauge an appropriately sized “iteration and surprises” buffer that considers the chance of external surprises, scope grenades, and shark attacks. There’s a reason many product teams go out of their way to avoid estimating large releases and orient themselves to iteratively working on small releases in priority order: estimating big projects sucks!
+Assembling a good project estimate can be hard. Unless you’ve shipped something similar before, you’ll probably need to consult experts, investigate risks, do product definition work, and gauge an appropriately sized “iteration and surprises” buffer that considers the chance of external surprises, scope grenades, and shark attacks.
+
+There’s a reason many product teams go out of their way to avoid estimating large releases and orient themselves to iteratively working on small releases in priority order: estimating big projects sucks!
 
 Sometimes though, an estimate is a worthwhile. Perhaps you need to judge if meeting a key deadline is plausible. Maybe you need to consider whether an ambitious project is worth undertaking at all. Maybe you want somebody to fund your bold venture into shark-infested waters in search of long lost treasure. That kind of thing.
 
 So let’s say you need an estimate, you get a solid one, and the project is greenlit. It can feel like the estimate-related work is now complete: it’s given you an outline of how your project should go, and it’s gotten you approval for that path. Now your team just needs to do the thing, right? Once you’ve shipped, you can revisit the estimate and judge how good it was, and make a better estimate next time.
 
 Except.
+
+<img src="/images/2022/sharks-istock.jpg" >
 
 No software project goes exactly to plan. You’re going to work iteratively through the most important items, learning as you go. Your team is going to learn from users, have new compelling ideas about how the product could be better, and discover subtle ways why the plan as originally conceived isn’t exactly, you know, totally possible. Nobody knew the sharks have lasers on their heads. That kind of thing.
 
@@ -27,8 +31,6 @@ This is how software works. It’s more or less fine!
 The problem is that no matter how good your initial estimate is, your team still has a lot of ways to go over budget. Sort of like the famous 1944 CIA [manual on how to sabotage an organization’s productivity](https://www.hsdl.org/?abstract&did=750070), there exists a menu of simple and easy ways to sabotage a project’s budget. Ways you can take a thoughtful estimate with an appropriate buffer that was eagerly greenlit, run it in an earnest and agreeable way, yet still run face first into your budget limit before you’re even close to being done.
 
 Here are five ways to go over budget.
-
-<img src="/images/2022/sharks-istock.jpg" >
 
 ## 1. Taking new scope without steering and flagging it
 There will always be new scope.
