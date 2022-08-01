@@ -10,6 +10,7 @@ categories:
 - Article
 tags:
 - steamclock
+- projects
 
 ---
 
