@@ -9,6 +9,7 @@ categories:
   - Article
 tags:
   - products
+  - projects
   - best
 ---
 Project management is, roughly, the art of ensuring a team gets what needs to be done, done.
