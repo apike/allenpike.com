@@ -49,7 +49,7 @@ Even a great engineering team will sometimes discover a certain task is far more
 Usually though, when we hit an exploding feature, it’s worth adjusting that item’s place in the priority list. An animation that seemed like a big win at 2 days’ effort is probably worth deferring when we realize it’ll be 12 days’ effort, even if we’re already 2 days in. There is often also an 80/20 solution that will get us most of the value without taking on the big gnarly rewrite, API change, or science project for now.
 
 ## 3. Project timeline extension
-If you’ve work on projects that are more budget constrained than timeline constrained, you have probably seen this: your project is on time and on budget. Suddenly, “Congratulations! Due to an error on another team, you now have more time!” This can seem good. “Hey sweet, more time to polish stuff and make sure things are done well!”
+If you’ve worked on projects that are more budget constrained than timeline constrained, you have probably seen this: your project is on time and on budget. Suddenly, “Congratulations! Due to an error on another team, you now have more time!” This can seem good. “Hey sweet, more time to polish stuff and make sure things are done well!”
 
 Except not really. Because **time's passage changes scope**.
 
