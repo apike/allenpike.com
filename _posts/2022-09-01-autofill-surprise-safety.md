@@ -15,7 +15,7 @@ tags:
 
 A lot of things turn out the way they do because of how we safe we feel. Let me give one example.
 
-Some time ago my wife Karen asked me for some help with her computer. Ever since she’d migrated to a new Mac, Chrome’s password autofill feature would no longer trigger. I suggested a couple things for her to try, but they didn’t work and she was stuck. She unlocked her computer and left it for me to investigate.
+Some time ago my wife Karen asked me for help with her computer. Ever since she’d migrated to a new Mac, Chrome’s password autofill feature would no longer trigger. I suggested a couple things for her to try, but they didn’t work and she was stuck. She unlocked her computer and left it for me to investigate.
 
 When I dug in to the password autofill settings, I noticed something surprising. There was exactly one website listed to “Never autofill passwords”: okcupid.com. A dating site.
 
@@ -33,9 +33,9 @@ So, that was that. Mystery solved, cognitive dissonance resolved.
 
 I had a laugh, then proceeded to fix the issue (deleting Chrome’s user profile was what did the trick). I had thought it was exceedingly unlikely that Karen had a secret online dating profile, and – turns out – I was right.
 
-But man, what luck! What luck that I was present years ago when this rogue autofill entry was created. And much moreso, what luck that I felt safe enough in our relationship that I didn’t panic, didn’t jump to conclusions. That I’d had years of safe and trustworthy experiences with this person to prime my instincts correctly.
+But man, what luck! What luck that I was present years ago when this rogue autofill entry was created. And much moreso, what luck that I felt safe enough in our relationship that I didn’t panic, didn’t jump to conclusions. That I’d had years of safe and trustworthy experiences with this person that primed me to be curious instead of angry.
 
-Because of those experiences, even if I hadn’t remembered the explanation myself – even if *she* couldn’t remember the explanation – the strong foundation of a communicative and safe relationship would have prepared us well to talk it through. When something is off, we talk it through and figure it out. That can occasionally feel like work, but it’s meant that a little mystery is no match for a decades-full [trust battery](https://sketchplanations.com/the-trust-battery).
+Because of those experiences, even if I hadn’t remembered the explanation myself – even if *she* couldn’t remember the explanation – the strong foundation of a communicative and safe relationship would have prepared us well to talk it through. We have a long history of talking things through and figuring them out. That can occasionally feel like work, but one of the many rewards is that one little mystery is no match for a decades-full [trust battery](https://sketchplanations.com/the-trust-battery).
 
 ## The safety dance
 
