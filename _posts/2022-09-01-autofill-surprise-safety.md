@@ -51,4 +51,4 @@ I recently came across [some example guidance on how to foster psychological saf
 > 4. Create space for new ideas (even wild ones).
 > 5. Embrace productive conflict.
 
-These approaches were written with the workplace in mind, but in my estimation it's a decent formula for home life as well. Invest in building relationships where people expect you’ll figure it out together. It’s a safe bet.
+These approaches were written with the workplace in mind, but in my estimation it's a decent formula for home life as well. Build relationships where people expect you’ll figure it out, together. It’s a safe bet.
