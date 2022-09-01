@@ -1,7 +1,7 @@
 ---
 layout: post
 author: allen
-title: A Password Autosave Surprise
+title: A Password Autofill Surprise
 summary: On psychological safety.
 date: 2022-09-01T12:42:18.627Z
 featured: false
@@ -27,15 +27,17 @@ I stared down the one lonely item in the list. The entry that I could not explai
 
 Then, I recalled something.
 
-Years prior, my brother had visited, and was telling us about some of his misadventures in online dating. He’d showed us what okcupid.com looked like on Karen’s computer, and had demonstrated how it worked. As he’d logged in, I specifically remembered us joking, “Haha no Chrome, you don’t need to remember his password for online dating.”
+Years prior, my brother had visited, and was telling us about some of his misadventures in online dating. He’d showed us what okcupid.com looked like, on Karen’s computer, and had demonstrated how it worked. As he’d been logging in, I specifically remembered us joking, “Haha no Chrome, you don’t need to remember his password for online dating.”
 
 So, that was that. Mystery solved, cognitive dissonance resolved.
 
 I had a laugh, then proceeded to fix the issue (deleting Chrome’s user profile was what did the trick). I had thought it was exceedingly unlikely that Karen had a secret online dating profile, and – turns out – I was right.
 
-But man, what luck! What luck that I was present years ago when this rogue autofill entry was saved. And much moreso, what luck that I felt safe enough in our relationship that I didn’t panic, didn’t jump to conclusions. That I’d had years of safe and trustworthy experiences with this person to prime my instincts correctly.
+But man, what luck! What luck that I was present years ago when this rogue autofill entry was created. And much moreso, what luck that I felt safe enough in our relationship that I didn’t panic, didn’t jump to conclusions. That I’d had years of safe and trustworthy experiences with this person to prime my instincts correctly.
 
 Because of those experiences, even if I hadn’t remembered the explanation myself – even if *she* couldn’t remember the explanation – the strong foundation of a communicative and safe relationship would have prepared us well to talk it through. When something is off, we talk it through and figure it out. That can occasionally feel like work, but it’s meant that a little mystery is no match for a decades-full [trust battery](https://sketchplanations.com/the-trust-battery).
+
+## The safety dance
 
 [It is said](https://rework.withgoogle.com/print/guides/5721312655835136/) that one of the biggest predictors of successful teams is the presence of psychological safety. If you can depend on one another, predict what each other might or might not do, and can trust that a single mistake or misunderstanding isn’t going to wreak havoc, then you’re primed to do well together.
 
