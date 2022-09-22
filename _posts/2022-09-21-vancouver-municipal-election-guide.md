@@ -12,7 +12,7 @@ tags:
 
 ---
 
-*Sep 21: With three weeks still to go before election day, this guide will evolve somewhat as polls, platforms, and other info continues to come in.*
+*Sep 21: With three weeks still to go before election day, this guide will evolve somewhat as polls, platform details, and other info continues to come in.*
 
 In politics, you might expect that the bigger the stage, the richer the story. When somebody is running for Prime Minister or President, people take note. When you get down to the city level, things can seem kind of… low stakes. Heck, in Burnaby and Port Coquitlam, their [mayors were just acclaimed](https://vancouversun.com/news/politics/brad-west-acclaimed-mayor-port-coquitlam) – not a soul stepped up to run against them!
 
@@ -87,13 +87,15 @@ The excellent Cambie Report podcast has again [crowdsourced popular perceptions]
 ## What kind of change do you want, exactly?
 Last election, electors deemed the long-incumbent Vision party to blame for the housing crisis and Vancouver’s other problems, reducing them from majority control to exactly zero seats. People wanted change, and they got change.
 
-Four years later, housing prices have only gotten worse, as has the overdose crisis. A [recent survey by Leger](https://leger360.com/surveys/voter-sentiments-and-community-involvement-2022-b-c-municipal-elections/) found only 27% of residents approve of current Council, with only 29% approving of the mayor’s performance. 67% of people think it’s time for a change, but the big question is: what kind of change?
+Four years later, housing prices have only gotten worse, as has the overdose crisis. A [recent survey by Leger](https://leger360.com/surveys/voter-sentiments-and-community-involvement-2022-b-c-municipal-elections/) found only 27% of residents approve of the current Council, with only 29% approving of the mayor’s performance. 67% of people think it’s time for a change, but the big question is: what kind of change?
 
-What change you seek will likely depend on how you allocate blame for Council’s gridlock. Do you blame Mayor Stewart, who has but one of Council’s 11 votes but is its figurehead and most prominent member? Do you blame the Councillors who most often [voted against or otherwise obstructed](https://www.cbc.ca/news/canada/british-columbia/vancouver-council-mayor-votes-1.6573186) his efforts to permit more homes? Or do you blame the whole group of them – kick everybody out again, maybe this time even decade-long Green Councillor Adriane Carr, and re-roll Council a second time, hoping the result is more coherent this time around?
+What change you seek will likely depend on how you allocate blame for Council’s gridlock. Do you blame Mayor Stewart, who has only one of Council’s 11 votes but is its most prominent member? Do you blame the Councillors who most often [voted against or simply complicated](https://www.cbc.ca/news/canada/british-columbia/vancouver-council-mayor-votes-1.6573186) his efforts to permit more homes? Or do you blame the whole group of them – kick everybody out again, maybe this time even decade-long Green Councillor Adriane Carr, and re-roll Council once more, hoping the result is more coherent this time around?
 
-Besides considering where you lay the blame, it’s worth considering how other voters may land. Traditionally, there is a huge incumbency advantage in municipal politics: folks who run again typically win about 80% of the time. Even in 2018’s “clean slate” election, 2 of the 3 councillors who ran again kept their seats.
+Besides considering where *you* lay the blame, it’s worth considering how other voters may land. Traditionally, there is a huge incumbency advantage in municipal politics: folks who run again typically win about 80% of the time. Even in 2018’s “clean slate” election, 2 of the 3 councillors who ran again kept their seats.
 
-So, while pure-hearted idealists can simply fill their ballots with the candidates they like the most, those of us cursed with a strategic mindset will be also considering electability, and whether it’s worth voting for a couple incumbents who we consider just “okay” with the idea that they’re better than some of the truly terrifying alternatives on the ballot.
+So, while pure-hearted idealists can simply fill their ballots with the candidates they like the most, those of us cursed with a strategic mindset will also need to consider electability. Perhaps it’s worth voting for a couple incumbents who we consider just “okay” with the idea that they’re better than some of the truly terrifying alternatives on the ballot.
+
+------
 
 <a name="ballot"></a>
 ## Building a ballot
@@ -103,15 +105,15 @@ Without further ado, here is a primer on each of the 9 parties that are running 
 
 <a name="onecity"></a>
 ## OneCity
-Arguably Vancouver’s most progressive party, OneCity has a consistent set of urbanist and leftist stances on the city’s issues. Now that we can add to that 4 years of OneCity Councillor **Christine Boyle**’s voting record, we can confirm that, yes, this is a party pushes to permit a lot more housing, fund social housing, take action on climate, and just generally, you know, push for progress.
+Arguably Vancouver’s most progressive party, OneCity has a consistent set of urbanist and leftist stances on the city’s issues. We can now add to that 4 years of OneCity Councillor **Christine Boyle**’s voting record, confirming that yes, this is a party pushes to permit a lot more homes, fund social housing, take action on climate, and generally push for progress.
 
 That said, with only 1 vote out of 11, OneCity has only been able to do that – *push* for progress. While in some cases they were the deciding vote on a given housing initiative or progressive cause, in other cases they [found themselves with little support](https://twitter.com/christineeboyle/status/1397431785676414976) on the current council, pushing for motions that only drew votes from one or two of the more urbanist or leftist members. To have a big impact, OneCity simply needs more votes at City Hall.
 
 The party’s [platform](https://www.onecityvancouver.ca/platform) hopes to deliver that, including a call to  [create non-police response teams](https://vancouver.citynews.ca/2022/09/19/onecity-peer-mental-health-teams/) that can respond to mental health crises, and a call to “[end the apartment ban](https://vancouversun.com/opinion/columnists/dan-fumano-ending-vancouvers-apartment-ban-is-it-progress-or-disaster)”, allowing new rentals and social housing in all neighbourhoods.
 
-If this kind of approach appeals to you, you’ll want to seriously consider voting for Boyle and OneCity’s new candidates: health economist **Ian Cromwell**, senior transportation planner **Iona Bonamis**, and indigenous leader **Matthew Norris**.
+If this kind of approach appeals to you, you’ll want to consider voting for Boyle and OneCity’s new candidates: health economist **Ian Cromwell**, senior transportation planner **Iona Bonamis**, and indigenous leader **Matthew Norris**.
 
-On the question of electability, OneCity is the only party to have all their candidates endorsed by the Vancouver Labour and District Council, or VDLC. While VDLC has long helped rally progressive voters towards an electable slate of candidates, their misstep in 2018 of endorsing 4 Vision candidates may have reduced their credibility at correctly forecasting electability. That said, 5/7 of VDLC’s non-Vision picks were elected last time around, so [2022’s Vision-less slate](https://vdlc.ca/vdlc-endorses-municipal-candidates/) may be a useful tool for progressive voters trying to make sense of many options.
+On the question of electability, OneCity is the only party to have all their candidates endorsed by the Vancouver Labour and District Council, or VDLC. While VDLC has long helped rally progressive voters towards an electable slate of candidates, their misstep in 2018 of endorsing 4 Vision candidates may have reduced their credibility here. That said, 5/7 of VDLC’s non-Vision picks were elected last time around, so their [Vision-less 2022 slate](https://vdlc.ca/vdlc-endorses-municipal-candidates/) may be a useful tool for progressive voters trying to make sense of their many options.
 
 Like the other progressive parties, OneCity has refrained from running a mayoral candidate, implicitly supporting Mayor Kennedy Stewart’s re-election. Their hope is that time around, he’ll have enough progressives and urbanists on Council to make some bigger changes.
 
@@ -121,7 +123,7 @@ In 2018, a new party called YES Vancouver took a sort of “housing-only” plat
 
 Headed by mayoral candidate and political strategist **Mark Marissen**, Progress has built their campaign around an appropriately bold plan to address the housing shortage, comparable in scale to what other urbanist parties are proposing. While Progress has a pretty crisp message on housing, their non-housing politics seem to vary a lot between candidates. Put simply, the fact their candidates include both former NDP candidate **Morgane Oger** and NPA defector **Mauro Francis** makes it seem more like a “anybody’s welcome as long as you’re down for more housing” party than one that has a strict opinion on what “progress” means – at least as far as socioeconomics goes.
 
-If you’re a single-issue voter on the topic of housing supply, you may do well to investigate Progress’ other candidates: film producer **May He**, actor **David Chin**, business owner **Asha Hayer**, and DTES volunteer **Marie Noelle Rosa**.
+If you’re a single-issue voter on the topic of housing supply, you may do well to investigate Progress’ candidates, who also include film producer **May He**, actor **David Chin**, business owner **Asha Hayer**, and DTES volunteer **Marie Noelle Rosa**.
 
 <a name="forward"></a>
 ## Forward Together
@@ -129,33 +131,34 @@ When Mayor **Kennedy Stewart** ran as an Independent in 2018, he surely hoped he
 
 One one hand, Stewart has pulled off some successes from this difficult position, such as the narrow passage of the Broadway Plan and Vancouver Plan, and [permitting a record number of new homes in 2021](https://dailyhive.com/vancouver/vancouver-new-housing-approvals-2021). On the other hand, he has led a Council that is perceived as dysfunctional and slow to address the scale of our city’s crises – nobody wants a repeat of that this time around.
 
-To this end, Stewart has formed the Forward Together party, a group of Council candidates he hopes to have on his side as a more coherent voting bloc. In what may not be a coincidence, Forward is running 6 Council candidates and a mayor, which paired together with the 4 Council candidates from ideologically similar OneCity makes for a full ballot.
+To this end, Stewart has formed the Forward Together party, a group of Council candidates he hopes to have on his side as a coherent team. In what may not be a coincidence, Forward is running 6 Council candidates and a mayor, which paired together with the 4 Council candidates from ideologically similar OneCity makes for a full ballot.
 
 While as of Sep 21 [their platform details](https://www.forwardvancouver.ca/) are a little thin, Forward’s fundamental pitch is that Mayor Stewart has been pushing things in the right direction – a progressive and urbanist one – but hasn’t had the votes to fully get the job done. So, if you re-elect him with a team that shares his vision, they’ll be able to double down and make progress more effectively.
 
 Of course, as frontrunner and incumbent, Stewart has been the focus of some minor… maybe not quite scandals, but brouhahas maybe? The weirdest was certainly a [leaked fundraising list that included property developers](https://www.vancouverisawesome.com/local-news/mayor-kennedy-stewart-donor-list-vancouver-bc-5847463), plus there have been ABC’s [claims that Stewart will implement a road tax](https://www.straight.com/news/kennedy-stewart-claims-and-abc-vancouver-denies-that-ken-sims-road-tax-ads-were-pulled-for) that the City does not actually have jurisdiction to implement.
 
-In the end though, Forward’s success at the polls will probably depend on whether enough voters see Council’s dysfunction as being in spite of Stewart’s efforts, rather than because of them.
+In the end though, Forward’s success at the polls will probably depend on whether enough voters see Council’s slow progress on the city's big problems as being despite of Stewart’s efforts, rather than because of them.
 
-If you would like to vote for some Forward candidates but not all six, there are a few tacks you could take. If you’re looking for progressive cred, they have three former NDP candidates on the ballot, **Dulcy Anderson**, **Tesicca Truong**, and Stewart’s wife, **Jeanette Ashe**. VDLC has endorsed Anderson, as well as Stewart’s communications chief **Alvin Singh**. Forward’s team for Council also includes accessibility advocate **Hilary Brown** and software developer **Russil Wvong**.
+If you would like to vote for some Forward candidates but not all six, there are a few tacks you could take. If you’re looking for progressive cred, they have three former NDP candidates on the ballot: **Dulcy Anderson**, **Tesicca Truong**, and Stewart’s wife, **Jeanette Ashe**. VDLC has endorsed Anderson, as well as Stewart’s communications chief **Alvin Singh**. Forward’s team for Council also includes accessibility advocate **Hilary Brown** and software developer **Russil Wvong**.
 
 <a name="vision"></a>
 ## Vision
-When the last election saw a resounding rejection of Vision – they were reduced from a council majority to zero seats – some speculated the party was done. However, it seems some are still loyal to the Vision – at least, loyal enough to make use of the once-powerful party’s remaining funds and contact lists and give things a real college try.
+When the last election saw a resounding rejection of Vision – they were reduced from a council majority to zero seats – there was speculation that the party was done. However, it seems some are still loyal to the Vision – at least, loyal enough to make use of the once-powerful party’s remaining funds and contact lists and give things a real college try.
 
-Honestly, I’m not sure what to make of Vision’s campaign. On paper they have a reasonable urbanist-left platform – similar to Forward Together’s – and the party has name recognition, so it seems like their candidates could be electable. So far, though, they just don’t seem to much in the way of momentum, endorsements, buzz, or… anything.
+Honestly, I’m not sure what to make of Vision’s campaign. On paper they have a reasonable urbanist-left platform – similar to Forward Together’s – and the party has name recognition, so it seems like their candidates could be electable. So far, though, they just don’t seem to have much in the way of momentum, endorsements, buzz, or… anything.
 
-Vision’s three Council candidates – teacher **Stuart Mackinnon**, communications strategist **Lesli Boldt**, and doctor **Honieh Barzegari** – might be competent enough, but in an election this crowded, after such a clear rejection in 2018, do they have any chance of cracking the top 10? Not clear. Is that a good enough reason to refrain from voting for them? I don’t know, man.
+Vision’s three Council candidates – teacher **Stuart Mackinnon**, communications strategist **Lesli Boldt**, and doctor **Honieh Barzegari** – might be credible, but in an election this crowded, and after such a clear rejection in 2018, do they have any chance of cracking the top 10? Not clear. Is that a good enough reason to refrain from voting for them? I don’t know, man.
 
 <a name="abc"></a>
 ## A Better City Vancouver
-The centre-right is an interesting place in Vancouver politics. Here in the core of a progressive metropolitan area, not being lefty enough can be a liability. For example, a policy like committing to hiring more police officers – something that would hardly raise an eyebrow in most jurisdictions – is seen as a right of centre position here in Vancouver.
 
-If that kind of right-of-centre politics appeals to you, you’ll want to consider ABC Vancouver. Led by mayoral candidate **Ken Sim** – last election’s runner-up – ABC has done a good job of capitalizing on the NPA’s recent implosion and establishing itself as a credible alternative to those who have voted NPA in previous elections. They’ve signed on sitting councillors **Rebecca Bligh**, **Lisa Dominato**, and **Sarah Kirby-Yung**, who are running for ABC after resigning from the NPA in 2021. Joining the incumbent Councillors on the ABC slate are **Mike Klassen**, **Peter Meiszner**, **Brian Montague**, and **Lenny Zhou**.
+Centre-right takes on an unusual definition in a metropolitan core like Vancouver. For example, a policy like committing to hiring more police officers – something that would hardly raise an eyebrow in most jurisdictions – is seen as a right of centre position here in Vancouver.
 
-While ABC’s economic policies may appeal to those on the right – cut waste at City Hall, hire police officers, oppose any new taxes on private vehicles – Ken Sim seems to have sharpened his pencil on housing since last election. They’ve committed to triple the number of housing starts, and their sitting councillors have voted to approve more housing than some of the most conservationist on Council. When it comes to drugs, you will see more promises around “public safety” than “harm reduction” or “safe supply”, which is in line with the centre-right mindset of the party.
+If that kind of politics appeals to you, you’ll want to consider ABC Vancouver. Led by mayoral candidate **Ken Sim** – last election’s runner-up – ABC has done a good job of capitalizing on the NPA’s recent implosion and establishing itself as a credible alternative for those who have voted NPA in previous elections. They’ve signed on incumbent councillors **Rebecca Bligh**, **Lisa Dominato**, and **Sarah Kirby-Yung**, who are running for ABC after resigning from the NPA in 2021, and have signed up four more folks to run for Council under the ABC banner.
 
-While Sim seems to have his rhetoric focused on forerunner Kennedy Stewart, it seems as if ABC’s candidates may be competing for votes more directly against TEAM and the NPA on one side, and the Greens and Progress on the other. Still, ABC is perhaps the most likely party to win a majority this election. If progressive voters aren’t keen on that idea, they’ll need to show up at the polls with something else in mind.
+While ABC’s policies may appeal to those on the right – cut waste at City Hall, hire police officers, oppose any new taxes on private vehicles – Sim seems to have sharpened his pencil on housing since last election. They’ve committed to triple the number of housing starts – though how they would achieve that and what proportion of social and rental housing they would pursue is unclear.
+
+While Sim has his rhetorical guns aimed at forerunner Kennedy Stewart, ABC’s candidates may be competing for votes more directly against TEAM and the NPA on one side, and the Greens and Progress on the other. Still, ABC is perhaps the most likely party to win a majority this election. If progressive voters aren’t keen on that idea, they’ll need to show up at the polls with something else in mind.
 
 <a name="cope"></a>
 ## COPE
