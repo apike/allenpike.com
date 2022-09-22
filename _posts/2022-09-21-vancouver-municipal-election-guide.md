@@ -15,13 +15,11 @@ tags:
 
 *Sep 21: With three weeks still to go before election day, this guide will evolve somewhat as polls, platform details, corrections, and other info continues to come in.*
 
-In politics, you might expect that the bigger the stage, the richer the story. When somebody is running for Prime Minister or President, people take note. When you get down to the city level, things can seem kind of… low stakes. Heck, in Burnaby and Port Coquitlam, their [mayors were just acclaimed](https://vancouversun.com/news/politics/brad-west-acclaimed-mayor-port-coquitlam) – not a soul stepped up to run against them!
+Vancouver is cursed with an interesting political scene. We have a relatively engaged electorate compared to other cities, and a disproportionate supply of cranks. This fuels a dizzying mix of parties, candidates, and intrigue to follow and/or consider and/or be overwhelmed by. To make matters worse, information about candidates and their platforms tends to all roll out in a short period leading up to Election Day. This can make planning your vote feel like a buttload of work.
 
-Vancouver is very not like this. We have a more engaged electorate and a disproportionate supply of cranks, which fuels an often dizzying mix of parties, candidates, and intrigue to follow and/or consider and/or be overwhelmed by. To make matters worse, information about candidates and their platforms tends to all roll out in a short period leading up to Election Day. This can make digesting everything buttload of work.
+Well, dear reader, let me take a load off your butt with an overview of the weird mess that is this election. Assuming, that is, that you are a progressive sort of voter who cares about housing affordability.
 
-Luckily for you, dear reader, I have now done this buttload of work. I hope to ease your burden, and give you a useful overview of the tangled mess that is Vancouver politics. Assuming, that is, that you are a progressive sort of voter who cares about housing affordability. If you are a right-wing voter that thinks our city's housing situation is totally fine thank you, then you are free to hate-read this, but you may have a bad time.
-
-In any case, on Oct 1, advance polling will open up and Vancouverites will have their say on who should hold the 11 votes on our City Council – 10 councillors, plus one mayor. So it’s time to recap how we got here, review the 9+ parties vying for your consideration, and finish off with some pointers on how to actually go vote.
+On Oct 1, advance polling will open up and Vancouverites will have their say on who should hold the 11 votes on our City Council – 10 councillors, plus one mayor. So it’s time to recap how we got here, then review the 9+ parties vying for your consideration.
 
 Get a stiff drink, and settle in.
 
@@ -29,7 +27,7 @@ Get a stiff drink, and settle in.
 
 - [How We Got Here](#history)
 - [The Crises](#crises)
-- [A Party of Parties](#parties)
+- [The Four Kinds of Parties](#parties)
 - [What kind of change do you want, exactly?](#change)
 - [Building a Ballot, Party by Party](#ballot)
   - [OneCity](#onecity)
@@ -69,7 +67,7 @@ Almost all the parties pay lip service to these priorities. Your mission, as a V
 Excited yet? Let’s review the contestants.
 
 <a name="parties"></a>
-## A Party of Parties
+## The Four Kinds of Parties
 You can’t boil a political party, comprised of various individuals each with their own nuanced take on the city’s issues, down to one or two simple axes. But. There are 9+ parties running candidates on a 59 person ballot. So I’m going to *start* by boiling each one down to one or two simple axes. Don’t hate me.
 
 <img src="/images/2022/vancouver-parties-graph-2022.png" />
@@ -240,12 +238,12 @@ My hope is that this is just a starting point, something that gives folks some s
   - Their [Plan Your Vote](https://vancouver.ca/plan-your-vote/) tool
   - Their [Voters' Guide](https://vancouver.ca/your-government/voters-guide.aspx)
 - The Twitter feed of [municipal reporter and national treasure Justin McElroy](https://twitter.com/j_mcelroy)
-- Notes on current Council’s record
+- Notes on current Council’s record:
   - [On the Record: Councillors on Their Broadway Plan Votes](https://thetyee.ca/News/2022/06/23/Councillors-Broadway-Plan-Votes/?utm_source=twitter&utm_medium=social&utm_content=062322-1&utm_campaign=editorial) by Jen St. Denis for The Tyee
   - [How Vancouver’s mayor and council voted on big issues this term](https://www.cbc.ca/news/canada/british-columbia/vancouver-council-mayor-votes-1.6573186) by Justin McElroy for CBC
-- Polling results (more will likely roll in as we approach election day)
+- Polling results (more will likely roll in as we approach election day):
   - [Research Co.’s Sep 8 Mayoral Poll](https://researchco.ca/2022/09/08/vanpoli-sept2022/) that saw Stewart narrowly leading Sim, with Hardwick and Marissen further behind
-  - [Mainstreet’s Aug 2 Mayoral poll](https://biv.com/article/2022/08/stewart-hardwick-and-marissen-lead-vancouver-mayor-race-poll) that saw Stewart narrowly leading, with Hardwick and Marissen ahead of Ken Sim
+  - [Mainstreet’s Aug 2 Mayoral poll](https://biv.com/article/2022/08/stewart-hardwick-and-marissen-lead-vancouver-mayor-race-poll) that saw Stewart narrowly leading, with Hardwick and Marissen ahead of Sim
 - Some slates and policy surveys by different organizations
   - [Women Transforming Cities](https://www.womentransformingcities.org/hpp-policy-asks)
   - The [Vancouver and District Labour Council](https://vdlc.ca/vdlc-endorses-municipal-candidates/)’s endorsements
