@@ -132,19 +132,19 @@ When Mayor **Kennedy Stewart** ran as an Independent in 2018, he surely hoped he
 
 One one hand, Stewart has pulled off some successes from this difficult position, such as the narrow passage of the Broadway Plan and Vancouver Plan, and [permitting a record number of new homes in 2021](https://dailyhive.com/vancouver/vancouver-new-housing-approvals-2021). On the other hand, he has led a Council that is perceived as dysfunctional and slow to address the scale of our city’s crises – nobody wants a repeat of that this time around.
 
-To this end, Stewart has formed the Forward Together party, a group of Council candidates he hopes to have on his side as a coherent team. In what may not be a coincidence, Forward is running 6 Council candidates and a mayor, which paired together with the 4 Council candidates from ideologically similar OneCity makes for a full ballot.
+To this end, Stewart has formed the Forward Together party, a group of Council candidates he hopes to have on his side. In what may not be a coincidence, Forward is running 6 Council candidates, which paired together with the 4 Council candidates from ideologically similar OneCity makes for a full ballot.
 
-While as of Sep 21 [their platform details](https://www.forwardvancouver.ca/) are a little thin, Forward’s fundamental pitch is that Mayor Stewart has been pushing things in the right direction – a progressive and urbanist one – but hasn’t had the votes to fully get the job done. So, if you re-elect him with a team that shares his vision, they’ll be able to double down and make progress more effectively.
+Forward’s fundamental pitch is that Mayor Stewart has been pushing things in the right direction – a progressive and urbanist one – but hasn’t had the votes to fully get the job done. So, if you re-elect him with a team that shares his vision, they’ll be able to double down and make progress more effectively.
 
 Of course, as frontrunner and incumbent, Stewart has been the focus of some minor… maybe not quite scandals, but brouhahas maybe? The weirdest was certainly a [leaked fundraising list that included property developers](https://www.vancouverisawesome.com/local-news/mayor-kennedy-stewart-donor-list-vancouver-bc-5847463), plus there have been ABC’s [claims that Stewart will implement a road tax](https://www.straight.com/news/kennedy-stewart-claims-and-abc-vancouver-denies-that-ken-sims-road-tax-ads-were-pulled-for) that the City does not actually have jurisdiction to implement.
 
-In the end though, Forward’s success at the polls will probably depend on whether enough voters see Council’s slow progress on the city's big problems as being despite of Stewart’s efforts, rather than because of them.
+In the end though, Forward’s success at the polls will probably depend on whether enough voters see Council’s slow progress on the city's big problems as being despite Stewart’s efforts, rather than because of them.
 
 If you would like to vote for some Forward candidates but not all six, there are a few tacks you could take. If you’re looking for progressive cred, they have three former NDP candidates on the ballot: **Dulcy Anderson**, **Tesicca Truong**, and Stewart’s wife, **Jeanette Ashe**. VDLC has endorsed Anderson, as well as Stewart’s communications chief **Alvin Singh**. Forward’s team for Council also includes accessibility advocate **Hilary Brown** and software developer **Russil Wvong**.
 
 <a name="vision"></a>
 ## Vision
-When the last election saw a resounding rejection of Vision – they were reduced from a council majority to zero seats – there was speculation that the party was done. However, it seems some are still loyal to the Vision – at least, loyal enough to make use of the once-powerful party’s remaining funds and contact lists and give things a real college try.
+When the last election saw a resounding rejection of Vision, reducing them from a council majority to zero seats, there was speculation that the party was done. However, it seems some are still loyal to the Vision – at least, loyal enough to make use of the once-powerful party’s remaining funds and contact lists to give things a real college try.
 
 Honestly, I’m not sure what to make of Vision’s campaign. On paper they have a reasonable urbanist-left platform – similar to Forward Together’s – and the party has name recognition, so it seems like their candidates could be electable. So far, though, they just don’t seem to have much in the way of momentum, endorsements, buzz, or… anything.
 
@@ -153,7 +153,7 @@ Vision’s three Council candidates – teacher **Stuart Mackinnon**, communicat
 <a name="abc"></a>
 ## A Better City Vancouver
 
-Centre-right takes on an unusual definition in a metropolitan core like Vancouver. For example, a policy like committing to hiring more police officers – something that would hardly raise an eyebrow in most jurisdictions – is seen as a right of centre position here in Vancouver.
+Centre-right takes on an unusual definition in a metropolitan core like Vancouver. For example, a policy like committing to hiring more police officers – something that would hardly raise an eyebrow in many jurisdictions – is seen as a right of centre position here in Vancouver.
 
 If that kind of politics appeals to you, you’ll want to consider ABC Vancouver. Led by mayoral candidate **Ken Sim** – last election’s runner-up – ABC has done a good job of capitalizing on the NPA’s recent implosion and establishing itself as a credible alternative for those who have voted NPA in previous elections. They’ve signed on incumbent councillors **Rebecca Bligh**, **Lisa Dominato**, and **Sarah Kirby-Yung**, who are running for ABC after resigning from the NPA in 2021, and have signed up four more folks to run for Council under the ABC banner.
 
@@ -165,11 +165,11 @@ While Sim has his rhetorical guns aimed at forerunner Kennedy Stewart, ABC’s c
 ## COPE
 At one time, COPE was what it said on the tin: a coalition of progressive electors, who got a progressive majority elected back in 2002. Since then, COPE’s representation on on Council has dwindled, and currently consists of the one, the only, **Jean Swanson**. Swanson’s unapologetically principled brand of leftist politics captured voters’ imagination in 2018, and she’s been consistent in her conduct as Councillor in the years since. That is to say, she votes against anything that doesn’t seem like a clear win for the homeless or less privileged.
 
-COPE’s value system tends to see protecting renters’ existing housing as a higher priority than increasing the availability or affordability of housing for those who need to move. This has put her in conflict with those on the left who see housing supply as an urgent need, and sometimes made her strange bedfellows with TEAM's Colleen Hardwick on the far right side of the aisle.
+COPE’s value system tends to see protecting renters’ existing housing as a higher priority than increasing the availability or affordability of housing for those paying market rates. This has put her in conflict with those on the left who see housing supply as an urgent need, and sometimes made her strange bedfellows with TEAM's Colleen Hardwick on the far right side of the aisle.
 
 Like the other progressive parties, COPE is not running a mayoral candidate. They might not agree with Mayor Stewart on housing, but he’s a better ally than they’ll find elsewhere on the ballot for their social policies. 
 
-If you’re a progressive voter more concerned about renter protections and housing the homeless than you are about the cost of housing more generally, you may consider voting for Swanson, and take a look at COPE’s other candidates,  activist **Nancy Trigueros**, lawyer **Breen Ouellette**, and social worker **Tanya Webking**.
+If you’re a progressive voter more concerned about renter protections and housing the homeless than you are about the cost of housing more generally, you may consider voting for Swanson, and should take a look at COPE’s other candidates: activist **Nancy Trigueros**, lawyer **Breen Ouellette**, and social worker **Tanya Webking**.
 
 <a name="green"></a>
 ## Green
@@ -177,7 +177,7 @@ Vancouver’s Green Party engenders complex feelings in many progressive voters.
 
 Truly making sense of the Greens is challenging in part because the party is not very prescriptive about its views or platform. Sitting councillors **Adriane Carr**, **Pete Fry**, and **Michael Wiebe** each act independently, going their own way on various issues, which has contributed to the the complexity of getting clear and efficient plans through City Hall.
 
-While VDLC has endorsed all three sitting Green candidates, voters may want to do a bit of research on each Councillor’s record before casting a vote. If progressive values and climate actions *other* than bold action on housing are key to you, then you may also want to consider new Green candidates: climate scientist **Devyani Singh** and activist **Stephanie Smith**.
+While VDLC has endorsed all three sitting Green candidates, voters may want to do a bit of research on each Councillor’s record before casting a vote. If progressive values and climate actions *other* than bold action on housing are key to you, then you may also want to consider the new Green candidates: climate scientist **Devyani Singh** and activist **Stephanie Smith**.
 
 <a name="npa"></a>
 ## NPA
@@ -187,7 +187,7 @@ Then, it imploded.
 
 Like, completely went haywire. Their board was taken over by [far-right clowns](https://thetyee.ca/News/2021/01/21/Worries-Rise-NPA-Vancouver-Extremist-Candidates-2022/), all their Councillors left the party except one, multiple new parties have sprung up in the hope of replacing them, they [lost the mayoral candidate](https://vancouversun.com/news/local-news/dan-fumano-past-npa-mayoral-candidate-ken-sim-to-run-again-against-the-npa) that almost won them the election last time, they [lost the replacement mayoral candidate](https://www.vancouverisawesome.com/local-news/john-coupar-resigns-npa-candidate-mayor-vancouver-bc-5663520) halfway through election season, and as replacement-replacement they brought in **Fred Harding**, who came in 6th last election, so that he could announce that “[The NPA has not imploded](https://subscriptions.cbc.ca/newsletter_static/messages/metromatters/2022-09-03/)”.
 
-So I guess it's up for debate. Did the NPA implode, or did they collapse? Was it sabotage, perhaps? In any case, this is likely to be a down year for them.
+So I guess it's up for debate. Did the NPA implode? Or did they collapse? Was it sabotage, perhaps? In any case, this is likely to be a down year for them.
 
 One of the questions for voters who lean right is: do they re-elect the sole remaining NPA Councillor, **Melissa De Genova**? She pulled in the 3rd most votes of any Councillor in 2018, so it stands to reason that she could be re-electable. On the other hand, every other NPA Councillor bailed on the organization, citing a conflict of values with the party’s new direction. It’s kind of a bad look.
 
@@ -231,7 +231,7 @@ Cast your vote – it’s in you to give.
 
 ------
 
-This guide attempts to condense a lot of raw material into a somewhat digestible form, and in the final weeks of the election things will continue to change and evolve. If you have feedback or *especially* corrections for me, please [get in touch](https://allenpike.com/contact/)!
+This guide attempts to condense a lot of raw material into a digestible form, and in the final weeks of the election things will continue to change and evolve. If you have feedback or *especially* corrections for me, please [get in touch](https://allenpike.com/contact/)!
 
 My hope is that this is just a starting point, something that gives folks some structure to direct their research. To that end, here are some useful links for exploring further:
 
@@ -239,7 +239,7 @@ My hope is that this is just a starting point, something that gives folks some s
   - Their [Candidates Guide](https://vancouver.ca/your-government/candidate-profiles.aspx) with profiles of each candidate
   - Their [Plan Your Vote](https://vancouver.ca/plan-your-vote/) tool
   - Their [Voters' Guide](https://vancouver.ca/your-government/voters-guide.aspx)
-- The Twitter feed of [municipal affairs reporter and national treasure Justin McElroy](https://twitter.com/j_mcelroy)
+- The Twitter feed of [municipal reporter and national treasure Justin McElroy](https://twitter.com/j_mcelroy)
 - Notes on current Council’s record
   - [On the Record: Councillors on Their Broadway Plan Votes](https://thetyee.ca/News/2022/06/23/Councillors-Broadway-Plan-Votes/?utm_source=twitter&utm_medium=social&utm_content=062322-1&utm_campaign=editorial) by Jen St. Denis for The Tyee
   - [How Vancouver’s mayor and council voted on big issues this term](https://www.cbc.ca/news/canada/british-columbia/vancouver-council-mayor-votes-1.6573186) by Justin McElroy for CBC
