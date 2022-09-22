@@ -12,7 +12,7 @@ tags:
 
 ---
 
-*Sep 21: With three weeks still to go before election day, this guide will evolve somewhat as polls, platform details, and other info continues to come in.*
+*Sep 21: With three weeks still to go before election day, this guide will evolve somewhat as polls, platform details, corrections, and other info continues to come in.*
 
 In politics, you might expect that the bigger the stage, the richer the story. When somebody is running for Prime Minister or President, people take note. When you get down to the city level, things can seem kind of… low stakes. Heck, in Burnaby and Port Coquitlam, their [mayors were just acclaimed](https://vancouversun.com/news/politics/brad-west-acclaimed-mayor-port-coquitlam) – not a soul stepped up to run against them!
 
