@@ -20,7 +20,7 @@ module Jekyll
       minute_plural = "min"
 
       # Average reading words per minute.
-      words_per_minute = 180
+      words_per_minute = 210
 
       # Calculate reading time.
       case total_words
@@ -34,7 +34,7 @@ module Jekyll
         return "3 #{minute_plural}"
       when 630 .. 809
         return "4 #{minute_plural}"
-      when 810 .. 990
+      when 810 .. 1050
         return "5 #{minute_plural}"
       else
         minutes = ( total_words / words_per_minute ).floor
