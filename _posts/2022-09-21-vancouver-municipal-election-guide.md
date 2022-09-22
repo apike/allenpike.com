@@ -238,7 +238,7 @@ My hope is that this is just a starting point, something that gives folks some s
   - Their [Candidates Guide](https://vancouver.ca/your-government/candidate-profiles.aspx) with profiles of each candidate
   - Their [Plan Your Vote](https://vancouver.ca/plan-your-vote/) tool
   - Their [Voters' Guide](https://vancouver.ca/your-government/voters-guide.aspx)
-- The Twitter feed of [municipal affairs reporter and public treasure Justin McElroy](https://twitter.com/j_mcelroy)
+- The Twitter feed of [municipal affairs reporter and national treasure Justin McElroy](https://twitter.com/j_mcelroy)
 - Notes on current Council’s record
   - [On the Record: Councillors on Their Broadway Plan Votes](https://thetyee.ca/News/2022/06/23/Councillors-Broadway-Plan-Votes/?utm_source=twitter&utm_medium=social&utm_content=062322-1&utm_campaign=editorial) by Jen St. Denis for The Tyee
   - [How Vancouver’s mayor and council voted on big issues this term](https://www.cbc.ca/news/canada/british-columbia/vancouver-council-mayor-votes-1.6573186) by Justin McElroy for CBC
