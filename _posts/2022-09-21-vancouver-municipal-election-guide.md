@@ -2,7 +2,7 @@
 layout: post
 author: allen
 title: 2022 Vancouver Election Guide
-summary: 9 parties, 59 candidates, one ballot.
+summary: 9 parties. 59 candidates. one ballot.
 date: 2022-09-21T12:42:18.627Z
 featured: false
 categories:
@@ -12,35 +12,39 @@ tags:
 
 ---
 
-In politics, you might expect that the bigger the stage, the richer the story. When somebody is running for Prime Minister or President, people take note. When you get down to the city level, things can seem kind of low stakes. Heck, in Burnaby and Port Coquitlam, their [mayors were just acclaimed](https://vancouversun.com/news/politics/brad-west-acclaimed-mayor-port-coquitlam) – not a soul stepped up to run against them!
+*Sep 21: With three weeks still to go before election day, this guide will evolve somewhat as polls, platforms, and other info continues to come in.*
 
-Vancouver is… not like this. We have a more engaged electorate and a disproportionate supply of cranks, which fuels an often dizzying mix of parties, candidates, and intrigue to follow and/or consider and/or be overwhelmed by. To make matters worse, information about candidates and their platforms tends to all roll out in a short period leading up to Election Day. This can make digesting everything buttload of work.
+In politics, you might expect that the bigger the stage, the richer the story. When somebody is running for Prime Minister or President, people take note. When you get down to the city level, things can seem kind of… low stakes. Heck, in Burnaby and Port Coquitlam, their [mayors were just acclaimed](https://vancouversun.com/news/politics/brad-west-acclaimed-mayor-port-coquitlam) – not a soul stepped up to run against them!
 
-So, dear reader, I have done for you a buttload of work. I hope to ease your burden, and give you some useful starting points to the tangled mess that is Vancouver politics. Assuming, that is, that you are a progressive sort of voter who cares about housing affordability. If you are a right-wing voter that thinks housing costs are just fine, then you are free to hate-read this, but I’m not sure it’ll be particularly helpful.
+Vancouver is very not like this. We have a more engaged electorate and a disproportionate supply of cranks, which fuels an often dizzying mix of parties, candidates, and intrigue to follow and/or consider and/or be overwhelmed by. To make matters worse, information about candidates and their platforms tends to all roll out in a short period leading up to Election Day. This can make digesting everything buttload of work.
 
-In any case, on Sat Oct 1, advance polling will open up and Vancouverites will have their say on who should hold the 11 votes on our City Council – 10 councillors and one mayor. So it’s time to recap how we got here, review the 9+ parties vying for your consideration, and finish off with some pointers on how to actually go vote.
+Luckily for you, dear reader, I have now done this buttload of work. I hope to ease your burden, and give you a useful overview of the tangled mess that is Vancouver politics. Assuming, that is, that you are a progressive sort of voter who cares about housing affordability. If you are a right-wing voter that thinks our city's housing situation is totally fine thank you, then you are free to hate-read this, but you may have a bad time.
+
+In any case, on Oct 1, advance polling will open up and Vancouverites will have their say on who should hold the 11 votes on our City Council – 10 councillors, plus one mayor. So it’s time to recap how we got here, review the 9+ parties vying for your consideration, and finish off with some pointers on how to actually go vote.
 
 Get a stiff drink, and settle in.
 
 ## A Guide to this Guide
 
-- How We Got Here
-- The Mission
-- A Party of Parties
-- What kind of change do you want, exactly?
-- Building a Ballot, Party by Party
-  - OneCity
-  - Progress Vancouver
-  - Forward Together
-  - Vision
-  - ABC Vancouver
-  - COPE
-  - Green
-  - NPA
-  - TEAM for a Liveable Vancouver
-- The Voting Part
+- [How We Got Here](#history)
+- [The Crises](#crises)
+- [A Party of Parties](#parties)
+- [What kind of change do you want, exactly?](#change)
+- [Building a Ballot, Party by Party](#ballot)
+  - [OneCity](#onecity)
+  - [Progress Vancouver](#progress)
+  - [Forward Together](#forward)
+  - [Vision](#vision)
+  - [ABC Vancouver](#abc)
+  - [COPE](#cope)
+  - [Green](#green)
+  - [NPA](#npa)
+  - [TEAM for a Liveable Vancouver](#team)
+- [The Part Where You Vote](#vote)
 
+<a name="history"></a>
 ## How We Got Here
+
 In some ways, this election is more straightforward than [the last](https://allenpike.com/2018/vancouver-election-guide). For example, there are slightly fewer Council candidates – 59, down from 71. There are fewer independents, fewer new faces, and far fewer “open” seats – the Mayor and 9 incumbent councillors are running to keep their jobs.
 
 In other ways, this election is even *weirder* than 2018’s circus. So far we’ve seen new parties popping up left and right (though mostly right), leaked fundraising lists, and the dramatic implosion of Vancouver’s oldest party. It’s been a ride.
@@ -51,7 +55,8 @@ While the intervening four years has seen a modest increase in housing permitted
 
 Meanwhile, the centre-right NPA – despite having held just under half of votes at City Hall – disintegrated over this Council’s term, sharding out into three different parties. The mayor, no doubt feeling left out as the sole independent, founded a party of his own as well. This has left us with Council’s 11 votes split across 7 parties, and a desperate need for an election to give someone, *anyone*, a mandate. Okay, maybe not *anyone* – but we’ll get to that.
 
-## The Mission
+<a name="crises"></a>
+## The Crises
 Vancouver continues to be in a serious housing shortage. It’s still bad, it’s still getting worse, and [somebody still has to *do something*](https://www.theglobeandmail.com/opinion/editorials/article-canadas-population-is-booming-and-we-arent-building-nearly-enough/). Something other than squabble over amendments to amendments at a marathon council sessions, struggling until midnight to try and get agreement on approving a single apartment building, when we need tends of thousands more homes. Something other than that.
 
 Of course, housing isn’t the only crisis Vancouver has on its plate. We continue to suffer from a devastating loss of life due to poisoned drug supply, and we are also staring down a climate crisis. While other levels of government have a responsibility to help address all three of these crises, the city plays a role in each, and how we vote will depend what kind of role that will be.
@@ -60,6 +65,7 @@ So your mission, as a Vancouverite, is to pick some candidates that you think ha
 
 Excited yet? Let’s review the contestants.
 
+<a name="parties"></a>
 ## A Party of Parties
 You can’t boil a political party, comprised of various individuals each with their own nuanced take on the city’s issues, down to one or two simple axes. But. There are 9+ parties running candidates on a 59 person ballot. So I’m going to *start* by boiling each one down to one or two simple axes. Don’t hate me.
 
@@ -75,6 +81,7 @@ The excellent Cambie Report podcast has again [crowdsourced popular perceptions]
 
 **Right** wing voters are relatively rare in Vancouver, but on a *relative* basis, we have voters and parties that are less progressive than others, and in that way they form Vancouver’s right. The go-to campaign issues for these parties are “public safety” and keeping our [property taxes famously low](https://www.sightline.org/2022/05/09/how-low-taxes-lead-to-high-home-prices-in-vancouver-bc/). The NPA, Vancouver’s longstanding centre-right party, has swung so far to the right this time around, that most of their councillors have defected to ABC and TEAM, the two new parties that make up Vancouver’s right of centre.
 
+<a name="change"></a>
 ## What kind of change do you want, exactly?
 Last election, electors deemed the long-incumbent Vision party to blame for the housing crisis and Vancouver’s other problems, reducing them from majority control to exactly zero seats. People wanted change, and they got change.
 
@@ -86,11 +93,13 @@ Besides considering where you lay the blame, it’s worth considering how other 
 
 So, while pure-hearted idealists can simply fill their ballots with the candidates they like the most, those of us cursed with a strategic mindset will be also considering electability, and whether it’s worth voting for a couple incumbents who we consider just “okay” with the idea that they’re better than some of the truly terrifying alternatives on the ballot.
 
+<a name="ballot"></a>
 ## Building a ballot
 Regardless of your approach, your mission is to pick 1 Mayor and 10 Councillors. (You also get to pick 9 for School Board and 7 for Park Board, but I’ve focused on Council here.) Since no party is running a full set of 11 candidates, and the overall ballot is quite long, I suggest using [Vancouver’s “Plan Your Vote” tool](https://vancouver.ca/plan-your-vote/) to check off candidates who pique your interest.
 
 Without further ado, here is a primer on each of the 9 parties that are running multiple candidates, sorted roughly from most urbanist to most conservationist.
 
+<a name="onecity"></a>
 ## OneCity
 Arguably Vancouver’s most progressive party, OneCity has a consistent set of urbanist and leftist stances on the city’s issues. Now that we can add to that 4 years of OneCity Councillor **Christine Boyle**’s voting record, we can confirm that, yes, this is a party pushes to permit a lot more housing, fund social housing, take action on climate, and just generally, you know, push for progress.
 
@@ -104,6 +113,7 @@ On the question of electability, OneCity is the only party to have all their can
 
 Like the other progressive parties, OneCity has refrained from running a mayoral candidate, implicitly supporting Mayor Kennedy Stewart’s re-election. Their hope is that time around, he’ll have enough progressives and urbanists on Council to make some bigger changes.
 
+<a name="progress"></a>
 ## Progress Vancouver
 In 2018, a new party called YES Vancouver took a sort of “housing-only” platform to voters that promised to permit more housing, while avoiding taking many stances on the social or economic side of things. After a rather poor showing in terms of votes, the organization has completely rebooted itself for 2022, as Progress Vancouver.
 
@@ -111,7 +121,7 @@ Headed by mayoral candidate and political strategist **Mark Marissen**, Progress
 
 If you’re a single-issue voter on the topic of housing supply, you may do well to investigate Progress’ other candidates: film producer **May He**, actor **David Chin**, business owner **Asha Hayer**, and DTES volunteer **Marie Noelle Rosa**.
 
-
+<a name="forward"></a>
 ## Forward Together
 When Mayor **Kennedy Stewart** ran as an Independent in 2018, he surely hoped he’d be leading a Council that shared his progressive urbanist politics. Instead, he got a mixed bag of Councillors, with no clear majority to implement his vision – a position I’ve seen described as mayoral candidates’ worst nightmare.
 
@@ -127,6 +137,7 @@ In the end though, Forward’s success at the polls will probably depend on whet
 
 If you would like to vote for some Forward candidates but not all six, there are a few tacks you could take. If you’re looking for progressive cred, they have three former NDP candidates on the ballot, **Dulcy Anderson**, **Tesicca Truong**, and Stewart’s wife, **Jeanette Ashe**. VDLC has endorsed Anderson, as well as Stewart’s communications chief **Alvin Singh**. Forward’s team for Council also includes accessibility advocate **Hilary Brown** and software developer **Russil Wvong**.
 
+<a name="vision"></a>
 ## Vision
 When the last election saw a resounding rejection of Vision – they were reduced from a council majority to zero seats – some speculated the party was done. However, it seems some are still loyal to the Vision – at least, loyal enough to make use of the once-powerful party’s remaining funds and contact lists and give things a real college try.
 
@@ -134,6 +145,7 @@ Honestly, I’m not sure what to make of Vision’s campaign. On paper they have
 
 Vision’s three Council candidates – teacher **Stuart Mackinnon**, communications strategist **Lesli Boldt**, and doctor **Honieh Barzegari** – might be competent enough, but in an election this crowded, after such a clear rejection in 2018, do they have any chance of cracking the top 10? Not clear. Is that a good enough reason to refrain from voting for them? I don’t know, man.
 
+<a name="abc"></a>
 ## A Better City Vancouver
 The centre-right is an interesting place in Vancouver politics. Here in the core of a progressive metropolitan area, not being lefty enough can be a liability. For example, a policy like committing to hiring more police officers – something that would hardly raise an eyebrow in most jurisdictions – is seen as a right of centre position here in Vancouver.
 
@@ -143,6 +155,7 @@ While ABC’s economic policies may appeal to those on the right – cut waste a
 
 While Sim seems to have his rhetoric focused on forerunner Kennedy Stewart, it seems as if ABC’s candidates may be competing for votes more directly against TEAM and the NPA on one side, and the Greens and Progress on the other. Still, ABC is perhaps the most likely party to win a majority this election. If progressive voters aren’t keen on that idea, they’ll need to show up at the polls with something else in mind.
 
+<a name="cope"></a>
 ## COPE
 At one time, COPE was what it said on the tin: a coalition of progressive electors, who got a progressive majority elected back in 2002. Since then, COPE’s representation on on Council has dwindled, and currently consists of the one, the only, **Jean Swanson**. Swanson’s unapologetically principled brand of leftist politics captured voters’ imagination in 2018, and she’s been consistent in her conduct as Councillor in the years since. That is to say, she votes against anything that doesn’t seem like a clear win for the homeless or less privileged. COPE’s politics tend to see protecting renters’ existing housing as a higher priority than increasing the availability or affordability of housing for those who need to move, which has put her in conflict with those on the left who see housing supply as an urgent need.
 
@@ -152,6 +165,7 @@ Like the other progressive parties, COPE is not running a mayoral candidate. The
 
 If you’re a progressive voter more concerned about renter protections and housing the homeless than you are about the cost of housing more generally, you may consider voting for Swanson as well as COPE’s other candidates,  activist **Nancy Trigueros**, lawyer **Breen Ouellette**, and social worker **Tanya Webking**.
 
+<a name="green"></a>
 ## Green
 Vancouver’s Green Party engenders complex feelings in many progressive voters. One one hand, they have a great brand that’s won 3 somewhat progressive votes on Council. On the other hand, they have at times delayed action when it comes to building housing, social or otherwise. While there is increasing support for the idea that densification is one of the highest impact things cities can do on climate, the Greens have at times have had their minds elsewhere, such as directing staff to, say, [research options for procuring more plant-based food](https://council.vancouver.ca/20211102/documents/b3.pdf). Which isn’t a bad thing! But isn’t housing.
 
@@ -159,6 +173,7 @@ Truly making sense of the Greens is challenging in part because the party is not
 
 While VDLC has endorsed all three sitting Green candidates, voters may want to do a bit of research on each Councillor’s record before casting a vote. If progressive values and climate actions *other* than bold action on housing are key to you, then you may also want to consider new Green candidates, climate scientist **Devyani Singh** and activist **Stephanie Smith**.
 
+<a name="npa"></a>
 ## NPA
 The NPA has been an institution in Vancouver politics since 1937. It has run eleven elected mayors – including former premier Gordon Campbell – and since 2008 has been slowly making gains at City Hall, most recently coming within 1000 votes of winning a majority.
 
@@ -174,6 +189,7 @@ In terms of campaign promises, the NPA seems very focused on a crime and safety 
 
 Speaking of drama, the internet was recently flummoxed by the revolution that NPA Council candidate and realtor **Morning Lee** posted an instructional video on how to evict tenants during COVID, which included [instructions to make sure you drop a deuce in their toilet](https://www.vancouverisawesome.com/bc-news/take-a-poop-to-assert-ownership-during-eviction-says-vancouver-city-council-candidate-5833670), so as to assert your sovereignty over the tenants’ home. But crime and safety, yes yes very serious.
 
+<a name="team"></a>
 ## TEAM for a Livable Vancouver
 As City Councillor, **Colleen Hardwick** has developed a reputation for saying no. No to housing, no to spending, no to change. Should we build the [wildly popular](https://dailyhive.com/vancouver/ubc-skytrain-public-support-survey) SkyTrain extension to UBC? No. Should we take bold action to address the housing shortage? No – because there *is no housing shortage*. 🤯
 
@@ -185,6 +201,7 @@ Still, 17% is not nothing! Especially in the small sample sizes of municipal pol
 
 On the other hand, Hardwick’s candidacy is helpful for progressive parties’ get out the vote efforts. Her rhetoric and actions are so antithetical to the values of leftist and urbanist voters that the mere chance of her being Mayor could help get folks out of bed and into polling stations come October 15. Seriously, [do not let this person become mayor](https://twitter.com/shaunasylvester/status/1569743816072040451).
 
+<a name="bonus"></a>
 ## Bonus Round: The not-independents
 In 2018, a lot of folks ran for Councillor as independents. As a rule, they fared poorly. This time around, candidates have mostly rallied around one party or another, with the interesting upshot that two folks are each running for Council as a party of one (at least as far as Council candidates go).
 
@@ -192,6 +209,7 @@ Columnist **Sean Orr** is the candidate for Vote Socialist, a sort of splinter g
 
 Civil Engineer **Eric Redmond** is the candidate for the Affordable Housing Coalition, which may sound like a NIMBY-type group but is actually a single-issue party centered on housing supply – not too unlike Progress Vancouver, at least in principle.
 
+<a name="vote"></a>
 ## Time to Plan… That… Vote!
 Turnout in municipal elections is infamously low – 39% in 2018 – which means the outcome will really depend on who gets their butts in gear and casts a ballot, and who stays at home and scrolls social media.
 
