@@ -136,7 +136,7 @@ If you would like to vote for some Forward candidates but not all six, there are
 
 <a name="vision"></a>
 ## Vision
-When the last election saw a resounding rejection of Vision, reducing them from a council majority to zero seats, there was speculation that the party was done. However, it seems some are still loyal to the Vision – at least, loyal enough to make use of the once-powerful party’s remaining funds and contact lists to give things a real college try.
+When the last election saw a resounding rejection of Vision, reducing them from a council majority to zero seats, there was speculation that the party was done. However, it seems some are still loyal to the Vision – at least, loyal enough to make use of the once-powerful party’s remaining funds and contact lists to give things another go.
 
 Honestly, I’m not sure what to make of Vision’s campaign. On paper they have a reasonable urbanist-left platform – similar to Forward Together’s – and the party has name recognition, so it seems like their candidates could be electable. So far, though, they just don’t seem to have much in the way of momentum, endorsements, buzz, or… anything.
 
@@ -147,11 +147,11 @@ Vision’s three Council candidates – teacher **Stuart Mackinnon**, communicat
 
 Centre-right takes on an unusual definition in a metropolitan core like Vancouver. For example, a policy like committing to hiring more police officers – something that would hardly raise an eyebrow in many jurisdictions – is seen as a right of centre position here in Vancouver.
 
-If that kind of politics appeals to you, you’ll want to consider ABC Vancouver. Led by mayoral candidate **Ken Sim** – last election’s runner-up – ABC has done a good job of capitalizing on the NPA’s recent implosion and establishing itself as a credible alternative for those who have voted NPA in previous elections. They’ve signed on incumbent councillors **Rebecca Bligh**, **Lisa Dominato**, and **Sarah Kirby-Yung**, who are running for ABC after resigning from the NPA in 2021, and have signed up four more folks to run for Council under the ABC banner.
+If that kind of politics appeals to you, there's ABC Vancouver. Led by mayoral candidate **Ken Sim** – last election’s runner-up – ABC has capitalized on the NPA’s recent implosion and establishing itself as an alternative for those who have voted NPA in previous elections. They’ve signed on incumbent councillors **Rebecca Bligh**, **Lisa Dominato**, and **Sarah Kirby-Yung**, who are running for ABC after resigning from the NPA in 2021, and have signed up four more folks to run for Council under the ABC banner.
 
 While ABC’s policies may appeal to those on the right – cut waste at City Hall, hire police officers, oppose any new taxes on private vehicles – Sim seems to have sharpened his pencil on housing since last election. They’ve committed to triple the number of housing starts – though how they would achieve that and what proportion of social and rental housing they would pursue is unclear.
 
-While Sim has his rhetorical guns aimed at forerunner Kennedy Stewart, ABC’s candidates may be competing for votes more directly against TEAM and the NPA on one side, and the Greens and Progress on the other. Still, ABC is perhaps the most likely party to win a majority this election. If progressive voters aren’t keen on that idea, they’ll need to show up at the polls with something else in mind.
+ABC is perhaps the most likely party to win a majority this election, which is why Sim has had his rhetorical guns aimed at forerunner and incumbent Kennedy Stewart. If progressive voters aren’t keen on the idea of a centre-right Council, they’ll need to show up at the polls with something else in mind.
 
 <a name="cope"></a>
 ## COPE
