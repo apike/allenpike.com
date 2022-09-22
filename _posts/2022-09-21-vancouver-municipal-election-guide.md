@@ -230,7 +230,7 @@ Cast your vote – it’s in you to give.
 
 ------
 
-This guide attempts to condense a lot of raw material into a somewhat digestible form, and in the final weeks of the election things will continue to change and evolve. If you have feedback or ~especially~ corrections for me, please [get in touch](https://allenpike.com/contact/)!
+This guide attempts to condense a lot of raw material into a somewhat digestible form, and in the final weeks of the election things will continue to change and evolve. If you have feedback or *especially* corrections for me, please [get in touch](https://allenpike.com/contact/)!
 
 My hope is that this is just a starting point, something that gives folks some structure to direct their research. To that end, here are some useful links for exploring further:
 
