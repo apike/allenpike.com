@@ -132,7 +132,7 @@ Of course, as frontrunner and incumbent, Stewart has been the focus of some mino
 
 In the end though, Forward’s success at the polls will probably depend on whether enough voters see Council’s slow progress on the city's big problems as being despite Stewart’s efforts, rather than because of them.
 
-If you would like to vote for some Forward candidates but not all six, there are a few tacks you could take. If you’re looking for progressive cred, they have three former NDP candidates on the ballot: **Dulcy Anderson**, **Tesicca Truong**, and Stewart’s wife, **Jeanette Ashe**. VDLC has endorsed Anderson, as well as Stewart’s communications chief **Alvin Singh**. Forward’s team for Council also includes accessibility advocate **Hilary Brown** and software developer **Russil Wvong**, who I keep hearing positive things about.
+It seems many progressive voters will choose some Forward candidates, but not all six. If you’re looking for progressive cred, they have three former NDP candidates on the ballot: **Dulcy Anderson**, **Tesicca Truong**, and Stewart’s wife, **Jeanette Ashe**. VDLC has endorsed Anderson, as well as Stewart’s communications chief **Alvin Singh**. Forward’s team for Council also includes accessibility advocate **Hilary Brown** and software developer **Russil Wvong**, who I keep hearing positive things about.
 
 <a name="vision"></a>
 ## Vision
