@@ -106,7 +106,7 @@ The party’s [platform](https://www.onecityvancouver.ca/platform) hopes to deli
 
 If this kind of approach appeals to you, you’ll want to strongly consider voting for Boyle and OneCity’s new candidates: health economist **Ian Cromwell**, senior transportation planner **Iona Bonamis**, and indigenous leader **Matthew Norris**.
 
-On the question of electability, OneCity is the only party to have all their candidates endorsed by the Vancouver Labour and District Council (VDLC), who has long helped rally progressive voters towards an electable slate of candidates. Despite their misstep in 2018 of endorsing 4 Vision candidates, their [Vision-less 2022 slate](https://vdlc.ca/vdlc-endorses-municipal-candidates/) could prove useful tool for progressive voters trying to make sense of a horde of options.
+On the question of electability, OneCity is the only party to have all their candidates endorsed by the Vancouver Labour and District Council (VDLC), who has long helped rally progressive voters towards an electable slate of candidates. Despite their misstep in 2018 of endorsing 4 Vision candidates, VDLC's [Vision-less 2022 slate](https://vdlc.ca/vdlc-endorses-municipal-candidates/) could prove useful tool for progressive voters trying to make sense of a horde of options.
 
 Like the other progressive parties, OneCity has refrained from running a mayoral candidate, implicitly supporting Mayor Kennedy Stewart’s re-election. Their hope is that time around, he’ll have enough progressives and urbanists on Council to make some bigger changes.
 
@@ -114,9 +114,9 @@ Like the other progressive parties, OneCity has refrained from running a mayoral
 ## Progress Vancouver
 In 2018, a new party called YES Vancouver took a sort of “housing-only” platform to voters that promised to permit more housing, while avoiding taking many stances on the social or economic side of things. After a rather poor showing in terms of votes, the organization has completely rebooted itself for 2022 as Progress Vancouver.
 
-Headed by mayoral candidate and political strategist **Mark Marissen**, Progress has built their campaign around an appropriately bold plan to address the housing shortage, comparable in scale to what other urbanist parties are proposing. While Progress has a pretty crisp message on housing, their non-housing politics seem to vary a lot between candidates. Put simply, the fact their candidates include both former NDP candidate **Morgane Oger** and NPA defector **Mauro Francis** makes it seem more like a “anybody’s welcome as long as you’re down for more housing” party than one that has a strict opinion on what “progress” means – at least as far as socioeconomics goes.
+Headed by mayoral candidate and political strategist **Mark Marissen**, Progress has built their campaign around an appropriately bold plan to address the housing shortage, comparable in scale to what other urbanist parties are proposing. While Progress has a pretty crisp message on housing, their non-housing politics seem to vary a lot between candidates. Put simply, the fact their candidates include both former NDP candidate **Morgane Oger** and NPA defector **Mauro Francis** makes it seem more like a “anybody’s welcome as long as you’re down for more housing” party than one that has a clear opinion on what “progress” means – at least as far as socioeconomics goes.
 
-If you’re a single-issue voter on the topic of housing supply, you may do well to investigate Progress’ candidates, who also include film producer **May He**, actor **David Chin**, business owner **Asha Hayer**, and DTES volunteer **Marie Noelle Rosa**.
+If you’re a single-issue voter on the topic of housing supply, you may want to investigate Progress’ candidates, who also include film producer **May He**, actor **David Chin**, business owner **Asha Hayer**, and DTES volunteer **Marie Noelle Rosa**.
 
 <a name="forward"></a>
 ## Forward Together
@@ -124,7 +124,7 @@ When Mayor **Kennedy Stewart** ran as an Independent in 2018, he surely hoped he
 
 One one hand, Stewart has pulled off some successes from this difficult position, such as the narrow passage of the Broadway Plan and Vancouver Plan, and [permitting a record number of new homes in 2021](https://dailyhive.com/vancouver/vancouver-new-housing-approvals-2021). On the other hand, he has led a Council that is perceived as dysfunctional and slow to address the scale of our city’s crises – nobody wants a repeat of that this time around.
 
-To this end, Stewart has formed the Forward Together party, a group of Council candidates he hopes to have on his side. In what may not be a coincidence, Forward is running 6 Council candidates, which paired together with the 4 Council candidates from ideologically similar OneCity makes for a full ballot.
+To this end, Stewart has formed the Forward Together party, a group of Council candidates with a progressive-urbanist platform. In what may not be a coincidence, Forward is running 6 Council candidates, which paired together with the 4 Council candidates from ideologically similar OneCity makes for a full ballot.
 
 Forward’s fundamental pitch is that Mayor Stewart has been pushing things in the right direction – a progressive and urbanist one – but hasn’t had the votes to fully get the job done. So, if you re-elect him with a team that shares his vision, they’ll be able to double down and make progress more effectively.
 
@@ -132,7 +132,7 @@ Of course, as frontrunner and incumbent, Stewart has been the focus of some mino
 
 In the end though, Forward’s success at the polls will probably depend on whether enough voters see Council’s slow progress on the city's big problems as being despite Stewart’s efforts, rather than because of them.
 
-If you would like to vote for some Forward candidates but not all six, there are a few tacks you could take. If you’re looking for progressive cred, they have three former NDP candidates on the ballot: **Dulcy Anderson**, **Tesicca Truong**, and Stewart’s wife, **Jeanette Ashe**. VDLC has endorsed Anderson, as well as Stewart’s communications chief **Alvin Singh**. Forward’s team for Council also includes accessibility advocate **Hilary Brown** and software developer **Russil Wvong**.
+If you would like to vote for some Forward candidates but not all six, there are a few tacks you could take. If you’re looking for progressive cred, they have three former NDP candidates on the ballot: **Dulcy Anderson**, **Tesicca Truong**, and Stewart’s wife, **Jeanette Ashe**. VDLC has endorsed Anderson, as well as Stewart’s communications chief **Alvin Singh**. Forward’s team for Council also includes accessibility advocate **Hilary Brown** and software developer **Russil Wvong**, who I keep hearing positive things about.
 
 <a name="vision"></a>
 ## Vision
