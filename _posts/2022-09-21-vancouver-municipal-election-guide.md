@@ -161,7 +161,7 @@ COPE’s value system tends to see protecting renters’ existing housing as a h
 
 Like the other progressive parties, COPE is not running a mayoral candidate. They might not agree with Mayor Stewart on housing, but he’s a better ally than they’ll find elsewhere on the ballot for their social policies. 
 
-If you’re a progressive voter more concerned about renter protections and housing the homeless than you are about the cost of housing more generally, you may consider voting for Swanson, and should take a look at COPE’s other candidates: activist **Nancy Trigueros**, lawyer **Breen Ouellette**, and social worker **Tanya Webking**.
+If you’re a progressive voter more concerned about renter protections and housing the homeless than you are about the cost of housing more generally, you should consider voting for Swanson, and might take a look at COPE’s other candidates: activist **Nancy Trigueros**, lawyer **Breen Ouellette**, and social worker **Tanya Webking**.
 
 <a name="green"></a>
 ## Green
@@ -185,7 +185,7 @@ One of the questions for voters who lean right is: do they re-elect the sole rem
 
 In terms of campaign promises, the NPA seems very focused on a crime and safety message, which which is a pretty traditional right-wing platform plank and not nearly as interesting as all the party drama.
 
-Speaking of drama, the internet was recently flummoxed by the revelation that NPA Council candidate and realtor **Morning Lee** posted an instructional video on how to evict tenants during COVID, which included [instructions to make sure you drop a deuce in tenants' toilet](https://www.vancouverisawesome.com/bc-news/take-a-poop-to-assert-ownership-during-eviction-says-vancouver-city-council-candidate-5833670), so as to assert your sovereignty over the their home. But crime and safety, yes yes very serious.
+Speaking of drama, the internet was recently flummoxed by the news that NPA Council candidate and realtor **Morning Lee** posted an instructional video on how to evict tenants during COVID, which reportedly included [instructions to make sure you drop a deuce in tenants' toilet](https://www.vancouverisawesome.com/bc-news/take-a-poop-to-assert-ownership-during-eviction-says-vancouver-city-council-candidate-5833670), so as to assert your sovereignty over the their home. But crime and safety, yes yes very serious.
 
 <a name="team"></a>
 ## TEAM for a Livable Vancouver
