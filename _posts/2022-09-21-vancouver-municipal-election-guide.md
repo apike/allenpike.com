@@ -92,7 +92,7 @@ While pure-hearted idealists can simply fill their ballots with the candidates t
 
 <a name="ballot"></a>
 ## Building a ballot
-Regardless of your approach, your mission is to pick 1 Mayor and 10 Councillors. (You also get to pick 9 for School Board and 7 for Park Board, but I’ve focused on Council here.) Since no party is running a full set of 11 candidates, and the overall ballot is quite long, I suggest using [Vancouver’s “Plan Your Vote” tool](https://vancouver.ca/plan-your-vote/) to check off candidates who pique your interest.
+Regardless of your approach, your mission is to pick 1 Mayor and 10 Councillors. (You also get to pick 9 for School Board and 7 for Park Board, but I’ve focused on Council here.) Since no party is running a full set of 11 candidates, and the overall ballot is quite long and randomly ordered, I suggest using [Vancouver’s “Plan Your Vote” tool](https://vancouver.ca/plan-your-vote/) to check off candidates who pique your interest.
 
 Without further ado, here is a primer on each of the 9 parties that are running multiple candidates, sorted roughly from most urbanist to most conservationist.
 
@@ -100,13 +100,13 @@ Without further ado, here is a primer on each of the 9 parties that are running 
 ## OneCity
 Arguably Vancouver’s most progressive party, OneCity has a consistent set of urbanist and leftist stances on the city’s issues. We can now add to that 4 years of OneCity Councillor **Christine Boyle**’s voting record, confirming that yes, this is a party pushes to permit a lot more homes, fund social housing, take action on climate, and generally push for progress.
 
-That said, with only 1 vote out of 11, OneCity has only been able to do that – *push* for progress. While in some cases they were the deciding vote on a given housing initiative or progressive cause, in other cases they [found themselves with little support](https://twitter.com/christineeboyle/status/1397431785676414976) on the current council, pushing for motions that only drew votes from one or two of the more urbanist or leftist members. To have a big impact, OneCity simply needs more votes at City Hall.
+That said, with only 1 seat on Council, OneCity has only been able to do that – *push* for progress. To have a big impact, OneCity simply needs more votes at City Hall.
 
-The party’s [platform](https://www.onecityvancouver.ca/platform) hopes to deliver that, including a call to  [create non-police response teams](https://vancouver.citynews.ca/2022/09/19/onecity-peer-mental-health-teams/) that can respond to mental health crises, and a call to “[end the apartment ban](https://vancouversun.com/opinion/columnists/dan-fumano-ending-vancouvers-apartment-ban-is-it-progress-or-disaster)”, allowing new rentals and social housing in all neighbourhoods.
+The party’s [platform](https://www.onecityvancouver.ca/platform) hopes to deliver that, including a call to  [create non-police response teams](https://vancouver.citynews.ca/2022/09/19/onecity-peer-mental-health-teams/) that can respond to mental health crises, and a call to “[end the apartment ban](https://vancouversun.com/opinion/columnists/dan-fumano-ending-vancouvers-apartment-ban-is-it-progress-or-disaster)”, allowing new rentals and social housing in all neighbourhoods. It's good stuff.
 
-If this kind of approach appeals to you, you’ll want to consider voting for Boyle and OneCity’s new candidates: health economist **Ian Cromwell**, senior transportation planner **Iona Bonamis**, and indigenous leader **Matthew Norris**.
+If this kind of approach appeals to you, you’ll want to strongly consider voting for Boyle and OneCity’s new candidates: health economist **Ian Cromwell**, senior transportation planner **Iona Bonamis**, and indigenous leader **Matthew Norris**.
 
-On the question of electability, OneCity is the only party to have all their candidates endorsed by the Vancouver Labour and District Council, or VDLC. While VDLC has long helped rally progressive voters towards an electable slate of candidates, their misstep in 2018 of endorsing 4 Vision candidates may have reduced their credibility here. That said, 5/7 of VDLC’s non-Vision picks were elected last time around, so their [Vision-less 2022 slate](https://vdlc.ca/vdlc-endorses-municipal-candidates/) may be a useful tool for progressive voters trying to make sense of their many options.
+On the question of electability, OneCity is the only party to have all their candidates endorsed by the Vancouver Labour and District Council (VDLC), who has long helped rally progressive voters towards an electable slate of candidates. Despite their misstep in 2018 of endorsing 4 Vision candidates, their [Vision-less 2022 slate](https://vdlc.ca/vdlc-endorses-municipal-candidates/) could prove useful tool for progressive voters trying to make sense of a horde of options.
 
 Like the other progressive parties, OneCity has refrained from running a mayoral candidate, implicitly supporting Mayor Kennedy Stewart’s re-election. Their hope is that time around, he’ll have enough progressives and urbanists on Council to make some bigger changes.
 
@@ -197,7 +197,7 @@ It seems Hardwick became so frustrated being Vancouver’s most conservative Cou
 
 Still, 17% is not nothing! Especially in the small sample sizes of municipal polling. While TEAM’s votes are likely to come from a mix of cranky old landowners and low-information voters, they may pull enough votes to play spoiler for development-skeptical candidates running for ABC, the NPA, or perhaps the Greens.
 
-On the other hand, Hardwick’s candidacy is helpful for progressive parties’ get out the vote efforts. Her rhetoric and actions are so antithetical to the values of leftist and urbanist voters that the mere chance of her being Mayor could help get folks out of bed and into polling stations come October 15. Seriously, [do not let this person become mayor](https://twitter.com/shaunasylvester/status/1569743816072040451).
+On the other hand, Hardwick’s candidacy is helpful for progressive parties’ "get out the vote" efforts. Her rhetoric and actions are so antithetical to the values of leftist and urbanist voters that the mere chance of her being Mayor could help get folks out of bed and into polling stations come October 15. Seriously, [do not let this person become mayor](https://twitter.com/shaunasylvester/status/1569743816072040451).
 
 <a name="bonus"></a>
 ## Bonus Round: The not-independents
@@ -231,7 +231,7 @@ My hope is that this is just a starting point, something that gives folks some s
   - Their [Candidates Guide](https://vancouver.ca/your-government/candidate-profiles.aspx) with profiles of each candidate
   - Their [Plan Your Vote](https://vancouver.ca/plan-your-vote/) tool
   - Their [Voters' Guide](https://vancouver.ca/your-government/voters-guide.aspx)
-- The Twitter feed of [municipal reporter and national treasure Justin McElroy](https://twitter.com/j_mcelroy)
+- The Twitter feed of [municipal reporter and local treasure Justin McElroy](https://twitter.com/j_mcelroy)
 - Notes on current Council’s record:
   - [On the Record: Councillors on Their Broadway Plan Votes](https://thetyee.ca/News/2022/06/23/Councillors-Broadway-Plan-Votes/?utm_source=twitter&utm_medium=social&utm_content=062322-1&utm_campaign=editorial) by Jen St. Denis for The Tyee
   - [How Vancouver’s mayor and council voted on big issues this term](https://www.cbc.ca/news/canada/british-columbia/vancouver-council-mayor-votes-1.6573186) by Justin McElroy for CBC
