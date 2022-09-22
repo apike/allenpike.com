@@ -54,7 +54,7 @@ Adding to the chaos, the centre-right NPA – despite holding 5 of 10 Council se
 
 <a name="crises"></a>
 ## The Crises
-Vancouver continues to be in a serious housing shortage. It’s still bad, it’s still getting worse, and [somebody still has to *do something*](https://www.theglobeandmail.com/opinion/editorials/article-canadas-population-is-booming-and-we-arent-building-nearly-enough/). Something other than squabble over amendments to amendments at marathon council sessions, struggling until midnight to try and get agreement on approving a single apartment building, I mean. Something other than that.
+Vancouver continues to be in a serious housing shortage. It’s still bad, it’s still getting worse, and [somebody still has to *do something*](https://www.theglobeandmail.com/opinion/editorials/article-canadas-population-is-booming-and-we-arent-building-nearly-enough/). Something other than squabble over [amendments to amendments](https://twitter.com/j_mcelroy/status/1539305885729628160?s=20&t=q6iwlTqbw94K7SRM_YCUPQ) at marathon council sessions, that is.
 
 Of course, housing isn’t the only crisis Vancouver has on its plate. We continue to suffer from a devastating loss of lives due to the poisoned drug supply, and we are also staring down a climate crisis. While other levels of government have a responsibility to help address all three of these crises, the city plays a role in each, and our votes will determine what kind of role that will be.
 
