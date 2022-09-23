@@ -39,6 +39,7 @@ Get a stiff drink, and settle in.
   - [Green](#green)
   - [NPA](#npa)
   - [TEAM for a Liveable Vancouver](#team)
+  - [Bonus: The not-independents](#bonus)
 - [The Part Where You Vote](#vote)
 
 ------
