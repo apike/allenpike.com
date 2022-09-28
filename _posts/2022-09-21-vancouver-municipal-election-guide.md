@@ -123,7 +123,7 @@ If you’re a single-issue voter on the topic of housing supply, you may want to
 ## Forward Together
 When Mayor **Kennedy Stewart** ran as an Independent in 2018, he surely hoped he’d be leading a Council that shared his progressive urbanist politics. Instead, he got a mixed bag of Councillors, with no clear majority to implement his vision – a position I’ve seen described as mayoral candidates’ worst nightmare.
 
-One one hand, Stewart has pulled off some successes from this difficult position, such as the narrow passage of the Broadway Plan and Vancouver Plan, and [permitting a record number of new homes in 2021](https://dailyhive.com/vancouver/vancouver-new-housing-approvals-2021). On the other hand, he has led a Council that is perceived as dysfunctional and slow to address the scale of our city’s crises – nobody wants a repeat of that this time around.
+On one hand, Stewart has pulled off some successes from this difficult position, such as the narrow passage of the Broadway Plan and Vancouver Plan, and [permitting a record number of new homes in 2021](https://dailyhive.com/vancouver/vancouver-new-housing-approvals-2021). On the other hand, he has led a Council that is perceived as dysfunctional and slow to address the scale of our city’s crises – nobody wants a repeat of that this time around.
 
 To this end, Stewart has formed the Forward Together party, a group of Council candidates with a progressive-urbanist platform. In what may not be a coincidence, Forward is running 6 Council candidates, which paired together with the 4 Council candidates from ideologically similar OneCity makes for a full ballot.
 
