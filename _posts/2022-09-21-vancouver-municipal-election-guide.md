@@ -226,7 +226,7 @@ Cast your vote – it’s in you to give.
 <a name="ballots"></a>
 ## Sample Ballots
 
-Since posting this guide, I've been often asked something like, "OneCity seems great, but who else can I vote for that is electable, urbanist, and progressive?" As I see it, there are three main ways you can approach that question:
+Since posting this guide, I've been often asked something like, "OneCity seems great, but who else is electable, urbanist, and progressive?" As I see it, there are three main ways you can approach that question:
 
 1. Fill your ballot with the two left-urbanist parties: OneCity and Forward.
 2. Go with progressive candidate slate endorsed by the Vancouver & District Labour Council.
