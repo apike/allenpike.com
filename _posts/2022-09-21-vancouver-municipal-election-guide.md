@@ -13,7 +13,7 @@ tags:
 
 ---
 
-*Sep 21: With three weeks still to go before election day, this guide will evolve somewhat as polls, platform details, corrections, and other info continues to come in.*
+*Update, Oct 2: Early voting is open – less than two weeks to go! I've made some corrections, and [added some sample ballots](#ballots) for housing-focused progressives.*
 
 Vancouver is cursed with an interesting political scene. We have a relatively engaged electorate compared to other cities, and a disproportionate supply of cranks. This fuels a dizzying mix of parties, candidates, and intrigue to follow and/or consider and/or be overwhelmed by. To make matters worse, information about candidates and their platforms tends to all roll out in a short period leading up to Election Day. This can make planning your vote feel like a buttload of work.
 
@@ -41,6 +41,7 @@ Get a stiff drink, and settle in.
   - [TEAM for a Liveable Vancouver](#team)
   - [Bonus: The not-independents](#bonus)
 - [The Part Where You Vote](#vote)
+- [Sample Ballots](#ballots)
 
 ------
 
@@ -221,6 +222,20 @@ If you’ve taken the time to peruse a voting guide, you surely know that voting
 Between now and then, use the [Plan Your Vote](https://vancouver.ca/plan-your-vote/) tool, along with some of the starting points in this guide, to find some candidates that seem like they have a shot at making Vancouver a better place.
 
 Cast your vote – it’s in you to give.
+
+<a name="ballots"></a>
+## Sample Ballots
+
+Since posting this guide, I've been often asked something like, "OneCity seems great, but who else can I vote for that is electable, urbanist, and progressive?" As I see it, there are three main ways you can approach that question:
+
+1. Fill your ballot with the two left-urbanist parties: OneCity and Forward.
+2. Go with progressive candidate slate endorsed by the Vancouver & District Labour Council.
+3. Mix those two strategies, doing research to make some judgement calls about electability and who counts as "housing focused enough" to make your ballot.
+
+Below are example ballots for these three approaches. You certainly might make different judgement calls than I did for the "mixed" ballot – if we get polling that changes my best guesses about electability, I may tweak that one.
+
+<a href="/images/2022/example-ballots-2022.png"><img src="/images/2022/example-ballots-2022.png"></a>
+
 
 ------
 
