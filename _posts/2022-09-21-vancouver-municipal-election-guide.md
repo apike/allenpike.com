@@ -13,13 +13,13 @@ tags:
 
 ---
 
-*Sep 21: With three weeks still to go before election day, this guide will evolve somewhat as polls, platform details, corrections, and other info continues to come in.*
+*Update, Oct 2: Early voting is open – less than two weeks to go! I've made some corrections, and [added some sample ballots](#ballots) for housing-focused progressives.*
 
 Vancouver is cursed with an interesting political scene. We have a relatively engaged electorate compared to other cities, and a disproportionate supply of cranks. This fuels a dizzying mix of parties, candidates, and intrigue to follow and/or consider and/or be overwhelmed by. To make matters worse, information about candidates and their platforms tends to all roll out in a short period leading up to Election Day. This can make planning your vote feel like a buttload of work.
 
 Well, dear reader, let me take a load off your butt with an overview of the weird mess that is this election. Assuming, that is, that you are a progressive sort of voter who cares about housing affordability.
 
-On Oct 1, advance polling will open up and Vancouverites will have their say on who should hold the 11 votes on our City Council – 10 councillors, plus one mayor. So it’s time to recap how we got here, then review the 9+ parties vying for your consideration.
+Advance polling is now open, and Vancouverites are having their say on who should hold the 11 votes on our City Council – 10 councillors, plus one mayor. So it’s time to recap how we got here, then review the 9+ parties vying for your consideration.
 
 Get a stiff drink, and settle in.
 
@@ -41,6 +41,7 @@ Get a stiff drink, and settle in.
   - [TEAM for a Liveable Vancouver](#team)
   - [Bonus: The not-independents](#bonus)
 - [The Part Where You Vote](#vote)
+- [Sample Ballots](#ballots)
 
 ------
 
@@ -212,15 +213,28 @@ Civil Engineer **Eric Redmond** is the candidate for the Affordable Housing Coal
 ## Time to Plan… That… Vote!
 Turnout in municipal elections is infamously low – 39% in 2018 – which means the outcome will really depend on who gets their butts in gear and casts a ballot, and who stays at home and scrolls social media.
 
-If you’ve taken the time to peruse a voting guide, you surely know that voting is worthwhile, *but* without a specific plan you’re less likely to actually cast your vote. You’ve got three main options – put one in your calendar:
+If you’ve taken the time to peruse a voting guide, you surely know that voting is worthwhile, *but* without a specific plan you’re less likely to actually cast your vote. You’ve got two main options – put one in your calendar:
 
-1. You can vote by mail, but to receive a package in the mail you need to [request a package here](https://vancouver.ca/election/2022/vote-by-mail.aspx) before **Thursday, Sep 29** at 5pm.
-2. Cool kids vote early. Advance voting will be possible in select locations on Sat **Oct 1**, Wed **Oct 5**, Sat **Oct 8**, Tue **Oct 11**, and Thu **Oct 13**.
-3. Election Day city-wide will be on Saturday, **October 15**.
+1. Cool kids vote early. Advance voting is possible in select locations on ~~Sat Oct 1~~, Wed **Oct 5**, Sat **Oct 8**, Tue **Oct 11**, and Thu **Oct 13**.
+2. Election Day city-wide will be on Saturday, **October 15**.
 
 Between now and then, use the [Plan Your Vote](https://vancouver.ca/plan-your-vote/) tool, along with some of the starting points in this guide, to find some candidates that seem like they have a shot at making Vancouver a better place.
 
 Cast your vote – it’s in you to give.
+
+<a name="ballots"></a>
+## Sample Ballots
+
+Since posting this guide, I've been often asked something like, "OneCity seems great, but who else is electable, urbanist, and progressive?" As I see it, there are three main ways you can approach that question:
+
+1. Fill your ballot with the two left-urbanist parties: OneCity and Forward.
+2. Go with progressive candidate slate endorsed by the Vancouver & District Labour Council.
+3. Mix those two strategies, doing research to make some judgement calls about electability and who counts as "housing focused enough" to make your ballot.
+
+Below are <a href="/images/2022/example-ballots-2022.png">example ballots</a> for these three approaches. You certainly might make different judgement calls for the "mixed" ballot – if we get polling that changes my best guesses about electability, I may tweak that one.
+
+<a href="/images/2022/example-ballots-2022.png"><img src="/images/2022/example-ballots-2022.png"></a>
+
 
 ------
 
