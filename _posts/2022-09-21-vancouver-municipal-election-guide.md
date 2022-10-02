@@ -19,7 +19,7 @@ Vancouver is cursed with an interesting political scene. We have a relatively en
 
 Well, dear reader, let me take a load off your butt with an overview of the weird mess that is this election. Assuming, that is, that you are a progressive sort of voter who cares about housing affordability.
 
-On Oct 1, advance polling will open up and Vancouverites will have their say on who should hold the 11 votes on our City Council – 10 councillors, plus one mayor. So it’s time to recap how we got here, then review the 9+ parties vying for your consideration.
+Advance polling is now open, and Vancouverites are having their say on who should hold the 11 votes on our City Council – 10 councillors, plus one mayor. So it’s time to recap how we got here, then review the 9+ parties vying for your consideration.
 
 Get a stiff drink, and settle in.
 
@@ -216,7 +216,7 @@ Turnout in municipal elections is infamously low – 39% in 2018 – which means
 If you’ve taken the time to peruse a voting guide, you surely know that voting is worthwhile, *but* without a specific plan you’re less likely to actually cast your vote. You’ve got three main options – put one in your calendar:
 
 1. You can vote by mail, but to receive a package in the mail you need to [request a package here](https://vancouver.ca/election/2022/vote-by-mail.aspx) before **Thursday, Sep 29** at 5pm.
-2. Cool kids vote early. Advance voting will be possible in select locations on Sat **Oct 1**, Wed **Oct 5**, Sat **Oct 8**, Tue **Oct 11**, and Thu **Oct 13**.
+2. Cool kids vote early. Advance voting is possible in select locations on ~~Sat Oct 1~~, Wed **Oct 5**, Sat **Oct 8**, Tue **Oct 11**, and Thu **Oct 13**.
 3. Election Day city-wide will be on Saturday, **October 15**.
 
 Between now and then, use the [Plan Your Vote](https://vancouver.ca/plan-your-vote/) tool, along with some of the starting points in this guide, to find some candidates that seem like they have a shot at making Vancouver a better place.
