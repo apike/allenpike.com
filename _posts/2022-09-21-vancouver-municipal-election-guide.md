@@ -213,11 +213,10 @@ Civil Engineer **Eric Redmond** is the candidate for the Affordable Housing Coal
 ## Time to Plan… That… Vote!
 Turnout in municipal elections is infamously low – 39% in 2018 – which means the outcome will really depend on who gets their butts in gear and casts a ballot, and who stays at home and scrolls social media.
 
-If you’ve taken the time to peruse a voting guide, you surely know that voting is worthwhile, *but* without a specific plan you’re less likely to actually cast your vote. You’ve got three main options – put one in your calendar:
+If you’ve taken the time to peruse a voting guide, you surely know that voting is worthwhile, *but* without a specific plan you’re less likely to actually cast your vote. You’ve got two main options – put one in your calendar:
 
-1. You can vote by mail, but to receive a package in the mail you need to [request a package here](https://vancouver.ca/election/2022/vote-by-mail.aspx) before **Thursday, Sep 29** at 5pm.
-2. Cool kids vote early. Advance voting is possible in select locations on ~~Sat Oct 1~~, Wed **Oct 5**, Sat **Oct 8**, Tue **Oct 11**, and Thu **Oct 13**.
-3. Election Day city-wide will be on Saturday, **October 15**.
+1. Cool kids vote early. Advance voting is possible in select locations on ~~Sat Oct 1~~, Wed **Oct 5**, Sat **Oct 8**, Tue **Oct 11**, and Thu **Oct 13**.
+2. Election Day city-wide will be on Saturday, **October 15**.
 
 Between now and then, use the [Plan Your Vote](https://vancouver.ca/plan-your-vote/) tool, along with some of the starting points in this guide, to find some candidates that seem like they have a shot at making Vancouver a better place.
 
