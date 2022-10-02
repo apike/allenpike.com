@@ -254,7 +254,7 @@ My hope is that this is just a starting point, something that gives folks some s
 - Polling results (more will likely roll in as we approach election day):
   - [Research Co.’s Sep 8 Mayoral Poll](https://researchco.ca/2022/09/08/vanpoli-sept2022/) that saw Stewart narrowly leading Sim, with Hardwick and Marissen further behind
   - [Mainstreet’s Aug 2 Mayoral poll](https://biv.com/article/2022/08/stewart-hardwick-and-marissen-lead-vancouver-mayor-race-poll) that saw Stewart narrowly leading, with Hardwick and Marissen ahead of Sim
-- Some slates and policy surveys by different organizations
+- Some slates and policy surveys
   - Chris Porter has a good summary of the parties' records and promises for [housing](https://canadianveggie.com/2022/09/27/vancouver-2022-election-housing/) and [climate](https://twitter.com/cdnveggie/status/1576616206194262016) issues
   - The Tyee has their [guide to the parties running this election](https://thetyee.ca/Analysis/2022/09/12/So-Many-Parties-Your-Guide-Vancouver-Crowded-Election/)
   - [Women Transforming Cities](https://www.womentransformingcities.org/hpp-policy-asks)
