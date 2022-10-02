@@ -232,7 +232,7 @@ Since posting this guide, I've been often asked something like, "OneCity seems g
 2. Go with progressive candidate slate endorsed by the Vancouver & District Labour Council.
 3. Mix those two strategies, doing research to make some judgement calls about electability and who counts as "housing focused enough" to make your ballot.
 
-Below are <a href="/images/2022/example-ballots-2022.png">example ballots</a> for these three approaches. You certainly might make different judgement calls than I did for the "mixed" ballot – if we get polling that changes my best guesses about electability, I may tweak that one.
+Below are <a href="/images/2022/example-ballots-2022.png">example ballots</a> for these three approaches. You certainly might make different judgement calls for the "mixed" ballot – if we get polling that changes my best guesses about electability, I may tweak that one.
 
 <a href="/images/2022/example-ballots-2022.png"><img src="/images/2022/example-ballots-2022.png"></a>
 
