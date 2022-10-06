@@ -171,7 +171,7 @@ Vancouver’s Green Party engenders complex feelings in many progressive voters.
 
 Truly making sense of the Greens is challenging in part because the party is not very prescriptive about its views or platform. Sitting councillors **Adriane Carr**, **Pete Fry**, and **Michael Wiebe** each act independently, going their own way on various issues, which has contributed to the the complexity of getting clear and efficient plans through City Hall.
 
-While VDLC has endorsed all three sitting Green candidates, voters may want to do a bit of research on each Councillor’s record before casting a vote. If progressive values and climate actions *other* than bold action on housing are key to you, then you may also want to consider the new Green candidates: climate scientist **Devyani Singh** and activist **Stephanie Smith**.
+While VDLC has endorsed all three sitting Green candidates, voters may want to do a bit of research on each Councillor’s record before casting a vote. If progressive values and climate actions are key to you and you suspect the new Green candidates may push harder on the housing file than the incumbents, you may also consider climate scientist **Devyani Singh** and activist **Stephanie Smith**.
 
 <a name="npa"></a>
 ## NPA
@@ -235,8 +235,7 @@ Below are <a href="/images/2022/example-ballots-2022.png">example ballots</a> fo
 
 <a href="/images/2022/example-ballots-2022.png"><img src="/images/2022/example-ballots-2022.png"></a>
 
-You certainly might make different judgement calls for the "mixed" ballot – a lot of progressives are struggling with their 9th and 10th picks. It looks like we [won't see party-level polling](https://twitter.com/mario_canseco/status/1577804853111586817), so judging who has a shot is a speculation game. Other than the candidates above, I've been seeing OneCity voters adding Devyani Singh (Green), Sean Orr (Socialist), or Lesli Boldt (Vision) to their ballots.
-
+You certainly might make different judgement calls for the "mixed" ballot – a lot of progressives are struggling with their 9th and 10th picks. It looks like we [won't see party-level polling](https://twitter.com/mario_canseco/status/1577804853111586817), so judging who has a shot is a weird game: part speculation, part word of mouth, part counting those darn lawn signs.
 
 ------
 
