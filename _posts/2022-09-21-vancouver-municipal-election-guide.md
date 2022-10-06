@@ -13,7 +13,7 @@ tags:
 
 ---
 
-*Update, Oct 2: Early voting is open – less than two weeks to go! I've made some corrections, and [added some sample ballots](#ballots) for housing-focused progressives.*
+*Update, Oct 5: Early voting is open – less than two weeks to go! I've made some corrections, and [added some sample ballots](#ballots) for housing-focused progressives.*
 
 Vancouver is cursed with an interesting political scene. We have a relatively engaged electorate compared to other cities, and a disproportionate supply of cranks. This fuels a dizzying mix of parties, candidates, and intrigue to follow and/or consider and/or be overwhelmed by. To make matters worse, information about candidates and their platforms tends to all roll out in a short period leading up to Election Day. This can make planning your vote feel like a buttload of work.
 
@@ -215,7 +215,7 @@ Turnout in municipal elections is infamously low – 39% in 2018 – which means
 
 If you’ve taken the time to peruse a voting guide, you surely know that voting is worthwhile, *but* without a specific plan you’re less likely to actually cast your vote. You’ve got two main options – put one in your calendar:
 
-1. Cool kids vote early. Advance voting is possible in select locations on ~~Sat Oct 1~~, Wed **Oct 5**, Sat **Oct 8**, Tue **Oct 11**, and Thu **Oct 13**.
+1. Cool kids vote early. Advance voting is possible in select locations on ~~Sat Oct 1~~, Wed ~~Oct 5~~, Sat **Oct 8**, Tue **Oct 11**, and Thu **Oct 13**.
 2. Election Day city-wide will be on Saturday, **October 15**.
 
 Between now and then, use the [Plan Your Vote](https://vancouver.ca/plan-your-vote/) tool, along with some of the starting points in this guide, to find some candidates that seem like they have a shot at making Vancouver a better place.
@@ -231,9 +231,11 @@ Since posting this guide, I've been often asked something like, "OneCity seems g
 2. Go with progressive candidate slate endorsed by the Vancouver & District Labour Council.
 3. Mix those two strategies, doing research to make some judgement calls about electability and who counts as "housing focused enough" to make your ballot.
 
-Below are <a href="/images/2022/example-ballots-2022.png">example ballots</a> for these three approaches. You certainly might make different judgement calls for the "mixed" ballot – if we get polling that changes my best guesses about electability, I may tweak that one.
+Below are <a href="/images/2022/example-ballots-2022.png">example ballots</a> for these three approaches.
 
 <a href="/images/2022/example-ballots-2022.png"><img src="/images/2022/example-ballots-2022.png"></a>
+
+You certainly might make different judgement calls for the "mixed" ballot – a lot of progressives are struggling with their 9th and 10th picks. It looks like we [won't see party-level polling](https://twitter.com/mario_canseco/status/1577804853111586817), so judging who has a shot is a speculation game. Other than the candidates above, I've been seeing OneCity voters adding Devyani Singh (Green), Sean Orr (Socialist), or Lesli Boldt (Vision) to their ballots.
 
 
 ------
@@ -247,7 +249,9 @@ My hope is that this is just a starting point, something that gives folks some s
   - Their [Plan Your Vote](https://vancouver.ca/plan-your-vote/) tool
   - Their [Voters' Guide](https://vancouver.ca/your-government/voters-guide.aspx)
 - The Twitter feed of [municipal reporter and local treasure Justin McElroy](https://twitter.com/j_mcelroy)
-- CBC’s Steven Quinn did short [interviews with each key mayoral candidate](https://www.cbc.ca/listen/live-radio/1-91-the-early-edition#episodes)
+- CBC has some useful resources:
+  - Steven Quinn did short [interviews with each key mayoral candidate](https://www.cbc.ca/listen/live-radio/1-91-the-early-edition#episodes)
+  - An abbreviated [summary of mayoral platforms](https://newsinteractives.cbc.ca/features/2022/vancouver-election-platforms/)
 - Notes on current Council’s record:
   - [On the Record: Councillors on Their Broadway Plan Votes](https://thetyee.ca/News/2022/06/23/Councillors-Broadway-Plan-Votes/?utm_source=twitter&utm_medium=social&utm_content=062322-1&utm_campaign=editorial) by Jen St. Denis for The Tyee
   - [How Vancouver’s mayor and council voted on big issues this term](https://www.cbc.ca/news/canada/british-columbia/vancouver-council-mayor-votes-1.6573186) by Justin McElroy for CBC
@@ -255,10 +259,11 @@ My hope is that this is just a starting point, something that gives folks some s
   - [Research Co.’s Sep 8 Mayoral Poll](https://researchco.ca/2022/09/08/vanpoli-sept2022/) that saw Stewart narrowly leading Sim, with Hardwick and Marissen further behind
   - [Mainstreet’s Aug 2 Mayoral poll](https://biv.com/article/2022/08/stewart-hardwick-and-marissen-lead-vancouver-mayor-race-poll) that saw Stewart narrowly leading, with Hardwick and Marissen ahead of Sim
 - Some slates and policy surveys
-  - Chris Porter has a good summary of the parties' records and promises for [housing](https://canadianveggie.com/2022/09/27/vancouver-2022-election-housing/) and [climate](https://twitter.com/cdnveggie/status/1576616206194262016) issues
+  - Chris Porter has a good summary of the parties' records and promises for [housing](https://canadianveggie.com/2022/09/27/vancouver-2022-election-housing/) and [climate](https://twitter.com/cdnveggie/status/1576616206194262016), as well as his reasoning for [his ballot](https://canadianveggie.com/2022/10/03/vancouver-2022-election-who-to-vote-for/)
   - The Tyee has their [guide to the parties running this election](https://thetyee.ca/Analysis/2022/09/12/So-Many-Parties-Your-Guide-Vancouver-Crowded-Election/)
   - [Women Transforming Cities](https://www.womentransformingcities.org/hpp-policy-asks)
   - The [Vancouver and District Labour Council](https://vdlc.ca/vdlc-endorses-municipal-candidates/)’s endorsements
+  - Frances Bula has a [smattering of notes from Twitter folks](https://www.francesbula.com/uncategorized/how-are-people-figuring-out-their-vancouver-council-vote-in-this-complicated-2022-election-i-asked-got-lots-of-answers/) on how they're thinking about their ballots.
   - The Tyee’s [climate report card for sitting councillors](https://thetyee.ca/Analysis/2022/09/15/Climate-Report-Card-Vancouver-City-Council/)
 
 For new readers wondering where I’m coming from: I’m a thirty-something parent and small business owner who owns a townhome in East Vancouver. I’m an advocate for affordable housing who believes Vancouver should be a welcoming place for all, not just people who already have wealth or land.
