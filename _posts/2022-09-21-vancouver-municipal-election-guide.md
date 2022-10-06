@@ -256,7 +256,7 @@ My hope is that this is just a starting point, something that gives folks some s
   - [On the Record: Councillors on Their Broadway Plan Votes](https://thetyee.ca/News/2022/06/23/Councillors-Broadway-Plan-Votes/?utm_source=twitter&utm_medium=social&utm_content=062322-1&utm_campaign=editorial) by Jen St. Denis for The Tyee
   - [How Vancouver’s mayor and council voted on big issues this term](https://www.cbc.ca/news/canada/british-columbia/vancouver-council-mayor-votes-1.6573186) by Justin McElroy for CBC
 - Polling results (more will likely roll in as we approach election day):
-  - [Research Co.’s Sep 8 Mayoral Poll](https://researchco.ca/2022/09/08/vanpoli-sept2022/) that saw Stewart narrowly leading Sim, with Hardwick and Marissen further behind
+  - [Research Co.’s Sep 8 Mayoral Poll](https://researchco.ca/2022/09/08/vanpoli-sept2022/) that saw Stewart narrowly leading Sim, with Hardwick and Marissen further behind, and a snippet from a [newer Research Co. poll](https://twitter.com/fumano/status/1577016081541402624) that sees Stewart and Sim neck and neck
   - [Mainstreet’s Aug 2 Mayoral poll](https://biv.com/article/2022/08/stewart-hardwick-and-marissen-lead-vancouver-mayor-race-poll) that saw Stewart narrowly leading, with Hardwick and Marissen ahead of Sim
 - Some slates and policy surveys
   - Chris Porter has a good summary of the parties' records and promises for [housing](https://canadianveggie.com/2022/09/27/vancouver-2022-election-housing/) and [climate](https://twitter.com/cdnveggie/status/1576616206194262016), as well as his reasoning for [his ballot](https://canadianveggie.com/2022/10/03/vancouver-2022-election-who-to-vote-for/)
