@@ -157,7 +157,7 @@ ABC is perhaps the most likely party to win a majority this election, which is w
 
 <a name="cope"></a>
 ## COPE
-At one time, COPE was what it said on the tin: a coalition of progressive electors, who got a progressive majority elected back in 2002. Since then, COPE’s representation on on Council has dwindled, and currently consists of the one, the only, **Jean Swanson**. Swanson’s unapologetically principled brand of leftist politics captured voters’ imagination in 2018, and she’s been consistent in her conduct as Councillor in the years since. That is to say, she votes against anything that doesn’t seem like a clear win for the homeless or less privileged.
+At one time, COPE was what it said on the tin: a coalition of progressive electors, who got a progressive majority elected back in 2002. Since then, COPE’s representation on Council has dwindled, and currently consists of the one, the only, **Jean Swanson**. Swanson’s unapologetically principled brand of leftist politics captured voters’ imagination in 2018, and she’s been consistent in her conduct as Councillor in the years since. That is to say, she votes against anything that doesn’t seem like a clear win for the homeless or less privileged.
 
 COPE’s value system tends to see protecting renters’ existing housing as a higher priority than increasing the availability or affordability of housing for those paying market rates. This has put her in conflict with those on the left who see housing supply as an urgent need, and sometimes made her strange bedfellows with TEAM's Colleen Hardwick on the far right side of the aisle.
 
@@ -167,9 +167,9 @@ If you’re a progressive voter more concerned about renter protections and hous
 
 <a name="green"></a>
 ## Green
-Vancouver’s Green Party engenders complex feelings in many progressive voters. One one hand, they have a great brand that has won 3 somewhat progressive votes on Council. On the other hand, they have a tendency to delay action when it comes to building housing, social or otherwise. While there is [increasing support](https://archive.curbed.com/2018/12/11/18136188/city-density-climate-change-zoning) for the idea that [densification is one of the highest impact things cities can do on climate](https://www.cbc.ca/news/business/suburbs-covid-climate-column-don-pittis-1.6105357), the Greens have at times had their minds elsewhere. For example, directing staff to, say, [research options for procuring more plant-based food](https://council.vancouver.ca/20211102/documents/b3.pdf). Which isn’t a bad thing! But isn’t housing.
+Vancouver’s Green Party engenders complex feelings in many progressive voters. On one hand, they have a great brand that has won 3 somewhat progressive votes on Council. On the other hand, they have a tendency to delay action when it comes to building housing, social or otherwise. While there is [increasing support](https://archive.curbed.com/2018/12/11/18136188/city-density-climate-change-zoning) for the idea that [densification is one of the highest impact things cities can do on climate](https://www.cbc.ca/news/business/suburbs-covid-climate-column-don-pittis-1.6105357), the Greens have at times had their minds elsewhere. For example, directing staff to, say, [research options for procuring more plant-based food](https://council.vancouver.ca/20211102/documents/b3.pdf). Which isn’t a bad thing! But isn’t housing.
 
-Truly making sense of the Greens is challenging in part because the party is not very prescriptive about its views or platform. Sitting councillors **Adriane Carr**, **Pete Fry**, and **Michael Wiebe** each act independently, going their own way on various issues, which has contributed to the the complexity of getting clear and efficient plans through City Hall.
+Truly making sense of the Greens is challenging in part because the party is not very prescriptive about its views or platform. Sitting councillors **Adriane Carr**, **Pete Fry**, and **Michael Wiebe** each act independently, going their own way on various issues, which has contributed to the complexity of getting clear and efficient plans through City Hall.
 
 While VDLC has endorsed all three sitting Green candidates, voters may want to do a bit of research on each Councillor’s record before casting a vote. If progressive values and climate actions are key to you and you suspect the new Green candidates may push harder on the housing file than the incumbents, you may also consider climate scientist **Devyani Singh** and activist **Stephanie Smith**.
 
@@ -185,7 +185,7 @@ So I guess it's up for debate. Did the NPA implode? Or did they collapse? Was it
 
 One of the questions for voters who lean right is: do they re-elect the sole remaining NPA Councillor, **Melissa De Genova**? She pulled in the 3rd most votes of any Councillor in 2018, so it stands to reason that she could be re-electable. On the other hand, every other NPA Councillor bailed on the organization, citing a conflict of values with the party’s new direction. It’s kind of a bad look.
 
-In terms of campaign promises, the NPA seems very focused on a crime and safety message, which which is a pretty traditional right-wing platform plank and not nearly as interesting as all the party drama.
+In terms of campaign promises, the NPA seems very focused on a crime and safety message, which is a pretty traditional right-wing platform plank and not nearly as interesting as all the party drama.
 
 Speaking of drama, the internet was recently flummoxed by the news that NPA Council candidate and realtor **Morning Lee** posted an instructional video on how to evict tenants during COVID, which reportedly included [instructions to make sure you drop a deuce in tenants' toilet](https://www.vancouverisawesome.com/bc-news/take-a-poop-to-assert-ownership-during-eviction-says-vancouver-city-council-candidate-5833670), so as to assert your sovereignty over the their home. But crime and safety, yes yes very serious.
 
