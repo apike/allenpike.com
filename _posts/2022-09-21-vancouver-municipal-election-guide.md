@@ -13,13 +13,13 @@ tags:
 
 ---
 
-*Update, Oct 5: Early voting is open – less than two weeks to go! I've made some corrections, and [added some sample ballots](#ballots) for housing-focused progressives.*
+*Updated through Oct 12.* Sat Oct 15 is the last day to vote! If you're short on time, I've [added some sample ballots](#ballots) for housing-focused progressives.*
 
 Vancouver is cursed with an interesting political scene. We have a relatively engaged electorate compared to other cities, and a disproportionate supply of cranks. This fuels a dizzying mix of parties, candidates, and intrigue to follow and/or consider and/or be overwhelmed by. To make matters worse, information about candidates and their platforms tends to all roll out in a short period leading up to Election Day. This can make planning your vote feel like a buttload of work.
 
 Well, dear reader, let me take a load off your butt with an overview of the weird mess that is this election. Assuming, that is, that you are a progressive sort of voter who cares about housing affordability.
 
-Advance polling is now open, and Vancouverites are having their say on who should hold the 11 votes on our City Council – 10 councillors, plus one mayor. So it’s time to recap how we got here, then review the 9+ parties vying for your consideration.
+Polls are now open, and Vancouverites are having their say on who should hold the 11 votes on our City Council – 10 councillors, plus one mayor. So it’s time to recap how we got here, then review the 9+ parties vying for your consideration.
 
 Get a stiff drink, and settle in.
 
@@ -153,7 +153,7 @@ If that kind of politics appeals to you, there's ABC Vancouver. Led by mayoral c
 
 While ABC’s policies may appeal to those on the right – cut waste at City Hall, hire police officers, oppose any new taxes on private vehicles – Sim seems to have sharpened his pencil on housing since last election. They’ve committed to triple the number of housing starts – though how they would achieve that and what proportion of social and rental housing they would pursue is unclear.
 
-ABC is perhaps the most likely party to win a majority this election, which is why Sim has had his rhetorical guns aimed at forerunner and incumbent Kennedy Stewart. If progressive voters aren’t keen on the idea of a centre-right Council, they’ll need to show up at the polls with something else in mind.
+ABC is the most likely party to win a majority this election, which is why Sim has had his rhetorical guns aimed at forerunner and incumbent Kennedy Stewart. If progressive voters aren’t keen on the idea of a centre-right Council, they’ll need to show up at the polls with something else in mind.
 
 <a name="cope"></a>
 ## COPE
@@ -215,7 +215,7 @@ Turnout in municipal elections is infamously low – 39% in 2018 – which means
 
 If you’ve taken the time to peruse a voting guide, you surely know that voting is worthwhile, *but* without a specific plan you’re less likely to actually cast your vote. You’ve got two main options – put one in your calendar:
 
-1. Cool kids vote early. Advance voting is possible in select locations on ~~Sat Oct 1~~, Wed ~~Oct 5~~, Sat **Oct 8**, Tue **Oct 11**, and Thu **Oct 13**.
+1. Cool kids vote early. Advance voting is possible in select locations on ~~Sat Oct 1~~, Wed ~~Oct 5~~, ~~Sat Oct 8~~, ~~Tue Oct 11~~, and Thu **Oct 13**.
 2. Election Day city-wide will be on Saturday, **October 15**.
 
 Between now and then, use the [Plan Your Vote](https://vancouver.ca/plan-your-vote/) tool, along with some of the starting points in this guide, to find some candidates that seem like they have a shot at making Vancouver a better place.
@@ -255,7 +255,8 @@ My hope is that this is just a starting point, something that gives folks some s
   - [On the Record: Councillors on Their Broadway Plan Votes](https://thetyee.ca/News/2022/06/23/Councillors-Broadway-Plan-Votes/?utm_source=twitter&utm_medium=social&utm_content=062322-1&utm_campaign=editorial) by Jen St. Denis for The Tyee
   - [How Vancouver’s mayor and council voted on big issues this term](https://www.cbc.ca/news/canada/british-columbia/vancouver-council-mayor-votes-1.6573186) by Justin McElroy for CBC
 - Mayoral polling results:
-  - [Research Co.’s Sep 8 Mayoral Poll](https://researchco.ca/2022/09/08/vanpoli-sept2022/) that saw Stewart narrowly leading Sim, with Hardwick and Marissen further behind, and a snippet from a [newer Research Co. poll](https://twitter.com/fumano/status/1577016081541402624) that sees Stewart and Sim neck and neck
+  - [Leger and Forum's early October polls](https://vancouversun.com/news/local-news/dan-fumano-many-undecided-votes-up-for-grabs-in-vancouver-elections-final-week-new-poll) showing Ken Sim in the lead over Stewart and Hardwick, but with a huge bank of undecided voters
+  - [Research Co.'s late September Mayoral poll](https://dailyhive.com/vancouver/kennedy-stewart-ken-sim-tie-vancouver-2022-election-survey-final) showing Stewart and Sim statistically tied, with Hardwick further behind, with Sim making gains since Research Co.'s [early September poll](https://researchco.ca/2022/09/08/vanpoli-sept2022/)
   - [Mainstreet’s Aug 2 Mayoral poll](https://biv.com/article/2022/08/stewart-hardwick-and-marissen-lead-vancouver-mayor-race-poll) that saw Stewart narrowly leading, with Hardwick and Marissen ahead of Sim
 - Some slates and policy surveys
   - Chris Porter has a good summary of the parties' records and promises for [housing](https://canadianveggie.com/2022/09/27/vancouver-2022-election-housing/) and [climate](https://twitter.com/cdnveggie/status/1576616206194262016), as well as his reasoning for [his ballot](https://canadianveggie.com/2022/10/03/vancouver-2022-election-who-to-vote-for/)
