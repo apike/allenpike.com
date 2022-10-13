@@ -258,12 +258,12 @@ My hope is that this is just a starting point, something that gives folks some s
   - [Leger and Forum's early October polls](https://vancouversun.com/news/local-news/dan-fumano-many-undecided-votes-up-for-grabs-in-vancouver-elections-final-week-new-poll) showing Ken Sim in the lead over Stewart and Hardwick, but with a huge bank of undecided voters
   - [Research Co.'s late September Mayoral poll](https://dailyhive.com/vancouver/kennedy-stewart-ken-sim-tie-vancouver-2022-election-survey-final) showing Stewart and Sim statistically tied, with Hardwick further behind, with Sim making gains since Research Co.'s [early September poll](https://researchco.ca/2022/09/08/vanpoli-sept2022/)
   - [Mainstreet’s Aug 2 Mayoral poll](https://biv.com/article/2022/08/stewart-hardwick-and-marissen-lead-vancouver-mayor-race-poll) that saw Stewart narrowly leading, with Hardwick and Marissen ahead of Sim
-- Some slates and policy surveys
+- Other guides, slates, and surveys
+  - Frances Bula's guide on [how different groups may be voting](https://www.francesbula.com/uncategorized/the-fabula-guide-on-how-to-vote-in-the-vancouver-civic-election-advance-vote-oct-13-voting-day-oct-15/) this election
   - Chris Porter has a good summary of the parties' records and promises for [housing](https://canadianveggie.com/2022/09/27/vancouver-2022-election-housing/) and [climate](https://twitter.com/cdnveggie/status/1576616206194262016), as well as his reasoning for [his ballot](https://canadianveggie.com/2022/10/03/vancouver-2022-election-who-to-vote-for/)
   - The Tyee has their [guide to the parties running this election](https://thetyee.ca/Analysis/2022/09/12/So-Many-Parties-Your-Guide-Vancouver-Crowded-Election/)
   - [Women Transforming Cities](https://www.womentransformingcities.org/hpp-policy-asks)
   - The [Vancouver and District Labour Council](https://vdlc.ca/vdlc-endorses-municipal-candidates/)’s endorsements
-  - Frances Bula has a [smattering of notes from Twitter folks](https://www.francesbula.com/uncategorized/how-are-people-figuring-out-their-vancouver-council-vote-in-this-complicated-2022-election-i-asked-got-lots-of-answers/) on how they're thinking about their ballots.
   - The Tyee’s [climate report card for sitting councillors](https://thetyee.ca/Analysis/2022/09/15/Climate-Report-Card-Vancouver-City-Council/)
 
 For new readers wondering where I’m coming from: I’m a thirty-something parent and small business owner who owns a townhome in East Vancouver. I’m an advocate for affordable housing who believes Vancouver should be a welcoming place for all, not just people who already have wealth or land.
