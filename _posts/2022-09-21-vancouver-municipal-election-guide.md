@@ -13,7 +13,7 @@ tags:
 
 ---
 
-*Updated through Oct 12.* Sat Oct 15 is the last day to vote! If you're short on time, I've [added some sample ballots](#ballots) for housing-focused progressives.*
+*Updated through Oct 12.* Sat Oct 15 is the last day to vote! If you're short on time, I've [added some sample ballots](#ballots) for housing-focused progressives.
 
 Vancouver is cursed with an interesting political scene. We have a relatively engaged electorate compared to other cities, and a disproportionate supply of cranks. This fuels a dizzying mix of parties, candidates, and intrigue to follow and/or consider and/or be overwhelmed by. To make matters worse, information about candidates and their platforms tends to all roll out in a short period leading up to Election Day. This can make planning your vote feel like a buttload of work.
 
