@@ -24,9 +24,9 @@ There’s a meeting going on. A group of smart people are trying to move forward
 
 Under this tension, teams tend to get stuck in a loop discussing something. Even after a good path forward has surfaced, even if a decision would be easy to change later, smart people enjoy exploring details and alternatives. Meanwhile, folks who think it’s time to move on but are feeling uncertain will beat around the bush, tossing out phrases like:
 
-> “Okay… any more thoughts on this?”
-> “It seems like we don’t have a plan.”
->  “All right, so, do we have a decision, or..?”
+> “Okay… any more thoughts on this?”<br>
+> “It seems like we don’t have a plan.”<br>
+> “All right, so, do we have a decision, or..?”
 
 At best, these spur somebody else – who may not understand the details as clearly – to propose a path forward. Often, though, they trigger further open-ended conversation, when a decision was within reach.
 
