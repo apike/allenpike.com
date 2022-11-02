@@ -50,8 +50,8 @@ With a clear proposal and context, the Captain could simply reply,
 
 Of course, your tech company is not a nuclear submarine. (I hope. Please no nuclear submarine startups, folks.) Neither your summary nor proposal need to be bulletproof, and there are likely more ambiguities in your line of work than in the correct operation of a naval vessel. But the habit of proposing things is still aces.
 
-The goal is to come to a good decision. Absent a good proposal, proposing a way to *evaluate* proposals – or even [articulating a known-bad proposal](https://jonbell.medium.com/mcdonalds-theory-9216e1c9da7d) often leads to helpful discussion and a resolution.
+The goal is to come to a good decision. If you don't have a good proposal yet, proposing a way to *evaluate* proposals – or even [articulating a known-bad proposal](https://jonbell.medium.com/mcdonalds-theory-9216e1c9da7d) – often leads to helpful discussion and a resolution.
 
-Once you understand the problem at hand, your team is most effective when people are talking about proposals – not when they’re waiting around hoping somebody will propose something.
+The point is: once you understand the problem at hand, your team is most effective when people are talking about proposals – not when they’re waiting around hoping somebody will propose something.
 
 So go ahead. Propose something.
