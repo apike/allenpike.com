@@ -34,7 +34,7 @@ Instead, I propose you say the following:
 
 > “It sounds like Y, so I propose we try X. Seem reasonable?”
 
-Give a micro-summary of the situation, propose a way forward, and let folks object or rally behind the proposal. You don’t need to use the word “propose”, you just need to propose something. For example:
+Give a micro-summary of the situation, propose a way forward, and let folks object or rally behind what you've said. You don’t need to use the word “propose”, you just need to propose something. For example:
 
 > It sounds like Engineering is comfortable with the 1-2 week timeframe for getting this live, and this is our top priority feature right now, so it seems like we should queue it next. Sound good?
 
