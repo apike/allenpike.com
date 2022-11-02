@@ -22,7 +22,7 @@ Let me give you an example.
 
 There’s a meeting going on. A group of smart people are trying to move forward on something. It’s complex enough that differing perspectives come up, some tradeoffs are discussed, and it’s not 100% clear what the best path forward is. If you’re unlucky, there will be imperfect psychological safety on the team, meaning some people aren’t yet comfortable saying something that might be wrong.
 
-Under this tension, teams tend to get stuck in a loop discussing something. Even after a good path forward has surfaced, even if a decision would be easy to change later, smart people enjoy exploring details and alternatives. Meanwhile, folks who think it’s time to move on but are feeling uncertain will beat around the bush, tossing out phrases like:
+Under this tension, teams tend to get stuck in a loop discussing. Even after a good path forward has surfaced, even if a decision would be easy to change later, smart people enjoy exploring details and alternatives. Meanwhile, folks who think it’s time to move on but are feeling uncertain will beat around the bush, tossing out phrases like:
 
 > “Okay… any more thoughts on this?”<br>
 > “It seems like we don’t have a plan.”<br>
