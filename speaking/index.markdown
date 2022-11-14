@@ -54,6 +54,7 @@ Here are three example videos of talks I've given:
 
 I enjoy guesting on podcasts &ndash; they're most of the fun of giving a talk, with a lot less work. Here are some shows I've been on:
 
+* The [It Shipped That Way Podcast](https://www.itshipped.fm/), where I interview product leaders about what they've learned.
 * The [Fun Fact Podcast](https://funfact.fm), where Arik Devens and I discuss important facts.
 * [The Xcoders Podcast, March 2020](https://xcoders.org/2020/03/19/xcoders-podcast-march.html), where I talk about starting Vancouver Xcoders, and approaches for sharing code across platforms.
 * [The Omni Show 64](https://theomnishow.omnigroup.com/episode/how-allen-pike-uses-omnifocus-to-run-steamclock), where I talk about how I manage tasks, and focusing on what's important rather than just urgent.
