@@ -17,6 +17,7 @@ My job involves managing products, developing software, building teams, and [sha
 
 * [Steamclock Software](http://www.steamclock.com/): We make products for clients as well as ourselves. We also have [a blog](http://www.steamclock.com/blog/), where we show our work.
 * [Public Speaking and Podcasts](/speaking/): I like to talk, often about software.
+* [It Shipped That Way](https://www.itshipped.fm/), a podcast where I interview product leaders about what they've learned.
 * [Two Spies](https://www.steamclock.com/spies/): A turn-based spy strategy game.
 * [Fun Fact](https://funfact.fm/): A podcast I do monthly, about facts.
 * [Vancouver Xcoders](https://www.meetup.com/Vancouver-Xcoders/): Our local iOS and Mac speaker series.
