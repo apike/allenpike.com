@@ -13,7 +13,7 @@ Four years ago, I started the [Fun Fact podcast](https://funfact.fm/) with Arik 
 
 I've increasingly felt the itch, though, for a second show. I learn so much talking through product and engineering challenges with smart folks I keep in touch with, but those conversations aren't captured anywhere – other than perhaps my hasty personal notes that occasionally yield a blog post.
 
-So, this week my team at Steamclock and I launched [It Shipped That Way](https://www.itshipped.fm/).
+So, this week our team at Steamclock and I launched [It Shipped That Way](https://www.itshipped.fm/).
 
 Every three weeks I'm interviewing leaders in engineering, design, and product about how (and how not) to build great teams and software. I've already got 4 recorded and queued for release, and I'm really excited about how it's coming together. 
 
