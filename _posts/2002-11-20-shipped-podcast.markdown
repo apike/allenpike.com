@@ -11,7 +11,7 @@ categories:
 
 Four years ago, I started the [Fun Fact podcast](https://funfact.fm/) with Arik Devens, and we're still having a lot of fun every month sharing facts about schemes, history, science, and so on.
 
-I've increasingly felt the itch, though, for a second show. I learn so much talking through product and engineering challenges with various folks I keep in touch with, but those conversations aren't captured anywhere – other than perhaps my hasty personal notes that occasionally yield a blog post.
+I've increasingly felt the itch, though, for a second show. I learn so much talking through product and engineering challenges with smart folks I keep in touch with, but those conversations aren't captured anywhere – other than perhaps my hasty personal notes that occasionally yield a blog post.
 
 So, this week my team at Steamclock and I launched [It Shipped That Way](https://www.itshipped.fm/).
 
