@@ -8,35 +8,43 @@ title: Project Archive
 wordpress_id: 2331
 ---
 
-For a summary of what I do, see [my resume](/resume/). What follows is a catalog of most of the things I've done so far. You could think of it as the world's most disastrously long and self-deprecating resume.
+For a summary of what I do, see [my resume](/resume/). What follows is a catalog of many of the things I've done so far. You could think of it as the world's most disastrously long and self-deprecating resume.
 
 **Current Projects**
 
-Since we started Steamclock, I've usually worked on a new type of project every month. We love working on our own apps, but client work can be fun too.
+Since we started Steamclock, I've worked on over 100 products, mostly for growing consumer-facing tech companies. We love working on our own apps, but client work can be fun too.
 
-* **[Two Spies](http://www.steamclock.com/spies/)**, a turn-based iPhone game that proved more popular than I expected.
+* **[Writing](https://www.allenpike.com/)**: For a decade, I've published an article at least once a month. Topics often include product management, building teams, and the various things that go in to growing a software business.
+
+* **[It Shipped That Way](https://itshipped.fm/)**: An interview series where I talk to leaders in product, design, and engineering about building great products and teams.
 
 * **[Fun Fact](http://funfact.fm/)**: A bi-weekly podcast full of incredibly important facts.
 
-* **[Consulting work](http://www.steamclock.com/services/)**: We help companies ship great mobile apps. Some of my interesting client projects at Steamclock have been:
+* **[Two Spies](http://www.steamclock.com/spies/)**, a turn-based iPhone game that proved more popular than I expected.
+
+* **[Consulting work](http://www.steamclock.com/services/)**: We help companies ship great mobile apps. Some of our [interesting client projects at Steamclock](https://steamclock.com/work/) have been:
 
 	* an interactive 3D map of the internet
-	* an international mountain conditions app
-	* an app for running rental and accommodation businesses
-    * multiple stock investing apps
-	* a realtime video chat app
-	* an app for configuring solar-powered lights using Bluetooth
-	* many social networks (people *love* social networks)
-	* work on the webOS App Store of all things
-	* a JavaScript app for Fortune 500 company
-	* apps for security analysis on iOS and Android
-	* a web app for doing developer support on Stack Overflow
-	* apps for interactive retail and point of sale
-	* a system for running valet businesses
-	* an Android app for tracking commercial fishing
-	* an iOS app for ordering bespoke suits.
+	* a number of retail and digital commerce apps, including POS and subscription-based commerce projects
+    * a number of personal finance apps, including roboavisors and stock trading
+	* an iOS app for providing a really nice frontend for a zero-waste startup
+	* an international mountain conditions app for a global apparel brand
+	* a number of Bluetooth products, such as one for configuring solar-powered lighting
+	* so many social networks ([people *love* making new social networks](https://allenpike.com/2020/how-to-not-build-a-social-network))
+	* some highly server-driven apps, including one for running hosptality businesses and one for delivering curriculum
+	* some realtime video chat projects
+	* audio tour guide apps
+	* a JavaScript app for the Fortune 500 (like, the actual feature in Fortune)
+	* apps that attempted security analysis on iOS and Android (hard to do, it turns out)
+	* web apps for businesses including community management, real estate, art exhibitions
+	* a number of early MVP experiments, for example a system for running valet businesses
+	* work on the webOS App Store, of all things
+	* an Android app for reporting commercial fishing activity (one of our rare "enterprisey" projects)
+	* a bespoke iOS app for ordering bespoke suits.
 
-* **Meetups**: I started the [Vancouver Javascript Developers](http://www.vanjs.com) group, and the new [Vancouver Xcoders iOS meetup](https://www.meetup.com/Vancouver-Xcoders/).
+* **Meetups**: I started the [Vancouver Javascript Developers](http://www.vanjs.com) group, and the [Vancouver Xcoders iOS meetup](https://www.meetup.com/Vancouver-Xcoders/).
+
+* **Systems**: Growing Steamclock effectively required developing and iterating a lot of systems, docs, and approaches. These included processes for hiring and onboarding, people management, compensation, finance, branding, project and product management, internal comms, and marketing.
 
 * **Not being at a computer**: I play guitar, play ice hockey, write music, and otherwise dabble in the world away from computers. There is nothing to link here, which is for the best.
 
