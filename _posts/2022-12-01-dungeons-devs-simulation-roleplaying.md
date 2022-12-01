@@ -12,16 +12,16 @@ tags:
 
 ---
 
-*You open the door, and see three orcs. They’re seated at a fine oaken table watching a glowing rectangle on the west wall, which displays the ominous text “2023 Strategic Planning”. The orcs look up at you, and one says “You’re late.” What do you do?*
+*You open the door and see three orcs. They’re seated at a fine oaken table watching a glowing rectangle on the west wall, which displays the ominous text “2023 Strategic Planning”. The orcs look up at you, and one says “You’re late.” What do you do?*
 
 Depending on your perspective and experience, the idea of roleplaying may fill you with excitement or dread. Given that, you’ll be either delighted or horrified to learn that roleplaying is a powerful tool in your career development toolbox, and you should be using it more often – just don’t call it roleplaying.
 
 <img src="/images/2022/orcs.jpg">
-<div class="centered"><p>DALL-E is slightly what orcs look like, exactly.</p></div>
+<div class="centered"><p>DALL-E is unsure what orcs look like, exactly.</p></div>
 
 You see, in software, we solve most of our problems with iteration and experimentation. We build most of our skills likewise: trying things, reflecting, and getting better. In a loop. It works pretty well!
 
-Except sometimes it does not. Sometimes you have high-stakes situations that occur infrequently. If one of your reports is invited to give a presentation to the Board of Directors, they could try winging it. Maybe after a few years they would eventually get good at giving these? You know, in theory – if they ever got invited back after they go on a 15-minute digression about dependency resolution mechanisms.
+Except sometimes it does not. Sometimes you have high-stakes situations that occur infrequently. If one of your reports is invited to give a presentation to the Board of Directors, they could try winging it. Maybe after a few years, they would eventually get good at giving these? You know, in theory – if they ever got invited back after they go on a 15-minute digression about dependency resolution mechanisms.
 
 Now, if a rare high-stakes task is to produce an artifact – a slide deck, an architecture, [that one pin that holds the whole helicopter together](https://en.wikipedia.org/wiki/Jesus_nut) – then you can get other experts to verify your result, making sure it’s sufficiently excellent. Yay teamwork.
 
@@ -33,7 +33,7 @@ Enter ~~roleplaying~~ simulation.
 
 Okay yes, I’m talking about roleplaying here. But a big subset of people are going to freak out and get all in their heads if you propose roleplaying. So propose simulation. You’ll be surprised how well people take to it. 
 
-Running a social simulation doesn’t need to be complicated. As long as you're practiced at this kind of situation yourself, you can host a really useful simulation with a simple workflow:
+Running a social simulation doesn’t need to be complicated. As long as you're practiced at this kind of situation yourself, you can run it with a simple workflow:
 
 1. **Write 2-3 paragraphs for the participant about the scenario.** This sets the context for the situation they’ll be practicing, and a goal (e.g. delivering the bad news and negotiating a new project timeline)
 2. **Write a few bullet points for yourself, on the mindset of the character you’ll be ~~playing~~ simulating.** This might include questions they’d ask, objections they’d have, or answers they may provide if asked. Most importantly, note what their top priority is in this scenario – what do they want? (e.g. shipping on time, getting a certain title, an apology, etc) 
