@@ -47,4 +47,4 @@ Of course, simulation can go far beyond a 1:1 ~~roleplay~~ social coaching sessi
 
 Luckily for those of us in software, our work is typically lower stakes. We can build most of our skills with reading, experimentation, reflection, and the occasional simulated high-stakes difficult conversation.
 
-Next time somebody on your team is facing such a challenge that merits it, break out ~~the Dungeon Master’s Guide~~ this blog post and give it a try.
+Next time somebody on your team is facing a challenge that merits it, break out ~~the Dungeon Master’s Guide~~ this blog post and give it a try.
