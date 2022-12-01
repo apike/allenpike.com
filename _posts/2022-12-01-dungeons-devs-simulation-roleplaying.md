@@ -2,7 +2,7 @@
 layout: post
 author: allen
 title: Dungeons & Developers
-summary: The value of simulating tricky conversations.
+summary: How to simulate tricky conversations.
 date: 2022-12-01T12:42:18.627Z
 featured: false
 image: "/images/2022/orc-square.jpg"
