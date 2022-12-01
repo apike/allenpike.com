@@ -39,8 +39,8 @@ Okay fine, I’m talking about roleplaying here. But a big subset of people are 
 Running a social simulation doesn’t need to be complicated. Choose a situation that your teammate wants to level up on, then try this simple workflow:
 
 1. **Write 2-3 paragraphs about a scenario for the participant.** This sets the context for the situation they’ll be practicing, and a goal (e.g. delivering the bad news and negotiating a new project timeline.)
-2. **Write a few bullet points for yourself, about the mindset of the character you’ll be ~~playing~~ simulating.** This might include questions they’d ask, objections they’d have, or answers they may provide if asked. Most importantly, note what their top priority is in this scenario – what do they want? (e.g. shipping on time, getting a certain title, an apology, etc) 
-3. **Run the simulation.** Try to stay in character – save analysis and discussion for the end. If it’s a video call, prefer recording it so the participant can rewatch if they like.
+2. **Write a few bullet points for yourself, about the mindset of the person you’ll be ~~playing~~ simulating.** This might include questions they’d ask, objections they’d have, or answers they may provide if asked. Most importantly, note what their top priority is in this scenario – what do they want? (e.g. shipping on time, getting a certain title, an apology, etc) 
+3. **Run the simulation.** Explain that it's not a test, you should try to stay in character, and save analysis and discussion for the end. If it’s a video call, prefer recording it so the participant can rewatch if they like.
 4. **Debrief.** Let the participant recount how they think things went first, and what they might do differently next time. Keep things positive, especially if they’re feeling a bit nervous or flustered.
 5. **Start easy for your first go.** Even just practicing the “happy path” can really help folks’ confidence. Once a round of simulation has gone well, you can add curveballs or other levels of challenge to your next run.
 
@@ -48,4 +48,4 @@ Of course, simulation can go far beyond a 1:1 ~~roleplay~~ social coaching sessi
 
 Luckily for those of us in software, our work is typically lower stakes. We can build most of our skills with reading, experimentation, reflection, and the occasional simulated high-stakes difficult conversation.
 
-Next time somebody on your team is facing such a challenge that merits it, break out ~~the Dungeon Master’s Guide~~ this blog post and give it a try.
+Next time somebody on your team is facing a challenge that merits it, break out ~~the Dungeon Master’s Guide~~ this blog post and give it a try.
