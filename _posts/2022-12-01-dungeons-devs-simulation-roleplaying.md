@@ -35,7 +35,7 @@ Enter ~~roleplaying~~ simulation.
 
 Okay fine, I’m talking about roleplaying here. But a big subset of people are going to freak out and get all in their heads if you propose roleplaying. So propose simulation. You’ll be surprised how well people take to the opportunity.
 
-Running a social simulation doesn’t need to be complicated. As long as you're practiced at this kind of situation yourself, you can try it with a simple workflow:
+Running a social simulation doesn’t need to be complicated. Choose a situation you're practiced at, and want to help somebody else level up on, then try this simple workflow:
 
 1. **Write 2-3 paragraphs about the scenario for the participant.** This sets the context for the situation they’ll be practicing, and a goal (e.g. delivering the bad news and negotiating a new project timeline.)
 2. **Write a few bullet points for yourself, about the mindset of the character you’ll be ~~playing~~ simulating.** This might include questions they’d ask, objections they’d have, or answers they may provide if asked. Most importantly, note what their top priority is in this scenario – what do they want? (e.g. shipping on time, getting a certain title, an apology, etc) 
