@@ -5,6 +5,7 @@ title: Dungeons & Developers
 summary: The value of simulating tricky conversations.
 date: 2022-12-01T12:42:18.627Z
 featured: false
+image: "/images/2022/orc-square.jpg"
 categories:
   - Article
 tags:
