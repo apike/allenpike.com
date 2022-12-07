@@ -13,6 +13,8 @@ I love building products and teams. I run [Steamclock Software](http://www.steam
 
 My job involves managing products, developing software, building teams, and [sharing what I know](/speaking). I care a lot about great software, and the people that make it. In my downtime, I play guitar, record podcasts, and make games.
 
+If you have feedback on my writing or another inquiry, [feel free to reach out](https://allenpike.com/contact/).
+
 **Things I've Made**
 
 * [Steamclock Software](http://www.steamclock.com/): We make products for clients as well as ourselves. We also have [a blog](http://www.steamclock.com/blog/), where we show our work.
