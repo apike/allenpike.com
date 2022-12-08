@@ -48,6 +48,8 @@ Here’s an example. A common thing you might want to do when collaborating on a
 
 The old-school way to review changes would be to use a word processor’s Track Changes feature, scrubbing through diffs of the document, and dealing with any merge conflicts or emailing documents around – blech. Nowadays teams use a feature like Notion’s “Updates” pane to see what’s changed on a given page and iterate from there or provide feedback. You *would* do the same thing in Coda, but we somehow missed that it just… doesn’t have this feature.
 
+*Update, Dec 2022: The folks at Coda have now launched a Track Changes feature, which is great. They invited me to the beta test, referencing this article – so they are indeed listening! 🎉*
+
 Coda *nominally* offers a version history, but it’s more of a proof of concept than a thing for people to use. It offers you a list of all previous versions for the entire doc hierarchy. You can scroll through those versions – some mere seconds apart from one another – but there’s no indication which of them actually affected the page you’re looking at, so you can’t actually use it to answer questions like “when did this content change last” or “what new sections did Maria add to this guide?” or any other meaningful question relating to what’s new.
 
 This seems like kind of an odd deficiency for a featureful product geared towards writing and sharing docs. **Wouldn’t any team that is collaborating on a guide, policy, proposal, or other written doc want this feature? 🤔**
@@ -57,6 +59,8 @@ Coda’s product team is pretty active and engaged, frequently shipping new feat
 > We don’t have plans to launch this near term, but the Coda’s new editor would make this feature more feasible.
 
 Well, that’s good to know at least. Their new editor, with better table support, did launch in February. Maybe this is now on their nearer term roadmap?
+
+*Update, Dec 2022: Coda recently made some improvements to their version history UI, but it still doesn't let you view history for a page. I was recently talking to a Coda user from a Fortune 50 who also finds this frustrating, so hopefully this does get resolved at some point.*
 
 I would be more hopeful if this was the only mysteriously missing feature when it comes to written docs. There are others, but to me the most worrying canary is Coda’s search.
 
