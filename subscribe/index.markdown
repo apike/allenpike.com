@@ -7,10 +7,11 @@ slug: subscribe
 title: Follow or Subscribe
 ---
 
-Here are three ways you can find out when I post an article:
+Here are four ways you can find out when I post an article:
 
-* [@apike on Twitter](https://twitter.com/apike/), where I post my writing, plus other bleeps and bloops.
-* [RSS Feed](/feed/), for the traditional.
+* [@apike on Mastodon.social](https://mastodon.social/@apike), where I post my writing, plus other bleeps and bloops.
+* [@apike on Twitter](https://twitter.com/apike/), where I link my writing and other announcements.
+* [RSS Feed](/feed/), for the avid readers out there.
 * Email, if you'd like your very own copy.
 
 <form style="margin-top: 1em" class="newsletter" action="https://feed.press/e/mailverify" method="post"
