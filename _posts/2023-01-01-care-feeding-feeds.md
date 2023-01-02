@@ -9,7 +9,7 @@ image: "/images/2023/ivory.jpg"
 categories:
   - Article
 tags:
-
+  - thoughtfulness
 ---
 
 If you could manifest your ideal social and media consumption diet, what would it look like?
