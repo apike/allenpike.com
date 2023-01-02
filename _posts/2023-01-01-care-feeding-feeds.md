@@ -2,7 +2,7 @@
 layout: post
 author: allen
 title: The Care and Feeding of Feeds
-summary: How to simulate tricky conversations.
+summary: Three new apps make for healthier scrolling.
 date: 2023-01-01T12:42:18.627Z
 featured: false
 image: "/images/2023/ivory.jpg"
@@ -18,7 +18,7 @@ Maybe it would be deep, meaningful, and personally impactful. Maybe it would be 
 
 The trouble is, no matter how clear our vision for our future selves, we are later foiled by that age-old nemesis: our *current* selves. Yeah, I’m talking about you, current self. I’ve seen what you scroll thoughtlessly, wasting time on total nonsense whenever you’re even slightly bored.
 
-Four paragraphs into an article, some cranny of your animal brain is already thinking:
+Four paragraphs into this article, some cranny of your animal brain is already feeling:
 
 > Hm. This is a lot of words. If I closed this, I could instead be watching video clips. Maybe one where it looks like something might go wrong. Ooh, or I could check for the latest micro-development in a story that won’t matter in a month. Or see a charismatic person doing something unexpected! Or maybe get agitated about people being wrong on the internet…
 
@@ -34,7 +34,7 @@ So yeah. There’s a gap between how we wish we spent our screen time, and how w
 - Intentionally spend time with longer-form content
 - Unfollow and mute more, just like go ham on it, really get in there
 
-And that’s all great. But in recent months our social feed environment has gotten… worse. The pain has been more acute. Thankfully, recent times have also given rise to some promising new ways to do tame and feed your feeds. So! **Here are three new things that might bring you more joy and less anguished scrolling.**
+And that’s all great. But in recent months Twitter has gotten… worse. The pain has been more acute. Thankfully, recent times have also given rise to some promising new ways to level up your feed diet. So! **Here are three new things that might bring you more joy and less anguished scrolling.**
 
 ## 1. One Sec, breaking old habits
 
@@ -45,7 +45,7 @@ By default, One Sec gives you a very brief breathing exercise, and lets you deci
 Even better, One Sec is highly customizable with different “interventions”, complete app blocking, the ability to suggest more intentional apps or activities, and so on. It’s well worth the couple minutes it takes to [set it up for your most problematic app](https://one-sec.app/).
 
 ## 2. Mastodon, getting critical mass
-Mastodon has had a couple false starts, but as of January ’22, my [Mastodon account](https://mastodon.social/@apike) now has a higher joy-to-anguish ratio than my Twitter feed. This might not yet be reproducible for everyone, but for my feed – mostly people who make software and games – it’s hit critical mass. As such, the hype for [Tapbots’ upcoming Mastodon client, Ivory](https://www.macrumors.com/2022/11/29/tapbots-ivory-mastodon-app/), is elephantine.
+Mastodon has had a couple false starts, but as of January ’22, my [Mastodon account](https://mastodon.social/@apike) now has a higher joy-to-anguish ratio than my Twitter feed, and I'm now mostly posting there. This might not yet be reproducible for everyone, but for my feed – mostly people who make software and games – it’s hit critical mass. As such, the hype for [Tapbots’ upcoming Mastodon client, Ivory](https://www.macrumors.com/2022/11/29/tapbots-ivory-mastodon-app/), is elephantine.
 
 <img src="/images/2023/ivory.jpg" class="side">Beyond the fact Mastodon is a new network with a new energy, there’s something wonderful about starting fresh on who you follow. A classic social media problem is that you tend to keep following people you like, even if those people start posting stuff that you don’t like. This can be as simple as dull updates on their pool house construction, or as fraught as long rants about politics in the poster’s home country. Either way, we tend to just stay subscribed, and our feeds degrade.
 
@@ -53,17 +53,17 @@ This is a huge reason why the big social networks have moved hard towards algori
 
 Last week for example, Reddit sucked me in. It recommended I watch a 10 minute video of some asshat unsuccessfully trying to get out of an agricultural inspection by citing the constitution. It did not make my life better! But… an arrogant guy was wrong. And my dumbass then-self monkey brain wanted to see what would happen to him. I hoped to see some sweet sweet justice, which the video didn’t even show!
 
-Afterward, I stewed – annoyed both at how I’d been spending my time and at how wrong this random guy was. Then I recalled One Sec. I relegated Reddit to its list, and haven't been back as much since.
+Afterward, I stewed – annoyed both at how I’d been spending my time and at how wrong this random guy was. Then I recalled One Sec. I added Reddit to its shitlist, and haven't been back as much since.
 
 ## 3. Readwise and Matter, supercharging reading
 
-As much heat as Google got for killing RSS with Google Reader, in many ways Twitter dealt RSS’ worst blow. Twitter provided the “show things you can read from people you follow” part of RSS, plus it has pets and dunks and wrong people and all that fun stuff.
+As much heat as Google got for killing RSS with Google Reader, in many ways Twitter dealt RSS’ worst blow. Twitter one-upped the “show things you can read from people you follow” part of RSS, plus it has pets and dunks and wrong people and all that fun stuff.
 
 As a secondary or tertiary feed, RSS readers tend to struggle for attention against links from social, read-it-later queues, books, newsletters, and so on.
 
-Now, as many folks crank down their Twitter usage – perhaps using a tool like One Sec – there’s been a rise in discussion of good old RSS. NeimanLab [predicts that this is the year of the RSS reader](https://www.niemanlab.org/2022/12/this-is-the-year-of-the-rss-reader-really/). If my own RSS stats are any indication, RSS has indeed been gaining in popularity in recent years. In 2023, though, I suspect that will step up meaningfully, with both the chaos at Twitter and the rise of two fascinating entrants in the RSS space: **[Readwise Reader](https://readwise.io/read)**, and **[Matter](https://hq.getmatter.com/)**.
+Now though, as many folks crank down their Twitter usage – perhaps using a tool like One Sec – there’s been a rise in discussion of good old RSS. NeimanLab [predicts that this is the year of the RSS reader](https://www.niemanlab.org/2022/12/this-is-the-year-of-the-rss-reader-really/). If my own RSS stats are any indication, RSS has indeed been on the rise in recent years. In 2023, though, I suspect that will step up meaningfully, with both the chaos at Twitter and the rise of two fascinating entrants in the RSS space: **[Readwise Reader](https://readwise.io/read)**, and **[Matter](https://hq.getmatter.com/)**.
 
-<img src="/images/2023/readwise.jpg" class="side"> These apps do something that I’d previously thought was folly, but I’m now convinced is critical. They present RSS feeds, email newsletters, ebooks, saved read-it-later articles, Twitter threads, and more, all in one app that is meant to be your primary app for reading. They also offer thoughtful highlighting features, along with a bunch of affordances for refining your media diet. 
+<img src="/images/2023/readwise.jpg" class="side"> These apps do something that I’d previously thought was folly, but I’m now convinced is genius. They present RSS feeds, email newsletters, ebooks, saved read-it-later articles, Twitter threads, and more, all in one app that is meant to be your primary app for reading. They also offer thoughtful highlighting features, along with a bunch of affordances for refining your media diet. 
 
 I’ll describe just one detail I love from Readwise: I find I often start reading an article from RSS, but then get interrupted by life. If I later open Readwise on any device, it will offer a one-click resume to the place I’d been. 💗
 
