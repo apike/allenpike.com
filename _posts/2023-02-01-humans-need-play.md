@@ -59,6 +59,7 @@ It can be helpful to remember that one person’s work may be another’s play. 
 Meanwhile, something meant to be play can also devolve into work. If you’re putting hours into a game but there’s no joy in it – you’re grinding, doing the same fetch quest for hundreds of hours, but you feel like you need to keep at it – you might not be *playing* anymore. This is how we get those infamous reviews on Steam that say, “Not Recommended / 2,721 hours played”.
 
 <img src="/images/2023/not-recommended.jpg">
+<div class="centered"><p>I've made a huge mistake.</p></div>
 
 The same thing can happen with any kind of play. Anybody who has knitted has probably started a project for fun, only for it to become a not-fun grind that you feel obligated to finish.
 
