@@ -5,7 +5,7 @@ title: Humans Need Play
 summary: On a vicious pattern that breeds burnout.
 date: 2023-02-01T12:42:18.627Z
 featured: false
-image: "/images/2023/not-recommended.jpg"
+image: "/images/2023/railbound.jpg"
 categories:
   - Article
 tags:
@@ -26,7 +26,8 @@ While this can be a reasonable adaptation to get through a rough patch, it’s u
 
 Humans need play.
 
----
+<img src="/images/2023/railbound.jpg" >
+<div class="centered"><p>Railbound. Cozy and delightful.</p></div>
 
 One of the best things I’ve read about the need for play was by Brené Brown:
 
