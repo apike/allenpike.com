@@ -11,7 +11,7 @@ categories:
 oldtags:
 - Story
 tags:
-thoughtfulness
+- thoughtfulness
 
 ---
 
