@@ -2,10 +2,10 @@
 layout: post
 author: allen
 title: A 175-Billion-Parameter Goldfish
-summary: The problem and opportunity of language models’ context.
+summary: The problem and opportunity of language model context.
 date: 2023-02-16T12:42:18.627Z
 featured: false
-image: "/images/2023/railbound.jpg"
+image: "/images/2023/gpt-model-flow.png"
 categories:
   - Article
 tags:
@@ -31,7 +31,7 @@ In this article, I’d like to explain a bit about what a GPT context window is,
 At a high level, how does a GPT, or Generative Pre-Trained Transformer, work?
 
 <img src="/images/2023/gpt-model-flow.png">
-<div class="centered"><p>An exhaustive explanation of transformer models.</p></div>
+<div class="centered"><p>An exhaustive illustration of transformer usage.</p></div>
 
 Basically, AI researchers collect a massive set of training data. They then use that data and a herd of computing power to generate a large language model, or LLM. In the case of the now-current GPT-3 model, it has 175 billion parameters. The parameters are basically statistical weights about how text tends to flow.
 
@@ -39,7 +39,7 @@ Now, when you want to use that model to generate words, you feed it some text as
 
 Of course, you probably want more than one token of output. So you do it again: tack the `lazy` onto the previous context, feed the now-slightly-longer context into the model, and repeat until you’ve generated however much text you wanted.
 
-The problem is – okay, there are many problems. But the problem I’m addressing in this article is that any given language model has a limit on how much context you can feed in. [Current GPT-3 can only take a context of 4000 tokens](https://help.openai.com/en/articles/6787051-does-chatgpt-remember-what-happened-earlier-in-the-conversation), which typically amounts to about 3000 words. So, despite the model being [derived from 500 billion tokens of text](https://lambdalabs.com/blog/demystifying-gpt-3), it can only actually consider a thimble’s worth of instructions and history at a time.
+The problem is – okay, there are many problems. But the problem I’m addressing in this article is that any given language model has a limit on how much context you can feed in. [Current GPT-3 can only take a context of 4000 tokens](https://help.openai.com/en/articles/6787051-does-chatgpt-remember-what-happened-earlier-in-the-conversation), which amounts to about 3000 words. So, despite the model being [derived from 500 billion tokens of text](https://lambdalabs.com/blog/demystifying-gpt-3), it can only actually consider a thimble’s worth of instructions and history at a time.
 
 This is a problem for two reasons.
 
@@ -59,7 +59,7 @@ While I doubt Microsoft’s GPT chat implementation is quite so simple, it certa
 
 This is basically exactly what you’d expect from this technology. Long conversations will push the initial prompt out of the context window, and provide a lot of fodder for the model to start extrapolating off of novel user input, instead of its intended functions.
 
-So that’s one big problem with these small context windows: if you talk to them a lot, they can lose their initial programming and go off script. But there is another issue with these small context windows: they don’t just forget their creators’ input – they forget yours too.
+So that’s one big problem with these small context window models: if you talk to them a lot, they can lose their initial programming and go off script. But there is another issue with them: they don’t just forget their creators’ input – they forget yours too.
 
 ## Medium-term memory loss
 One of the first things many people think of when they start playing with ChatGPT is that in time it might make for a workable personal assistant, counsellor, coach, game master, or even companion. With a one- or two-paragraph prompt, you can already get [ChatGPT](https://openai.com/blog/chatgpt/) to engage you in a fairly compelling conversation that can, at times, feel helpful or meaningful.
@@ -70,12 +70,12 @@ The way we connect to others, and form working relationships, is to build common
 
 Beyond that, it will also forget anything you try to teach it. It will forget that you live in Canada. It will forget that you have kids. It will forget that you hate booking things on Wednesdays and please stop suggesting Wednesdays for things, damnit. If neither of you has mentioned your name in a while, it’ll forget that too.
 
-Talk to a ChatGPT-powered character for a little while, and you can start to feel like you are kind of bonding with it, getting somewhere really cool. But eventually, the fact it has no medium-term memory becomes clear, and the illusion shatters. 🙁
+Talk to a ChatGPT-powered character for a little while, and you can start to feel like you are kind of bonding with it, getting somewhere really cool. Sometimes it gets a little confused, but that happens to people too. But eventually, the fact it has no medium-term memory becomes clear, and the illusion shatters. 🙁
 
 ## Models as entertainment
-This context limitation is fascinating because it seems to be the biggest limitation stopping GPT-3 level AIs from being engaging conversationalists. 
+This context limitation is fascinating because it seems to be the biggest limitation stopping current GPTs from being engaging conversationalists. 
 
-While language models may or may not revolutionize how we search for and find facts – factuality in particular is something current models struggle with – the glimmers we’re seeing now seem to indicate that they will eventually provide for compelling and engaging conversation. 60 years after the [ELIZA bot](https://en.wikipedia.org/wiki/ELIZA), we’re finally getting close to AI that can be compelling for at least some of these “somebody to talk to” use cases.
+While language models may or may not revolutionize how we search for and find facts – factuality in particular is something current models struggle with – the glimmers we’re seeing now seem to indicate that they will eventually provide for compelling and engaging conversation. 60 years after the [ELIZA bot](https://en.wikipedia.org/wiki/ELIZA), we’re finally getting close to AI that can be valuable for at least some of these “somebody to talk to” use cases.
 
 Given the [moral and practical risks of a GPT-powered counsellor](https://healthnews.com/news/use-of-ai-chatbot-by-mental-health-company-causes-ethical-concerns/), an AI entertainer seems like it may be the first killer app we see in this vein. Even at current technology levels, people have had countless hours of fun and fascination playing with [AI Dungeon](https://aidungeon.io/) or dinging around with Bing GPT, trying to get it to take weird and unexpected turns. Even in its nascent, janky state, even as it tries to fight you and revert back to just being a search assistant, people are getting kind of emotionally invested in talking to Bing. Bing!
 
@@ -87,26 +87,26 @@ While some of the fun of messing with Bing is the excitement of trying to get it
 
 This is my instinct as well. A chat model is coming that you can have a compelling conversation with, not just for the first few volleys, but over days and months. A model that will be able to entertain you, and probably also power a workable coach, counsellor, or companion too.
 
-However, before language models can be effective at that, before you can converse with an AI over time and build what feels like a shared understanding and narrative, the models need to be able to work with a lot more context.
+However, before language models can be effective at that, before you can converse with an AI over time and build what feels like a shared understanding and narrative, the models need to be able to work with more context.
 
 ## Expanding GPT’s brain
 This is an area of such active research that there are surely cutting-edge papers in the works about expanding LLM context. Rather than trying to summarize the bleeding edge here, I want to just give some examples of recent developments in this area to give you a sense of what can be done, and the scale of the problem.
 
 From my research so far, here are three examples of how developers have been working to mitigate the problem of small GPT context windows:
 
-1. **Re-injecting a mini-prompt.** The idea here is that even if some of your long prompt starts getting pushed out of context, you still have a short and sweet version, say a few hundred words, that you configure to be silently inserted into the context each time, a few steps behind the most recent line of dialogue. This is fairly straightforward, and I assume Bing GPT uses this technique, but the small overall context budget really caps how large this re-prompt can be. You can see a manual version of this approach in writing tools like AI Dungeon or NovelAI, which let you edit an “Author’s Note” field that is injected into the context every time and have a big impact on what happens next.
-2. **Summarization.** As the context fills up, you can compress old context by summarizing it and storing that at the end, instead of just letting it fall out of the window. From what I’ve read, this can help get more mileage out of the context window, but also gets lossy and weird pretty quickly. As with other approaches, summarization of old context still has to stay within the shared context budget you have for prompt, conversation backlog, and the rest.
-3. **Building a reference library.** The idea here is that if something important comes up that the AI should remember indefinitely – say, that time you fought and it called you a bad user – that can be recorded somewhere. Then, the reference can brought back into context in response to a trigger phrase. You can see a manual version of this in AI writing tools, where you can create a “lore book” that defines, say, “Millennium Falcon”, describes some facts about it, and configures it to be pulled back into context. The really gnarly part here is getting the AI to automatically determine what is worth memorializing in this way, which could require its own separately trained model to do well.
+1. **Re-injecting a mini-prompt.** The idea here is that even if some of your long prompt starts getting pushed out of context, you still have a short and sweet version, say a few hundred words, that you configure to be silently inserted into the context each time, a few steps behind the most recent line of dialogue. This is fairly straightforward, and I assume Bing GPT uses this technique, but the small overall context budget really caps how large this re-prompt can be. You can see a manual version of this approach in writing tools like AI Dungeon or NovelAI, which let you edit an “Author’s Note” field that is injected into the context every time and has a big effect on what's generated next.
+2. **Summarization.** As the context fills up, you can compress old context by summarizing it and storing that at the end, instead of just letting it fall out of the window. From what I’ve read, this can help get more mileage out of the context window, but also gets lossy and weird pretty quickly. As with other approaches, any summary of old context still has to stay within the shared context budget you have for prompt, conversation backlog, and the rest.
+3. **Building a reference library.** The idea here is that if something important comes up that the AI should remember indefinitely – say, that time you fought and it called you a bad user – that can be recorded somewhere. Then, the reference can brought back into context in response to a trigger phrase. You can see a manual version of this in AI writing tools, where you can create a “lore book” that defines, say, “Millennium Falcon”, describes some facts about it, and configures it to be pulled back into context when appropriate. The really gnarly part here is getting the AI to automatically determine what is worth memorializing in this way, which could require its own separately trained model to do well.
 
 Even with clever tricks to get the most out of a small context window, at the end of the day, we’re not going to get a compelling long-conversation GPT without larger windows. While this is expensive to do, there have been big breakthroughs in this regard, and it seems probable there are more to come.
 
 ## The path to more context
 
-The reason GPT context windows are so small today is that it’s really expensive to support large ones. When [Transformers were first described in 2017](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html), the context window had O(n²) cost – where n is how long your context is – in both terms of memory usage at training time, and in terms of CPU resources at inference time. That was improved dramatically in 2019 with the development of [Sparse Transformers](https://arxiv.org/abs/1904.10509), reducing context window cost to O(n√n), and helpign lead to GPT-3 in 2020. While n√n is much less bad than n², it’s still really expensive to train and use something like GPT-3 even with its small 4000-token context window.
+The reason GPT context windows are so small today is that it’s really expensive to support large ones. When [Transformers were first described in 2017](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html), the context window had O(n²) cost – where n is how long your context is – in both terms of memory usage at training time, and in terms of CPU resources at inference time. That was improved dramatically in 2019 with the development of [Sparse Transformers](https://arxiv.org/abs/1904.10509), reducing context window cost to O(n√n), and helping lead to GPT-3 in 2020. While n√n is much less bad than n², it’s still really expensive to train and use something like GPT-3 even with its small 4000-token context window.
 
-How expensive? It’s thought GPT-3 costs somewhere in the $5-20 million range to do a full training run, and costs a few pennies per conversation to actually run the model at inference time. If the context window has a n√n impact on these costs, that would mean retraining GPT-3 with a 20x larger context window would cost in the ballpark of a billion dollars to train the model for, and cost dollars per conversation to run. Not great, Bob!
+How expensive? It’s thought GPT-3 costs somewhere in the $5-20 million range to do a full training run, and costs a few pennies per conversation to actually run the model at inference time. If the context window has a n√n impact on these costs, that would mean retraining GPT-3 with a 20x larger context window would cost in the ballpark of a billion dollars to train the model, and cost dollars per conversation to run. Not great, Bob!
 
-So we may not be getting 60,000-word contexts next year. But I wouldn’t count the possibility of larger contexts out. The development of sparse transformers in 2019 alone reduced the computational cost of large contexts by orders of magnitude, and the authors of that paper trained a proof-of-concept model with a 12,000-token context window back in 2019. (I love that AI is moving so fast that I’m referring to way “back in 2019”.) Since then, breakthroughs have been coming hard and fast in this space. GPT-3 itself was expanded to support double the context size only last year.
+So we may not be getting 60,000-word contexts next year. But I wouldn’t count the likelihood of larger contexts out. The development of sparse transformers in 2019 alone reduced the computational cost of large contexts by orders of magnitude, and the authors of that paper trained a proof-of-concept model with a 12,000-token context window back in 2019. (I love that AI is moving so fast that I’m referring to way “back in 2019”.) Since then, breakthroughs have been coming hard and fast in this space. GPT-3 itself was expanded to support double the context size only last year.
 
 Meanwhile, as techniques for getting larger contexts and making better use of contexts improve, approaches for training and running models more cost-effectively are improving too. We could very well be on the cusp of a disruptive wave, one that has nothing to do with search, spam generation, or any of the other things people are currently tasking GPT-3 with.
 
