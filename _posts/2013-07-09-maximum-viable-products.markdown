@@ -39,7 +39,7 @@ Studios that build ridiculously polished stuff are often fragile, and it pains m
 
 Some commenters on Agant's closure likened their extremely high quality content apps to the ill-fated multimedia CD-ROM industry of the 1990s. They're beautiful and thoughtful, but the production value is "too high". While I think that's overly harsh, perhaps lush content apps like this aren't viable. Maybe they're just maximal.
 
-The problem is that nobody *needs* a maximal product. It is a luxury item. Nobody needs a Bugatti Veyron, or even a BMW M3. Yet we are fascinated with these products and what they represent: quality and focus, craft and skill. Meanwhile, your mom is going to buy a Ford, and she'll download whatever apps are in the Top Free list.
+The problem is that nobody *needs* a maximal product. It is a luxury item. Nobody needs a Bugatti Veyron, or even a BMW M3. Yet we are fascinated with these products and what they represent: quality and focus, craft and skill. Meanwhile, the median consumer is going to buy a Ford, and they'll download whatever apps are in the Top Free list.
 
 We enthusiasts love maximal products because they inspire us and delight us. As such, we support these highly polished apps. We buy them, we write about them, we celebrate them, and we buy the t-shirt. We pay $2.99 each to try two different alternatives to the free Twitter app. These fans love what you're making so much that they can [support your business](http://www.kk.org/thetechnium/archives/2008/03/1000_true_fans.php).
 
@@ -61,6 +61,6 @@ Prosumer software will always be ground zero for Maximum Viable Products, and gr
 
 Yesterday Apple [launched a promotion](http://www.macworld.com/article/2043859/apple-celebrates-five-years-of-the-app-store-with-five-free-apps-and-five-free-games.html) where some of the best apps in the store are free. Who is going to buy a competing app when a competitor is free?
 
-Hint: it's not your mom.
+Hint: it's not the median consumer.
 
 *Update: I gave a more in-depth talk on this topic at Çingleton 4 which is [available online](/2015/maximum-viable-at-cingleton/).*
