@@ -8,13 +8,13 @@ featured: false
 categories:
   - Article
 ---
-One month ago, I wrote [an article](/2023/175b-parameter-goldfish-gpt) on the limits of 4K-token AI models, and the potentially prohibitive costs of large language model contexts. Today, OpenAI not only debuted [GPT-4](https://openai.com/research/gpt-4) with a doubly large 8K token limit, but demoed and began trials of a version that supports a whopping 32K tokens of context. The [accompanying paper](https://cdn.openai.com/papers/gpt-4.pdf) is sorely lacking details due to the “competitive landscape”, but we still have some indication of the resulting costs and capabilities.
+One month ago, I wrote about on [the limits of 4K-token AI models, and the wild capabilities and costs that large-context language models may one day have](/2023/175b-parameter-goldfish-gpt). Today, OpenAI not only debuted [GPT-4](https://openai.com/research/gpt-4) with a doubly large 8K token limit, but demoed and began trials of a version that supports a whopping 32K tokens of context. The [accompanying paper](https://cdn.openai.com/papers/gpt-4.pdf) is sorely lacking details due to the “competitive landscape”, but we still have some indication of its impressive capabilities – and costs.
 
 In OpenAI’s [developer livestream](https://www.youtube.com/watch?v=outcGtbnMuQ), they used this large window to demo pasting in large and complex documents for the model to make use of – for example, a ream of API documentation, and the US tax code. It's also easy to imagine how large contexts could be used to craft very complex and sophisticated prompts.
 
-More interestingly to me, though, I suspect 32K may be enough context to create something that makes users feel like they’re building a relationship with a bot over time. That is, it would enable keeping a coherent indefinite rolling history of your interactions with the bot, given a bit of scaffolding to protect key memories and requests, and build a sense of a mutual understanding.
+More interestingly to me, though, I suspect 32K may be enough context to create something that makes users feel like they’re building a relationship with a bot over time. That is, it would enable keeping a coherent indefinite rolling history of your interactions with the bot, given a bit of scaffolding to protect key memories and requests, and build a sense of a mutual understanding. When it comes to personal uses like assistants and entertainment, this is a game changer.
 
-As expected, though, conversing with a model with this much context is expensive. How expensive? Here is OpenAI’s [current pricing](https://openai.com/pricing) to fill each model’s context for each query:
+As expected, though, conversing with a model with this much context is expensive. How expensive? Here is OpenAI’s [current pricing](https://openai.com/pricing) to fill each model’s context for a single query:
 
 * GPT-3.5: **8¢**
 * GPT-4: **24¢**
