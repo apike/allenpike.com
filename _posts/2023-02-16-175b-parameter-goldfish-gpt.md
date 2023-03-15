@@ -112,3 +112,4 @@ Meanwhile, as techniques for getting larger contexts and making better use of co
 
 Forget facts. Where we’re going, we don’t need facts. With more robust contexts and some good prompt engineering, GPT could become a gripping entertainer the likes of which you’ve never seen.
 
+*Update, Mar 2023: The following month, OpenAI released GPT-4 with support for up to 32K-token contexts and prices to match. I've written [more on the ramifications of that here](https://allenpike.com/2023/32k-of-context-in-your-pocket). I've also since learned about [LangChain](https://github.com/hwchase17/langchain), a framework for chaining together LLM calls do things such as giving the model a larger effective working memory beyond its immediate context, which may be interesting to folks investigating what large contexts can do for language models.*
