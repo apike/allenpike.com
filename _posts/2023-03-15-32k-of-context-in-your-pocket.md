@@ -1,7 +1,7 @@
 ---
 layout: post
 author: allen
-title: 32K of Context in your Pocket
+title: 32K of Context in Your Pocket
 summary: A wild large-context LLM appears.
 date: 2023-03-15T05:45:30.955Z
 featured: false
@@ -26,6 +26,6 @@ Which seems like a lot of money to pay for a chatbot response?
 
 But this, of course, is just the beginning. There is probably already a healthy profit margin on this top-tier API, and a volume purchase deal to be had. And the march of hardware and software will bring costs down substantially over time. Perhaps you also bring costs down by selectively filling the context; maybe you only fill 1/4 of the context, at 1/8 of the cost, for a friendly softball question, and bring the might of the whole model to bear when it's asked to reorganize your calendar to be more the way you want it, or to help you reflect on your goals for the year.
 
-So, just like that, the question of when we’ll have large-context LLMs is answered. A new question arises: when will they get cheap enough that thousands of interactive products are built on top of them?
+So, just like that, the question of when we’ll have large-context LLMs is answered. A new question arises: when will they get cheap enough that thousands of interactive products are built on top of them, delighting and terrifying us with what they can do?
 
 Tick, tock.
