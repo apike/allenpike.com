@@ -11,17 +11,17 @@ categories:
 
 Humans are unreliable narrators.
 
-Even the most honest interlocutors will confidently say untrue things. We recount [false memories](https://en.wikipedia.org/wiki/False_memory), accidentally imply speculation is fact, succumb to cognitive biases, misinterpret causal relationships, struggle with cognitive dissonance, engage in lossy paraphrasing, and kind of just say nonsense sometimes. It’s part of being human! (And, it seems, [part of being a language model too](https://en.wikipedia.org/wiki/Confabulation_(neural_networks)).
+Even the most honest interlocutors will confidently say untrue things. We recount [false memories](https://en.wikipedia.org/wiki/False_memory), accidentally imply speculation is fact, succumb to cognitive biases, misinterpret causal relationships, struggle with cognitive dissonance, engage in lossy paraphrasing, and kind of just say nonsense sometimes. It’s part of being human! (And, it seems, [part of being a language model too](https://en.wikipedia.org/wiki/Confabulation_(neural_networks))).
 
 As professionals, we work to reign in these errors. A lot of the classic advice about effective communication revolves around exactly this error correction: active listening, repeating what you think you’re hearing, responding to surprising information with curiosity – all the greatest hits.
 
 Where things kick up a notch is when you need to conduct an interview. Whether you’re a hiring manager, a detective, or an investigative journalist, you’ll need certain techniques and approaches for getting true and meaningful info from your interviewees. You won’t get far with “How many times in the last year did you do crimes?”
 
+<img src="/images/2023/notebooks.jpg" />
+
 While this is intuitive in the adversarial case, things get less intuitive when your interviewee is ostensibly cooperative. You might think, “This is a friendly low-stakes interview, so I can just ask what I want to know.” Unfortunately not! Even in the friendliest research interview, many question types tend to trigger wild confabulation and misrepresentation – unbeknownst to you or your interviewee.
 
 There are a lot of techniques for conducting effective research interviews, but today I want to highlight one technique that recently levelled up how I conduct interviews, and especially product interviews: **story orientation**.
-
-<img src="/images/2023/squiggles.png" />
 
 ## Tell me about a recent time
 
