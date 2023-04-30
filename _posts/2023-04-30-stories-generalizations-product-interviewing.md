@@ -21,7 +21,7 @@ Where things kick up a notch is when you need to conduct an interview. Whether y
 
 While this is intuitive in the adversarial case, things get less intuitive when your interviewee is ostensibly cooperative. You might think, “This is a friendly low-stakes interview, so I can just ask what I want to know.” Unfortunately not! Even in the friendliest research interview, many question types tend to trigger wild confabulation and misrepresentation – unbeknownst to you or your interviewee.
 
-There are a lot of techniques for conducting effective research interviews, but today I want to highlight one technique that recently levelled up how I conduct interviews, and especially product interviews: **story orientation**.
+There are a lot of techniques for conducting effective research interviews, but today I want to highlight one technique that recently leveled up how I conduct interviews, and especially product interviews: **story orientation**.
 
 ## Tell me about a recent time
 
@@ -43,28 +43,28 @@ I love this example so much. It crystallizes something I’d often seen in inter
 
 This isn’t just true in product discovery interviewing. Asking about past behaviour is a core skill when interviewing for journalism, social science, hiring, or any other field where you’re more interested in how people act than in how they *think they act*. There's a good reason job interviews no longer ask “How do you approach conflict in the workplace?” and now instead ask “Tell me about a time you had conflict in the workplace.”
 
-Of course, memory errors still abound when somebody recounts a story. The thing is, when we ask somebody to generalize about themselves, those errors compound. Asking “How much do you struggle with X?” requires somebody to take all their error-prone memories around X and summarize them in a lossy way. They’ll filter them through the lens of their self-perception. *Am I the kind of person who should struggle with X?*
+Of course, memory errors still abound when somebody recounts a story. The thing is, when we ask somebody to generalize about themselves, those errors compound. Asking “How much do you struggle with X?” requires somebody to take all their error-prone memories around X and summarize them in a lossy way. They’ll filter through the lens of self-perception. *Am I the kind of person who should struggle with X?*
 
 Meanwhile, “Tell me about a recent time you struggled with X” makes things more concrete. It plants seeds for “why” follow-up questions, and leads to a deeper understanding.
+
+## Levelling up the interview
 
 I saw this starkly in a round of product research I was doing recently. I’ve been asking leaders how they manage their time and attention (a fascinating topic I’ll share more about soon.)
 
 Most leaders strive to spend their time on important things, and they reasonably see themselves as competent. Thus, in my early interviews, questions like “How often do you spend time on things that are urgent but not important?” got me answers about how interviewees keep focused on important work, how they avoid getting bogged down in minor firefighting, and how overall they’re gosh darn awesome leaders. I wasn’t finding many pain points and opportunities.
 
-## Levelling up the interview
-
-After reflecting on these initial interviews, I reworked my questions to be more focused on specific stories, or behavioural interviewing if you will. For example:
+After reflecting on these initial interviews, I reworked my questions to be more focused on specific stories – behavioural interviewing, if you will. For example:
 
 - “Can you tell me about a time recently when you dropped a ball?”
-- “You described planning every week in advance. Tell me about how you planned out this week, and how that went.”
+- “You described planning every week the Friday before. Tell me about how you planned out this week, and how that went.”
 - About how many Slack notifications did you defer from yesterday to today?
 
-**So many times** I’ve had someone first confidently explain how rigorously they manage their time and tasks, then backpedal and rethink their answers when I start asking for specific stories. Stories reveal the delightful mess that is their actual workweek. The interviews are now more fruitful *and* more fun.
+Many of my interviewees have confidently explained how rigorously they manage their time and tasks, then backpedal and rethink their answers when they’re invited to share specific stories. Stories reveal the delightful mess that is their actual workweek. The interviews are now more fruitful *and* more fun.
 
 Of course, from a product marketing perspective, it’s still worth understanding folks’ self-deception around their problems. If you solve a problem people don’t know they have, it’s harder to sell them a solution. Critically though, your principal goal is to build something that solves substantial problems people really have. You know, to help save people money or make people money. To do that, you gotta understand what users really do, not just what they *think* they do.
 
 Even for products running at scale, festooned with telemetry and A/B testing, interviewing is an important part of product development. But when you’re building something new, interviewing is absolutely critical. You need to understand your customers.
 
-So next time you’re interviewing, check your notes. Are you soliciting stories, or just generalizations? Are you digging into memories, or just prompting people to speculate about themselves?
+So next time you’re interviewing, check your notes. Are you soliciting stories, or just generalizations? Are you mapping out the truth, or just prompting people to speculate about themselves?
 
-Challenge yourself to dig in and find the story. You’ll make better products – and have more fun doing it.
+Challenge yourself to dig in and find the real story. You’ll make better products – and have more fun doing it.
