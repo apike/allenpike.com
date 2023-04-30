@@ -21,6 +21,8 @@ While this is intuitive in the adversarial case, things get less intuitive when 
 
 There are a lot of techniques for conducting effective research interviews, but today I want to highlight one technique that recently levelled up how I conduct interviews, and especially product interviews: **story orientation**.
 
+<img src="/images/2023/squiggles.png" />
+
 ## Tell me about a recent time
 
 When you’re doing product discovery research, your goal typically is to learn about pains and opportunities in some population. The approach is to regularly conduct interviewers with customers or potential customers, continually improving your understanding of how they think and what their needs are. This helps you build much better products than you could from principles alone. It’s pretty sweet.
