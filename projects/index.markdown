@@ -24,22 +24,24 @@ Since we started Steamclock, I've worked on over 100 products, mostly for growin
 
 * **[Consulting work](http://www.steamclock.com/services/)**: We help companies ship great mobile apps. Some of our [interesting client projects at Steamclock](https://steamclock.com/work/) have been:
 
-	* an interactive 3D map of the internet
-	* a number of retail and digital commerce apps, including POS and subscription-based commerce projects
-    * a number of personal finance apps, including roboavisors and stock trading
-	* an iOS app for providing a really nice frontend for a zero-waste startup
-	* an international mountain conditions app for a global apparel brand
-	* a number of Bluetooth products, such as one for configuring solar-powered lighting
+	* an interactive [3D map of the internet](https://steamclock.com/work/mapoftheinternet)
+	* various personal finance apps, including "roboavisors" and a featureful stock trading app
+	* a polished [subscription commerce app built on Shopify](https://steamclock.com/work/ora)
+	* a really nice iOS app for a zero-waste startup that provides advanced recycling pickups
+	* a UI component library for a very large enterprise's suite of apps
+	* a mountain conditions app for a global apparel brand and the mountain guides they support
+	* a number of Bluetooth products, such as one for configuring solar-powered lighting, for which we built an open source Bluetooth framework
 	* so many social networks ([people *love* making new social networks](https://allenpike.com/2020/how-to-not-build-a-social-network))
-	* some highly server-driven apps, including one for running hosptality businesses and one for delivering curriculum
-	* some realtime video chat projects
-	* audio tour guide apps
+	* some highly server-driven apps, including one for running hosptality businesses, and one for delivering curriculum
+	* some realtime video chat projects, built on WebRTC and Twilio
+	* a suite of audio tour guide apps
 	* a JavaScript app for the Fortune 500 (like, the actual feature in Fortune)
-	* apps that attempted security analysis on iOS and Android (hard to do, it turns out)
-	* web apps for businesses including community management, real estate, art exhibitions
-	* a number of early MVP experiments, for example a system for running valet businesses
-	* work on the webOS App Store, of all things
+	* an app that attempted security analysis on iOS and Android (hard to do, it turns out)
+	* a couple Point of Sale app projects – one that went well and one that did not
 	* an Android app for reporting commercial fishing activity (one of our rare "enterprisey" projects)
+	* web apps for various verticals, including community management, real estate, and art exhibitions
+	* a couple dozen early MVP experiments, for example a system for running valet businesses and an experimental recipe-video app
+	* work on the webOS App Store, of all things
 	* a bespoke iOS app for ordering bespoke suits.
 
 * **Meetups**: I started the [Vancouver Javascript Developers](http://www.vanjs.com) group, and the [Vancouver Xcoders iOS meetup](https://www.meetup.com/Vancouver-Xcoders/).
@@ -66,7 +68,7 @@ I love teaching and discussing tech and other topics. <a href="/speaking/">Somet
 
 * **Unladen Follow**: I created a tool to unfollow the most annoying people on Twitter. It was semi-broken by Twitter's 1.1 API changes, but I'd love to bring it back one day.
 
-* **Prototypes**: Lots of interesting prototypes haven't made it out of the Steamclock labs - for example [an app for recording podcasts](/2014/podcast-recording/), an antisocial Facebook app, a Git client for Mac, and a turn-based strategy game.
+* **Prototypes**: Lots of interesting prototypes haven't made it out of the Steamclock labs - for example [an app for recording podcasts](/2014/podcast-recording/), an antisocial Facebook app, and a Git client for Mac.
 
 * **CMPT 470**: I've twice taught the 4th-year Web Technologies course for SFU's Computing Science department. In doing so, I learned that I love teaching and hate grading.
 
@@ -74,7 +76,7 @@ I love teaching and discussing tech and other topics. <a href="/speaking/">Somet
 
 **Apple Era Projects** (2008-2010)
 
-For reasons I don't fully understand, Apple offered me a job in 2008. I never thought I'd make a detour into working for a large company, but it was a fun ride.
+For reasons I don't fully understand, Apple offered me a job right out of university. I never thought I'd make a detour into working for a large company, but it was a fun ride.
 
 * **[iWork for iPad](http://www.apple.com/ipad/features/pages.html)**: I worked on the iWork iPad apps, primarily writing Objective-C to support iWork.com. Having a secret iPad prototype locked in my desk was possibly the most ridiculous thing ever.
 
@@ -143,7 +145,7 @@ I started university at UCFV, but I upgraded to SFU within a year to preserve my
 * **The Essence**: For some reason I designed my own (bad) trading card game, creating a couple hundred cards, many featuring (bad) art.
 
 
-* **Spellbook**: I ran a low-budget games magazine with my friends for a couple years. When I say low-budget, I mean photocopying at the 7-11. The first issue was taped with masking tape. I was like 12, okay?!
+* **Spellbook**: I ran a low-budget games 'zine with my friends for a couple years. When I say low-budget, I mean photocopying at the 7-11. The first issue was taped with masking tape. I was like 12, okay?!
 
 
 * **Street Vending**: In elementary school I enjoyed putting a table on the street and failing to sell lemonade and hockey cards to passers-by. I even kept a ledger of the lemonade I failed to sell. This was all of the lemonade.
