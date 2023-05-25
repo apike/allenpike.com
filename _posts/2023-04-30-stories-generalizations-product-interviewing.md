@@ -26,7 +26,7 @@ There are a lot of techniques for conducting effective research interviews, but 
 
 ## Tell me about a recent time
 
-When you’re doing product discovery research, your goal typically is to learn about pains and opportunities in some population. The approach is to regularly conduct interviewers with customers or potential customers, continually improving your understanding of how they think and what their needs are. This helps you build much better products than you could from principles alone. It’s pretty sweet.
+When you’re doing product discovery research, your goal typically is to learn about pains and opportunities in some population. The approach is to regularly conduct interviews with customers or potential customers, continually improving your understanding of how they think and what their needs are. This helps you build much better products than you could from principles alone. It’s pretty sweet.
 
 Now, there are some pitfalls here that are well known. For example, you can’t just ask customers if they want the cool thing you’ve envisioned. They probably don’t even know, and they’ll lean heavily toward saying “Uh sure yeah, I agree that your idea would be cool.” Instead of asking about potential solutions, you’re meant to ask open questions about **the problem space**. Given that, you might ask questions like:
 
