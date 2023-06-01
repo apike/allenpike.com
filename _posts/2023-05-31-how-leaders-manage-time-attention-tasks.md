@@ -55,7 +55,7 @@ Here’s the typical format for this, in my anecdata:
 6. Host this somewhere you can get to quickly; either a native app like Apple Notes or Bear, or a tool you always have open like Notion or Docs.
 7. Feel self-conscious that a Long-Ass Note is kind of janky, but stick with it because for you, it works.
 
-Two interviewees described this apprach as "like paper, but with links."
+Two interviewees described this approach as "like paper, but with links."
 
 Many note-centric people I talked to appreciate that notes avoid the ceremony of GTD-style task-tracking tools, and the overwhelm that can come from “[due bombs](https://allenpike.com/2021/omnifocus-workflow)” and other anti-patterns in systems like this. 
 
