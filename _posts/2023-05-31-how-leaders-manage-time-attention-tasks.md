@@ -40,7 +40,7 @@ Talk to your manager if you’re experiencing more than two of the following sym
 
 If these sound familiar, then you may be in what we call, in the industry, survival mode. Under this kind of pressure, leaders’ use of time and task management habits and tools will often degrade. People who were using Things or Todoist might revert to paper or one Long-Ass Apple Note.
 
-People like me that [use a featureful tool like OmniFocus](https://allenpike.com/2021/omnifocus-workflow) to stay focused might expect this to make things even worse. But it’s a lot more workable I’d though, because…
+People like me that [use a featureful tool like OmniFocus](https://allenpike.com/2021/omnifocus-workflow) to stay focused might expect this to make things even worse. But it’s a lot more workable I’d thought, because…
 
 ## 2. A Long-Ass Note works for many people
 This was my most surprising finding. Formal task-tracking software can be helpful for plenty of people and plenty of workloads, but it also affords a lot of metaphorical rope. I’d hypothesized that more experienced leaders would use more sophisticated task-tracking workflows, but I found the opposite. Many leaders, especially senior folks with a lot of [task relevant maturity](https://fellow.app/blog/leadership/how-to-level-up-your-leadership-with-task-relevant-maturity/) and a strong team, end up preferring a Long-Ass Note for organizing their work. Roughly 1/3 of the leaders I talked to use a variant of this approach.
