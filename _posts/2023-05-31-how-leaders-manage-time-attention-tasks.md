@@ -38,9 +38,9 @@ Talk to your manager if you’re experiencing more than two of the following sym
 - Your startup is currently trying to raise funding
 - You’re increasingly unclear what the strategic priorities even are at this point, seriously what is even going on here
 
-If these sound familiar, then you may be in what we call, in the industry, survival mode. Under this kind of pressure, leaders’ use of time and task management habits and tools will often degrade, even failing over to tracking priorities on paper or one Long-Ass Note.
+If these sound familiar, then you may be in what we call, in the industry, survival mode. Under this kind of pressure, leaders’ use of time and task management habits and tools will often degrade. People who were using Things or Todoist might revert to paper or one Long-Ass Apple Note.
 
-People like me that [use a featureful tool like OmniFocus](https://allenpike.com/2021/omnifocus-workflow) to stay on task might expect this to make things even worse. But it’s a lot more adaptable I’d though, because…
+People like me that [use a featureful tool like OmniFocus](https://allenpike.com/2021/omnifocus-workflow) to stay focused might expect this to make things even worse. But it’s a lot more workable I’d though, because…
 
 ## 2. A Long-Ass Note works for many people
 This was my most surprising finding. Formal task-tracking software can be helpful for plenty of people and plenty of workloads, but it also affords a lot of metaphorical rope. I’d hypothesized that more experienced leaders would use more sophisticated task-tracking workflows, but I found the opposite. Many leaders, especially senior folks with a lot of [task relevant maturity](https://fellow.app/blog/leadership/how-to-level-up-your-leadership-with-task-relevant-maturity/) and a strong team, end up preferring a Long-Ass Note for organizing their work. Roughly 1/3 of the leaders I talked to use a variant of this approach.
@@ -55,11 +55,13 @@ Here’s the typical format for this, in my anecdata:
 6. Host this somewhere you can get to quickly; either a native app like Apple Notes or Bear, or a tool you always have open like Notion or Docs.
 7. Feel self-conscious that a Long-Ass Note is kind of janky, but stick with it because for you, it works.
 
-Many note-centric people I talked to appreciate that this avoids the ceremony of GTD-style task-tracking tools, and the overwhelm that can come from “[due bombs](https://allenpike.com/2021/omnifocus-workflow)” and other anti-patterns in systems like this. 
+Two interviewees described this apprach as "like paper, but with links."
+
+Many note-centric people I talked to appreciate that notes avoid the ceremony of GTD-style task-tracking tools, and the overwhelm that can come from “[due bombs](https://allenpike.com/2021/omnifocus-workflow)” and other anti-patterns in systems like this. 
 
 There are a few products built specifically with a note-centric view to task management. [NotePlan](https://noteplan.co/) is a compelling offering here that also has some useful calendar integration. Regardless, most of the note-centric planners I talked to were skeptical of adopting any kind of formal tooling.
 
-Of course, the Long-Ass Note isn’t for everybody. Most leaders whose job includes a lot of project management preferred a bit of structure. A note-centric workflow seems to work best for folks who have the discipline to focus on a handful of high-impact priorities at once, and a role that affords them the ability to do that.
+Of course, the Long-Ass Note isn’t for everybody. Most leaders whose job includes a lot of project management benefitted from more structure. A note-centric workflow seems to work best for folks who have the discipline to focus on just a handful of high-impact priorities, and a role that affords them the ability to do that.
 
 For the procrastinators and easily distracted among us, there was another popular solution…
 
@@ -76,7 +78,7 @@ A specific flavour of time blocking that’s especially helpful for those prone 
 
 One manager liked the idea of avoiding procrastination using the Eat the Frog method, but found themselves procrastinating the very act of identifying a Frog and scheduling time to complete it. Thus they continued to churn through their task list in an unordered way between meetings, anxious about the handful of overdue tasks they habitually deferred, including the aspirational “Choose a Frog”.
 
-This hilarious loop of self-defeat brings me to the penultimate lesson. Time blocking works, but only if you’ve developed the discipline to actually do it. Which brings me to the observation that…
+This twisted loop of self-defeat brings me to the penultimate lesson. Time blocking works, but only if you’ve developed the discipline to actually do it. Hence, it's important to remember that…
 
 ## 4. Everyone’s demons differ
 If you’ve led a team, you’ve seen the variation in how different folks struggle. Overwhelm, procrastination, overwork, distraction, demand avoidance, over-commitment, analysis paralysis, and even just boredom can all impede different people. While I objectively knew this, these interviews crystallized for me how most leaders have tamed but not defeated their respective demons. These personal struggles tend to fuel very personal opinions about productivity tools.
