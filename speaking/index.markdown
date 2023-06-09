@@ -54,14 +54,18 @@ Here are three example videos of talks I've given:
 
 I enjoy guesting on podcasts &ndash; they're most of the fun of giving a talk, with a lot less work. Here are some shows I've been on:
 
-* The [It Shipped That Way Podcast](https://www.itshipped.fm/), where I interview product leaders about what they've learned.
-* The [Fun Fact Podcast](https://funfact.fm), where Arik Devens and I discuss important facts.
+* The [It Shipped That Way Podcast](https://www.itshipped.fm/), where I interview product leaders about what they've learned. Example episodes:
+  * Ep. 4, [Architecting Apps at Netflix Scale, with Arik Devens](https://www.itshipped.fm/episodes/6)
+  * Ep. 6, [Solving Engineering Problems with DuckDuckGo’s Cate Huston](https://www.itshipped.fm/episodes/4)
+* The [Fun Fact Podcast](https://funfact.fm), where Arik Devens and I discuss important facts. Example episodes:
+  * Ep. 56, [A Hippo Astronaut](https://funfact.fm/episodes/56) 
+  * Ep. 66, [We Gotta Blow It Up](https://funfact.fm/episodes/66)
 * [The Xcoders Podcast, March 2020](https://xcoders.org/2020/03/19/xcoders-podcast-march.html), where I talk about starting Vancouver Xcoders, and approaches for sharing code across platforms.
 * [The Omni Show 64](https://theomnishow.omnigroup.com/episode/how-allen-pike-uses-omnifocus-to-run-steamclock), where I talk about how I manage tasks, and focusing on what's important rather than just urgent.
 * [Giant Robots 264](http://giantrobots.fm/264), where we talk about building great product teams.
 * [Clockwise 174](https://www.relay.fm/clockwise/174), where we discuss iPad, Apple Watch, Apple-produced original content, and iTunes
 * Release Notes [190, where I talk about our products](https://releasenotes.tv/190-allen-pike-part-1/), and [191, where I talk about client work](https://releasenotes.tv/191-allen-pike-part-2/).
-* [Up Up Down Down](http://upup.fm), the game development podcast I co-hosted, currently on hiatus.
+* [Up Up Down Down](http://upup.fm), the game development podcast I co-hosted.
 * [Cinema Gadfly 7](http://cinemagadfly.com/podcast/s1e7.html) and [8](http://cinemagadfly.com/podcast/s1e8.html), where Arik Devens and I discuss Terry Gilliam's Brazil and Steven Spielberg's Catch Me If You Can.
 * [Incomparable Radio Theatre 1.10](https://www.theincomparable.com/radio/1.10/index.php), as Charles Babbage
 * [Iterate 80](http://www.imore.com/iterate-80-allen-pike-party-monster), an episode where we discuss Steamclock, our apps, and mobile app design
