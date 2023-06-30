@@ -16,9 +16,9 @@ ChatGPT lets you poke at those possibilities. You can prototype some wild and in
 
 ChatGPT also helps you better understand LLMs’ many weaknesses: their limited math capabilities, their tendency to forget, their struggles to follow many instructions at once, and their proclivity to make shit up.
 
-What ChatGPT is *not* very useful for is understanding how you can compose LLMs with other tools into a polished user-facing product that you can build a business on. ChatGPT-based prototypes tend to be initially exciting, and then disappointing when you hit against the limits of that environment. (Or, perhaps, when it dawns on you that your concept is so simple that your potential customers should just use ChatGPT directly.)
+What ChatGPT is *not* very useful for is understanding how you can compose LLMs with other tools into a polished user-facing product. You know, something you can build a business on. ChatGPT-based prototypes tend to be initially exciting, and then disappoint when you hit the limits of that environment. (Or, alternatively, when it dawns on you that your concept is so simple that your potential customers should just use ChatGPT directly.)
 
-This can mislead people into thinking that going beyond ChatGPT's capabilities will require some kind of scientific breakthrough.
+This can mislead people into thinking that exceeding ChatGPT's capabilities will require some kind of scientific breakthrough.
 
 <img src="/images/2023/chatgpt-map.png">
 <div class="centered"><p>ChatGPT is a powerful but tiny sandbox.</p></div>
