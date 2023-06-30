@@ -2,7 +2,7 @@
 layout: post
 author: allen
 title: Going Way Beyond ChatGPT
-summary: Techniques for building great products on LLMs 
+summary: Techniques for building products on LLMs today.
 date: 2023-06-30T05:45:30.955Z
 featured: false
 image: "/images/2023/chatgpt-map.png"
@@ -16,12 +16,14 @@ ChatGPT lets you poke at those possibilities. You can prototype some wild and in
 
 ChatGPT also helps you better understand LLMs’ many weaknesses: their limited math capabilities, their tendency to forget, their struggles to follow many instructions at once, and their proclivity to make shit up.
 
-What ChatGPT is *not* very useful for is understanding how you can compose LLMs with other tools into a polished user-facing product that you can build a business on. ChatGPT-based prototypes tend to be initially exciting, and then disappointing when you hit against the limits of that environment. (Or, perhaps, when it dawns on you that your concept is so simple that your potential customers would just use ChatGPT directly.)
+What ChatGPT is *not* very useful for is understanding how you can compose LLMs with other tools into a polished user-facing product that you can build a business on. ChatGPT-based prototypes tend to be initially exciting, and then disappointing when you hit against the limits of that environment. (Or, perhaps, when it dawns on you that your concept is so simple that your potential customers should just use ChatGPT directly.)
+
+This can mislead people into thinking that going beyond ChatGPT's capabilities will require some kind of scientific breakthrough.
 
 <img src="/images/2023/chatgpt-map.png">
 <div class="centered"><p>ChatGPT is a powerful but tiny sandbox.</p></div>
 
-Luckily for us, while current LLMs can’t fully replace human skills for many tasks, they’re capable of greatly accelerating and levelling up many human efforts. The trick is to compose them together with other tools that mitigate the models’ weaknesses, going beyond a simple chat workflow.
+While current LLMs can’t fully replace human skills for many tasks, they’re already useful for greatly accelerating and levelling up many human efforts. The trick is to compose them together with other tools that mitigate the models’ weaknesses, going beyond a simple chat workflow.
 
 Luckily, this is fairly straightforward with a bit of orchestration glue. A developer might build this themselves, or use a burgeoning tool like [LangChain](https://python.langchain.com/docs/get_started/introduction.html) or [Semantic Kernel](https://github.com/microsoft/semantic-kernel).
 
@@ -31,9 +33,9 @@ Let’s look at just ten of those techniques.
 
 
 ## 1. Turn the knobs
-First off, language models have various generation settings that lead to quite different results. While most of the parameters will only incrementally improve (or deteriorate) results, there is one powerful capability here: near-determinism.
+First off, language models have various generation settings that can lead to quite different results. While most of the parameters will only incrementally improve (or deteriorate) results, there is one powerful capability here: near-determinism.
 
-LLMs have [a temperature parameter](https://algowriting.medium.com/gpt-3-temperature-setting-101-41200ff0d0be) that, at its default level, will spur more creative and interesting results. However, a temperature setting of 0 will tell the model to only generate consistent, likely output for a given input. Basically, to be boring.
+LLMs have [a temperature parameter](https://algowriting.medium.com/gpt-3-temperature-setting-101-41200ff0d0be) that, at its default level, will spur more creative and interesting results. However, a temperature setting of 0 will tell the model to consistently generate the most likely output for a given input. Basically, to be boring.
 
 A temperature of zero can be very useful for applications where being correct and consistent is more important than being interesting and engaging.
 
