@@ -17,11 +17,11 @@ ChatGPT also helps you better understand LLMs’ many weaknesses: their limited 
 
 What ChatGPT is *not* very useful for is understanding how you can compose LLMs with other tools into a polished user-facing product that you can build a business on. ChatGPT-based prototypes tend to be initially exciting, and then disappointing when you hit against the limits of that environment. (Or, perhaps, when it dawns on you that your concept is so simple that your potential customers would just use ChatGPT directly.)
 
-Luckily for us, while current LLMs can’t fully replace human skills for many tasks, they’re capable of greatly accelerating and levelling up many human skills. The trick is to compose them together with other tools that mitigate the models’ weaknesses, going beyond a simple chat workflow.
+Luckily for us, while current LLMs can’t fully replace human skills for many tasks, they’re capable of greatly accelerating and levelling up many human efforts. The trick is to compose them together with other tools that mitigate the models’ weaknesses, going beyond a simple chat workflow.
 
 Luckily, this is fairly straightforward with a bit of orchestration glue. A developer might build this themselves, or use a burgeoning tool like [LangChain](https://python.langchain.com/docs/get_started/introduction.html) or [Semantic Kernel](https://github.com/microsoft/semantic-kernel).
 
-Once you’re interacting with an LLM through a programming environment, you can use a multitude of powerful approaches to go beyond what’s possible in ChatGPT.
+Once you’re interacting with an LLM through a programming environment, you can use a multitude of approaches to go beyond what’s possible in ChatGPT.
 
 Let’s look at just ten of those techniques.
 
@@ -30,18 +30,20 @@ Let’s look at just ten of those techniques.
 ## 1. Turn the knobs
 First off, language models have various generation settings that lead to quite different results. While most of the parameters will only incrementally improve (or deteriorate) results, there is one powerful capability here: near-determinism.
 
-LLMs have [a temperature parameter](https://algowriting.medium.com/gpt-3-temperature-setting-101-41200ff0d0be) that, at its default level, will spur more creative and interesting results. However, a temperature setting of 0 will tell the model to only generate consistent, likely output for a given input. A temperature of zero can be very useful for applications where being correct and consistent is more important than being interesting and engaging.
+LLMs have [a temperature parameter](https://algowriting.medium.com/gpt-3-temperature-setting-101-41200ff0d0be) that, at its default level, will spur more creative and interesting results. However, a temperature setting of 0 will tell the model to only generate consistent, likely output for a given input. Basically, to be boring.
+
+A temperature of zero can be very useful for applications where being correct and consistent is more important than being interesting and engaging.
 
 ## 2. Equip your LLMs with tools
 LLMs are good with language, but weak at some tasks that computers are typically good at. Luckily, it’s conceptually straightforward to mitigate this by giving LLMs tools.
 
-For example, it’s become well known that [LLMs aren’t great at math](https://spectrum.ieee.org/large-language-models-math). This might seem like a big limitation, but you can prompt your model to perform math not using language inference, but instead by calling a procedural  `calculator` function that you’ve provided. This is analogous to the way humans would do math: if it’s simple, we might do it in our heads, and perhaps be wrong. If a calculator is handy, we’d use that. 
+For example, it’s become well known that [LLMs aren’t great at math](https://spectrum.ieee.org/large-language-models-math). This might seem like a big limitation, but you can prompt your model to perform math not using language inference, but instead by calling a procedural  `calculator` function that you’ve provided. This is analogous to the way humans would do math: if it’s simple, we might do it in our heads, and perhaps be wrong. If a calculator is handy, we’ll use that. 
 
 This generalizes: give the LLM a new tool, and bam! Your language model can do language things, while your procedural code (cheaply) computes things. It can be a match made in heaven.
 
-This approach works for most things you could define an API for. You can give an LLM the tools to call Zapier, invoke shell scripts, [search the internet](https://www.theverge.com/2023/5/4/23710071/microsoft-bing-chat-ai-public-preview-plug-in-support), check the weather, read or write from a database, or call any simple function or query you tell it about. [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins) comes from this approach, and LangChain has supported tool usage for a while. A couple weeks ago, [GPT-3.5 and GPT-4 were been fine-tuned to understand custom function-calling](https://openai.com/blog/function-calling-and-other-api-updates), so those APIs now have first-class support for telling the LLM about the tools it has available.
+This approach works for most things you could define an API for. You can give an LLM the tools to call Zapier, invoke shell scripts, [search the internet](https://www.theverge.com/2023/5/4/23710071/microsoft-bing-chat-ai-public-preview-plug-in-support), check the weather, read or write from a database, or call any simple function or query you tell it about. [ChatGPT plugins](https://openai.com/blog/chatgpt-plugins) productize this approach, and LangChain has supported tool usage for a while. A couple weeks ago, [GPT-3.5 and GPT-4 were update to better understand custom function-calling](https://openai.com/blog/function-calling-and-other-api-updates), so those APIs now have first-class support for telling the LLM about the tools it has available.
 
-Let’s look at a kind of wild case of tool usage.
+Let’s look at one kind of wild case of tool usage.
 
 ## 3. Give your LLM an interpreter
 One of the debates going on in the software world is: will LLMs make software development 10% faster, or 10x faster? Folks who lean towards the 10% answer typically haven’t yet had these two experiences:
