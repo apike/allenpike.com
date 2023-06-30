@@ -51,16 +51,16 @@ One of the debates going on in the software world is: will LLMs make software de
 1. Using GPT-4 to help build software that GPT-4 understands well
 2. Using a workflow that automatically interprets an LLM’s code output
 
-For example, you could have an LLM generate a new class, then procedurally check to see if the result passes your suite of unit tests. If it fails, feed the errors back into the model to try again. This won’t lead you to 100% autonomous coding, but it can get you a lot further faster than pasting things into ChatGPT will.
+For example, you could have an LLM generate a new class, then procedurally check to see if that class passes your suite of automated tests. If it fails, feed the errors back into the model to try again. This won’t yield 100% autonomous coding, but it can get you a lot further faster than pasting things into ChatGPT will.
 
 More generally, letting an LLM reason using code can be really powerful. It’s fairly well known that you get a better answers from LLMs by asking them to “think step by step” and output their [chain of thought](https://arxiv.org/abs/2201.11903) before their final answer. A level up from that technique is to have it convert the chain of thought into a Python script, which when executed will determine the answer.
 
-Of course, you can get ChatGPT to produce Python and paste it into an interpreter by hand. But in a LangChain-like scripting environment, that code evaluation can be a part of the workflow. This loop can in turn be a building block of features and products that we haven’t fully conceived of yet.
+Of course, you can get ChatGPT to produce Python and paste it into an interpreter by hand. But in a LangChain-like scripting environment, that code evaluation can be a part of the workflow. This loop can, in turn, be a building block of features and products that we haven’t fully conceived of yet.
 
 (Surgeon General’s Warning: Giving an LLM a code interpreter and access to the internet at the same time should be done only with a healthy dose of paranoia.)
 
 ## 4. Chain your prompts
-Chaining is a bread-and-butter technique for building applications on LLMs. While GPT-4 is much better than GPT-3.5 at following multi-part and multi-stage instructions, complex enough prompts will still lead to rules and details getting dropped on the floor. Current LLMs do better when given a narrowly scoped task with examples, so developers typically split their multi-part tasks into two or more chained prompts.
+Chaining is a bread-and-butter technique for building applications on LLMs. While GPT-4 is much better than GPT-3.5 at following multi-part and multi-stage instructions, complex enough prompts will still lead to rules and details getting dropped on the floor. Current LLMs do better with a narrowly scoped task and examples, so developers typically split their multi-part prompts into two or more chained requests.
 
 For example, in a game you might first have the model describe the awesome scene in front of your player with lots of creative gusto, and then have a second prompt studiously generate reasonable multiple-choice options for the player given that scene. TKTK SPECIFICS Or you might first ask a cheap model if the user’s question is about math, and if it is then ask an expensive math-aware model to consider their question.
 
@@ -71,36 +71,36 @@ You can also use self-grading to get more creative or interesting output, especi
 Of course, the LLM’s idea of the most promising headline might still occasionally be janky garbage. More on that later.
 
 ## 5. Let your LLM think in secret
-Everything ChatGPT generates is shown to the user. That’s fine for some use cases, but it can undermine certain product goals. For example, if you want an LLM to facilitate a great tutoring session, game, or any other activity where a human would keep notes or collect their thoughts before speaking, you’ want any model attempting the same task to be able to generate “internal thoughts” before generating something user-visible.
+Everything ChatGPT generates is shown to the user. That’s fine for some use cases, but it can undermine certain product goals. For example, if you want an LLM to facilitate a great tutoring session, game, or any other activity where a human would keep notes or collect their thoughts before speaking, you want a model attempting the same task to be able to generate “internal thoughts” before generating something user-visible.
 
 This can be as simple as telling the model that to first output its chain of thought or hidden reasoning wrapped in `<hidden>`, then follow with its user-facing output. When you render the result, just display the non-hidden text.
 
 Since that can be a bit error-prone, real-world applications typically use prompt chaining to allow for hidden work – intermediate prompts produce interim “thoughts”, which get fed into the prompt that generates the user-visible output.
 
 ## 6. Prompt your model dynamically
-Another big limitation of ChatGPT is that the prompts are basically static text you paste in. To build actual products on this tech, product engineers generally use some kind of templating system to feed their model different variations of a prompt at runtime.
+Another big limitation of ChatGPT is that the prompts are static text you paste in. To build actual products on this tech, product engineers generally use some kind of templating system to feed their model different variations of a prompt at runtime.
 
 Dynamic prompts often include variables for user context, known-good output examples, knowledge base articles, documentation, and more – all sized to fit within the relevant context window and cost constraints in production.
 
 Templating as a prompt engineering tool is obvious, but is a good illustration of why getting out of ChatGPT and into code unlocks some pretty fundamental experimentation and iteration tools.
 
 ## 7. Provide the facts
-The most common things engineers put into their prompt templates are probably facts. LLMs famously tend to confabulate factual information that seems plausible when they’re not sure. Tamping this down at the model level is [a fascinating area of active research](https://www.youtube.com/watch?v=hhiLw5Q_UFg), but today we can help a lot by adding relevant true facts to our input contexts.
+Facts are the most common things engineers put into their prompt templates. LLMs famously tend to confabulate factual information that seems plausible when they’re not sure. Tamping this down at the model level is [a fascinating area of active research](https://www.youtube.com/watch?v=hhiLw5Q_UFg), but today we can help a lot by adding relevant true facts to our inputs.
 
 For example, to respond to a user input, e.g. “How is Slurm made?”, you might first query a vector database populated with [embeddings](https://huggingface.co/blog/getting-started-with-embeddings). This lets you pull out facts that are semantically similar to the user input. Feeding in those vetted Slurm facts along with the user’s question can dramatically reduce the model’s reliance on its pre-training, which may have been disastrously light on Slurm-related insights.
 
-In this way, we can often use LLMs to get good output for topics that are either obscure, newer than the model’s data cutoff date, specific to your product, or just underrepresented in the existing data sets that trained your model.
+In this way, we can often use LLMs to get good output for topics that are either obscure, newer than the model’s data cutoff date, specific to your product, or just underrepresented in the existing data sets your model trained on.
 
 A special case of providing the model with facts is establishing a “memory”. ChatGPT does one specific kind of this: it sends the most recent few thousand words of text in your chat thread to the model when you make a new query. In that way, ChatGPT has some short-term memory.
 
-Back in the ancient times – four months ago – I speculated that [large context windows were necessary](https://allenpike.com/2023/175b-parameter-goldfish-gpt) to one day create an LLM-powered agent that feels like it has a stable and growing memory over the long term. Between Anthropic’s new [100k-token context windows](https://www.anthropic.com/index/100k-context-windows) and the tools for letting models store and retrieve key facts, it’s now completely possible to build a companion or coach that behaves as if it has a long-term memory.
+Back in the ancient times – four months ago – I speculated that [large context windows were necessary](https://allenpike.com/2023/175b-parameter-goldfish-gpt) to one day create an LLM-powered agent that feels like it has a stable and growing memory over the long term. Between Anthropic’s new [100k-token context windows](https://www.anthropic.com/index/100k-context-windows) and procedural tools for letting models store and retrieve key facts, it’s now completely possible to build a companion or coach that behaves as if it has a long-term memory.
 
 Hold on to your butts.
 
 ## 8. Build non-chat-like experiences
 While chat experiences are going to be massive and keep getting more useful, chat is just one thing we can build with LLMs. Product designers’ imaginations are just starting to scratch the surface of what is possible here.
 
-Talented designer Maggie Appleton has a great recent exploration of these UX possibilities titled “[Why I Hate Chatbots](https://maggieappleton.com/lm-sketchbook)”. The core idea is that language models can help us analyze, remind, suggest, categorize, challenge, label, automate, and otherwise power quality-of-life features that have nothing to do with chat or even composing text.
+Talented designer Maggie Appleton has a great exploration of these UX possibilities titled “[Why I Hate Chatbots](https://maggieappleton.com/lm-sketchbook)”. The core idea is that language models can help us analyze, remind, suggest, categorize, challenge, label, automate, and otherwise power quality-of-life features that have nothing to do with chat or even composing text.
 
 If you find your team stuck wondering, "What text fields in our product could we have an LLM generate text into?" then challenge yourself to get outside of that box.
 
@@ -109,7 +109,7 @@ As of June 2023, most product teams building on LLMs are using OpenAI’s GPT AP
 
 Once the available models and our LLMOps skills mature, this will shift. There are thousands – tens of thousands? – of teams experimenting today with fine-tuning open-source models to get good-enough performance on specific tasks. Tuned smaller models can, in theory, avoid the cost, compliance, or legal concerns around OpenAI’s GPT APIs. While fine-tuning was once an expensive dark art, [Parameter-Efficient Fine Tuning methods](https://huggingface.co/blog/peft) such as LoRA are making this more cost-effective, and tools are inbound that will make fine-tuning more user-friendly.
 
-Today, fine-tuning isn’t currently supported on OpenAI’s GPT APIs. Reportedly though, this is just because they can’t yet buy GPUs fast enough to meet demand. By 2024 it seems likely that LLM-fuelled products will often call into certain fine-tuned models for parts of their prompts – or categories of input query – that today have been prototyped as one large generic ChatGPT prompt.
+Today, fine-tuning isn’t currently supported on OpenAI’s GPT APIs. Reportedly though, this is [just because they can’t yet buy GPUs fast enough to meet demand](https://medium.com/predict/what-openai-doesnt-want-you-to-know-the-deleted-sam-altman-article-96192b7cdfc7). By 2024 it seems likely that LLM-fuelled products will often call into certain fine-tuned models for parts of their prompts – or categories of input query – that today have been prototyped as one large generic ChatGPT prompt.
 
 Going even further, LLMs are great for prototyping and discovering over use cases for ML, but for small, focused prompts are often more expensive and less reliable than “Traditional” ML techniques. Once you’ve proved a concept with an LLM and are looking to scale it up in production, it can be worth [reconsidering if LLMs are even the best way to scale and iterate that feature](https://explosion.ai/blog/against-llm-maximalism), and whether a more traditional machine learning approaches could get you the same result faster and cheaper.
 
