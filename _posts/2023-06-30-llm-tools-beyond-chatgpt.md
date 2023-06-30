@@ -25,7 +25,9 @@ Once you’re interacting with an LLM through a programming environment, you can
 
 Let’s look at just ten of those techniques.
 
-(Graphic)
+<img src="/images/2023/chatgpt-map.png">
+<div class="centered"><p>ChatGPT is a powerful but tiny sandbox.</p></div>
+
 
 ## 1. Turn the knobs
 First off, language models have various generation settings that lead to quite different results. While most of the parameters will only incrementally improve (or deteriorate) results, there is one powerful capability here: near-determinism.
@@ -37,7 +39,7 @@ A temperature of zero can be very useful for applications where being correct an
 ## 2. Equip your LLMs with tools
 LLMs are good with language, but weak at some tasks that computers are typically good at. Luckily, it’s conceptually straightforward to mitigate this by giving LLMs tools.
 
-For example, it’s become well known that [LLMs aren’t great at math](https://spectrum.ieee.org/large-language-models-math). This might seem like a big limitation, but you can prompt your model to perform math not using language inference, but instead by calling a procedural  `calculator` function that you’ve provided. This is analogous to the way humans would do math: if it’s simple, we might do it in our heads, and perhaps be wrong. If a calculator is handy, we’ll use that. 
+For example, it’s become well-known that [LLMs aren’t great at math](https://spectrum.ieee.org/large-language-models-math). This might seem like a big limitation, but you can prompt your model to perform math not using language inference, but instead by calling a procedural  `calculator` function that you’ve provided. This is analogous to the way humans would do math: if it’s simple, we might do it in our heads, and perhaps be wrong. If a calculator is handy, we’ll use that. 
 
 This generalizes: give the LLM a new tool, and bam! Your language model can do language things, while your procedural code (cheaply) computes things. It can be a match made in heaven.
 
@@ -53,7 +55,7 @@ One of the debates going on in the software world is: will LLMs make software de
 
 For example, you could have an LLM generate a new class, then procedurally check to see if that class passes your suite of automated tests. If it fails, feed the errors back into the model to try again. This won’t yield 100% autonomous coding, but it can get you a lot further faster than pasting things into ChatGPT will.
 
-More generally, letting an LLM reason using code can be really powerful. It’s fairly well known that you get a better answers from LLMs by asking them to “think step by step” and output their [chain of thought](https://arxiv.org/abs/2201.11903) before their final answer. A level up from that technique is to have it convert the chain of thought into a Python script, which when executed will determine the answer.
+More generally, letting an LLM reason using code can be really powerful. It’s fairly well known that you get better answers from LLMs by asking them to “think step by step” and output their [chain of thought](https://arxiv.org/abs/2201.11903) before their final answer. A level up from that technique is to have it convert the chain of thought into a Python script, which when executed will determine the answer.
 
 Of course, you can get ChatGPT to produce Python and paste it into an interpreter by hand. But in a LangChain-like scripting environment, that code evaluation can be a part of the workflow. This loop can, in turn, be a building block of features and products that we haven’t fully conceived of yet.
 
@@ -111,7 +113,7 @@ Once the available models and our LLMOps skills mature, this will shift. There a
 
 Today, fine-tuning isn’t currently supported on OpenAI’s GPT APIs. Reportedly though, this is [just because they can’t yet buy GPUs fast enough to meet demand](https://medium.com/predict/what-openai-doesnt-want-you-to-know-the-deleted-sam-altman-article-96192b7cdfc7). By 2024 it seems likely that LLM-fuelled products will often use different fine-tuned models for parts of their prompts – or categories of input query – that today have been prototyped as one large generic ChatGPT prompt.
 
-Going even further, LLMs are great for prototyping and discovering use cases for ML, but “Traditional” ML techniques are capable of some of the same things. Once you’ve proved a concept with an LLM and are looking to scale it up in production, it can be worth [reconsidering if LLMs are even the best way to scale and iterate that feature](https://explosion.ai/blog/against-llm-maximalism), and whether a more traditional machine learning approaches could get you the same result faster and cheaper.
+Going even further, LLMs are great for prototyping and discovering use cases for ML, but “Traditional” ML techniques are capable of some of the same things. Once you’ve proved a concept with an LLM and are looking to scale it up in production, it can be worth [reconsidering if LLMs are even the best way to scale and iterate that feature](https://explosion.ai/blog/against-llm-maximalism), and whether more traditional machine learning approaches could get you the same result faster and cheaper.
 
 ## 10. Put a human in the loop
 While LLMs are going to change knowledge work in profound ways, they are still fundamentally accelerators to human endeavours. In a lot of cases, ChatGPT-based product prototypes stumble because they’re prompted to exclude the human element and leap right to a final answer unassisted.
@@ -120,7 +122,7 @@ Part of the reason that Github Copilot, and the hotly anticipated [GPT-4-powered
 
 There are many cases like this. Today’s LLMs struggle with fully-automated workflows, but can often generate compelling options or starting points for humans to jump off from.
 
-When prototyping and exploring LLM-powered products, I encourage you to explore not only how we can automate, but how to accelerate and empower people. Modern machine learning models have the capability to help us learn, discover, and achieve more than we could before.
+When prototyping and exploring LLM-powered products, I encourage you to explore not only how we can automate, but how to accelerate and empower people. Modern machine learning models can help us learn, discover, and achieve more than we could before.
 
 I’m excited to see what you all build with it.
 
@@ -128,4 +130,4 @@ And a little terrified. But mostly excited.
 
 ---
 
-*Thank you to the many folks I’ve interviewed recently to develop my understanding of how LLMs are being applied today, especially Rahul Behal, Matt Deakos, Shawn Jansepar, Jonathan Kressaty, David Hariri, Ron Harlev, Boris Lau, Bonnie Li, Dennis Pilarinos, Tavis Rudd, and Peter Werry. Also big thank you to Simon Willison, whose writing about his own learning has helped accelerate my learning about this wild world.*
+*Thank you to the many folks I’ve interviewed recently to develop my understanding of how LLMs are being applied today, especially Rahul Behal, Matt Deakos, Shawn Jansepar, Jonathan Kressaty, David Hariri, Ron Harlev, Boris Lau, Bonnie Li, Dennis Pilarinos, Tavis Rudd, and Peter Werry. Also big thank you to Simon Willison, whose writing about his learning has helped accelerate my learning about this wild world.*
