@@ -18,6 +18,9 @@ ChatGPT also helps you better understand LLMs’ many weaknesses: their limited 
 
 What ChatGPT is *not* very useful for is understanding how you can compose LLMs with other tools into a polished user-facing product that you can build a business on. ChatGPT-based prototypes tend to be initially exciting, and then disappointing when you hit against the limits of that environment. (Or, perhaps, when it dawns on you that your concept is so simple that your potential customers would just use ChatGPT directly.)
 
+<img src="/images/2023/chatgpt-map.png">
+<div class="centered"><p>ChatGPT is a powerful but tiny sandbox.</p></div>
+
 Luckily for us, while current LLMs can’t fully replace human skills for many tasks, they’re capable of greatly accelerating and levelling up many human efforts. The trick is to compose them together with other tools that mitigate the models’ weaknesses, going beyond a simple chat workflow.
 
 Luckily, this is fairly straightforward with a bit of orchestration glue. A developer might build this themselves, or use a burgeoning tool like [LangChain](https://python.langchain.com/docs/get_started/introduction.html) or [Semantic Kernel](https://github.com/microsoft/semantic-kernel).
@@ -25,9 +28,6 @@ Luckily, this is fairly straightforward with a bit of orchestration glue. A deve
 Once you’re interacting with an LLM through a programming environment, you can use a multitude of approaches to go beyond what’s possible in ChatGPT.
 
 Let’s look at just ten of those techniques.
-
-<img src="/images/2023/chatgpt-map.png">
-<div class="centered"><p>ChatGPT is a powerful but tiny sandbox.</p></div>
 
 
 ## 1. Turn the knobs
@@ -93,6 +93,9 @@ Facts are the most common things engineers put into their prompt templates. LLMs
 For example, to respond to a user input, e.g. “How is Slurm made?”, you might first query a vector database populated with [embeddings](https://huggingface.co/blog/getting-started-with-embeddings). This lets you pull out facts that are semantically similar to the user input. Feeding in those vetted Slurm facts along with the user’s question can dramatically reduce the model’s reliance on its pre-training, which may have been disastrously light on Slurm-related insights.
 
 In this way, we can often use LLMs to get good output for topics that are either obscure, newer than the model’s data cutoff date, specific to your product, or just underrepresented in the existing data sets your model trained on.
+
+<img src="/images/2022/a16z-chart.png">
+<div class="centered"><p>If my guide isn't enterprisey enough for you, [A16Z has an architecture diagram for LLM apps](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/) with a handy list of startups ~~they've invested in~~ you can use.</p></div>
 
 A special case of providing the model with facts is establishing a “memory”. ChatGPT does one specific kind of this: it sends the most recent few thousand words of text in your chat thread to the model when you make a new query. In that way, ChatGPT has some short-term memory.
 
