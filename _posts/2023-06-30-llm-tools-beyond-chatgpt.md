@@ -94,8 +94,8 @@ For example, to respond to a user input, e.g. “How is Slurm made?”, you migh
 
 In this way, we can often use LLMs to get good output for topics that are either obscure, newer than the model’s data cutoff date, specific to your product, or just underrepresented in the existing data sets your model trained on.
 
-<img src="/images/2023/a16z-chart.png">
-<div class="centered"><p>If my guide isn't enterprisey enough for you, <a href="https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/">A16Z has an architecture diagram for LLM apps</a> with a handy list of startups <s>they've invested in</s> you can use.</p></div>
+<a href="https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/"><img src="/images/2023/a16z-chart.png"></a>
+<div class="centered"><p>If my guide isn't enterprisey enough for you, A16Z has this architecture diagram for LLMOps with a handy list of products <s>they've invested in</s> you can use.</p></div>
 
 A special case of providing the model with facts is establishing a “memory”. ChatGPT does one specific kind of this: it sends the most recent few thousand words of text in your chat thread to the model when you make a new query. In that way, ChatGPT has some short-term memory.
 
