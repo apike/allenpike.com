@@ -25,11 +25,11 @@ This can mislead people into thinking that exceeding ChatGPT's capabilities will
 
 While current LLMs can’t fully replace human skills for many tasks, they’re already useful for greatly accelerating and levelling up many human efforts. The trick is to compose them together with other tools that mitigate the models’ weaknesses, going beyond a simple chat workflow.
 
-Luckily, this is fairly straightforward with a bit of orchestration glue. A developer might build this themselves, or use a burgeoning tool like [LangChain](https://python.langchain.com/docs/get_started/introduction.html) or [Semantic Kernel](https://github.com/microsoft/semantic-kernel).
+Luckily, this becomes possible with a bit of orchestration glue code. A developer might build this themselves, or use a burgeoning tool like [LangChain](https://python.langchain.com/docs/get_started/introduction.html) or [Semantic Kernel](https://github.com/microsoft/semantic-kernel).
 
-Once you’re interacting with an LLM through a programming environment, you can use a multitude of approaches to go beyond what’s possible in ChatGPT.
+Once you’re interacting with an LLM through a programming environment, you can use a wide array of approaches to break out of ChatGPT’s little box.
 
-Let’s look at just ten of those techniques.
+Let’s look at just ten of them.
 
 
 ## 1. Turn the knobs
