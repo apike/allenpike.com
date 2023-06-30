@@ -2,7 +2,7 @@
 layout: post
 author: allen
 title: Going Way Beyond ChatGPT
-summary: Why today’s LLMs are more useful than they seem
+summary: Techniques for building great products on LLMs 
 date: 2023-06-30T05:45:30.955Z
 featured: false
 categories:
