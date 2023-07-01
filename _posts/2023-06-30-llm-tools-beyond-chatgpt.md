@@ -25,9 +25,7 @@ This can mislead people into thinking that exceeding ChatGPT's capabilities will
 
 While current LLMs can’t fully replace human skills for many tasks, they’re already useful for greatly accelerating and levelling up many human efforts. The trick is to compose them together with other tools that mitigate the models’ weaknesses, going beyond a simple chat workflow.
 
-Luckily, this becomes possible with a bit of orchestration glue code. A developer might build this themselves, or use a burgeoning tool like [LangChain](https://python.langchain.com/docs/get_started/introduction.html) or [Semantic Kernel](https://github.com/microsoft/semantic-kernel).
-
-Once you’re interacting with an LLM through a programming environment, you can use a wide array of approaches to break out of ChatGPT’s little box.
+Luckily, this becomes possible with a bit of orchestration glue code. You might build this yourself, or use a burgeoning tool like [LangChain](https://python.langchain.com/docs/get_started/introduction.html) or [Semantic Kernel](https://github.com/microsoft/semantic-kernel). Either way, once you’re interacting with an LLM through a programming environment, you can use a wide array of approaches to break out of ChatGPT’s little box.
 
 Let’s look at just ten of them.
 
@@ -122,9 +120,9 @@ Today, fine-tuning isn’t currently supported on OpenAI’s GPT APIs. Reportedl
 Going even further, LLMs are great for prototyping and discovering use cases for ML, but “Traditional” ML techniques are capable of some of the same things. Once you’ve proved a concept with an LLM and are looking to scale it up in production, it can be worth [reconsidering if LLMs are even the best way to scale and iterate that feature](https://explosion.ai/blog/against-llm-maximalism), and whether more traditional machine learning approaches could get you the same result faster and cheaper.
 
 ## 10. Put a human in the loop
-While LLMs are going to change knowledge work in profound ways, they are still fundamentally accelerators to human endeavours. In a lot of cases, ChatGPT-based product prototypes stumble because they’re prompted to exclude the human element and leap right to a final answer unassisted.
+While LLMs will change knowledge work in profound ways, they are still essentially accelerators for human endeavours. In a lot of cases, ChatGPT-based product prototypes stumble because they’re prompted to exclude the human element, and leap right to a final answer unassisted.
 
-Part of the reason that Github Copilot, and the hotly anticipated [GPT-4-powered Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/), are breakout killer apps for LLMs is that they’re conceived as human accelerators. GPT can’t even remotely build and maintain large software applications on its own, but Copilot is an excellent coding buddy – an amplifier of your existing skills and intentions. By making suggestions and taking a first pass at less-creative parts of the work, Copilot makes its human pilot more effective.
+Part of the reason that Github Copilot, and the hotly anticipated [GPT-4-powered Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/), are breakout killer apps for LLMs is that they’re fundamentally human accelerators. GPT can’t even remotely build and maintain large software applications on its own, but Copilot is an excellent coding buddy – an amplifier of your existing skills and intentions. By making suggestions and taking a first pass at less-creative parts of the work, Copilot makes its human pilot more effective.
 
 There are many cases like this. Today’s LLMs struggle with fully-automated workflows, but can often generate compelling options or starting points for humans to jump off from.
 
