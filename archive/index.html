@@ -21,7 +21,7 @@ title: Post Archive
   <ul class="posts archive">
 {%- for tag in tags_list -%}
      {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
-     {% if site.tags[tag].size < 4 %}
+     {% if site.tags[tag].size < 6 %}
         <!-- Tag too small ({{ site.tags[tag].size }}): {{ tag_title }} -->
      {% else %}
         <li class="{% if tag == 'best' %} featured {% endif %}"><a href="/series/{{- tag -}}">{{- tag_title -}}</a>
