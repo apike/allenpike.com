@@ -8,6 +8,8 @@ featured: false
 image: "/images/2023/chatgpt-map.png"
 categories:
   - Article
+tags:
+  - llm
 ---
 
 Modern instruction-tuned language models, or LLMs, are the latest tool in software engineers’ toolboxes. Joining classics like databases, networking, hypertext, and [async web applications](https://en.wikipedia.org/wiki/Ajax_(programming)), we now have a new enabling technology that seems wickedly powerful, but whose best applications aren’t yet clear.

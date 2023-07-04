@@ -7,6 +7,7 @@ link: "https://funfact.fm/subscribe/"
 categories:
 - Link
 tags:
+  - podcasts
 ---
 
 [Fun Fact](https://funfact.fm/subscribe/) is a new podcast where, every other Friday, Arik Devens and I discuss a variety of fun facts. They range from historical, to practical, to garburetor-related. It's fun.

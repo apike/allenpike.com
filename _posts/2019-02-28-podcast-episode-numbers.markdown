@@ -8,6 +8,7 @@ image: "/images/2019/podcast-player-numbers.jpg"
 categories:
 - Article
 tags:
+  - podcasts
 ---
 
 In iOS 11, Apple  made a variety of [changes and improvements](https://developer.apple.com/videos/play/wwdc2017/512) to the Apple Podcasts app and spec. Among other things, they added support for a new show format: serial podcasts. Finally, narrative-driven shows could request to be shown in strict chronological order.

@@ -34,3 +34,9 @@ iosdev:
   title: Making iOS Apps
 warstory:
   title: War Stories
+llm:
+  title: Large Language Models
+  subtitle: Building products on LLMs and AI generally.
+podcasts:
+  title: Podcasts
+  subtitle: The art and craft of podcasts.

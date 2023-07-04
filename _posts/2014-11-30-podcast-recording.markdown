@@ -8,6 +8,8 @@ summary: "I evaluate building an app."
 title: "A Great App for Recording Podcasts"
 categories:
 - Article
+tags:
+  - podcasts
 ---
 
 A year ago I [wrote about the modern era of podcasts](/2013/fall-and-rise-of-podcasting/). In that article, I made a forward-looking statement:

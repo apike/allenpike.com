@@ -7,6 +7,8 @@ date: 2023-03-15T05:45:30.955Z
 featured: false
 categories:
   - Article
+tags:
+  - llm
 ---
 One month ago, I wrote about on [the limits of 4K-token AI models, and the wild capabilities and costs that large-context language models may one day have](/2023/175b-parameter-goldfish-gpt). Today, OpenAI not only debuted [GPT-4](https://openai.com/research/gpt-4) with a doubly large 8K token limit, but demoed and began trials of a version that supports a whopping 32K tokens of context. The [accompanying paper](https://cdn.openai.com/papers/gpt-4.pdf) is sorely lacking details due to the “competitive landscape”, but we still have some indication of its impressive capabilities – and costs.
 

@@ -7,6 +7,8 @@ featured: false
 link: "https://www.itshipped.fm/"
 categories:
   - Link
+tags:
+  - podcasts
 ---
 
 Four years ago, I started the [Fun Fact podcast](https://funfact.fm/) with Arik Devens, and we're still having a lot of fun every month sharing facts about schemes, history, science, and so on.

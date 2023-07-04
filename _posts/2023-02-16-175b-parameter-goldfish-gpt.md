@@ -9,6 +9,7 @@ image: "/images/2023/gpt-model-flow.png"
 categories:
   - Article
 tags:
+  - llm
 ---
 
 It has been a wild week in AI. By now, we’re getting used to the plot twist that rather than the cold Spock-like AIs of science fiction, large language models tend to be charismatic fabulists with a tenuous understanding of facts.

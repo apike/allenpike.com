@@ -8,9 +8,8 @@ summary: "I start a podcast."
 title: "Up Up Down Down"
 categories:
 - Article
-oldtags:
-- Podcasts
-- Gaming
+tags:
+  - podcasts
 ---
 
 <img src='/images/2014/castro-upup.jpg' width='200'>
