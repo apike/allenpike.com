@@ -11,8 +11,8 @@ I like hearing from people. You can send me feedback, criticism, suggestions, in
 
 These are the best ways to contact me:
 
-* [@apike](http://www.twitter.com/apike/) on Twitter, for the modern
+* [@apike on mastodon.social](https://mastodon.social/@apike), for brevity
+  * I also have [Threads](https://www.threads.net/allenjpike), "[Twitter](https://twitter.com/apike)", and [LinkedIn](https://www.linkedin.com/in/allenpike/), if you'r'e so inclined
 * [comments@allenpike.com](mailto:comments@allenpike.com), for the old school
-* [via Steamclock](http://www.steamclock.com/contact/), for work and speaking inquiries
 
 I try to respond within a few days, especially for messages that are brief or funny.
