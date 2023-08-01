@@ -13,7 +13,7 @@ tags:
 
 Sometimes teams get stuck on a decision.
 
-My favourite trick for getting unstuck comes via Michael “Dr. Wave” Johnson. In 25 years at Pixar, he helped build the production workflows they use to make and iterate their stories, and Pixar's penchant for “failing as quickly as possible.” To illustrate this, he once shared [a story](https://pixarplanet.com/blog/michael-johnson-talk-report/):
+My favourite trick for getting unstuck comes via Michael “Dr. Wave” Johnson. In 25 years at Pixar, he helped build the production workflows they use to make and iterate their stories, and was tasked with helping teams “fail as quickly as possible.” To illustrate the value of this, he once shared [a story](https://pixarplanet.com/blog/michael-johnson-talk-report/):
 
 Back in the day, famed Broadway director Gower Champion was directing a musical. With time pressure mounting, he entered the theatre during a rehearsal and was alarmed to see the cast just standing around on stage. The choreographer was just sitting there, in the second row of the audience, his head in his hands.
 
