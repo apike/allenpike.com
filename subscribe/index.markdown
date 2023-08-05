@@ -7,10 +7,9 @@ slug: subscribe
 title: Follow or Subscribe
 ---
 
-Here are four ways you can find out when I post an article:
+Here’s how you can find out when I post an article:
 
 * [@apike on Mastodon.social](https://mastodon.social/@apike), where I post my writing, plus other bleeps and bloops.
-* [@apike on Twitter](https://twitter.com/apike/), where I link my writing and other announcements.
 * [RSS Feed](/feed/), for the avid readers out there.
 * Email, if you'd like your very own copy.
 
@@ -23,3 +22,12 @@ target="popupwindow" onsubmit="window.open('https://feed.press/e/mailverify?feed
 </form>
 
 Email subscribers can expect a copy of each article I write, delivered to your inbox. Most months I post one or two articles.
+
+I'm also present, to varying degrees, on:
+- [Threads](https://www.threads.net/@allenjpike)
+- [Twitter](https://twitter.com/apike/)
+- [Bluesky](https://bsky.app/profile/allenpike.com)
+- [Instagram](https://www.instagram.com/allenjpike/)
+- [LinkedIn](https://www.linkedin.com/in/allenpike/)
+
+What a time to be alive!
