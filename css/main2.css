@@ -527,4 +527,13 @@ p.meta, span.meta {
     border-color: #3f3e3f;
   }
 
+  .post code {
+    background-color: #002;
+    color: #eef;
+  }
+
+  div.centered p {
+    color: #444;
+  }
+
 }
