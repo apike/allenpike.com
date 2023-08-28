@@ -2,7 +2,7 @@
 layout: post
 author: allen
 title: The Feedback Wizard
-date: 2022-08-28T21:11:05.627Z
+date: 2023-08-28T21:11:05.627Z
 featured: false
 link: "https://feedbackwizard.steamclock.com/"
 categories:
