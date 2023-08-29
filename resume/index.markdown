@@ -14,9 +14,9 @@ Allen is a technical product leader who runs Steamclock Software in Vancouver, a
 
 #### [Steamclock Software](http://www.steamclocksoftware.com/), CEO and Co-founder, 2010 - present
 
-* Leads and develops an awesome team of developers, designers, and leaders
+* Founded and grew a profitable consulting studio from 2 to 16 people
 * Led teams that have shipped dozens of top-notch iOS and Android apps
-* Led a series of mobile and web-based internal product experiments
+* Hired and developed a team of skilled designers, developers, and leaders
 * Wrote Swift, did UX design, and managed projects as we built our team
 * Guides culture, strategy, finances, hiring, and product
 
