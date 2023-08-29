@@ -12,18 +12,18 @@ Allen is a technical product leader who runs Steamclock Software in Vancouver, a
 
 ## Work History
 
-#### [Royal Pixel Service](http://royalpixel.com/), Co-founder, 2018 - present
-
-* Leads a small team developing a series of product prototypes and experiments
-* Led development of Two Spies, a highly rated mobile game featured by Apple
-
 #### [Steamclock Software](http://www.steamclocksoftware.com/), CEO and Co-founder, 2010 - present
 
-* Leads and develops our awesome team of designers, developers, and leaders
-* Led teams that have shipped dozens of top-notch iOS and Android apps for clients
+* Leads and develops an awesome team of developers, designers, and leaders
+* Led teams that have shipped dozens of top-notch iOS and Android apps
 * Led a series of mobile and web-based internal product experiments
 * Wrote Swift, did UX design, and managed projects as we built our team
 * Guides culture, strategy, finances, hiring, and product
+
+#### [Royal Pixel Service](http://royalpixel.com/), Co-founder, 2018 - present
+
+* Leads a small team doing prototyping and research for new products
+* Led development of Two Spies, a highly rated mobile game featured by Apple
 
 #### [Apple](http://www.apple.com/), Software Engineer, 2008 - 2010
 
