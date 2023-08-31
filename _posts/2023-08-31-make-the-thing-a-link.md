@@ -29,11 +29,11 @@ Thing-linking benefits all readers, but it’s especially good for accessibility
 
 So we want to link the thing, but sometimes “the thing” is not a noun. Often, it’s a verb – a call for action. A tired page might say:
 
-> If you have more than 3 octopi, a Q4237 form is required to be filed on [this Central Services page](https://www.youtube.com/watch?v=V-yXL-LDMyg).
+> To keep more than 3 octopi, a Q4237 form is required to be filed on [this Central Services page](https://www.youtube.com/watch?v=V-yXL-LDMyg).
 
 What is the thing that matters here? A Central Services page? The cephalopods? No, it’s *filing the form*. The thing you link, in any given text, should describe the user’s intent. So let’s level that up:
 
-> If you have more than 3 octopi, Central Services requires you to [file a Q4237 form](https://www.youtube.com/watch?v=V-yXL-LDMyg).
+> To keep more than 3 octopi, Central Services requires you to [file a Q4237 form](https://www.youtube.com/watch?v=V-yXL-LDMyg).
 
 Great. Now, if you’re unlucky enough to need to file that form, your eyes and pointing device immediately jump where they need to go.
 
