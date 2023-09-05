@@ -4,7 +4,7 @@ author: allen
 title: Dungeons & Developers
 summary: How to simulate tricky conversations.
 date: 2022-12-01T12:42:18.627Z
-featured: false
+featured: true
 image: "/images/2022/orc-square.jpg"
 categories:
   - Article
