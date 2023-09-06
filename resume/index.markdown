@@ -8,7 +8,7 @@ title: Allen Pike's Resume
 wordpress_id: 198
 ---
 
-Allen is a technical product leader who runs Steamclock Software in Vancouver, among other things.
+Allen is a technical product leader who runs Steamclock Software in Vancouver, podcasts, and writes – among other things.
 
 ## Work History
 
@@ -45,10 +45,11 @@ Allen is a technical product leader who runs Steamclock Software in Vancouver, a
 
 #### [Independent Work](/)
 
+* Writes a blog about tech and product that has been read >1M times
 * Hosted and produced three podcasts, including It Shipped That Way
-* Taught CMPT 470, a Web Applications course, for SFU Computing Science
-* Ran and spoke at many technical meetups and conferences
-* Developed a fun variety of games and side projects
+* Hosted and spoke at various technical meetups and conferences
+* Developed a variety of games and side projects
+* Taught the 4th year Web Applications course for SFU Computing Science
 
 ## Education
 
