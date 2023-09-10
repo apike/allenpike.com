@@ -28,6 +28,7 @@ I'm also present, to varying degrees, on:
 - [Twitter](https://twitter.com/apike/)
 - [Bluesky](https://bsky.app/profile/allenpike.com)
 - [Instagram](https://www.instagram.com/allenjpike/)
+- [Goodreads](https://www.goodreads.com/user/show/74341139)
 - [LinkedIn](https://www.linkedin.com/in/allenpike/)
 
 What a time to be alive!

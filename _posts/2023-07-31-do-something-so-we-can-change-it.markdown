@@ -4,11 +4,13 @@ author: allen
 title: Do Something, So We Can Change It!
 summary: A habit for addressing two-way decisions.
 date: 2023-07-31T05:45:30.955Z
-featured: false
+featured: true
 categories:
   - Article
 tags:
   - teams
+  - best
+    
 ---
 
 Sometimes teams get stuck on a decision.

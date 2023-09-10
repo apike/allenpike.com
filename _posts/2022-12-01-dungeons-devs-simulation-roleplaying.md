@@ -4,13 +4,13 @@ author: allen
 title: Dungeons & Developers
 summary: How to simulate tricky conversations.
 date: 2022-12-01T12:42:18.627Z
-featured: false
+featured: true
 image: "/images/2022/orc-square.jpg"
 categories:
   - Article
 tags:
   - teams
-
+  - best
 ---
 
 *You open the door and see three orcs. They’re seated at a fine oaken table watching a glowing rectangle on the west wall, which displays the ominous text “2023 Strategic Planning”. The orcs look up at you, and one says “You’re late.”*
