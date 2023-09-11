@@ -11,9 +11,7 @@ title: Post Archive
 
 {%- capture site_tags -%}
     {%- for tag in site.tags -%}
-      {% if tag.size < 6 %}
-          {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
-      {% endif %}
+        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
     {%- endfor -%}
 {%- endcapture -%}
 {%- assign tags_list = site_tags | split:',' | sort -%}
@@ -24,9 +22,12 @@ title: Post Archive
 
 {%- for tag in tags_list -%}
      {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
-        {% if forloop.last %} and {% endif %}
-        <span class="{% if tag == 'best' %} featured {% endif %}"><a href="/series/{{- tag -}}">{{- tag_title -}}</a>{% unless forloop.last %},{% endunless %}
+     {% if site.tags[tag].size < 6 %}
+        <!-- Tag too small ({{ site.tags[tag].size }}): {{ tag_title }} -->
+     {% else %}
+        <span class="{% if tag == 'best' %} featured {% endif %}"><a href="/series/{{- tag -}}">{{- tag_title -}}</a>{% unless forloop.last %} – {% endunless %}
         </span>
+     {% endif %}
 {%- endfor -%}.
 
   <br>
