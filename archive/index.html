@@ -11,9 +11,7 @@ title: Post Archive
 
 {%- capture site_tags -%}
     {%- for tag in site.tags -%}
-        {% if site.tags[tag].size >= 6 %}
           {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
-        {% endif %}
     {%- endfor -%}
 {%- endcapture -%}
 {%- assign tags_list = site_tags | split:',' | sort -%}
