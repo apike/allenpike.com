@@ -7,16 +7,14 @@ slug: wanna-buy-an-isp
 summary: "The death of dialup turns weird."
 title: Worst ISP acquisition ever
 wordpress_id: 84
-featured: true
+featured: false
 categories:
 - Article
-- Best Of
 oldtags:
 - Experience
 - Failure
 - ISPs
 tags:
-- best
 - personal
 ---
 

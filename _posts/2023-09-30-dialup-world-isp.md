@@ -39,7 +39,7 @@ Unfortunately for you, it will eventually stop being 1999.
 
 <div class="centered">
   <img src="/images/2023/dialup-broadband-chart.png" style="max-width: 455px">
-<p>Pictured: Dialup meeting its new friend broadband</p></div>
+<p>Pictured: Dialup meeting its new friend, broadband</p></div>
 
 
 Fast forward a couple years. You realize you’ve way over-projected, the telco has already built your lines and is demanding payment, you can’t pivot to broadband fast enough, your lenders are very suspicious, and you’re headed for the wood chipper. “Dialup ISP. 20,000 customers, 40,000 phone lines. As is, all sales final.”
@@ -66,7 +66,7 @@ While the deluge did abate after a few weeks, a new type of complaint slowly ros
 
 > I do not know how poor you are in order to ugly make your penies. Do you feel shame of making the money by your dirty way?
 
-They were always former Dialup World accounts. And they always had a contentious billing complaint. At first I thought these might be people whose passwords we’d reset and were angry we were still charging them, but no. Over time the picture became clearer. We were all getting multiple calls and emails a day with a variant of the same story: “I canceled my Dialup World account a long time ago, who are you and why the fork are you billing me.” Something had gone wrong.
+While the content varied, they always had a contentious billing complaint. At first I thought these might be people whose passwords we’d reset and were angry we were still charging them, but no. Over time the picture became clearer. We were all getting multiple calls and emails a day with a variant of the same story: “I canceled my Dialup World account a long time ago, who are you and why the fork are you billing me.” Something had gone wrong.
 
 Now, when something doesn’t make sense, it pays to be curious. (If you don’t work somewhere that rewards curiosity, find somewhere else to work.) Sometimes you’ll investigate a mystery and find that the underlying systems are reasonable – you simply didn’t understand them yet. Other times, you’ll uncover something delightfully and poetically dysfunctional, as I did the day I learned about Dialup World’s former billing system.
 
