@@ -77,18 +77,18 @@ Now, when something doesn’t make sense, it pays to be curious. (If you don’t
 4. Then, they'd charge the customers in that pile, one by one, for a month of service.
 5. When a customer called to cancel their service, they would stop that customer from being billed further by simply – I shit you not – finding that customer’s signup form and trashing it. No signup form in the pile, no more bills going out.
 
-You gotta hand it to these people. The seminal startup essay “[Do Things that Don't Scale](http://paulgraham.com/ds.html)” didn’t come out until 2013, and these people were doing things that didn’t scale way back in the late 90s. They got 20,000 signups billed with the process equivalent of a shoelace and an empty soda can.
+You gotta hand it to these people. The seminal startup essay “[Do Things that Don't Scale](http://paulgraham.com/ds.html)” didn’t come out until 2013, and these legends were doing things that didn’t scale way back in the late 90s. They got 20,000 signups billed with the process equivalent of a shoelace and a discarded sauce packet.
 
 While the wild inefficiency of all this probably did not help with Dialup World’s eventual demise, I have it on good authority that the staff who were subjected to this deranged system at least had a good laugh about what would happen when we, as acquirers, inherited their tragic mess. We thought we’d bought 20,000 customers, but had in fact bought 20,000 mystery rows in a spreadsheet.
 
 Within a couple years, most of the Dialup World “customers” had canceled. How many did so just because they upgraded to broadband? How many canceled because we leaked their passwords and locked them out? How many had already canceled years prior and were forced to cancel a second time by a colossal act of billing incompetence? Should the people who made this deal not feel shame of making the money by their dirty way?
 
-A couple years later when – very predictably – our entire office was laid off, it tied a nice bow on my misadventures in ISP land, directing me towards ventures that were rather less doomed. I like to think, though, that I took away some valuable things from the experience.
+A couple years later when – very predictably – our entire office was laid off, it tied a nice bow on my misadventures in ISP land, directing me towards ventures that were less doomed. I like to think, though, that I took away some valuable things from the experience.
 
 While working in a dysfunctional environment can build bad habits, it can also grant a bit of perspective. It helps you to appreciate excellence when you find it, and remember the consequences dysfunction can bring. It can also teach you to be a little bit skeptical of plans that seem too good to be true – even if the graph is currently going up and to the right. Maybe especially then.
 
 
 -----
 
-*It was an interesting exercise to revisit and retell this story 16 years after [I first recounted it](https://allenpike.com/2007/wanna-buy-an-isp). I considered removing that janky 2007 version, but maybe it’s an interesting reference for how my writing and perspective has evolved over the years. Maybe I’ll revisit this again in ’39.*
+*It was an interesting exercise to revisit this story 16 years after [I first recounted it](https://allenpike.com/2007/wanna-buy-an-isp). I considered removing that janky 2007 version, but maybe it’s an interesting reference for how my writing has evolved over the years. Maybe I’ll revisit this again in ’39.*
 

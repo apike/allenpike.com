@@ -32,10 +32,10 @@ As the password debacle died down, I started to get a lot of different angry cal
 
 
 > I do not know how poor you are in order to ugly make your penies. Do you feel shame of making the money by your dirty way?
-
-Again, I am ending up the services of ADSL with you now. I will ask the credit card company to refuse paying you since you have overcharged me without caring my request.
-
-I am sure that your dirty biz will go down by continuing doing in this manner to your customers.
+> 
+> Again, I am ending up the services of ADSL with you now. I will ask the credit card company to refuse paying you since you have overcharged me without caring my request.
+> 
+> I am sure that your dirty biz will go down by continuing doing in this manner to your customers.
 
 
 I looked up the account, and he was just one of 20,000 Dialup World accounts in our system. I cancelled his account, but something in the back of my head told me there is shit and a fan somewhere. Each rep started getting a few calls and emails a day saying, essentially, "I cancelled my account a long time ago, why the farmer are you billing me."
