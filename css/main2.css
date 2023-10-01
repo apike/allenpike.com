@@ -183,6 +183,7 @@ img.side {
 
 div.centered {
   text-align: center;
+  clear: both;
 }
 
 div.centered img {
