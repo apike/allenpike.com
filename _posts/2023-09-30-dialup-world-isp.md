@@ -29,7 +29,7 @@ The internet was so compelling, even in the early days, that subscription number
 
 That’s right – dialup required a separate physical phone line for every connected device. If this seems pretty bonkers, it was. The relentless flood of signups required wiring up new phone lines at unprecedented rates. Unused lines were an expensive waste, but insufficient lines meant people trying to connect would get a busy signal. Let that happen, and your customers are prone to cancel and go to a competing ISP that paid for more phone lines.
 
-So let’s say you’re an ISP in 1999 called… Dialup World. You might look at your graphs and call up the regional telephone company saying, “We’re anticipating massive growth! Please install 20,000 more phone lines across these twelve cities.”
+So let’s say you’re an ISP in 1999 called… Dialup World. You might look at your graphs and call up the regional telephone company saying, “We’re anticipating massive growth! Please install 20,000 more phone lines across these twelve towns.”
 
 The telco might respond, “That would be fantastically expensive. We’ll only build those lines if you commit to pay for them for at least six years.”
 
