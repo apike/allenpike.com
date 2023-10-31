@@ -26,7 +26,7 @@ A deck of heroes, if you will.
 
 <div class="centered">
 <img src="/images/2023/cards-banner.jpg">
-<p>A starter pack of sorts.</p></div>
+<p>For illustration purposes only, I am absolutely not considering making a card game (again).</p></div>
 
 Lara Hogan often writes about levelling ourselves up as managers by building what she calls a “[Manager Voltron](https://wherewithall.com/resources/Manager-Voltron-Bingo.pdf)” – a set of leaders you can call on to help you grow as a manager. People with complementary strengths. If you’re struggling to rally a team, make a hire, or work through complexity, reach out to a member of your Voltron who has the perspective you need.
 
