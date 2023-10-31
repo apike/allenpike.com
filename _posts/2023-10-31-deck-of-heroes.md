@@ -20,9 +20,10 @@ While useful, heroes do pose a trap. We tend to imagine heroes as exemplary, and
 1. We can’t live up to our ideal of the hero, which feeds our insecurity.
 2. We learn the hero is flawed, which leaves us disillusioned.
 
-Both of these problems, and the demoralization or even cynical mindset they can fuel, are driven by a flaw in our conception of what a hero should be. A hero is not a singular ideal worth copying. Heroes are ideas, deployable when you need inspiration or motivation of a particular type. They’re best collected, then used tactically to keep you growing and moving.
+Both of these problems, and the demoralization or even cynical mindset they can fuel, are driven by a flaw in our conception of what a hero should be. A hero is not a singular ideal worth copying. Heroes are ideas, deployable when you need inspiration or motivation of a particular type. You can joyfully Marie Kondo your garage, [even if she hasn't been tidying much herself recently](https://www.theguardian.com/lifeandstyle/2023/jan/30/queen-of-clean-marie-kondo-says-she-has-kind-of-given-up-on-tidying-at-home).
 
-A deck of heroes, if you will.
+
+Heroes are best collected, then used tactically to keep you growing and moving. Assembled like a deck, if you will.
 
 <div class="centered">
 <img src="/images/2023/cards-banner.jpg">
