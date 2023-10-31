@@ -4,11 +4,12 @@ author: allen
 title: The Curse of Dialup World
 summary: An acquisition gets weird.
 date: 2023-09-30T05:45:30.955Z
-featured: false
+featured: true
 image: "/images/2023/dialup-broadband-chart.png"
 categories:
   - Article
 tags:
+  - best
 ---
 
 A long time ago – at the turn of the century, as kids would call it now – my first job was at a dialup internet service provider. Officially, I was hired to be a sort of errand-boy. Instead, the role was more interesting: a front seat for one of the great meltdowns of our time.
