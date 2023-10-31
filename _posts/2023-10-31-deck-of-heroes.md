@@ -9,6 +9,7 @@ image: "/images/2023/cards-banner.jpg"
 categories:
   - Article
 tags:
+  - thoughtfulness
 ---
 
 It helps to have heroes.
