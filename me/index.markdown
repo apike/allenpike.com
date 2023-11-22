@@ -18,7 +18,7 @@ I like hearing from people, so go ahead and [send me a short note](/contact/) or
 **Current Projects**
 
 * [Steamclock](https://steamclock.com/): We make apps for clients and ourselves – and have [a blog](http://www.steamclock.com/blog/).
-* [It Shipped That Way](https://www.itshipped.fm/), a podcast where I interview product leaders about what they’ve learned.
+* [It Shipped That Way](https://www.itshipped.fm/), a podcast where I interview product and tech leaders.
 * [Public Speaking and Appearances](/speaking/): I like to share what I’ve learned.
 * [Fun Fact](https://funfact.fm/): A podcast I do monthly, about facts.
 * [The Feedback Wizard](https://feedbackwizard.steamclock.com/), a little LLM experiment.
