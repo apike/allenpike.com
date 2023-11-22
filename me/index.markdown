@@ -11,13 +11,13 @@ isMe: true
 <img src='/images/allen-pike-2016.jpg' style='width: 220px;' class='side'>
 I’m a founder who loves building great products and teams. I run [Steamclock](https://steamclock.com/), a mobile product studio in Vancouver that builds nice apps. I now lead our new product discovery work, exploring new businesses where UX can be a competitive advantage.
 
-I also [write monthly about technology and teams](/archive/), host a podcast [about leadership](https://funfact.fm) and one [about facts](https://funfact.fm), [speak](/speaking/) about what I’ve learned, and informally advise startups.
+I also [write monthly about technology and teams](/archive/), host a podcast [about leadership](https://itshipped.fm) and one [about facts](https://funfact.fm), [speak](/speaking/) about what I’ve learned, and informally advise startups.
 
 I like hearing from people, so go ahead and [send me a short note](/contact/) or you can [follow my work](/subscribe/).
 
 **Current Projects**
 
-* [Steamclock](https://steamclock.com/): We make products for clients, and ourselves. We also have [a blog](http://www.steamclock.com/blog/).
+* [Steamclock](https://steamclock.com/): We make apps for clients and ourselves – and have [a blog](http://www.steamclock.com/blog/).
 * [It Shipped That Way](https://www.itshipped.fm/), a podcast where I interview product leaders about what they’ve learned.
 * [Public Speaking and Appearances](/speaking/): I like to share what I’ve learned.
 * [Fun Fact](https://funfact.fm/): A podcast I do monthly, about facts.
