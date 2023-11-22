@@ -9,19 +9,25 @@ isMe: true
 ---
 
 <img src='/images/allen-pike-2016.jpg' style='width: 220px;' class='side'>
-I love building products and teams. I run [Steamclock Software](http://www.steamclock.com), where we build very nice iOS and Android apps in Vancouver. Previously, I was a Software Engineer at Apple.
+I’m a founder who loves building great products and teams. I run [Steamclock](https://steamclock.com/), a mobile product studio in Vancouver that builds nice apps. I now lead our new product discovery work, exploring new businesses where UX can be a competitive advantage.
 
-My job involves managing products, developing software, building teams, and [sharing what I know](/speaking). I care a lot about great software, and the people that make it. In my downtime, I play music, record podcasts, and write.
+I also [write monthly about technology and teams](/archive/), host a podcast [about leadership](https://itshipped.fm) and one [about facts](https://funfact.fm), [speak](/speaking/) about what I’ve learned, and informally advise startups.
 
-If you have feedback on my writing or another inquiry, [please reach out](https://allenpike.com/contact/).
+Outside of work, I like to play music poorly, learn in great depth about topics that will likely never affect my life, and play games where I make numbers go up.
 
-**Things I've Made**
+I like hearing from people, so go ahead and [send me a short note](/contact/) or you can [follow my work](/subscribe/).
 
-* [Steamclock Software](http://www.steamclock.com/): We make products for clients as well as ourselves. We also have [a blog](http://www.steamclock.com/blog/), where we show our work.
-* [Public Speaking and Podcasts](/speaking/): I like to talk, often about software.
-* [It Shipped That Way](https://www.itshipped.fm/), a podcast where I interview product leaders about what they've learned.
-* [Two Spies](https://www.steamclock.com/spies/): A turn-based spy strategy game.
+**Current Projects**
+
+* [Steamclock](https://steamclock.com/): We make apps for clients and ourselves – and have [a blog](http://www.steamclock.com/blog/).
+* [It Shipped That Way](https://www.itshipped.fm/), a podcast where I interview product and tech leaders.
+* [Public Speaking and Appearances](/speaking/): I like to share what I’ve learned.
 * [Fun Fact](https://funfact.fm/): A podcast I do monthly, about facts.
+* [The Feedback Wizard](https://feedbackwizard.steamclock.com/), a little LLM experiment.
+ 
+**Historical Projects**
+
 * [Vancouver Xcoders](https://www.meetup.com/Vancouver-Xcoders/): Our local iOS and Mac speaker series.
+* [Two Spies](https://playspies.com): A turn-based spy strategy game.
 * [My resume](/resume/): Obligatory, I suppose.
-* [Project List](/projects/): An exhaustive catalog of most things I've worked on.
+* [Full Project List](/projects/): An exhaustive catalog of most things I've worked on.
