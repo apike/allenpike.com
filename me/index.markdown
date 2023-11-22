@@ -13,6 +13,8 @@ I’m a founder who loves building great products and teams. I run [Steamclock](
 
 I also [write monthly about technology and teams](/archive/), host a podcast [about leadership](https://itshipped.fm) and one [about facts](https://funfact.fm), [speak](/speaking/) about what I’ve learned, and informally advise startups.
 
+Outside of work, I like to play music poorly, learn in great depth about topics that will likely never affect my life, and play games where I make numbers go up.
+
 I like hearing from people, so go ahead and [send me a short note](/contact/) or you can [follow my work](/subscribe/).
 
 **Current Projects**
