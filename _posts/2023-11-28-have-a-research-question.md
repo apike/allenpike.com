@@ -32,6 +32,10 @@ Luckily, there’s one weird trick that can buck that trend. It helps you build 
 
 **You should have a research question.**
 
+<div class="centered">
+<img src="/images/2023/research-banner.jpg">
+</div>
+
 *Research sounds boring, get me out of here!*
 
 No, wait, I promise it’s more fun than it sounds. When I say “research”, I don’t mean a formal scientific hypothesis with a methodology, bibliography, and, like… apparatus and stuff. Although, I guess if that’s your bag, go nuts? When I say research, though, I just mean intentionally going in-depth on a specific question or topic. Taking a thing you’re curious about, and going beyond a Google search, Wikipedia page, or one-off question to a friend. Digging in. Going on a little journey.
@@ -51,10 +55,6 @@ Research questions don’t need to be of great societal import to be worthwhile.
 Intentional research is especially powerful for investigations that relate to your work. Earlier this year, I was growing frustrated with OmniFocus, the app I use to manage my tasks and todos. Instead of diving into making a competing app like I would have done in the bad old days, I posed a research question: “How do other leaders manage their time and attention?” Then I contacted a few folks I know, had interesting conversations, recorded what I learned, and asked those people if they had a suggestion for somebody else I should talk to. It was amazing.
 
 Not only did my little research project level up how I manage my own time, improve my understanding of how to support others, help me avoid the misery of building an unprofitable todo app, and [give me something to write about](https://allenpike.com/2023/how-leaders-manage-time-attention-tasks), it led to me connecting with 25 people that I respect. While it was nominally a research project about productivity, in retrospect the connections with interesting people were even more worthwhile than what I learned.
-
-<div class="centered">
-<img src="/images/2023/research-banner.jpg">
-</div>
 
 For years, I chronically under-estimated how worthwhile it is to also contact a handful of people you respect with a question. Of course, [books are the classic way to immerse yourself in a topic](https://allenpike.com/2021/books-are-a-seed), but there are a lot of topics that are niche enough – or current enough – that the only way you’ll fully understand it is talking to people. “What is working at Stripe like?” “Where do the best engineering managers look for jobs nowadays?” “How does your team iterate LLM prompts without breaking things in production?”
 
