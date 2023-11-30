@@ -2,7 +2,7 @@
 layout: post
 author: allen
 title: You Should Have a Research Question
-summary: How intentionality can turn curiosity into a superpower.
+summary: How to turn curiosity into a superpower.
 date: 2023-11-28T05:45:30.955Z
 featured: false
 image: "/images/2023/research-banner.jpg"
@@ -56,15 +56,15 @@ Intentional research is especially powerful for investigations that relate to yo
 
 Not only did my little research project level up how I manage my own time, improve my understanding of how to support others, help me avoid the misery of building an unprofitable todo app, and [give me something to write about](https://allenpike.com/2023/how-leaders-manage-time-attention-tasks), it led to me connecting with 25 people that I respect. While it was nominally a research project about productivity, in retrospect the connections with interesting people were even more worthwhile than what I learned.
 
-For years, I chronically under-estimated how worthwhile it is to also contact a handful of people you respect with a question. Of course, [books are the classic way to immerse yourself in a topic](https://allenpike.com/2021/books-are-a-seed), but there are a lot of topics that are niche enough – or current enough – that the only way you’ll fully understand it is talking to people. “What is working at Stripe like?” “Where do the best engineering managers look for jobs nowadays?” “How does your team iterate LLM prompts without breaking things in production?”
+Most people under-estimate how worthwhile it is to contact a handful of people you respect with a question. Of course, [books are the classic way to immerse yourself in a topic](https://allenpike.com/2021/books-are-a-seed), but there are a lot of topics that are niche enough – or current enough – that the only way you’ll fully understand it is talking to people. “What is working at Stripe like?” “Where do the best engineering managers look for jobs nowadays?” “How does your team iterate LLM prompts and chains without breaking things?”
 
-Not only will talking to others help you rapidly learn about a topic, you’ll often be asked questions in turn – questions you’ll be well prepared to answer because you’ve been researching this very topic! Talking to smart people about interesting questions is fundamentally awesome, and a huge side perk of all this.
+Not only will talking to others help you rapidly learn about a topic, you’ll often be asked questions in turn – questions you’ll be well prepared to answer because you’ve been researching this very topic! That is, you'll be talking to smart people about interesting questions. Awesomeness achieved.
 
-Of course, reaching out to people can also be a bit uncomfortable. At first, I suffered great hesitation when I considered emailing somebody about my little question. Even after I got a response or a chance to talk, I often wouldn’t systematically take notes, or remember to ask if my interviewee knew anybody else who might want to chat about the topic. Even then, if I did take good notes, I often wouldn’t turn those notes into a coherent doc or article I could share with anybody else.
+Of course, reaching out to people can also be a bit uncomfortable. At first, I suffered great hesitation when I considered emailing somebody about my little question. Even after I got a response or a chance to talk, I often wouldn’t systematically take notes, or remember to ask my interviewee if they knew anybody else who might want to chat about the topic. Even then, if I did take good notes, I often wouldn’t turn those notes into a coherent doc or article I could share with anybody else.
 
 But as with anything, practice makes progress. You build the muscles you use.
 
-So consider it. Your question can be personal – “What kind of company would I enjoy working at?”. It can be as serious as [Patrick Collison’s collection of “interesting questions” of humanity-level import](https://patrickcollison.com/questions), or as trivial as [The Pudding’s investigation into how K-Pop group composition has changed over time](https://pudding.cool/2020/10/kpop/)” .
+So consider it. Your question can be personal – “What kind of company would I enjoy working at?” It can be as serious as [Patrick Collison’s collection of “interesting questions” of humanity-level import](https://patrickcollison.com/questions), or as trivial as [The Pudding’s investigation into how K-Pop group composition has changed over time](https://pudding.cool/2020/10/kpop/)”.
 
 The point is to build a habit of sometimes diving deep. Picking a research question that might motivate you to read, meet new people, write about what you learned, or even just go overboard about something for the pure joy about it.
 
