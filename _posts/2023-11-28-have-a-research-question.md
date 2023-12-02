@@ -20,7 +20,7 @@ However, without a bit of steering, this curiosity can get a *little…* time-wa
 
 > Greek triremes were often fitted with bronze rams to destroy enemy ships’ oars.
 
-Cool, right? A fun fact. Dopamine received, thank you. This loop even works even if the “fact” isn’t actually true.
+Cool, right? A [fun fact](https://funfact.fm/). Dopamine received, thank you. This loop even works even if the “fact” isn’t actually true.
 
 > Polling released earlier today demonstrates that your political party’s views on climate are increasingly accepted, putting mounting pressure on legislators.
 
