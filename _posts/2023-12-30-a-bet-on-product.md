@@ -1,7 +1,7 @@
 ---
 layout: post
 author: allen
-title: A Bet on Product
+title: An Experiment in Focus
 summary: Separating client services and product, with a break in between.
 date: 2023-12-30T05:45:30.955Z
 featured: false
@@ -19,9 +19,9 @@ As we grew, though, a flaw in our plan became clear: if your revenue comes from 
 
 There are fundamental differences between building a product for a client and building a product startup. They justify different mentalities, approaches, and habits. When you have other revenue coming in, you can get away with side quests – such as building a polished, well-loved app that [gets a million downloads, yet loses money](https://playspies.com/release/2022/06/season4/). These adventures may feel partially successful because they’re fun and educational and popular, but if a product is not a tenable business, it’s a hobby. Hobbies can be rewarding, but by definition they can’t support a talented team iterating and improving towards something truly great.
 
-On the other hand, when you’re a product startup, you are necessarily focused on building something that can succeed, in every sense. Building products with a talented team, iterating and improving towards something great, is how I roll. That’s how we do in our client work, and that’s what I want to do for product.
+So as much as I enjoy my hobbies, building with a talented team, iterating and improving towards something great, is how I want to spend my days. That’s how we do in our client work, and that’s what I want to do for product.
 
-So, last year, we started the process of splitting our client services and product development work into separate businesses.
+So, last year, we started the process of gradually splitting our client services and product development work into separate businesses.
 
 From one perspective, it’s a simple change: despite our many product experiments, Steamclock is fundamentally a client services business. In a way, this change is less about splitting out a product business, and more about founding a new one.
 
@@ -59,7 +59,7 @@ To give myself some guardrails, I chose a theme for each of the 3 months:
 - Month 2: Try new things
 - Month 3: Prepare to return better than I left
 
-I was not great at doing nothing. I did a lot of forest-walk thinking, [reading AI papers](https://allenpike.com/2023/175b-parameter-goldfish-gpt), and completing projects around the house. While I didn’t do nothing, I successfully stayed out of my work email and Slack – and got no emergency pages from my team. Month 1 was a success.
+I was not great at doing nothing. I did a lot of forest-walk thinking, [reading AI papers](https://allenpike.com/2023/175b-parameter-goldfish-gpt), and completing projects around the house. While I didn’t do *nothing*, I successfully stayed out of my work email and Slack – and got no emergency pages from my team. Month 1 was a success.
 
 The “Trying new things” month was glorious. I tried new instruments, technologies, fitness routines, restaurants, books, habits, movies, priorities, games, and mindsets. Not just things I’d been meaning to try, but stuff outside my comfort zone. It was joyous. Since that month, I’ve kept up the new mindset and it’s been wonderful.
 
