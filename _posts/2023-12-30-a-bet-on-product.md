@@ -5,6 +5,7 @@ title: Splitting Services and Product
 summary: The story of a plan – take a break, and get focused.
 date: 2023-12-30T05:45:30.955Z
 featured: false
+image: "/images/2023/plants.jpg"
 categories:
   - Article
 tags:
@@ -74,12 +75,12 @@ I also got a lot out of the preparation month. I started going to new meetups, r
 
 ## Return
 
-While I feared returning to a list of fires to help put out, everything pretty much… worked. In my absence, our team delivered good work, kept clients happy, and retained everybody. The preparation paid off. In contrast to the bad old days when I was the only person with enough context to make big decisions and keep things moving, in recent years we’ve developed excellent project management, operations, and Directors of Engineering and Client Services that support and execute for our clients. It’s pretty great.
+While I feared returning to a list of fires, everything pretty much… worked. In my absence, our team delivered good work, kept clients happy, and retained everybody. The preparation paid off. In contrast to the bad old days when I was the only person with enough context to make big decisions and keep things moving, in recent years we’ve developed excellent project management, operations, and Directors of Engineering and Client Services that support and execute for our clients. It’s pretty great.
 
-Of course, there were some gaps left in my absence. But having proven out those gaps, it’s been a lot easier to work through filling them with further experimentation. It’s a big level-up to go from “I worry that blog posts won’t move forward without me around” to “How do we get blog posts moving again, now that I’m not running them?”
+Of course, there were some gaps in my absence. But having proven out what I was actually needed for – as opposed to what I was doing out of momentum – it’s been a lot easier to work through filling them with further experimentation. It’s a big level-up to go from “I worry that blog posts won’t move forward without me around” to “How do we get blog posts moving again, now that I’m not running them?”
 
-Meanwhile, I’ve gotten my wish: I’ve been focusing more and more on product work. I’ve [pursued product questions](https://allenpike.com/2023/have-a-research-question) like “What should team communication look like in 2028?” and “[How do effective leaders manage their time and attention?](https://allenpike.com/2023/how-leaders-manage-time-attention-tasks)” Recently, I’ve led prototyping and customer validation on a tool for helping product teams work with LLMs. I’ve been learning more than I have in years, and am excited to ramp further on product work in 2024.
+Meanwhile, I’ve gotten my wish: I’ve been focusing more and more on product work. I’ve [pursued product research questions](https://allenpike.com/2023/have-a-research-question) like “How could team communication get far better?” and “[How do effective leaders manage their time and attention?](https://allenpike.com/2023/how-leaders-manage-time-attention-tasks)” Recently, I’ve led prototyping and customer validation on a tool that helps product teams work with LLMs. I’ve been learning more than I have in years, and am excited to ramp further on product work in 2024.
 
-The lesson, at least for me, is that even when it seems like you have insurmountable momentum on your current path, you can always change it. In retrospect, that may seem obvious. Over the years I’d already changed my job dramatically – from founder, to manager, to leader of managers – but this has felt like the biggest change yet. Still, the ingredients have always been the same: a team, a plan, and some experimentation.
+The lesson, at least for me, is that even when a big change seems risky, there’s a path to doing it well. In retrospect, that may seem obvious. Over the years I’d already reinvented my job repeatedly – from founder, to manager, to leader of managers – but this felt like the biggest and most daunting change yet. Still, the ingredients have always been the same: a team, a plan, and some experimentation.
 
-And now, for more of the same.
+And now, for more of that.
