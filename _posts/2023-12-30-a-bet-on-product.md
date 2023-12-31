@@ -1,8 +1,8 @@
 ---
 layout: post
 author: allen
-title: An Experiment in Focus
-summary: Separating client services and product, with a break in between.
+title: Splitting Client Work and Product
+summary: The story of a plan to take a break and get focused.
 date: 2023-12-30T05:45:30.955Z
 featured: false
 categories:
