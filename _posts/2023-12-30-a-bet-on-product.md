@@ -1,7 +1,7 @@
 ---
 layout: post
 author: allen
-title: Splitting Client Work and Product
+title: Splitting Services and Product
 summary: The story of a plan to take a break and get focused.
 date: 2023-12-30T05:45:30.955Z
 featured: false
@@ -17,9 +17,9 @@ In 2010, my co-founder Nigel and I started Steamclock. The vision was to build p
 
 As we grew, though, a flaw in our plan became clear: trying to build your own products within an established client services company puts both businesses at a disadvantage. Specifically, a focus disadvantage.
 
-There are fundamental differences between building a product for a client and building a product startup. They justify different mentalities, approaches, and habits. When you have other revenue coming in, you can get away with side quests – such as building a polished, well-loved app that [gets a million downloads, yet loses money](https://playspies.com/release/2022/06/season4/). These adventures may feel partially successful because they’re fun and educational and popular, but if a product is not a tenable business, it’s a hobby. Hobbies can be rewarding – but by definition they can’t support a talented team, iterating and improving towards something truly great.
+There are fundamental differences between building a product for a client and building a product startup. They justify different mentalities, approaches, and habits. When you have other revenue coming in, you can get away with hobby products – such as building a polished, well-loved app that [gets a million downloads, yet loses money](https://playspies.com/release/2022/06/season4/). These exploits may feel partially successful because they’re fun and educational and popular, but they distract from doing what’s best for the product *or* services business. While hobbies can be rewarding and informative, by definition they can’t support a talented team, iterating and improving towards something truly great.
 
-There are a lot of ways to build things, but I like to build with a talented team, iterating and improving towards something great. That’s how we do our client work, and that’s what I want to do for product. But trying to do both in the same company makes it hard to do either well.
+Me personally, I like to build with a talented team, iterating and improving towards something great. That’s how we do our client work, and that’s what I want to do for product. But trying to do both in the same company makes it hard to do either well.
 
 So, last year, we started the process of splitting our client services and product development work into separate businesses.
 
