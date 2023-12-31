@@ -19,7 +19,7 @@ As we grew, though, a flaw in our plan became clear: trying to build your own pr
 
 There are fundamental differences between building a product for a client and building a product startup. They justify different mentalities, approaches, and habits. When you have other revenue coming in, you can get away with side quests – such as building a polished, well-loved app that [gets a million downloads, yet loses money](https://playspies.com/release/2022/06/season4/). These adventures may feel partially successful because they’re fun and educational and popular, but if a product is not a tenable business, it’s a hobby. Hobbies can be rewarding – but by definition they can’t support a talented team, iterating and improving towards something truly great.
 
-There are a lot of ways to build things, but I like to build with a talented team, iterating and improving towards something great. That’s how we do in our client work, and that’s what I want to do for product. But trying to do both in the same team makes it harder to do either well.
+There are a lot of ways to build things, but I like to build with a talented team, iterating and improving towards something great. That’s how we do our client work, and that’s what I want to do for product. But trying to do both in the same company makes it hard to do either well.
 
 So, last year, we started the process of splitting our client services and product development work into separate businesses.
 
@@ -29,7 +29,7 @@ So, last year, we started the process of splitting our client services and produ
 
 From one perspective, it’s a simple change: despite our many product experiments, Steamclock is fundamentally a client services business. Given that, this change is less about splitting out a product business, and more about founding a new one.
 
-From another perspective, it’s a complex change: I’ve been focused on our client services business for over a decade. Despite a lot of progress in giving our teams ownership and independence, I was still a bottleneck for some key processes like hiring, marketing, and strategic planning. I wanted to push hard and finish that evolution so I could focus on product, but after 12 years I found myself a bit burnt out.
+From another perspective, it’s a complex change: I’ve been focused on our client services business for over a decade. Despite a lot of progress in giving our teams ownership and independence, I’ve still been a bottleneck for some key processes like hiring, marketing, and strategic planning. To focus in on product I knew I needed to push to the next level of delegation and handoff, but after 12 years I found myself a bit burnt out.
 
 After some angst and coaching, I devised a plan:
 
@@ -37,7 +37,7 @@ After some angst and coaching, I devised a plan:
 2. Take a sabbatical for the following 3 months, to recharge and plan
 3. Return and see what we’d learned
 
-You know – an experiment. I expected this process to be unpleasant and difficult, and I feared coming back to a bunch of firefighting and un-delegating.
+You know – an experiment. While I knew it was necessary, I expected this process to be unpleasant and difficult, and I feared coming back to a bunch of firefighting and un-delegating.
 
 I was happily wrong.
 ## Preparation
@@ -49,9 +49,9 @@ As a leader, you do two kinds of work:
 
 A big benefit to teams with a habit of transparency is that there isn’t a lot of hidden work. I’d been doing a few invisible tasks – “when we do strategic planning, this is how I prep it,” or “every quarter I run this analysis on the P&L” – but for 80% of my job, our team was able to enumerate what parts of my work needed delegation.
 
-So we had a map for me being away, but a key question was: how often should I check in? We considered a weekly or monthly checkin or review, but that would really diminish the value of the experiment. Instead, we devised a very short list of emergencies I could be pulled in for – e.g. a surprise cashflow problem or the departure of a key leader. Then, we worked to set the team up with the context, docs, and explicit authority to handle anything else.
+Once we had a map for me being away, a key question remained: how often should I check in? We considered a weekly or monthly checkin or review, but that would really diminish the value of the experiment. Instead, we devised a very short list of emergencies I could be pulled in for – e.g. a surprise cashflow problem or the departure of a key leader. Then, we worked to set the team up with the context, docs, and explicit authority to handle anything else.
 
-While I expected this handoff work to be a grind, it was actually… fun? We have an excellent team, and the time-boxed nature of the mission felt very purposeful. I iteratively handed off my tasks, spent less and less time working in the business and more time writing docs and coaching (which I enjoy), and after 3 months of prep the team was ready to rock.
+While I expected this prep work to be a grind, it was actually… fun? We have an excellent team, and the time-boxed nature of the mission felt very purposeful. I iteratively handed off my tasks, spent less and less time working in the business and more time writing docs and coaching (which I enjoy), and after 3 months of prep the team was ready to rock.
 
 ## Sabbatical
 
@@ -63,19 +63,19 @@ To give myself some guardrails, I chose a theme for each of the 3 months:
 - Month 2: Try new things
 - Month 3: Prepare to return better than I left
 
-I was not great at doing nothing. I did a lot of forest-walk thinking, [reading AI papers](https://allenpike.com/2023/175b-parameter-goldfish-gpt), and completing projects around the house. While I didn’t do *nothing*, I successfully stayed out of my work email and Slack – and got no emergency pages from my team. Month 1 was a success.
+I was not great at doing nothing. I did a lot of forest-walk thinking, [reading AI papers](https://allenpike.com/2023/175b-parameter-goldfish-gpt), and completing projects around the house. While I didn’t do *nothing*, I successfully stayed out of my work email and Slack – and got no emergency pages from the team. Month 1 was a success.
 
 The “Trying new things” month was glorious. I tried new instruments, technologies, fitness routines, restaurants, books, habits, movies, priorities, games, and mindsets. Not just things I’d been meaning to try, but stuff outside my comfort zone. It was joyous. Since that month, I’ve kept up the new mindset and it’s been wonderful.
 
-I also got a lot out of the preparation month. I started going to new meetups, reading books about products and startups, and getting clear on my mission. Because I love product work, I was happy to be digging into exploring and talking to potential customers, before my sabbatical even ended.
+I also got a lot out of the preparation month. I started going to new meetups, reading books about products and startups, and getting clear on my mission. I love product work, so I was happy to be digging into exploring and talking to potential customers, before my sabbatical even ended.
 ## Return
 
 While I feared returning to a list of fires to help put out, everything pretty much… worked. In my absence, our team delivered good work, kept clients happy, and retained everybody. The preparation paid off. In contrast to the bad old days when I was the only person with enough context to make big decisions and keep things moving, in recent years we’ve developed excellent project management, operations, and Directors of Engineering and Client Services that support and execute for our clients. It’s pretty great.
 
 Of course, there were some gaps left in my absence. But having proven out those gaps, it’s been a lot easier to work through filling them with further experimentation. It’s a big level-up to go from “I worry that blog posts won’t move forward without me around” to “How do we get blog posts moving again, now that I’m not running them?”
 
-Meanwhile, I’ve gotten my wish: I’ve been focusing more and more on product work. I’ve [pursued product questions](https://allenpike.com/2023/have-a-research-question) like “What should team communication look like in 2028?” and “[How do effective leaders manage their time and attention?](https://allenpike.com/2023/how-leaders-manage-time-attention-tasks)” Recently, I’ve led prototyping and customer validation on a tool for helping product teams work with LLMs. I’ve been learning more than I have in years, and look forward to ramping further on product work in 2024.
+Meanwhile, I’ve gotten my wish: I’ve been focusing more and more on product work. I’ve [pursued product questions](https://allenpike.com/2023/have-a-research-question) like “What should team communication look like in 2028?” and “[How do effective leaders manage their time and attention?](https://allenpike.com/2023/how-leaders-manage-time-attention-tasks)” Recently, I’ve led prototyping and customer validation on a tool for helping product teams work with LLMs. I’ve been learning more than I have in years, and am excited to ramp further on product work in 2024.
 
-The lesson, at least for me, is that even when it seems like you have insurmountable momentum on your current path, you can always change it. In retrospect, that may seem obvious. Over the years I’d already changed my job dramatically – from founder to manager to leader of managers – but this has felt like the biggest change yet. Still, the ingredients have always been the same: a team, a plan, and some experimentation.
+The lesson, at least for me, is that even when it seems like you have insurmountable momentum on your current path, you can always change it. In retrospect, that may seem obvious. Over the years I’d already changed my job dramatically – from founder, to manager, to leader of managers – but this has felt like the biggest change yet. Still, the ingredients have always been the same: a team, a plan, and some experimentation.
 
 And now, for more of the same.
