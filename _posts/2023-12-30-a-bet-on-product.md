@@ -15,13 +15,17 @@ Last year, I realized it was time for me to switch things up.
 
 In 2010, my co-founder Nigel and I started Steamclock. The vision was to build products for clients, and use those profits to fund our own product development. Which worked! Mostly. We’ve built [a client business](https://steamclock.com/) that’s been growing and profitable for a decade straight, which has funded a lot of our own product exploration.
 
-As we grew, though, a flaw in our plan became clear: if your revenue comes from client services, your internal product work will be at a disadvantage. Specifically, a focus disadvantage.
+As we grew, though, a flaw in our plan became clear: if your revenue comes from client services, your work will be at a disadvantage. Specifically, a focus disadvantage.
 
 There are fundamental differences between building a product for a client and building a product startup. They justify different mentalities, approaches, and habits. When you have other revenue coming in, you can get away with side quests – such as building a polished, well-loved app that [gets a million downloads, yet loses money](https://playspies.com/release/2022/06/season4/). These adventures may feel partially successful because they’re fun and educational and popular, but if a product is not a tenable business, it’s a hobby. Hobbies can be rewarding, but by definition they can’t support a talented team iterating and improving towards something truly great.
 
-So as much as I enjoy my hobbies, building with a talented team, iterating and improving towards something great, is how I want to spend my days. That’s how we do in our client work, and that’s what I want to do for product.
+Building with a talented team, iterating and improving towards something great, is how I want to spend my days. That’s how we do in our client work, and that’s what I want to do for product. But trying to do both in the same team makes it harder to do either well.
 
 So, last year, we started the process of gradually splitting our client services and product development work into separate businesses.
+
+<div class="centered">
+<img src="/images/2023/plants.png">
+</div>
 
 From one perspective, it’s a simple change: despite our many product experiments, Steamclock is fundamentally a client services business. In a way, this change is less about splitting out a product business, and more about founding a new one.
 
