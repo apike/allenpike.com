@@ -59,7 +59,7 @@ Just joking, it’ll offer the Tripadvisor GPT. Or whoever the highest bidder wa
 
 <div class="centered">
 <img src="/images/2024/gpt-wolfram.jpg">
-<p>LLMs aren’t great at math, but Wolfram is.</p></div>
+<p>LLMs aren’t great at math, but [Wolfram](https://chat.openai.com/g/g-0S5FXLyFN-wolfram) is.</p></div>
 
 
 Admittedly, OpenAI might retain enough of their not-for-profit DNA to resist the urge to monetize the Everything Engine like this. Maybe. Or maybe Sam Altman will be fired again on the path to executing on building it. But even if they don’t do it, Google will.
