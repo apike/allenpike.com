@@ -69,3 +69,7 @@ If I’m right – if a model and ecosystem like GPTs can be used to build a com
 Right now, that website is Google for most people. But no matter how much work Google puts into their Quick Answers and Bard, no one company is going to be able answer everything on its own. Serving the long tail of queries in one place – creating an Everything Engine – will require an ecosystem of developers and content providers.
 
 In the coming years, if we do start to see the emergence of the Everything Engine, well… we will live in interesting times.
+
+----
+
+*Thanks to [Adam Lisagor](https://adamlisagor.com/), [Jenn Cooper](https://www.linkedin.com/in/jennifer-cooper-24a3b711/), Chris Parrish, and [Paul Kafasis](https://onefoottsunami.com/) for feedback on this article and the ideas behind it.*
