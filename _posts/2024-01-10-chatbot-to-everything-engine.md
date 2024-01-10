@@ -5,18 +5,20 @@ title: From Chatbot to Everything Engine
 summary: "OpenAI’s new “GPTs” have a fascinating design constraint that signals an ambitious future."
 date: 2024-01-10T05:45:30.955Z
 featured: false
-image: "/images/2024/gpt-wolfram.jpg"
+image: "/images/2024/gpts-banner.jpg"
 categories:
   - Article
 tags:
   - llm
 ---
 
-Our story so far: In November, OpenAI [launched GPTs](https://openai.com/blog/introducing-gpts), a simple way to distribute a customized version of ChatGPT. GPTs – awkwardly named to solidify OpenAI’s claim to [the trademark “GPT”](https://techcrunch.com/2023/04/24/gpt-may-be-trademarked-soon-if-openai-has-its-way/) – consist of a custom ChatGPT prompt, an icon, and optionally some reference data or hookups to external APIs.
+This morning, OpenAI [launched the GPT Store](https://openai.com/blog/introducing-the-gpt-store): a simple way to browse distribute customized versions of ChatGPT. GPTs – awkwardly named to solidify OpenAI’s claim to [the trademark “GPT”](https://techcrunch.com/2023/04/24/gpt-may-be-trademarked-soon-if-openai-has-its-way/) – consist of a custom ChatGPT prompt, an icon, and optionally some reference data or hookups to external APIs. In the coming weeks, OpenAI will also start paying developers based on usage of their GPTs.
 
-As part of their release back in November, Sam Altman announced a forthcoming “GPT Store” – a way to browse, search, and eventually make money from GPTs. Of course, a store for AI is well outside OpenAI’s origins as a nonprofit – so much that it may have contributed to his temporary firing the following week – but Altman is now back at the helm, and OpenAI will be [launching the GPT Store imminently](https://techcrunch.com/2024/01/04/openais-app-store-for-gpts-will-launch-next-week/).
+While GPTs may prove useful in their current form, they’re part of an even grander plan. The exact path is yet to be seen, but I believe OpenAI tipped their hand with a very specific choice in how GPTs are designed.
 
-While GPTs’ initial weeks have been interesting but not terribly impactful, they’re part of a grander plan. The exact path is yet to be seen, but I believe OpenAI has tipped their hand with a very specific choice in how GPTs are designed.
+<div class="centered">
+<img src="/images/2024/gpts-banner.jpg">
+</div>
 
 ### Conversation starters
 
