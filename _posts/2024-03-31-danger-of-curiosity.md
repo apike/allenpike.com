@@ -12,7 +12,7 @@ tags:
 ---
 
 
-Legends have long warned about the dangers of curiosity. Curiosity led to a bargain with the devil for [Faust](https://en.wikipedia.org/wiki/Faust). Pandora cursed all humanity when she [she opened a jar full of evils](https://en.wikipedia.org/wiki/Pandora). And we all know what curiosity did to the cat.
+Legends have long warned about the dangers of curiosity. Curiosity led to a bargain with the devil for [Faust](https://en.wikipedia.org/wiki/Faust). Pandora cursed all humanity when she [opened a jar full of evils](https://en.wikipedia.org/wiki/Pandora). And we all know what curiosity did to the cat.
 
 In unsafe environments, curiosity really can be dangerous.
 
