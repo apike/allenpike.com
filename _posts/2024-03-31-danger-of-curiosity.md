@@ -9,6 +9,7 @@ categories:
   - Article
 tags:
   - thoughtfulness
+  - teams
 ---
 
 
