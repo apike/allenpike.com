@@ -18,9 +18,11 @@ In unsafe environments, curiosity is dangerous.
 
 An over-curious forager might have eaten unsafe berries, or explored the woods after dark. An inquisitive servant may have opened that door the king insisted he must *never* open. A ruthless crimelord might not take kindly to his goons’ “five whys”. Legends warning against curiosity arise from a real concern: in a dangerous situation – or organization – it can be much safer to conform than experiment. When people feel unsafe, they are inclined to tread lightly on the well-understood path.
 
-This caution may, at times, be rational. It can also be a problem. Because [great work requires curiosity](https://paulgraham.com/greatwork.html).
+This caution may, at times, be rational. Many situations disincentivize curiosity. However, if you're trying to do something hard, this can be a serious problem – because [great work requires curiosity](https://paulgraham.com/greatwork.html).
 
-You see, curiosity makes people push. It makes people explore, wonder, and wander; ask, experiment, and reconsider. The curious forge new paths.
+## Pandora's gift
+
+You see, curiosity makes people push. It makes us explore, wonder, and wander; ask, experiment, and reconsider. The curious forge new paths.
 
 Curious people aren’t satisfied with “It’s best practice”. They start ambitious new things, to see if they’re better, then learn from their mistakes. Curious team members are more resilient to change, receive feedback better and make more use of it, and get agitated when they’re not learning – which drives them, over time, to learn very much indeed.
 
