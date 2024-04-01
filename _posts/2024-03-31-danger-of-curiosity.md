@@ -2,7 +2,7 @@
 layout: post
 author: allen
 title: The Dangers of Curiosity
-summary: "On the power, and risk, of wondering."
+summary: "On the risk, and power, of wondering."
 date: 2024-03-31T05:45:30.955Z
 featured: false
 categories:
