@@ -44,6 +44,6 @@ In time, curiosity and iteration together tend to lead to things that initially 
 
 If all this sounds appealing, and you want to work on a team with other curious people, there are a few things you can do. First, find or build a team with high [psychological safety](https://allenpike.com/2022/autofill-surprise-safety). That is, an environment where people feel safe to try things, ask hard questions, admit mistakes, address disagreements, give feedback, and so on. You know, the opposite of the rule-by-fear crimelord vibe.
 
-Another way to find high-curiosity teams is to work at startups. Startups tend to attract the curious – since a startup by definition is an experiment – and they tend to encourage this mindset for the same reason. Many large organizations lose their most curious people as the bureaucracy and fiefdoms set in, and the slowing pace of shipping starts to disincentivize curious explorers.
+Another way to find high-curiosity teams is to work at startups. Startups tend to attract the curious, since a startup by definition is an experiment, and they tend to encourage this mindset for the same reason. Many large organizations lose their most curious people as the bureaucracy and fiefdoms set in, and the slowing pace of shipping starts to disincentivize curious explorers.
 
 However you do it, the key idea is to find a place where it pays to be curious, a team of other smart curious people, and a shared sense of purpose. It’s a simple formula. But surprisingly often, this is how you can do the work of legends.
