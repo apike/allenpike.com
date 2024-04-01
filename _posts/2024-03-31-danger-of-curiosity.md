@@ -12,9 +12,9 @@ tags:
 ---
 
 
-Legends have long warned about the dangers of curiosity. Curiosity led to a bargain with the devil for [Faust](https://en.wikipedia.org/wiki/Faust). Pandora [cursed all humanity](https://en.wikipedia.org/wiki/Pandora) when she opened a jar full of evils. And we all know what curiosity did to the cat.
+Legends have long warned about the dangers of curiosity. Curiosity led to a bargain with the devil for [Faust](https://en.wikipedia.org/wiki/Faust). Pandora cursed all humanity when she [she opened a jar full of evils](https://en.wikipedia.org/wiki/Pandora). And we all know what curiosity did to the cat.
 
-In unsafe environments, curiosity is dangerous.
+In unsafe environments, curiosity really can be dangerous.
 
 An over-curious forager might have eaten unsafe berries, or explored the woods after dark. An inquisitive servant may have opened that door the king insisted he must *never* open. A ruthless crimelord might not take kindly to his goons’ “five whys”. Legends warning against curiosity arise from a real concern: in a dangerous situation – or organization – it can be much safer to conform than experiment. When people feel unsafe, they are inclined to tread lightly on the well-understood path.
 
