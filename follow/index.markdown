@@ -4,14 +4,19 @@ comments: false
 layout: page
 isSubscribe: true
 slug: subscribe
-title: Follow or Subscribe
+title: Follow
 ---
 
 Here’s how you can find out when I post an article:
 
-* [@apike on Mastodon.social](https://mastodon.social/@apike), where I post my writing, plus other bleeps and bloops.
-* [RSS Feed](/feed/), for the avid readers out there.
-* Email, if you'd like your very own copy.
+- [RSS Feed](/feed/)
+- Mastodon: [@apike](https://mastodon.social/@apike)
+- Twitter: [@apike](https://twitter.com/apike/)
+- Threads: [@allenjpike](https://www.threads.net/@allenjpike)
+- Bluesky: [allenpike.com](https://bsky.app/profile/allenpike.com)
+- LinkedIn: [@allenpike](https://www.linkedin.com/in/allenpike/)
+
+Or subscribe by email, for your very own copy of my monthly articles. 💌
 
 <form style="margin-top: 1em" class="newsletter" action="https://feed.press/e/mailverify" method="post"
 target="popupwindow" onsubmit="window.open('https://feed.press/e/mailverify?feed_id=allenpike', 'popupwindow',
@@ -23,12 +28,4 @@ target="popupwindow" onsubmit="window.open('https://feed.press/e/mailverify?feed
 
 Email subscribers can expect a copy of each article I write, delivered to your inbox. Most months I post one or two articles.
 
-I'm also present, to varying degrees, on:
-- [Threads](https://www.threads.net/@allenjpike)
-- [Twitter](https://twitter.com/apike/)
-- [Bluesky](https://bsky.app/profile/allenpike.com)
-- [Instagram](https://www.instagram.com/allenjpike/)
-- [Goodreads](https://www.goodreads.com/user/show/74341139)
-- [LinkedIn](https://www.linkedin.com/in/allenpike/)
-
-What a time to be alive!
+I also exist on [Instagram](https://www.instagram.com/allenjpike/) and [Goodreads](https://www.goodreads.com/user/show/74341139), and you can follow my [podcasts](/speaking/) as well.
