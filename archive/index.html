@@ -25,9 +25,7 @@ title: Post Archive
         <!-- Tag too small ({{ site.tags[tag].size }}): {{ tag_title }} -->
      {% else %}
         <li class="{% if tag == 'best' %} featured {% endif %}"><a href="/series/{{- tag -}}">{{- tag_title -}}</a>
-         {% if site.data.seriestitles[tag].subtitle %}
-            – {{ site.data.seriestitles[tag].subtitle }}
-         {% endif %}
+        – {{ site.tags[tag].size }} articles.
         </li>
      {% endif %}
 {%- endfor -%}
