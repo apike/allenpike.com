@@ -14,7 +14,7 @@ layout: default
 	<p class='warning'>This an ancient satirical news post from when I was in college. I apologise.</p>
 {% elsif page.categories.first == "Faith" %}
 	<p class='warning'>This an old status update on my web-based game <a href='/engineering-faith/'>Engineering Faith</a>.</p>
-{% elsif page.date | date: "%Y" | plus: 10 < 'now' | date: "%Y" %}
+{% elsif page.date | date: "%Y" | number | plus: 10 < 'now' | date: "%Y" | number %}
 	<p class='warning'>This post is over ten years old. Chances are, I've learned enough to have advanced my thinking about some of this stuff.</p>
 {% endif %}
 
