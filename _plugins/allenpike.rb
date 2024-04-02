@@ -5,7 +5,7 @@ module Jekyll
       if text
         return text
       else
-        return "/images/simple-share-square.jpg"
+        return "/images/simple-opengraph-banner.png"
       end
     end
 
