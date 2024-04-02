@@ -7,7 +7,7 @@ slug: subscribe
 title: Follow
 ---
 
-Here’s how you can find out when I post an article:
+Here’s how you can find out when I post articles:
 
 - [RSS Feed](/feed/)
 - Mastodon: [@apike](https://mastodon.social/@apike)
