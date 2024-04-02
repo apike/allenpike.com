@@ -11,13 +11,7 @@ layout: default
   <hr class="subtle">
     {% assign posts = site.tags[page.tag] | sort: "date" | reverse %}
     {% for post in posts %}
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      
-
-      <p>{% if post.link %}<i><a href="{{ post.link }}">→</a></i>{% elsif post.summary %} {{ post.summary }} {% endif %} &bull;
-            <span class="meta">{{ post.date | date: "%B %Y" }} &bull;
-{{ post.content | reading_time }} read</span></p>
-    </p>
+      {% include post_excerpt.html %}
     {% endfor %}
   </ul>
 </div>

@@ -11,18 +11,7 @@ summary: Allen Pike writes about making nice software, building teams, and other
 
     {% for post in site.posts limit: 12 %}
 
-    <hr />
-
-  <h1><a href='{{ post.url }}'>{{ post.title }}</a>
-  {% if post.link %}<a class="link" href="{{ post.link }}">→</a>{% endif %}</h1>
-
-    <p><span class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-    {% if post.summary %}<p class="summary">{{ post.summary }}</p>{% endif %}
-        
-    <div class="post">
-    {{ post.content | strip_html | truncatewords: 50 }}
-    <p><a href='{{ post.url }}'>{{ post.content | reading_time }} read →</a></p>
-    </div>
+      {% include post_excerpt.html %}
 
     {% endfor %}
   </ul>
