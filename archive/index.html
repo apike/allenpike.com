@@ -34,12 +34,13 @@ You can browse my writing by series:
   <br>
 
 
+  <p>You can also browse by year, with the best articles in bold.</p>
 
   <ul class="posts archive">
     {% assign prevyear  = "Future" %}
     {% for post in site.posts %}
       {% assign newyear  = post.date | date: "%Y" %}
-      {% if prevyear != newyear %} <h2>{{ newyear }}</h2>{% endif %}
+      {% if prevyear != newyear %} <br><h2>{{ newyear }}</h2>{% endif %}
       {% assign prevyear = newyear %}
 
         <li class="
