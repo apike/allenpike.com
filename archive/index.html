@@ -10,24 +10,22 @@ title: Post Archive
   <hr class="subtle">
 
 {%- capture site_tags -%}
-    {%- for tag in site.tags -%}
-        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
-    {%- endfor -%}
+  {%- for tag in site.tags -%}
+      {% if site.tags[tag[0]].size >= 6 %}
+          {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+      {% endif %}
+  {%- endfor -%}
 {%- endcapture -%}
 {%- assign tags_list = site_tags | split:',' | sort -%}
 
 <h2>Article Series</h2>
 
-  You can browse my writing by series: 
+You can browse my writing by series: 
 
 {%- for tag in tags_list -%}
-     {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
-     {% if site.tags[tag].size < 6 %}
-        <!-- Tag too small ({{ site.tags[tag].size }}): {{ tag_title }} -->
-     {% else %}
-        <span class="{% if tag == 'best' %} featured {% endif %}"><a href="/series/{{- tag -}}">{{- tag_title -}}</a>{% unless forloop.last %}, {% endunless %}
-        </span>
-     {% endif %}
+   {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
+   <span class="{% if tag == 'best' %} featured {% endif %}"><a href="/series/{{- tag -}}">{{- tag_title -}}</a>{% unless forloop.last %}, {% endunless %}
+   </span>
 {%- endfor -%}.
 
   <br>
