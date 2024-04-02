@@ -13,7 +13,6 @@ Here’s how you can find out when I post articles:
 - Mastodon: [@apike](https://mastodon.social/@apike)
 - Twitter: [@apike](https://twitter.com/apike/)
 - Threads: [@allenjpike](https://www.threads.net/@allenjpike)
-- Bluesky: [allenpike.com](https://bsky.app/profile/allenpike.com)
 - LinkedIn: [@allenpike](https://www.linkedin.com/in/allenpike/)
 
 Or subscribe by email, for your very own copy of my monthly articles. 💌
@@ -28,4 +27,4 @@ target="popupwindow" onsubmit="window.open('https://feed.press/e/mailverify?feed
 
 Email subscribers can expect a copy of each article I write, delivered to your inbox. Most months I post one or two articles.
 
-I also exist on [Instagram](https://www.instagram.com/allenjpike/) and [Goodreads](https://www.goodreads.com/user/show/74341139), and you can follow my [podcasts](/speaking/) as well.
+I also exist on [Instagram](https://www.instagram.com/allenjpike/), [Bluesky](https://bsky.app/profile/allenpike.com), [Letterboxd](https://letterboxd.com/pikerosoft/), and [Goodreads](https://www.goodreads.com/user/show/74341139), and you can follow my [podcasts](/speaking/) as well.
