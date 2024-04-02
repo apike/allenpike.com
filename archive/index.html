@@ -6,7 +6,7 @@ title: Post Archive
 
 <div id="home">
   <h1>Archive of articles</h1>
-  <p>I've written a number of articles. You can explore them by series, or by date.</p>
+  <p>I write once a month about software and other tricky things.</p>
   <hr class="subtle">
 
 {%- capture site_tags -%}
@@ -31,15 +31,12 @@ title: Post Archive
 {%- endfor -%}
   </ul>
 
-  <br>
-
-
 
   <ul class="posts archive">
     {% assign prevyear  = "Future" %}
     {% for post in site.posts %}
       {% assign newyear  = post.date | date: "%Y" %}
-      {% if prevyear != newyear %} <h2>{{ newyear }}</h2>{% endif %}
+      {% if prevyear != newyear %} <br> <h2>{{ newyear }}</h2>{% endif %}
       {% assign prevyear = newyear %}
 
         <li class="
