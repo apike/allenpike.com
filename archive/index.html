@@ -11,8 +11,8 @@ title: Post Archive
 
 {%- capture site_tags -%}
   {%- for tag in site.tags -%}
-      {% if site.tags[tag[0]].size >= 6 %}
-          {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+      {% if site.tags[tag.first].size >= 6 %}
+          {{- tag.first -}}{%- unless forloop.last -%},{%- endunless -%}
       {% endif %}
   {%- endfor -%}
 {%- endcapture -%}
@@ -24,7 +24,7 @@ You can browse my writing by series:
 
 {%- for tag in tags_list -%}
    {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
-   <span class="{% if tag == 'best' %} featured {% endif %}"><a href="/series/{{- tag -}}">{{- tag_title -}}</a>{% unless forloop.last %}, {% endunless %}
+   <span class="{% if tag == 'best' %} featured {% endif %}">{% if forloop.last %} and {% endif %}<a href="/series/{{- tag -}}">{{- tag_title -}}</a>{% unless forloop.last %}, {% endunless %}
    </span>
 {%- endfor -%}.
 
