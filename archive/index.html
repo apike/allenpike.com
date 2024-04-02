@@ -26,8 +26,8 @@ You can browse my writing by series:
   {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
   <span class="{% if tag == 'best' %} featured {% endif %}">
       {% if forloop.last %} and {% endif %}
-      <a href="/series/{{- tag -}}">{{- tag_title -}}</a>
-      {% if forloop.last %}.{% else %},{% endif %}
+      <a href="/series/{{- tag -}}">{{- tag_title -}}</a>{%
+      if forloop.last %}.{% else %},{% endif %}
   </span>
 {%- endfor -%}
 
