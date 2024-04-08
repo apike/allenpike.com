@@ -5,7 +5,7 @@ title: Splitting Services and Product
 summary: "The story of a plan: take a break, and get focused."
 date: 2023-12-30T05:45:30.955Z
 featured: false
-image: "/images/2023/plants.jpg"
+image: "/images/2023/plants.png"
 categories:
   - Article
 tags:
