@@ -10,7 +10,10 @@
   padding: 0;
 }
 
-html, body { height: 100%; }
+html, body { 
+  height: 100%;
+  hanging-punctuation: first allow-end last;
+}
 
 body {
   background-color: #fefcfd;
