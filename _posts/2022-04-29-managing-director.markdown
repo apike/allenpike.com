@@ -15,4 +15,4 @@ I wrote today about Nick Wilkinson [taking the helm at Steamclock](https://steam
 
 > This year, it’s time for Nick to take the largest leadership role of all, as our Managing Director. With the support of our CTO Nigel, as well as the excellent Jenn Cooper and myself continuing on the Board, Nick’s going to keep doing what he’s been doing for some time: driving Steamclock forward, growing the culture we’ve built, and also putting his own spin on it.
 
-I’ll share more about what I’m building next this summer. For today, I'm feeling grateful for the team we’ve built at Steamclock, and the fact it’s still growing and improving.
+I’ll share more about what I’m building next this summer. For today, I'm feeling grateful for the team we’ve built at Steamclock, and the fact they’re still growing and iterating.
