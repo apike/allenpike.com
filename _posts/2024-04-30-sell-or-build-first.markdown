@@ -21,7 +21,7 @@ Writing on how to develop a SaaS product tends to advocate one of two approaches
 
 Each of these approaches has a certain appeal: They each avoid a famous pitfall of product development.
 
-Many consultancies have signed their first sale of a quirky custom solution to one large customer, only to find it doesn’t generalize to other customers. Many startups have built a polished product that embodies their founder’s vision, only to discover nobody will pay for that vision. They’re both dead ends!
+Many consultancies have sold a complex bespoke product to one large customer, then found it doesn’t generalize to other customers. Many startups have built a polished product that embodies their founder’s vision, only to discover nobody will pay for that vision. They’re both dead ends!
 
 So you get these two lines of advice: sell first, or build first. Mutually exclusive paths.
 
@@ -31,21 +31,21 @@ As I noticed this tension, I did what I do: I asked founders and other smart peo
 
 Selling first is, naturally, the preferred path for salespeople. If you are a non-technical founder hoping to raise money to hire a development team, you probably need to first prove that you can sell what you’ll build.
 
-This is the classic Lean Startup mentality: you hypothesize that you can sell something. What better way to prove this than by selling it?
+This is the classic Lean Startup mentality: your hypothesis is that you can sell something. What better way to prove this than by selling it?
 
 Going sales-first can also be appealing for bootstrappers. The strategy “Build a great product, then give it away” requires being able to afford giving something valuable away. Not everybody has – or wants to raise – the capital necessary to do that. If you instead start by selling what you want to build, you can get your first revenue faster.
 
 Starting with sales is also a natural path for startups that will need to go to market with a sales-led approach anyway. If the problem you’re solving is specific to large retailers, but is worth $50 million/yr to each of them, they’re not going to serve themselves from your website – no matter how delightful it is. Best to start with sales.
 
-On top of all this, there’s a reason VCs tend to encourage founders to go full-on enterprise sales mode: [it can be a more predictable, systematic path to success](https://pmf.firstround.com/levels) than a product-led one.
+On top of all this, there’s a reason VCs tend to encourage founders to go full-on enterprise sales mode: [it can be a somewhat lower risk, more systematic path to success](https://pmf.firstround.com/levels) than a product-led one.
 
 All that said, starting with sales has downsides. Enterprise sales are not, typically, driven by surprise and delight. Sure, there are many great businesses that started product-first, building a wonderful experience for their customers, that then shifted to sales-led growth as they matured. But startups that **start** sales-centric, often, find themselves struggling to build a great user experience.
 
 Something is lost, it seems, when a product starts its life as a sales negotiation. You’ve proven a need, but it can be difficult to build something people love from there. Starting with sales tends to lead to building something customers think they want, rather than exploring deeper and potentially more valuable territory.
 
-Early-stage sales-led teams have a tendency to get thrashed from customer demand to customer demand. “Ford says we need to add support for CORBA. Oh, and Eli Lilly needs us to add 3D dashboards.” Your product startup can end up maintaining a bunch of bespoke stuff for a small number of customers – basically, a consultancy.
+Early-stage sales-led teams have a tendency to get thrashed from customer demand to customer demand. “Ford says we need to add support for CORBA. Oh, and Eli Lilly needs us to add 3D dashboards.” Your product startup can end up maintaining a bunch of custom stuff for a small number of customers – basically, a consultancy.
 
-All that said, it’s possible for startups to keep healthy boundaries while closing big sales, allowing them to build a single product in a way that’s coherent and thoughtful. Really successful companies have been built this way.
+All that said, it’s possible for startups to keep healthy boundaries while closing big sales, allowing them to build a single product that’s coherent and thoughtful. Really successful companies have been built this way.
 
 At least, in certain markets.
 
@@ -69,7 +69,7 @@ Unfortunately, there were only a hundred customers. We never even made enough mo
 
 If you sell first, though, you’re forced to talk to customers. You have to research your target market, develop and refine an approach for explaining what pain you’re solving in a way that resonates, and overcome customers’ objections.
 
-Building first makes it possible to defer all this. You might tell yourself, “I basically know what they want, I already talked to customers, so let’s just focus on getting a solid v1 ready.” This is dangerous thinking, because it can lead to not showing critical eyes what you’re building for way too long.
+Building first makes it possible to defer all this. You might tell yourself, “I basically know what they want, I already talked to customers, so let’s just focus on getting a solid v1 ready.” This is dangerous thinking, because it can lead to not putting critical eyes on what you’re building for way too long.
 
 In that same interview, Dennis vividly described what it feels like to put rough, early versions of your product in front of customers for feedback:
 
@@ -91,7 +91,7 @@ As with most dichotomies, this one is partly false. There are many paths you can
 
 Like most startup tactics, the right approach depends on what kind of company you’re trying to build. If you’re building a business that depends on big enterprise deals, you’d best start with sales. If you’re set on building a product that is so insanely great that your users drive your growth, you’d best focus on building that great product.
 
-Either way, the outcome is the same: building something great that people want to pay for.
+Either way, the end goal is the same: building something great that people want to pay for.
 
 As long as you do that, you might have a chance.
 
