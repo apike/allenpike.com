@@ -19,7 +19,8 @@ I like hearing from people, so go ahead and [send me a short note](/contact/) or
 
 **Current Projects**
 
-* [Steamclock](https://steamclock.com/): We make apps for clients and ourselves – and have [a blog](http://www.steamclock.com/blog/).
+* [Forestwalk](https://forestwalk.ai/): I’ve just co-founded a very early-stage startup building tools for software teams.
+* [Steamclock](https://steamclock.com/): A product studio that makes very nice apps.
 * [It Shipped That Way](https://www.itshipped.fm/), a podcast where I interview product and tech leaders.
 * [Public Speaking and Appearances](/speaking/): I like to share what I’ve learned.
 * [Fun Fact](https://funfact.fm/): A podcast I do monthly, about facts.
