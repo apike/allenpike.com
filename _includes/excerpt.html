@@ -2,7 +2,7 @@
 <hr />
 
 
-{% if post.link %}<h2>Link: <a href='{{ post.url }}'>{{ post.title }}</a></h2>
+{% if post.link %}<h2><a href='{{ post.url }}'>Link: {{ post.title }}</a></h2>
 
   <p><span class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
   {% if post.summary %}<p class="summary">{{ post.summary }}</p>{% endif %}
