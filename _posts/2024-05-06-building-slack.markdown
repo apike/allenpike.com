@@ -11,13 +11,13 @@ tags:
   - product
 ---
 
-Two of Slack’s original employees, Johnny Rodgers and Ali Rayl, have started writing a delightful newsletter/blog called [Building Slack](https://buildingslack.com/). There are some great passages already:
+Two of Slack’s original employees, Johnny Rodgers and Ali Rayl, have started writing a delightful newsletter/blog called [Building Slack](https://buildingslack.com/). There are some great passages already.
 
 The clarity of the [initial pitch from Stewart](https://buildingslack.com/day-1/):
 
 > “You'll know it's working when you don't have to use email at work any more.”
 
-The very high bar for great customer support:
+The [very high bar](https://buildingslack.com/building-the-slack-mvp/) for great customer support:
 
 > We turned around fixes and adjustments as quickly as we learned about them. We responded to each message personally — often directly from Stewart. This pattern and the fundamental respect that it demonstrated for our customers would become essential to Slack’s early success and eventual longevity.
 
