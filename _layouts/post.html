@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-<h1><a href='{{ page.url }}'>{{ page.title | widow }}</a>
-{% if page.link %}<a class="link" href="{{ page.link }}">→</a>{% endif %}</h1>
+<h1>{% if page.link %}Link: {% endif %}<a href='{{ page.url }}'>{{ page.title | widow }}</a></h1>
 {% if page.summary %}<p class="summary">{{ page.summary }}</p>{% endif %}
 
 <p class="meta">{{ page.date | date: "%B %-d, %Y" }} &bull;
