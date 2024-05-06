@@ -8,7 +8,7 @@ link: "https://buildingslack.com/"
 categories:
   - Link
 tags:
-  - product
+  - products
 ---
 
 Two of Slack’s original employees, Johnny Rodgers and Ali Rayl, have started writing a delightful newsletter/blog called [Building Slack](https://buildingslack.com/). There are some great passages already.
