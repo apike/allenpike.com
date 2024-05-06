@@ -1,8 +1,16 @@
 <!-- post_excerpt -->
 <hr />
 
-<h1><a href='{{ post.url }}'>{{ post.title }}</a>
-{% if post.link %}<a class="link" href="{{ post.link }}">→</a>{% endif %}</h1>
+
+{% if post.link %}<h2>Link: <a href='{{ post.url }}'>{{ post.title }}</a></h2>
+
+  <p><span class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+  {% if post.summary %}<p class="summary">{{ post.summary }}</p>{% endif %}
+      
+  <div class="post">
+  {{ post.content }}
+  </div>
+{% else %}<h1><a href='{{ post.url }}'>{{ post.title }}</a></h1>
 
   <p><span class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
   {% if post.summary %}<p class="summary">{{ post.summary }}</p>{% endif %}
@@ -11,3 +19,4 @@
   {{ post.content | strip_html | truncatewords: 50 }}
   <p><a href='{{ post.url }}'>{{ post.content | reading_time }} read →</a></p>
   </div>
+{% endif %}
