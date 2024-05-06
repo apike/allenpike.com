@@ -1,7 +1,7 @@
 ---
 layout: post
 author: allen
-title: "Steamclock’s Next Chapter"
+title: "Building Slack"
 date: 2024-05-06T21:11:05.627Z
 featured: false
 link: "https://buildingslack.com/"
@@ -11,13 +11,13 @@ tags:
   - product
 ---
 
-Two of Slack’s original employees, Johnny Rodgers and Ali Rayl, have started writing a delightful newsletter/blog called [Building Slack](https://buildingslack.com/). Here are some great bits so far:
+Two of Slack’s original employees, Johnny Rodgers and Ali Rayl, have started writing a delightful newsletter/blog called [Building Slack](https://buildingslack.com/). There are some great passages already:
 
 The clarity of the [initial pitch from Stewart](https://buildingslack.com/day-1/):
 
 > “You'll know it's working when you don't have to use email at work any more.”
 
-A great example of a tactic I love – early startups setting a high bar for customer support:
+The very high bar for great customer support:
 
 > We turned around fixes and adjustments as quickly as we learned about them. We responded to each message personally — often directly from Stewart. This pattern and the fundamental respect that it demonstrated for our customers would become essential to Slack’s early success and eventual longevity.
 
