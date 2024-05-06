@@ -42,9 +42,9 @@ title: Post Archive
         <li class="
           {% if post.featured %} featured {% endif %}
           {% if post.link %} link {% endif %}
-          "><a href="{{ post.url }}">{{ post.title }}</a>
+          ">{% if post.link %}Link: {% endif %}<a href="{{ post.url }}">{{ post.title }}</a>
 
-      <span>{% if post.link %}<i><a href="{{ post.link }}">→</a></i>{% elsif post.summary %} &ndash; {{ post.summary }} {% endif %}</span></li>
+      <span>{% if post.link %}{% elsif post.summary %} &ndash; {{ post.summary }} {% endif %}</span></li>
     {% endfor %}
   </ul>
 
