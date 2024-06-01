@@ -73,7 +73,7 @@ A recent example of the rise of custom data is Microsoft’s [Phi-3 Technical Re
 
 Now, synthetic data is a hot topic in LLM research. It’s not yet clear how far you can go with training LLMs on their own output before things [go horribly wrong](https://arxiv.org/abs/2404.01413), like a giant neural snake eating its own tail.
 
-At the minimum, though, synthetic data will help fill the kind of gaps that arise simply from LLMs behaving like “internet simulators.” For example, if your model is hallucinating because you don’t have enough training examples of people expressing uncertainty, then generate some!
+At the minimum, though, synthetic data will help fill the kind of gaps that arise simply from LLMs behaving like “internet simulators.” For example, if your model is hallucinating because you don’t have enough training examples of people expressing uncertainty, or biased because it has unrepresentative data, then generate some better examples!
 
 Still, creating great synthetic data with LLMs is a challenging problem, and will have its limits. That’s why there’s one last huge source of non-internet data inbound: Humans.
 
