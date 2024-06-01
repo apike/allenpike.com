@@ -404,6 +404,11 @@ div.centered p {
   border-left: 2px solid #ff8315;
 }
 
+form.formkit-alert {
+  text-align: center;
+  font-size: 24px;
+}
+
 form.newsletter input {
   font-size: 18px;
   padding: 2px 6px 3px 6px;
@@ -415,12 +420,13 @@ form.newsletter input {
 
 form.newsletter {
   text-align: center;
+  margin-top: 1.5em;
 }
 
-form.newsletter input[type="text"] {
+form.newsletter input[type="text"], form.newsletter input[type="email"] {
   max-width: 250px;
   height: 40px;
-  border-radius: 4px 0 0 4px;
+  border-radius: 6px;
   font-family: "ff-meta-web-pro", Helvetica, sans-serif;
 }
 
@@ -429,7 +435,7 @@ form.newsletter input[type="submit"] {
   height: 40px;
   background-color: #ac36db;
   color: #FFFFFF;
-  border-radius: 0 4px 4px 0;
+  border-radius: 6px;
   border-color: #444;
   margin-left:-6px;
   font-family: "ff-meta-web-pro", Helvetica, sans-serif;
