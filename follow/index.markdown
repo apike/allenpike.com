@@ -27,7 +27,15 @@ target="popupwindow" onsubmit="window.open('https://feed.press/e/mailverify?feed
 </form>
 -->
 
-<!-- Insane convertkit form -->
+<!-- Stripped down convertkit form from https://sayzlim.net/plain-html-form-convertkit/ -->
+
+<form class="form" action="https://app.convertkit.com/forms/6651971/subscriptions" method="post" data-sv-form="6651971" data-uid="8ee4fcd98a" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;: &quot;redirect&quot;,&quot;redirect_url&quot;: &quot;https://allenpike.com/welcome/&quot;}}}">
+  <label for="email">Email</label>
+  <input type="email" value="" name="email_address" placeholder="Email Address" id="email" required>
+  <input type="submit" data-element="submit" class="subscribe" value="Subscribe">
+</form>
+
+<!--
 
 <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
 <form action="https://app.convertkit.com/forms/6651971/subscriptions" class="seva-form formkit-form" method="post" data-sv-form="6651971" data-uid="8ee4fcd98a" data-format="inline" data-version="5" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Success! Now check your email to confirm your subscription.&quot;,&quot;redirect_url&quot;:&quot;&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;fathom&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:false,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;5&quot;}" min-width="400 500 600 700 800" style="background-color: rgb(249, 250, 251); border-radius: 4px;">
@@ -653,6 +661,7 @@ target="popupwindow" onsubmit="window.open('https://feed.press/e/mailverify?feed
 }
 </style>
 </form>
+-->
 
 Email subscribers can expect a copy of each article I write, delivered to your inbox. Most months I post one or two articles.
 
