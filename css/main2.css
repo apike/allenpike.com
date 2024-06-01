@@ -313,39 +313,6 @@ div.centered p {
 @media (max-width: 1079px) {
   /* mobile + tablet */
 
-  #fusionads {
-    max-width: 100%;
-    float:right;
-  }
-
-  #fusionparent {
-    margin: 30px 0 20px;
-    background-color: #f6f6f6;
-    height: 100px;
-    font-size: 14px;
-    text-align: right;
-  }
-  .fusion-text {
-    margin-left: 20px;
-    margin-top: 18px;
-  }
-
-  .fusion-text:hover {
-    color: #2d692d;
-    text-decoration: none;
-  }
-  .fusion-img {
-    height: 90px;
-    margin-bottom: 10px;
-    float: right;
-    padding-left: 20px;
-  }
-  #fusionads .fusion-poweredby {
-    display: inline-block;
-    margin-top: 10px;
-    margin-left: 150px;
-  }
-
 }
 
 @media (min-width: 1080px) {
@@ -356,19 +323,6 @@ div.centered p {
     left: 20px;
   }
 
-  #fusionparent {
-    position: fixed;
-    left: 10px;
-    bottom: 10px;
-    width: 140px;
-    margin: 0;
-    text-align: left;
-  }
-  .fusion-img {
-    display: block;
-    margin-left: 0;
-    margin-right: 5px;
-  }
 }
 
 .videoWrapper {
@@ -418,6 +372,15 @@ form.newsletter input {
   width: 45%;
 }
 
+@media (max-width: 650px) {
+  /* phone */ 
+  form.newsletter input {
+    width: 100%;
+    max-width: 100%;
+    margin: 0.5em 0px;
+  }
+}
+
 form.newsletter {
   text-align: center;
   margin-top: 1.5em;
@@ -427,6 +390,7 @@ form.newsletter input[type="text"], form.newsletter input[type="email"] {
   max-width: 250px;
   height: 40px;
   border-radius: 6px;
+  margin-right: 0px;
   font-family: "ff-meta-web-pro", Helvetica, sans-serif;
 }
 
