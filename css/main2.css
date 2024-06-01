@@ -361,6 +361,7 @@ div.centered p {
 .formkit-alert {
   text-align: center;
   font-size: 24px;
+  margin: 2em 0;
 }
 
 form.newsletter input {
