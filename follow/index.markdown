@@ -15,8 +15,6 @@ Here’s how you can find out when I post articles:
 - Threads: [@allenjpike](https://www.threads.net/@allenjpike)
 - LinkedIn: [@allenpike](https://www.linkedin.com/in/allenpike/)
 
-Or subscribe by email, for your very own copy of my monthly articles. 💌
-
 <!--
 <form style="margin-top: 1em" class="newsletter" action="https://feed.press/e/mailverify" method="post"
 target="popupwindow" onsubmit="window.open('https://feed.press/e/mailverify?feed_id=allenpike', 'popupwindow',
@@ -29,8 +27,16 @@ target="popupwindow" onsubmit="window.open('https://feed.press/e/mailverify?feed
 
 <!-- Stripped down convertkit form from https://sayzlim.net/plain-html-form-convertkit/ -->
 
+<style>
+.formkit-alert {
+    text-align: center;
+    font-size: 24px;
+}
+</style>
+
 <script src="https://f.convertkit.com/ckjs/ck.5.js"></script>
-<form class="form" action="https://app.convertkit.com/forms/6651971/subscriptions" method="post" data-sv-form="6651971" data-uid="8ee4fcd98a" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;: &quot;message&quot;,&quot;success_message&quot;: &quot;Success! Now check your email to confirm your subscription.&quot;,&quot;redirect_url&quot;: &quot;&quot;}}}">
+<form class="form newsletter" action="https://app.convertkit.com/forms/6651971/subscriptions" method="post" data-sv-form="6651971" data-uid="8ee4fcd98a" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;: &quot;message&quot;,&quot;success_message&quot;: &quot;Excellent – now check your email to confirm your subscription. →&quot;,&quot;redirect_url&quot;: &quot;&quot;}}}">
+  Or subscribe by email, for your very own copy of my monthly articles. 💌
   <ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul>
   <label for="email">Email</label>
   <input type="email" value="" name="email_address" placeholder="Email Address" id="email" required>
