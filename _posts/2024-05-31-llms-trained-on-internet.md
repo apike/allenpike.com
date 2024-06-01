@@ -15,7 +15,7 @@ tags:
 
 I often see a misconception when people try to reason about the capability of LLMs, and in particular how much future improvement to expect.
 
-It’s frequently said that that LLMs are “trained on the internet,” and so they’ll always be bad at producing content that is rare on the internet. A recent [example from Hacker News](https://news.ycombinator.com/item?id=40333672):
+It’s frequently said that that LLMs are “trained on the internet,” and so they’ll always be bad at producing content that is rare on the web. A recent [example from Hacker News](https://news.ycombinator.com/item?id=40333672):
 
 > LLMs are mostly trained on Internet posts, so they are Internet simulators.
 
@@ -44,7 +44,7 @@ By 2022, LLMs were being [trained to follow instructions](https://arxiv.org/abs/
 
 But we do know **it’s not just the internet**.
 
-Recently, LLM trainers have hit a “[data wall](https://www.theverge.com/2024/4/1/24117828/the-internet-may-not-be-big-enough-for-the-llms)”. More data generally improves model training, but OpenAI already has roughly all the data on the internet – even inconvenient-to-access data like [Youtube video transcriptions](https://www.theverge.com/2024/4/6/24122915/openai-youtube-transcripts-gpt-4-training-data-google). So other than training ever-larger models on the same internet data, how can they make better LLMs?
+Recently, LLM trainers have hit a “[data wall](https://www.theverge.com/2024/4/1/24117828/the-internet-may-not-be-big-enough-for-the-llms)”. More data generally improves model training, but OpenAI already has roughly all the data on the web – even inconvenient-to-access data like [Youtube video transcriptions](https://www.theverge.com/2024/4/6/24122915/openai-youtube-transcripts-gpt-4-training-data-google). So other than training ever-larger models on the same internet data, how can they make better LLMs?
 
 The answer, for labs with money, is acquiring and creating non-public data. At first, their focus was making existing training data more useful, or adding existing non-public data to the training pool. For example:
 
@@ -57,7 +57,7 @@ So that’s all helpful.
 
 But none of these techniques are a complete solution to a famous weakness of current models: the “**LLMs suck at producing outputs that don’t look like existing data**” problem.
 
-Here are some of the many things that LLMs are bad at doing, in part because there isn’t a lot of text on the internet that demonstrates them:
+Here are some of the many things that LLMs are bad at doing, in part because there isn’t a lot of text online that demonstrates them:
 
 1. Expressing doubt or uncertainty in one’s answer
 2. Having long conversations without repeating phrasings or looping
@@ -79,7 +79,7 @@ Still, creating great synthetic data with LLMs is a challenging problem, and wil
 
 ## How much data can you create for $1B/yr?
 
-It turns out that if you pay people money, they’re willing to make data for you. [Scale.ai](https://scale.ai/), which bills itself as “the data foundry for AI,” operates a service where labs pay humans to do just this. Reportedly, AI companies are paying more than $1B a year for Scale’s services already. While some of this is for annotation and ratings on data that came from the internet or LLMs, they also [create new training data whole-hog](https://fortune.com/2024/05/21/scale-ai-funding-valuation-ceo-alexandr-wang-profitability/):
+It turns out that if you pay people money, they’re willing to make data for you. [Scale.ai](https://scale.ai/), which bills itself as “the data foundry for AI,” operates a service where labs pay humans to do just this. Reportedly, AI companies are paying more than $1B a year for Scale’s services already. While some of this is for annotation and ratings on data that came from the web or LLMs, they also [create new training data whole-hog](https://fortune.com/2024/05/21/scale-ai-funding-valuation-ceo-alexandr-wang-profitability/):
 
 > The company has shifted its focus to more highly-specialized workers such as Ph.D-level academics, lawyers, accountants, poets, authors, and those fluent in specific languages. These workers, who help train and test models for companies from OpenAI and Cohere to Anthropic and Google, also work through a third-party, often another Scale subsidiary called Outlier, but are paid higher hourly wages.
 
