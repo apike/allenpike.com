@@ -31,7 +31,6 @@ target="popupwindow" onsubmit="window.open('https://feed.press/e/mailverify?feed
 <form class="form newsletter" action="https://app.convertkit.com/forms/6651971/subscriptions" method="post" data-sv-form="6651971" data-uid="8ee4fcd98a" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;: &quot;message&quot;,&quot;success_message&quot;: &quot;Excellent – now check your email to confirm your subscription. →&quot;,&quot;redirect_url&quot;: &quot;&quot;}}}">
   <p>Or subscribe by email, for your very own copy of my monthly articles. 💌</p>
   <ul class="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul>
-  <label for="email">Email</label>
   <input type="email" value="" name="email_address" placeholder="Email Address" id="email" required>
   <input type="submit" data-element="submit" class="subscribe" value="Subscribe">
 </form>

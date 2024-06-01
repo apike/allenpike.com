@@ -369,7 +369,6 @@ form.newsletter input {
   border: 1px solid #ccc;
   -webkit-appearance: button;
   box-sizing: border-box;
-  width: 45%;
 }
 
 @media (max-width: 650px) {
@@ -378,6 +377,17 @@ form.newsletter input {
     width: 100%;
     max-width: 100%;
     margin: 0.5em 0px;
+  }
+}
+@media (min-width: 651px) {
+  /* desktop */
+  form.newsletter input[type="text"], form.newsletter input[type="email"] {
+    max-width: 250px;
+    margin-right: 0.5em;
+  }
+
+  form.newsletter input[type="submit"] {
+    max-width: 150px;
   }
 }
 
@@ -395,7 +405,6 @@ form.newsletter input[type="text"], form.newsletter input[type="email"] {
 }
 
 form.newsletter input[type="submit"] {
-  max-width: 150px;
   height: 40px;
   background-color: #ac36db;
   color: #FFFFFF;
