@@ -1,7 +1,7 @@
 ---
 layout: post
 author: allen
-title: LLMs Aren’t “Trained On the Internet” Anymore
+title: LLMs Aren’t Just “Trained On the Internet” Anymore
 summary: "A path to continued model improvement."
 date: 2024-05-31T05:45:30.955Z
 featured: false
