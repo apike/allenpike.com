@@ -383,11 +383,12 @@ form.newsletter input {
   /* desktop */
   form.newsletter input[type="text"], form.newsletter input[type="email"] {
     max-width: 250px;
-    margin-right: 0.5em;
+    margin-right: 4px;
+    width: 50%;
   }
 
   form.newsletter input[type="submit"] {
-    max-width: 150px;
+    width: 140px;
   }
 }
 
@@ -397,7 +398,6 @@ form.newsletter {
 }
 
 form.newsletter input[type="text"], form.newsletter input[type="email"] {
-  max-width: 250px;
   height: 40px;
   border-radius: 6px;
   margin-right: 0px;
@@ -410,7 +410,6 @@ form.newsletter input[type="submit"] {
   color: #FFFFFF;
   border-radius: 6px;
   border-color: #444;
-  margin-left:-6px;
   font-family: "ff-meta-web-pro", Helvetica, sans-serif;
 }
 
