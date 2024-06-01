@@ -8,7 +8,6 @@ featured: false
 categories:
   - Article
 tags:
-  - startups
   - llm
 
 ---
