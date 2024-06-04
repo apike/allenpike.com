@@ -358,7 +358,7 @@ div.centered p {
   border-left: 2px solid #ff8315;
 }
 
-.formkit-alert {
+div.formkit-alert {
   text-align: center;
   font-size: 24px;
   margin: 2em 0;
