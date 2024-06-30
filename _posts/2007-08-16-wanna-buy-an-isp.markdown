@@ -18,7 +18,7 @@ tags:
 - personal
 ---
 
-*I published [a more refined of this story](https://allenpike.com/2023/dialup-world-isp) in 2023.*
+*I published [a more refined version of this story](https://allenpike.com/2023/dialup-world-isp) in 2023.*
 
 ![Dialing up](/images/wp-uploads/2007/08/dialup.jpg)I used to work for a medium-sized ISP back in days of the dialup shakedown. They used to (and probably still do) buy up little, dying ISPs that had a dream of making it big, but are getting obliterated by high-speed. This is the story of how they bought out another company that they... probably shouldn't have.
 
