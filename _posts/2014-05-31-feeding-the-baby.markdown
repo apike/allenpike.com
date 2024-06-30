@@ -14,9 +14,10 @@ oldtags:
 tags:
 - steamclock
 - personal
-- best
 
 ---
+
+*I published [a more refined version of this story](/2024/feeding-the-baby-2) in 2024.*
 
 <img src='/images/2014/allen-baby.jpg' style='width:250px' class='side'>
 

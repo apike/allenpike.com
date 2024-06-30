@@ -18,6 +18,8 @@ tags:
 - personal
 ---
 
+*I published [a more refined version of this story](https://allenpike.com/2023/dialup-world-isp) in 2023.*
+
 ![Dialing up](/images/wp-uploads/2007/08/dialup.jpg)I used to work for a medium-sized ISP back in days of the dialup shakedown. They used to (and probably still do) buy up little, dying ISPs that had a dream of making it big, but are getting obliterated by high-speed. This is the story of how they bought out another company that they... probably shouldn't have.
 
 The acquired company (let's call them Dialup World) was flying high in the late 90s. They had fancy offices, fancy computers, and fancy ads. In fact, they made a $1 million ad... and went bankrupt before it could air. They tried to transition to ADSL, but before they could pull out of the nose dive, they hit the ground in a heap of flaming wreckage. Our company swooped in and bought their customer base  as well as their fancy computers. Of course, their employees, offices, and ads weren't very useful, so they gave all Dialup World employees notice that they'd be laid off soon... but in the meantime could they please keep running a tight ship. Can you say, "disgruntled"?
