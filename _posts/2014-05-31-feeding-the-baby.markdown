@@ -18,6 +18,8 @@ tags:
 
 ---
 
+*I published [a more refined of this story](https://allenpike.com/2024/feeding-the-baby-2) in 2024.*
+
 <img src='/images/2014/allen-baby.jpg' style='width:250px' class='side'>
 
 Like all respectable businesses, Steamclock started in a basement. Four years ago, we outfitted Nigel's basement with the old desks we'd imported from our corporate jobs, and some basic office chairs. Our presence was fascinating to Nigel's kids, and they'd come downstairs to visit whenever they could find an excuse. They'd often draw us making apps, or map out ideas for their own apps and games.
