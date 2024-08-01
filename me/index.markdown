@@ -9,7 +9,7 @@ isMe: true
 ---
 
 <img src='/images/2024/allen-pike-2024.jpg' style='width: 220px;' class='side'>
-I’m a founder who loves building great products and teams, currently spinning up [a new product startup](https://forestwalk.ai/). Previously I founded [Steamclock](https://steamclock.com/), a studio in Vancouver that builds nice apps, and was a Software Engineer at Apple.
+I’m a founder who loves building great products and teams, currently building a new product startup, [Forestwalk](https://forestwalk.ai/). Previously I founded [Steamclock](https://steamclock.com/), a studio in Vancouver that builds nice apps, and was a Software Engineer at Apple.
 
 I also [write monthly about technology and teams](/archive/), host a podcast [about leadership](https://itshipped.fm) and one [about facts](https://funfact.fm), [speak](/speaking/) about what I’ve learned, and informally advise startups.
 

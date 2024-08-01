@@ -22,7 +22,7 @@ To be an AI product engineer today is to constantly ask new questions that impac
 
 Interesting questions, and answerable with some mix of experimentation and discussion with other AI teams.
 
-However, a common question comes up that is *not* easy to answer: **“Will this problem sill matter when GPT-5 comes out?”** This is a fun one: it’s a bit silly and speculative, but also *potentially* an existential risk to any given business.
+However, a common question comes up that is *not* easy to answer: **“Will this problem still matter when GPT-5 comes out?”** This is a fun one: it’s a bit silly and speculative, but also *potentially* an existential risk to any given business.
 
 Of course, we don’t know exactly what the next generation of frontier models will bring. But we can make some pretty safe bets. They’ll:
 
