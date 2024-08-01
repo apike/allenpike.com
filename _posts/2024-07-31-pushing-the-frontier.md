@@ -2,36 +2,46 @@
 layout: post
 author: allen
 title: Pushing the Frontier
-summary: "Whither GPT-5 – and why care?"
+summary: "If – and when – GPT-5 might eat your lunch"
 date: 2024-07-31T05:45:30.955Z
 featured: false
+image: "/images/2024/gpt-releases-og.png"
 tags:
   - llm
 
 ---
 
-Lately I’ve been working with a bunch of teams and founders that are building products on top of LLMs. This is a lot of fun, since modern AI product engineers constantly uncover new questions that greatly impact how they build products. Questions like:
+Lately I’ve been working with a lot of teams and founders that are building products on top of LLMs. This is a lot of fun.
 
-- “Is there a way we can ensure that user input will never result in prompt injection?” (Very likely no)
-- “Will GPT-4o mini get better results than Llama 3.1 70B for this prompt?” (Probably not)
-- “Can we train a cheap and fast model to replace our use of OpenAI for this classification task?” (Perhaps yes)
-- “Should we still be working to stay within a 64k context budget now that GPT-4o supports 128k?” (Likely yes)
+To be an AI product engineers today is to constantly ask new questions that impact how you build products. Questions like:
 
-Interesting questions, but fundamentally answerable with some mix of direct experimentation and discussion with other teams working on similar problems. However, one question that sometimes comes up that can be tricky to answer definitively is, **“Will this problem sill matter when GPT-5 comes out?”** This is a fun one, since it’s both speculative, and *potentially* an existential risk to any given business.
+- “Is there a way we can ensure that user input will never result in prompt injection?” *Likely no*
+- “Will GPT-4o mini get better results than Llama 3.1 70B for this prompt?” *Probably not*
+- “Can we train a cheap and fast model to replace our use of OpenAI for this classification task?” *Perhaps yes*
+- “Should we still be working to stay within a 64k context budget now that GPT-4o supports 128k?” *Likely yes*
 
-Of course, we don’t know exactly what the next generation of frontier models will bring. But we can make some pretty safe bets. They’ll seem meaningfully smarter, follow more complex instructions more faithfully, reduce the engineering lift needed to get certain classes of problems to work, and expand the limits of what kinds of problems large AI models can be applied to at all.
+Interesting questions, and answerable with some mix of experimentation and discussion with other AI teams.
 
-While product teams need to focus on building things that are useful today, we need to at least consider where the puck is going. Otherwise, we might build a business around something that stops being useful, simply because LLMs just do it by default.
+However, one common question that is trickier to answer definitively is, **“Will this problem sill matter when GPT-5 comes out?”** This is a fun one: it’s a bit silly and speculative, but also *potentially* an existential risk to any given business.
 
-Sam Altman has intentionally fanned the flames here, [explicitly warning startups](https://www.youtube.com/watch?v=G8T1O81W96Y) that if they’re building minor improvements on top of GPT-4, assuming that the models won’t get much better, “We’re gonna steamroll you.” Even if you discount his tendency to hype future models as self-serving, it’s hard to deny the risk: nobody wants to start, invest in, or go work for a company that will shortly be obsoleted.
+Of course, we don’t know exactly what the next generation of frontier models will bring. But we can make some pretty safe bets. They’ll:
 
-This leads to a related question: “How do I know if a given LLM-powered product company will be obsoleted by model improvements?” OpenAI’s Greg Brockman [proposed a test](https://www.youtube.com/watch?v=G8T1O81W96Y):
+1. Seem meaningfully smarter
+2. Follow more complex instructions more faithfully
+3. Reduce the engineering lift needed to apply AI to certain problems
+4. Expand the set of problems AI can be applied to at all.
+
+While product teams need to focus on building things that are useful today, we need to at least consider where the puck is going. Otherwise, we might build a business around something that, in a year or two, stops being useful. If your product was "A JSON enforcer for LLMs," you’re probably [done for now](https://platform.openai.com/docs/guides/json-mode).
+
+Sam Altman has intentionally fanned the flames here, [explicitly warning startups](https://www.youtube.com/watch?v=G8T1O81W96Y) that if you build minor improvements on top of GPT-4, assuming that the models won’t get much better, “We’re gonna steamroll you.” Even accounting for his self-serving tendency to hype future models, it’s hard to deny the risk: nobody wants to start, invest in, or go work for a company that will shortly be obsoleted.
+
+So how do you if a given LLM-powered product company will end up obsoleted by model improvements? OpenAI’s Greg Brockman [proposed a test](https://www.youtube.com/watch?v=G8T1O81W96Y):
 
 > Ask the company if a 100x improvement in the model would be something they’re excited about. We can tell pretty well, because we know the companies that come to us saying, “We want the next model, when is it coming out, I want to be the first to try it, it’s going to be the best thing for my company.” … If there’s a clear path to how better underlying intelligence accelerates that product, then that’s a pretty good delineation.
 
 The basic idea here is to make a product that will be more useful when the models get way better. Do that, and the rising tide should lift you as you go.
 
-Given this, Y Combinator startups building on AI (which most of them, reportedly) are often advised that current AI models aren’t quite powerful enough for their product to work well, that’s okay. The idea is that when the next big model comes along, teams that were previously pushing the limits of the frontier models will be poised to make the best use of the new capabilities.
+Given this, Y Combinator startups building on AI (which is most of them, reportedly) are often advised that even current AI models aren’t quite powerful enough for their product to work well, that’s okay. The theory is that when the next big model comes along, teams that were previously pushing the limits of the frontier models will be poised to make the best use of the new capabilities.
 
 Put another way: in tech, building for an impending future is reasonable.
 
