@@ -41,7 +41,7 @@ So how do you if a given LLM-powered product company will end up obsoleted by mo
 
 The basic idea here is to make a product that will be more useful when the models get way better. Do that, and the rising tide should lift you as you go.
 
-Given this, Y Combinator startups building on AI (which is most of them, reportedly) are often advised that even current AI models aren’t quite powerful enough for their product to work well, that’s okay. The theory is that when the next big model comes along, teams that were previously pushing the limits of the frontier models will be poised to make the best use of the new capabilities.
+Given this, Y Combinator startups building on AI (which is most of them, reportedly) are often advised that even current AI models aren’t quite powerful enough for their product to work well, that’s okay. The theory is that when the next big model comes along, teams that were previously pushing the limits of the frontier models will be prepared to make the best use of the new capabilities.
 
 Put another way: in tech, building for an impending future is reasonable.
 
@@ -55,18 +55,18 @@ It’s a fun thing to speculate about. Luckily, there’s just enough info out t
 
 Three years? Woof. The GPT-4-class era started in March ’23, so that would put the GPT-5 era in early 2026.
 
-While Sam Altman has been obliquely [hinting at GPT-5 in 2024 for a while](https://x.com/sama/status/1738673279085457661), the end-of-2025 lines up with [another interview, also in June](https://www.youtube.com/watch?v=yUoj9B8OpR8), where OpenAI CTO Mira Murati said to expect GPT’s performance to jump from “smart high-schooler” to “Ph.D level intelligence” in about 1.5 years, or roughly December 2025.
+While Sam Altman has been obliquely [hinting that GPT-5 will come in 2024 for a while](https://x.com/sama/status/1738673279085457661), the end-of-2025 timeline meshes with [another interview, also in June](https://www.youtube.com/watch?v=yUoj9B8OpR8), where OpenAI CTO Mira Murati said to expect GPT’s performance to jump from “smart high-schooler” to “Ph.D level intelligence” in about 1.5 years, or roughly December 2025.
+
+So on OpenAI’s roadmap, it seems the next huge leap is on track for roughly the end of of 2025. That’s a long time, at least for teams working on products that are betting on that leap to fully work.
 
 <div class="centered">
 <a href="/images/2024/gpt-releases.png"><img src="/images/2024/gpt-releases.png"></a>
 </div>
 
-So on OpenAI’s roadmap, it seems the next huge leap is on track for roughly the end of of 2025. That’s a long time, at least for teams working on products that are betting on that leap to fully work.
+Luckily, meaningful incremental improvements are inbound in the meantime. At the [GPT-4o event back in May](https://www.youtube.com/watch?v=DQacCB9tDaw), Murati promised that the “next big thing” was coming “soon”, which pairs well with rumours of a GPT-4.5-like model coming this fall. Some users have also recently seen glitches where ChatGPT briefly shows “GPT-4.5” in the model selector.
 
-Luckily, meaningful incremental improvements are inbound in the meantime. At the [GPT-4o event back in May](https://www.youtube.com/watch?v=DQacCB9tDaw), OpenAI CTO Mira Murati promised that the “next big thing” was coming “soon,” which pairs well with rumours of a GPT-4.5-like model coming this fall. Some users have also recently seen glitches where ChatGPT briefly shows “GPT-4.5” in the model selector.
+Even if OpenAI might not achieve what we might think of as GPT-5-class performance for some time yet, it’s worth noting that OpenAI might not even be the first to get there. Back in 2022, GPT-4 was the only model being trained with compute of that scale. Today, a herd of big players have invested billions into AI hardware. [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet) and [Llama 3.1 405B](https://ai.meta.com/blog/meta-llama-3-1/) are just two of the many OpenAI-caliber frontier models we have today – and a larger Claude 3.5 Opus is coming “later this year”.
 
-Even if OpenAI might not achieve what we might think of as GPT-5-class performance for some time yet, it’s worth noting that OpenAI might not be the first to get there. While back in 2022 GPT-4 was the only model being trained with such a huge amount of compute, today a herd of big players have invested billions into AI hardware. [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet) and [Llama 3.1 405B](https://ai.meta.com/blog/meta-llama-3-1/) are just two of the many OpenAI-caliber frontier models we have today – and the larger Claude 3.5 Opus is coming “later this year”.
+One way or another, the now long-held status quo of GPT-4 defining the frontier of LLMs seems poised to end. Some products are going to get steamrolled, and others that just barely work today are going to suddenly thrive. It’s a wild world out there.
 
-One way or another, the 1.5-year status quo of a GPT-4-class frontier seems about to end. One way or another, the big models are going to get more powerful, some startups are going to get steamrolled, and other products that just barely work today are going to benefit greatly. It’s a wild world out there.
-
-In the meantime, though, it’s best to keep focused on the core thing that matters: building useful stuff.
+In the meantime, though, don’t lose too much sleep over it. There is so much to build still, even with what we already have. To do that, we need to stay focused on the core thing that matters: building useful stuff.
