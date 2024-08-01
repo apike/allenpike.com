@@ -67,6 +67,6 @@ Luckily, meaningful incremental improvements are inbound in the meantime. At the
 
 Even if OpenAI might not achieve what we might think of as GPT-5-class performance for some time yet, it’s worth noting that they might not even be the first to get there. Back in 2022, GPT-4 was the only model being trained with compute of that scale. Today, a herd of big players have invested billions into AI hardware. [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet) and [Llama 3.1 405B](https://ai.meta.com/blog/meta-llama-3-1/) are just two of the many OpenAI-caliber frontier models we have today – and a larger Claude 3.5 Opus is coming “later this year”.
 
-One way or another, the now long-held status quo of GPT-4 defining the frontier of LLMs seems poised to end. Some products are going to get steamrolled, and others that just barely work today are going to suddenly thrive. It’s a wild world out there.
+One way or another, the now long-held status quo, with GPT-4 defining the frontier of LLMs, seems poised to end. Some products are going to get steamrolled, and others that just barely work today are going to suddenly thrive. It continues to be a wild world.
 
-In the meantime, though, don’t lose too much sleep over it. There is so much to build still, even with what we already have. To do that, we need to stay focused on the core thing that matters: building useful stuff.
+Still, try not to lose sleep over it. There is so much to do still, even with what we already have. To do that, we need to stay focused on the core thing that matters: building useful stuff.
