@@ -1,0 +1,62 @@
+---
+layout: post
+author: allen
+title: Pushing the Frontier
+summary: "Whither GPT-5 – and why care?"
+date: 2024-07-31T05:45:30.955Z
+featured: false
+tags:
+  - llm
+
+---
+
+Lately I’ve been working with a bunch of teams and founders that are building products on top of LLMs. This is a lot of fun, since modern AI product engineers constantly uncover new questions that greatly impact how they build products. Questions like:
+
+- “Is there a way we can ensure that user input will never result in prompt injection?” (Very likely no)
+- “Will GPT-4o mini get better results than Llama 3.1 70B for this prompt?” (Probably not)
+- “Can we train a cheap and fast model to replace our use of OpenAI for this classification task?” (Perhaps yes)
+- “Should we still be working to stay within a 64k context budget now that GPT-4o supports 128k?” (Likely yes)
+
+Interesting questions, but fundamentally answerable with some mix of direct experimentation and discussion with other teams working on similar problems. However, one question that sometimes comes up that can be tricky to answer definitively is, **“Will this problem sill matter when GPT-5 comes out?”** This is a fun one, since it’s both speculative, and *potentially* an existential risk to any given business.
+
+Of course, we don’t know exactly what the next generation of frontier models will bring. But we can make some pretty safe bets. They’ll seem meaningfully smarter, follow more complex instructions more faithfully, reduce the engineering lift needed to get certain classes of problems to work, and expand the limits of what kinds of problems large AI models can be applied to at all.
+
+While product teams need to focus on building things that are useful today, we need to at least consider where the puck is going. Otherwise, we might build a business around something that stops being useful, simply because LLMs just do it by default.
+
+Sam Altman has intentionally fanned the flames here, [explicitly warning startups](https://www.youtube.com/watch?v=G8T1O81W96Y) that if they’re building minor improvements on top of GPT-4, assuming that the models won’t get much better, “We’re gonna steamroll you.” Even if you discount his tendency to hype future models as self-serving, it’s hard to deny the risk: nobody wants to start, invest in, or go work for a company that will shortly be obsoleted.
+
+This leads to a related question: “How do I know if a given LLM-powered product company will be obsoleted by model improvements?” OpenAI’s Greg Brockman [proposed a test](https://www.youtube.com/watch?v=G8T1O81W96Y):
+
+> Ask the company if a 100x improvement in the model would be something they’re excited about. We can tell pretty well, because we know the companies that come to us saying, “We want the next model, when is it coming out, I want to be the first to try it, it’s going to be the best thing for my company.” … If there’s a clear path to how better underlying intelligence accelerates that product, then that’s a pretty good delineation.
+
+The basic idea here is to make a product that will be more useful when the models get way better. Do that, and the rising tide should lift you as you go.
+
+Given this, Y Combinator startups building on AI (which most of them, reportedly) are often advised that current AI models aren’t quite powerful enough for their product to work well, that’s okay. The idea is that when the next big model comes along, teams that were previously pushing the limits of the frontier models will be poised to make the best use of the new capabilities.
+
+Put another way: in tech, building for an impending future is reasonable.
+
+However. If you’re spending all day working on a product that doesn’t *quite* work yet due to limitations with GPT-4o and other frontier models, you’re going to be really curious: *Is it worth trying to eke out 5% better performance for this sub-prompt, or should we just wait for the models to get better? When is that next frontier leap coming?*
+
+It’s a fun thing to speculate about. Luckily, there’s just enough info out there to make a defensible projection.
+
+[In a June Stratechery interview](https://stratechery.com/2024/an-interview-with-daniel-gross-and-nat-friedman-about-apple-and-ai/), Nat Friedman (not an OpenAI employee, but someone [in a position to know](https://www.theinformation.com/articles/former-github-ceos-novel-investment-offer-to-ai-founders-rare-server-chips)) gave a timeline for the next big leap: 
+
+> It takes about three years to roll new models, new big pre-trainings. So we’re kind of in the post-4, pre-5 era. During this time, innovation has shifted to post-training, and we’ve actually learned that you can do a lot in post-training – it can improve a lot.
+
+Three years? Woof. The GPT-4-class era started in March ’23, so that would put the GPT-5 era in early 2026.
+
+While Sam Altman has been obliquely [hinting at GPT-5 in 2024 for a while](https://x.com/sama/status/1738673279085457661), the end-of-2025 lines up with [another interview, also in June](https://www.youtube.com/watch?v=yUoj9B8OpR8), where OpenAI CTO Mira Murati said to expect GPT’s performance to jump from “smart high-schooler” to “Ph.D level intelligence” in about 1.5 years, or roughly December 2025.
+
+<div class="centered">
+<a href="/images/2024/gpt-releases.png"><img src="/images/2024/gpt-releases.png"></a>
+</div>
+
+So on OpenAI’s roadmap, it seems the next huge leap is on track for roughly the end of of 2025. That’s a long time, at least for teams working on products that are betting on that leap to fully work.
+
+Luckily, meaningful incremental improvements are inbound in the meantime. At the [GPT-4o event back in May](https://www.youtube.com/watch?v=DQacCB9tDaw), OpenAI CTO Mira Murati promised that the “next big thing” was coming “soon,” which pairs well with rumours of a GPT-4.5-like model coming this fall. Some users have also recently seen glitches where ChatGPT briefly shows “GPT-4.5” in the model selector.
+
+Even if OpenAI might not achieve what we might think of as GPT-5-class performance for some time yet, it’s worth noting that OpenAI might not be the first to get there. While back in 2022 GPT-4 was the only model being trained with such a huge amount of compute, today a herd of big players have invested billions into AI hardware. [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet) and [Llama 3.1 405B](https://ai.meta.com/blog/meta-llama-3-1/) are just two of the many OpenAI-caliber frontier models we have today – and the larger Claude 3.5 Opus is coming “later this year”.
+
+One way or another, the 1.5-year status quo of a GPT-4-class frontier seems about to end. One way or another, the big models are going to get more powerful, some startups are going to get steamrolled, and other products that just barely work today are going to benefit greatly. It’s a wild world out there.
+
+In the meantime, though, it’s best to keep focused on the core thing that matters: building useful stuff.
