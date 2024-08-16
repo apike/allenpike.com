@@ -1,7 +1,7 @@
 ---
 layout: post
 author: allen
-title: Forestwalk Labs
+title: Starting Forestwalk
 summary: "A wild startup appears."
 date: 2024-08-16T05:45:30.955Z
 featured: false
