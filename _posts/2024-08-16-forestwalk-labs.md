@@ -5,7 +5,7 @@ title: Forestwalk Labs
 summary: "A wild startup appears."
 date: 2024-08-16T05:45:30.955Z
 featured: false
-image: "/images/2024/forestwalk-logo.png"
+image: "/images/2024/fw-opengraph.jpg"
 tags:
   - llm
   - forestwalk
@@ -39,7 +39,7 @@ A delightful part about learning new things is that knowledge has a fractal shap
 
 Researching this uncovered many deeper problems and questions, for example:
 
-> How do you test and evaluate a non-deterministic LLM-powered product as your team iterates it?
+> How do you test and evaluate a non-deterministic LLM-powered product as your team iterates?
 
 Inside this lay countless finer-grained questions around evaluation approaches, workflows, safety, developer experience, testing, product experiment velocity, and so on.
 
@@ -59,7 +59,7 @@ or
 
 Those are exciting things to hear!
 
-So we’re spending our days writing code, learning, and talking to engineering teams who are building with LLMs. Worst case, we learn a lot about how to apply a useful new tool, and help some other teams along the way. Ideal case, the product we’re prototyping helps those teams ship awesome products faster, kickstarting a great business.
+So we’re spending our days writing code, learning, and talking to engineering teams who are building with LLMs. Worst case, we learn a lot about how to apply a useful new tool, and help some folks along the way. Ideal case, the product we’re prototyping helps those teams ship awesome products faster, kickstarting a great business.
 
 If you’re a developer who wants to try what we’re working on when it’s ready, or compare notes on the challenges of applying LLMs on product teams, [get in touch](https://om5mj4keoar.typeform.com/to/m9VicSt2?typeform-source=forestwalk.ai)!
 
