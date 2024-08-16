@@ -39,11 +39,11 @@ A delightful part about learning new things is that knowledge has a fractal shap
 
 Researching this uncovered many deeper problems and questions, for example:
 
-> How do you test and evaluate a non-deterministic LLM-powered product as you iterate and attempt to improve it?
+> How do you test and evaluate a non-deterministic LLM-powered product as your team iterates it?
 
 Inside this lay countless finer-grained questions around evaluation approaches, workflows, safety, developer experience, testing, product experiment velocity, and so on.
 
-In more-established domains, researching fractally into a problem uncovers layers of increasingly detailed answers and best practices. When you’re researching an emerging area, though, once you get more than one or two questions deep – even talking to world experts – you hit on meaningfully unsolved problems.
+In more-established domains, researching fractally into a problem uncovers layers of increasingly detailed answers and best practices. When you’re researching an emerging area, though, once you get more than one or two questions deep – even talking to world experts – you hit on meaningful unsolved problems.
 
 In the interviews I’ve been doing, I often get answers like,
 
@@ -59,8 +59,8 @@ or
 
 Those are exciting things to hear!
 
-So we’re spending our days writing code, learning, and talking to engineering teams who are building with LLMs. Worst case, we learn a lot about how to apply a useful new tool. Ideal case, the product we’re prototyping helps those teams ship awesome products faster, kickstarting a meaningful business.
+So we’re spending our days writing code, learning, and talking to engineering teams who are building with LLMs. Worst case, we learn a lot about how to apply a useful new tool, and help some other teams along the way. Ideal case, the product we’re prototyping helps those teams ship awesome products faster, kickstarting a great business.
 
-If you’re a developer who wants to try what we’re working on when it’s ready, or compare notes on the world of LLM product development, [get in touch](https://om5mj4keoar.typeform.com/to/m9VicSt2?typeform-source=forestwalk.ai)!
+If you’re a developer who wants to try what we’re working on when it’s ready, or compare notes on the challenges of applying LLMs on product teams, [get in touch](https://om5mj4keoar.typeform.com/to/m9VicSt2?typeform-source=forestwalk.ai)!
 
 Or, you can just [follow along](/follow/) as I write about the wild adenture of starting something new. 🚀
