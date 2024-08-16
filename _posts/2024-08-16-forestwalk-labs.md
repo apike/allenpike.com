@@ -63,4 +63,4 @@ So we’re spending our days writing code, learning, and talking to engineering 
 
 If you’re a developer who wants to try what we’re working on when it’s ready, or compare notes on the challenges of applying LLMs on product teams, [get in touch](https://om5mj4keoar.typeform.com/to/m9VicSt2?typeform-source=forestwalk.ai)!
 
-Or, you can just [follow along](/follow/) as I write about the wild adenture of starting something new. 🚀
+Or, you can just [follow along](/follow/) as I write about the wild adventure of starting something new. 🚀
