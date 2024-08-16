@@ -36,4 +36,4 @@ target="popupwindow" onsubmit="window.open('https://feed.press/e/mailverify?feed
 
 Email subscribers can expect one or two emails a month.
 
-I’m also present on [Threads](https://www.threads.net/@allenjpike)[Instagram](https://www.instagram.com/allenjpike/), [Bluesky](https://bsky.app/profile/allenpike.com), [Letterboxd](https://letterboxd.com/pikerosoft/), and [Goodreads](https://www.goodreads.com/user/show/74341139), and you can follow my [podcasts](/speaking/) as well. We truly live in an age of wonders.
+I’m also present on [Threads](https://www.threads.net/@allenjpike), [Instagram](https://www.instagram.com/allenjpike/), [Bluesky](https://bsky.app/profile/allenpike.com), [Letterboxd](https://letterboxd.com/pikerosoft/), and [Goodreads](https://www.goodreads.com/user/show/74341139), and you can follow my [podcasts](/speaking/) as well. We truly live in an age of wonders.

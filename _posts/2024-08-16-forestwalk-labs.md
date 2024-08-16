@@ -33,17 +33,17 @@ That makes for a great initial sketch of where to direct our work.
 
 # Getting started
 
-A delightful thing about learning new things is that, generally, they have a fractal shape. Recently, we started with a high-level curiosity:
+A delightful part about learning new things is that knowledge has a fractal shape. Recently, we started with a high-level curiosity:
 
 > How do you build great products on LLMs?
 
-Researching this raised many problems and questions, for example:
+Researching this uncovered many deeper problems and questions, for example:
 
 > How do you test and evaluate a non-deterministic LLM-powered product as you iterate and attempt to improve it?
 
-From this popped countless finer-grained questions around evaluation approaches, workflows, safety, developer experience, testing, product experiment velocity, and so on.
+Inside this lay countless finer-grained questions around evaluation approaches, workflows, safety, developer experience, testing, product experiment velocity, and so on.
 
-In more-established domains, researching fractally into a problem uncovers layers of increasingly detailed answers and best practices. When you’re researching a new area, though, once you get more than one or two questions deep – even talking to world experts – you hit on meaningfully unsolved problems.
+In more-established domains, researching fractally into a problem uncovers layers of increasingly detailed answers and best practices. When you’re researching an emerging area, though, once you get more than one or two questions deep – even talking to world experts – you hit on meaningfully unsolved problems.
 
 In the interviews I’ve been doing, I often get answers like,
 
@@ -51,7 +51,7 @@ In the interviews I’ve been doing, I often get answers like,
 
 or
 
-> I saw a paper that but I don’t know of anybody who has tried implementing it.
+> I saw a paper on that, but I don’t know of anybody who has tried implementing it.
 
 or
 
@@ -59,7 +59,7 @@ or
 
 Those are exciting things to hear!
 
-So we’re spending our days writing code, learning, and talking to engineering teams who are building with LLMs. Worst case, we learn a lot about how to apply a fascinating new tool. Ideal case, the product we’re prototyping helps those teams ship awesome products faster, kickstarting a wonderful business.
+So we’re spending our days writing code, learning, and talking to engineering teams who are building with LLMs. Worst case, we learn a lot about how to apply a useful new tool. Ideal case, the product we’re prototyping helps those teams ship awesome products faster, kickstarting a meaningful business.
 
 If you’re a developer who wants to try what we’re working on when it’s ready, or compare notes on the world of LLM product development, [get in touch](https://om5mj4keoar.typeform.com/to/m9VicSt2?typeform-source=forestwalk.ai)!
 
