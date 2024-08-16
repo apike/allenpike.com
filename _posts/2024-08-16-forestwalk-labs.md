@@ -4,7 +4,7 @@ author: allen
 title: Forestwalk Labs
 summary: "A wild startup appears."
 date: 2024-08-16T05:45:30.955Z
-featured: true
+featured: false
 image: "/images/2024/forestwalk-logo.png"
 tags:
   - llm
@@ -29,7 +29,7 @@ For [Jenn](https://www.linkedin.com/in/jncoops/) and I, though, a few things *do
 3. LLMs have created a horde of opportunities to build great, useful products
 4. Sharing what we’re learning is worthwhile
 
-That makes a great initial sketch of where to direct our work.
+That makes for a great initial sketch of where to direct our work.
 
 # Getting started
 
@@ -39,13 +39,23 @@ A delightful thing about learning new things is that, generally, they have a fra
 
 Researching this raised many problems and questions, for example:
 
-> How do you test and evaluate a non-deterministic LLM-powered product as you iterate and improve it?
+> How do you test and evaluate a non-deterministic LLM-powered product as you iterate and attempt to improve it?
 
 From this popped countless finer-grained questions around evaluation approaches, workflows, safety, developer experience, testing, product experiment velocity, and so on.
 
-In more-established domains, researching deep into a problem like this uncovers a series of more detailed answers and best practices. When you’re researching a new area, though, once you get more than one or two questions deep – even talking to world experts – you hit on meaningfully unsolved problems.
+In more-established domains, researching fractally into a problem uncovers layers of increasingly detailed answers and best practices. When you’re researching a new area, though, once you get more than one or two questions deep – even talking to world experts – you hit on meaningfully unsolved problems.
 
-In the interviews I’ve been doing, I often get answers like, “Oh, I don’t know! I would love to hear what other teams are doing for that,” or “I saw a paper that but I don’t know of anybody who has tried implementing it,” or “If you can solve that well, we should be your first customer.”
+In the interviews I’ve been doing, I often get answers like,
+
+> Oh, I don’t know! I would love to hear what other teams are doing for that.
+
+or
+
+> I saw a paper that but I don’t know of anybody who has tried implementing it.
+
+or
+
+> If you can solve that well, can we be your first customer?
 
 Those are exciting things to hear!
 
@@ -53,4 +63,4 @@ So we’re spending our days writing code, learning, and talking to engineering 
 
 If you’re a developer who wants to try what we’re working on when it’s ready, or compare notes on the world of LLM product development, [get in touch](https://om5mj4keoar.typeform.com/to/m9VicSt2?typeform-source=forestwalk.ai)!
 
-Or, you can just follow along as I write about the wild adenture of starting something new. 🚀
+Or, you can just [follow along](/follow/) as I write about the wild adenture of starting something new. 🚀
