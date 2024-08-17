@@ -22,7 +22,7 @@ A startup, fundamentally, is a search for a repeatable, scalable business model.
 
 This experimental nature makes many founders reluctant to talk about their startups early on. *What if I share our initial ideas, but they turn out to be wrong?* It can seem nothing is certain enough to talk about.
 
-For [Jenn](https://www.linkedin.com/in/jncoops/) and I, though, a few things *do* seem certain:
+For [Jenn](https://www.linkedin.com/in/jncoops/) and me, though, a few things *do* seem certain:
 
 1. We want to build software that people love
 2. This software needs to be valuable enough that it can support an incredible team
