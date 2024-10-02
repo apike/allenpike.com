@@ -1,7 +1,7 @@
 ---
 layout: post
 author: allen
-title: "Infer, an AI Engineering Meetup in Vancouver"
+title: "Infer, an AI Eng Meetup in Vancouver"
 date: 2024-10-02T21:11:05.627Z
 featured: false
 link: "https://lu.ma/infer"
