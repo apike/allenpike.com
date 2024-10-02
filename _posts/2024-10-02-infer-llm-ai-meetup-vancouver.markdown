@@ -11,7 +11,7 @@ tags:
   - llm
 ---
 
-Next week, we'll be kicking off a new speaker series in Vancouver called Infer](https://lu.ma/infer). The goal of the meetup is to bring together folks who are doing great AI engineering work, so we can learn from one another.
+Next week, we'll be kicking off [a new speaker series in Vancouver called Infer](https://lu.ma/infer). The goal of the meetup is to bring together folks who are doing great AI engineering work, so we can learn from one another.
 
 The format will be familiar to folks that have attended [my previous meetups](https://allenpike.com/2010/howto-start-a-technical-meetup): two speakers, often one of whom will be visiting from out of town, with time to chat afterward. Events will happen roughly every two months, when we have compelling topics lined up.
 
