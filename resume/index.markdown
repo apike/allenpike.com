@@ -8,21 +8,26 @@ title: Allen Pike's Resume
 wordpress_id: 198
 ---
 
-Allen is a technical product leader who runs Steamclock Software in Vancouver, podcasts, and writes – among other things.
+Allen is a technical product leader who runs Forestwalk Labs in Vancouver, podcasts, and writes – among other things.
 
 ## Work History
 
-#### [Steamclock Software](http://www.steamclocksoftware.com/), CEO and Co-founder, 2010 - present
+#### [Forestwalk Labs](http://forestwalk.ai/), CEO and Co-founder, 2024
+
+* Founded a venture-track startup building dev tools for AI engineering teams
+* Wears the non-engineering hats, and writes TypeScript as needed
+
+#### [Steamclock Software](http://steamclock.com/), CEO and Co-founder, 2010 - 2024
 
 * Founded and grew a profitable consulting studio from 2 to 16 people
 * Led teams that have shipped dozens of top-notch iOS and Android apps
 * Hired and developed a team of skilled designers, developers, and leaders
 * Wrote Swift, did UX design, and managed projects as we built our team
-* Guides culture, strategy, finances, hiring, and product
+* Guided culture, strategy, finances, hiring, and product
 
-#### [Royal Pixel Service](http://royalpixel.com/), Co-founder, 2018 - present
+#### [Royal Pixel Service](http://royalpixel.com/), Co-founder, 2018 - 2023
 
-* Leads a small team doing prototyping and research for new products
+* Led a small team doing prototyping and research for new products
 * Led development of Two Spies, a highly rated mobile game featured by Apple
 
 #### [Apple](http://www.apple.com/), Software Engineer, 2008 - 2010
