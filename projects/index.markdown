@@ -8,21 +8,35 @@ title: Project Archive
 wordpress_id: 2331
 ---
 
-For a summary of what I do, see [my resume](/resume/). What follows is a catalog of many of the things I've done so far. You could think of it as the world's most disastrously long and self-deprecating resume.
+For a summary of what I do, see [my resume](/resume/). What follows is more of a laundry list – a log of many of the things I've had the chance to do so far. You could think of it as the world's most disastrously long and self-deprecating resume.
 
 **Current Projects**
 
-Since we started Steamclock, I've worked on over 100 products, mostly for growing consumer-facing tech companies. We love working on our own apps, but client work can be fun too.
+* **[Forestwalk](https://forestwalk.ai)**: I co-founded Forestwalk to build delightful tools that help teams build better software with AI.
 
 * **[Writing](https://www.allenpike.com/)**: For a decade, I've published an article at least once a month. Topics often include product management, building teams, and the various things that go in to growing a software business.
 
 * **[It Shipped That Way](https://itshipped.fm/)**: An interview series where I talk to leaders in product, design, and engineering about building great products and teams.
 
-* **[Fun Fact](http://funfact.fm/)**: A bi-weekly podcast full of incredibly important facts.
+* **[Infer](https://lu.ma/infer)**: I started Vancouvers AI engineering speaker series.
+
+* **Not being at a computer**: I play guitar, draw, write music, and otherwise dabble in the world away from computers. There is nothing to link here, which is for the best.
+
+**Talks and Podcast Appearances**
+
+I love teaching and discussing tech and other topics. <a href="/speaking/">Sometimes, people record it.</a>
+
+I also previously ran the podcasts **[Fun Fact](http://funfact.fm/)**, a show full of incredibly important facts, and **[Up Up Down Down](http://upup.fm/)**, show about the craft of video games.
+
+**Steamclock-era Projects** (2010-2023)
+
+From founding Steamclock to [handing off day-to-day](https://allenpike.com/2024/managing-director), I worked on over 100 products, mostly for growing consumer-facing tech companies, as well as a number of our own products.
+
+* **Systems**: Growing Steamclock effectively required developing and iterating a lot of systems, docs, and approaches. These included processes for hiring and onboarding, people management, compensation, finance, branding, project and product management, internal comms, and marketing.
 
 * **[Two Spies](http://www.steamclock.com/spies/)**, a turn-based iPhone game that proved more popular than I expected.
 
-* **[Consulting work](http://www.steamclock.com/services/)**: We help companies ship great mobile apps. Some of our [interesting client projects at Steamclock](https://steamclock.com/work/) have been:
+* **[Consulting work](http://www.steamclock.com/services/)**: Steamclock help companies ship great mobile apps. Some the our [interesting client projects at Steamclock](https://steamclock.com/work/) have been:
 
 	* an interactive [3D map of the internet](https://steamclock.com/work/mapoftheinternet)
 	* various personal finance apps, including "roboavisors" and a featureful stock trading app
@@ -44,21 +58,7 @@ Since we started Steamclock, I've worked on over 100 products, mostly for growin
 	* work on the webOS App Store, of all things
 	* a bespoke iOS app for ordering bespoke suits.
 
-* **Meetups**: I started the [Vancouver Javascript Developers](http://www.vanjs.com) group, and the [Vancouver Xcoders iOS meetup](https://www.meetup.com/Vancouver-Xcoders/).
-
-* **Systems**: Growing Steamclock effectively required developing and iterating a lot of systems, docs, and approaches. These included processes for hiring and onboarding, people management, compensation, finance, branding, project and product management, internal comms, and marketing.
-
-* **Not being at a computer**: I play guitar, play ice hockey, write music, and otherwise dabble in the world away from computers. There is nothing to link here, which is for the best.
-
-**Talks and Podcast Appearances**
-
-I love teaching and discussing tech and other topics. <a href="/speaking/">Sometimes, people record it.</a>
-
-**Older Steamclock-era Projects** (2010-2017)
-
 * **[Quests](http://www.steamclock.com/quests/)**, a Mac menubar app to see your assigned issues and pull requests.
-
-* **[Up Up Down Down](http://upup.fm/)**: A podcast about the craft of video games.
 
 * **[Party Monster](http://www.steamclock.com/partymonster/)**: A queueing DJ app for parties and road trips. We made a [funky video](/2012/making-a-funky-app-video/) for it as well.
 
@@ -69,6 +69,8 @@ I love teaching and discussing tech and other topics. <a href="/speaking/">Somet
 * **Unladen Follow**: I created a tool to unfollow the most annoying people on Twitter. It was semi-broken by Twitter's 1.1 API changes, but I'd love to bring it back one day.
 
 * **Prototypes**: Lots of interesting prototypes haven't made it out of the Steamclock labs - for example [an app for recording podcasts](/2014/podcast-recording/), an antisocial Facebook app, and a Git client for Mac.
+
+* **Meetups**: I started the [Vancouver Javascript Developers](http://www.vanjs.com) group, and the [Vancouver Xcoders iOS meetup](https://www.meetup.com/Vancouver-Xcoders/).
 
 * **CMPT 470**: I've twice taught the 4th-year Web Technologies course for SFU's Computing Science department. In doing so, I learned that I love teaching and hate grading.
 
