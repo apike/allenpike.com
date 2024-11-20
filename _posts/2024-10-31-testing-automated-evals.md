@@ -9,7 +9,7 @@ image: "/images/2024/ai-evals.jpg"
 tags: llm
 ---
 
-_I gave [a talk version](https://www.youtube.com/watch?v=ZwcN-APT_gE) of this article at the first [Infer meetup](https://lu.ma/infer) earlier this month._
+_I gave [a talk version](https://www.youtube.com/watch?v=ZwcN-APT_gE) of this article at the first [Infer meetup](https://infervan.com/) earlier this month._
 
 Let’s say you want to build an LLM-powered app. With a modern model and common-sense prompting, it’s easy to get a demo going with reasonable results.
 
