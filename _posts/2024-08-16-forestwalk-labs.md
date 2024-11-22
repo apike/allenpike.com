@@ -9,7 +9,7 @@ image: "/images/2024/fw-opengraph.jpg"
 tags:
   - llm
   - forestwalk
-
+  - startups
 ---
 
 Last month, I started full-time on [a new startup](https://forestwalk.ai/). It’s early days, but we’re having a lot of fun.
@@ -20,9 +20,9 @@ Last month, I started full-time on [a new startup](https://forestwalk.ai/). It�
 
 A startup, fundamentally, is a search for a repeatable, scalable business model. You rapidly try things, run experiments, learn, and iterate your theories about how to build a useful product that people love.
 
-This experimental nature makes many founders reluctant to talk about their startups early on. *What if I share our initial ideas, but they turn out to be wrong?* It can seem nothing is certain enough to talk about.
+This experimental nature makes many founders reluctant to talk about their startups early on. _What if I share our initial ideas, but they turn out to be wrong?_ It can seem nothing is certain enough to talk about.
 
-For [Jenn](https://www.linkedin.com/in/jncoops/) and me, though, a few things *do* seem certain:
+For [Jenn](https://www.linkedin.com/in/jncoops/) and me, though, a few things _do_ seem certain:
 
 1. We want to build software that people love
 2. This software needs to be valuable enough that it can support an incredible team

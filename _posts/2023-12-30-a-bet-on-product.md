@@ -10,6 +10,8 @@ categories:
   - Article
 tags:
   - steamclock
+  - products
+  - startups
 ---
 
 Last year, I realized it was time to switch things up.
@@ -20,7 +22,7 @@ As we grew, though, a flaw in our plan became clear: trying to build your own pr
 
 There are fundamental differences between building a product for a client and building a product startup. They justify different mentalities, approaches, and habits. When you have other revenue coming in, you can get away with hobby products – such as building a polished, well-loved app that [gets a million downloads, yet loses money](https://playspies.com/release/2022/06/season4/). For example.
 
-These exploits may feel partially successful because they’re fun and educational and popular, but they distract from doing what’s best for the product *or* services business. While hobbies can be rewarding and informative, by definition they can’t support a talented team, iterating and improving towards something truly great.
+These exploits may feel partially successful because they’re fun and educational and popular, but they distract from doing what’s best for the product _or_ services business. While hobbies can be rewarding and informative, by definition they can’t support a talented team, iterating and improving towards something truly great.
 
 Me personally, I like to build with a talented team, iterating and improving towards something great. That’s how we do our client work, and that’s what I want to do for product. But trying to do both in a combined team makes it hard to do either well.
 
@@ -67,7 +69,7 @@ To give myself some guardrails, I chose a theme for each of the 3 months:
 - Month 2: Try new things
 - Month 3: Prepare to return better than I left
 
-I was not great at doing nothing. I did a lot of forest-walk thinking, [reading AI papers](https://allenpike.com/2023/175b-parameter-goldfish-gpt), and completing projects around the house. While I didn’t do *nothing*, I successfully stayed out of my work email and Slack – and got no emergency pages from the team. Month 1 was a success.
+I was not great at doing nothing. I did a lot of forest-walk thinking, [reading AI papers](https://allenpike.com/2023/175b-parameter-goldfish-gpt), and completing projects around the house. While I didn’t do _nothing_, I successfully stayed out of my work email and Slack – and got no emergency pages from the team. Month 1 was a success.
 
 The “Trying new things” month was glorious. I tried new instruments, technologies, fitness routines, restaurants, books, habits, movies, priorities, games, and mindsets. Not just things I’d been meaning to try, but stuff outside my comfort zone. It was joyous. Since that month, I’ve kept up the new mindset and it’s been wonderful.
 
