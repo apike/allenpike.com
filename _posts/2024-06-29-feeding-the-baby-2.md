@@ -7,8 +7,8 @@ date: 2024-06-29T05:45:30.955Z
 featured: true
 tags:
   - steamclock
+  - personal
   - best
-
 ---
 
 A lot of startups with first-time founders have unclear roles. [When I started my first business](https://allenpike.com/2010/leaving-apple), Steamclock’s co-founder Nigel was far more experienced, being ten years my senior. I’d assumed he would take a more CEO-like role, but other than that I’d put little thought into our positions. We were just two engineers making software.
@@ -23,7 +23,7 @@ Nigel dug in and quickly understood the bug, but there was a problem. “I don�
 
 His baby was six months old at the time, and her survival was even more important than a crash in production. I had no kids then, so I could have swapped in and spent any number of hours trying to fix the issue myself. But I would be far slower than him. Hm.
 
-After a moment, I asked, “What if… what if *I* fed the baby?”
+After a moment, I asked, “What if… what if _I_ fed the baby?”
 
 Amused, he agreed. So, for the first time, I fed a baby.
 
@@ -41,4 +41,4 @@ But for now, back to code.
 
 ---
 
-*I first published [a version of this story](/2014/feeding-the-baby) in 2014. Thanks to the many folks who have given me feedback on it as I’ve retold it over the years.*
+_I first published [a version of this story](/2014/feeding-the-baby) in 2014. Thanks to the many folks who have given me feedback on it as I’ve retold it over the years._

@@ -8,16 +8,14 @@ summary: "Running a startup turns out to be weird."
 title: "Feeding the Baby"
 featured: true
 categories:
-- Article
+  - Article
 oldtags:
-- Story
+  - Story
 tags:
-- steamclock
-- personal
-
+  - steamclock
 ---
 
-*I published [a more refined version of this story](/2024/feeding-the-baby-2) in 2024.*
+_I published [a more refined version of this story](/2024/feeding-the-baby-2) in 2024._
 
 <img src='/images/2014/allen-baby.jpg' style='width:250px' class='side'>
 
