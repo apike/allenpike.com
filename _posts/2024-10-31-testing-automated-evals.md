@@ -44,7 +44,7 @@ A regression! If you notice the regression, or a user flags it, you can probably
 
 Software engineers generally manage this kind of problem with automated testing. Unfortunately, the properties that make LLMs powerful also make them hard to write unit tests for: their outputs are nondeterministic, expensive, and subjective.
 
-Tricky as they may be to build, automated tests and evaluations of AI systems are not a nice-to-have. This year, I’ve done over 100 interviews with engineers building on top of LLMs, and I've seen that automatic evaluations are one of the biggest factors in how far a given team or feature can go. I’ve seen the same thing [Simon WIllison observes](https://simonwillison.net/2024/Sep/10/software-misadventures/):
+Tricky as they may be to build, automated tests and evaluations of AI systems are not a nice-to-have. This year, I’ve done over 100 interviews with engineers building on top of LLMs, and I've seen that automatic evaluations are one of the biggest factors in how far a given team or feature can go. I’ve seen the same thing [Simon Willison observes](https://simonwillison.net/2024/Sep/10/software-misadventures/):
 
 > The people who are doing the most sophisticated development on top of LLMs are all about evals. They’ve got really sophisticated ways of evaluating their prompts.
 
@@ -68,11 +68,11 @@ The most effective AI engineering teams I’ve talked to test changes on their L
 
 `assert "do not drink the lava" is <= 200 characters`
 
-There are a lot of simple mechanical tests you can do, even on a non-determistic black box. You can generate outputs for 200 input cases you care about, then do simple checks on them: there is no profanity, the length of the outputs is good, the JSON parses, etc.
+There are a lot of simple mechanical tests you can do, even on a non-deterministic black box. You can generate outputs for 200 input cases you care about, then do simple checks on them: there is no profanity, the length of the outputs is good, the JSON parses, etc.
 
 Of course, LLMs are non-deterministic. Just because a test passes once doesn’t mean it will pass consistently. Given that, a lot of teams run these tests 5-20 times and average the results. This might seem expensive, but as your userbase scales, the ratio of test costs to production costs will get ever smaller.
 
-Another nice thing about simple, objective tests is that you can easily run them both in development and in production. If you don’t want the LLM returning Markdown, then first test for this as part of your iteration and deploy workflow, then automatically flag this if it starts happening live.
+Another nice thing about simple, objective tests is that you can easily run them both in development and in production. If you don’t want the LLM returning Markdown, then first test for this as part of your iterate and deploy workflow, then automatically flag this if it starts happening live.
 
 Hamel Husain [advocates going as far as you can with objective tests](https://hamel.dev/blog/posts/evals/) before moving to the next phase, which is wise. Soon enough though, you’ll hit issues where iterating quickly and confidently requires not just objective tests, but _subjective_ judgement.
 
