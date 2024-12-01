@@ -18,11 +18,10 @@ For example, the new Image Playground offered to generate an illustration of me,
 
 <div class="centered">
 <img src="/images/2024/allen-image-playground.jpg">
+My reaction to this was, “Hmm. 🤔”
 </div>
 
-My reaction to this was, “Hmm. 🤔”
-
-Instead of just using an emoji, like it's 2023, I wanted to generate an image of myself with this expression. So I tried some prompts like “hmm”, “hand on chin thinking”, and the 🤔 emoji itself. I tried both the "illustration" and "animation" styles. Eventually I did get images that evoked “hmm” – though not how I originally imagined.
+Instead of just using an emoji, like it's 2023, I wanted to generate an image of myself with a “hmm” expression. So I tried some prompts like “hmm”, “hand on chin thinking”, and the 🤔 emoji itself. I tried both the "illustration" and "animation" styles. Eventually I did get images that evoked “hmm” – though not how I originally imagined.
 
 <div class="centered">
 <img src="/images/2024/image-playground-hmm.jpg">
@@ -68,7 +67,7 @@ Luckily, Apple has a plan for how to handle generative AI tasks that are too dif
 
 For tasks that require a larger model, Apple has [Private Cloud Compute](https://security.apple.com/blog/private-cloud-compute/). They’ve smartly leaned hard into their culture as a privacy-first company, and developed a way to do GenAI work on the server in a remarkably private and secure way. Like the on-device strategy, this approach makes a ton of sense for Apple, since it leverages their existing strengths in business model, secure toolchains, and Apple Silicon.
 
-While easy tasks are handled by their on-device models, Apple’s cloud is used for what I’d call moderate-difficulty work: summarizing long emails, generating patches for Photos’ Clean Up feature, or refining prose in response to a prompt in Writing Tools.
+While easy tasks are handled by their on-device models, Apple’s cloud is used for what I’d call moderate-difficulty work: summarizing long emails, generating patches for Photos’ Clean Up feature, or refining prose in response to a prompt in Writing Tools. In my testing, Clean Up works quite well, and the other server-driven features are what you'd expect from a medium-sized model: nothing impressive.
 
 Users shouldn’t need to care whether a task is completed locally or not, so each feature just quietly uses the backend that Apple feels is appropriate. The relative performance of these two systems over time will probably lead to some features being moved from cloud to device, or vice versa.
 
@@ -78,7 +77,7 @@ Speaking of the current course, we also have **Siri**. Siri also runs mostly on 
 
 The animation _is_ nice.
 
-Like Alexa and Google Assistant, Siri needs to be totally rebuilt to fully take advantage of transformers and modern LLMs. Anybody who has tried ChatGPT [Advanced Voice Mode](https://help.openai.com/en/articles/8400625-voice-mode-faq) since it was released in September knows that previous-generation voice assistants are now deprecated technology. Inconveniently, though, it takes more than 3 months to turn an amazing but inconsistent and expensive demo into something that can replace a load-bearing daily tool like Siri for a billion users.
+Like Alexa and Google Assistant, Siri will need to be totally rebuilt to fully take advantage of transformers and modern LLMs. Anybody who has tried ChatGPT Advanced Voice Mode since it was released in September knows that previous-generation voice assistants are now deprecated technology. Inconveniently, though, it takes more than 3 months to turn [an amazing but inconsistent and expensive demo](https://help.openai.com/en/articles/8400625-voice-mode-faq) into something that can replace a load-bearing daily tool like Siri for a billion users.
 
 Google has chosen to hack around this problem by splitting their voice assistant in two: you can talk to Gemini Live, which behaves more like a frontier AI assistant, or old-school Google Assistant, which is dumber but can turn on and off the lights. This is a janky tradeoff, but it gets the new stuff in folks’ hands faster while they retool everything.
 
@@ -94,14 +93,14 @@ The final leg in Apple’s AI strategy stool is for state-of-the-art model provi
 
 That’s kind of neat. But in order for the feature to be useful, Siri needs to be good enough that you reach first for Siri, and then wait for the fallback procedure when it bails. If it does bail, it passes to a second-rate version of ChatGPT, which doesn’t have its advanced capabilities like web search and data analysis. And even then, Siri sometimes still falls back instead to good old, “Here are some results I found on the web for _seriously why is this so bad it’s 2024 for god’s sake_.”
 
-Savvy users, increasingly, are reaching directly for ChatGPT or Claude when they need assistance. While some features – like notification summarization – can only be offered by the OS, for explicitly-invoked features you can generally get better results from a frontier model. Luckily, all Apple Intelligence-enabled iPhones have an action button, which is easily mapped to a more advanced assistant. On Mac, you can map the excellent ChatGPT Mac app (or the horrendous Claude Mac app) to ⌥-Space.
+Savvy users, increasingly, are reaching directly for ChatGPT or Claude when they need assistance. While some features – like notification summarization – can only be offered by the OS, tasks that you undertake explicitly – like getting help with something – generally get better results from a frontier model. Luckily, all Apple Intelligence-enabled iPhones have an action button, which is easily mapped to a more advanced assistant. On Mac, you can map the excellent ChatGPT Mac app (or the horrendous Claude Mac app) to ⌥-Space.
 
-On the Mac in particular, these frontier models are getting more useful and featureful at a breakneck pace. Anthropic [introduced a preview of “computer use” a month ago](https://www.anthropic.com/news/3-5-models-and-computer-use), which lets Claude use a computer to do tasks like use websites, enter data, and run terminal commands. OpenAI added [a “work with” features a couple weeks back](https://help.openai.com/en/articles/10119604-work-with-apps-on-macos), where ChatGPT can directly read from and write to Mac apps like Xcode and Terminal.
+On the Mac in particular, these frontier models are getting more useful and featureful at a breakneck pace. Anthropic [introduced a preview of “computer use” a month ago](https://www.anthropic.com/news/3-5-models-and-computer-use), which lets Claude use a computer to do tasks like use websites, enter data, and run terminal commands. OpenAI added [a “work with” feature a couple weeks back](https://help.openai.com/en/articles/10119604-work-with-apps-on-macos), where ChatGPT can directly read from and write to Mac apps like Xcode and Terminal.
 
 Meanwhile, AI coding startups like [Cursor](https://cursor.sh/) and [Windsurf](https://codeium.com/windsurf) are going way beyond what can be done in Xcode, further tilting the scales in terms of how easy it is to build certain kinds of web apps, when compared to building in Xcode. Apple knows this is a problem, and has announced an upcoming “Swift Assist” feature will be coming to Xcode at some point. Still, with the pace of improvements coming out of these dev tool startups, Apple is going to be hard-pressed to keep pace on their traditional yearly update cycle.
 
-Which brings us back to strategy. For many years, Apple has kept an annual release schedule, releasing the vast majority of new operating system features in step with their yearly iPhone hardware. With Apple Intelligence, they’ve switched instead to rolling out improvements throughout the year. While it’s fun to joke about Apple marketing features that haven’t been released yet, this more rolling, incremental release strategy is a savvy response to the intensity of these times.
+Which brings us back to strategy. For many years, Apple has kept an annual release schedule, releasing the vast majority of new operating system features in step with their yearly iPhone hardware. With Apple Intelligence, they’ve switched instead to rolling out improvements throughout the year. While it’s fun to joke about Apple marketing features that haven’t been released yet, this more rolling, incremental release strategy is a savvy response to the intensity of the moment.
 
-So at a strategic level, Apple Intelligence seems to be on a good track. For folks used to making use of cutting-edge GenAI features, though, the updates so far are a little underwhelming. But it’s a start.
+So at a strategic level, Apple Intelligence seems to be on a rational track. For folks used to making use of cutting-edge GenAI features, though, the updates so far are a little underwhelming.
 
 Apple Intelligence: it’s good for Apple, and okay for you.

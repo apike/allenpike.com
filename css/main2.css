@@ -10,7 +10,8 @@
   padding: 0;
 }
 
-html, body { 
+html,
+body {
   height: 100%;
   hanging-punctuation: first allow-end last;
 }
@@ -24,11 +25,14 @@ body {
   font-weight: 400;
 }
 
-
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   font-weight: bold;
   margin: 10px 0;
-  clear:right;
+  clear: right;
   color: #5b0f6a;
 }
 
@@ -38,21 +42,35 @@ h1 {
   margin: 10px 0;
 }
 
-h1 a:link, h1 a:visited {
+h1 a:link,
+h1 a:visited {
   color: #5b0f6a;
 }
 
-h2, h3 {
-  font-size: 28px; line-height: 36px;
+h2,
+h3 {
+  font-size: 28px;
+  line-height: 36px;
 }
 
+h1 {
+  margin: 0px 0px 20px 0px;
+}
+p {
+  margin: 1em 0;
+}
 
-h1 { margin: 0px 0px 20px 0px; }
-p { margin: 1em 0; }
-
-a         { color: #9600b3; text-decoration: none;}
-a:hover   { color: #9600b3; text-decoration: underline; }
-a:visited { color: #9600b3; }
+a {
+  color: #9600b3;
+  text-decoration: none;
+}
+a:hover {
+  color: #9600b3;
+  text-decoration: underline;
+}
+a:visited {
+  color: #9600b3;
+}
 
 table {
   font-size: inherit;
@@ -81,7 +99,8 @@ hr.subtle {
   margin: 70px 14px 0px 14px;
 }
 
-ul, ol {
+ul,
+ol {
   margin-left: 2em;
 }
 
@@ -92,7 +111,7 @@ img {
 .post img {
   float: right;
   margin: 0px 0px 24px 24px;
-  max-width: 100%
+  max-width: 100%;
 }
 
 .post img.retinize {
@@ -151,10 +170,9 @@ p.permalink {
   margin-bottom: -1em;
 }
 
-
 .navigation li {
   display: inline;
-  margin-left: 1.0em;
+  margin-left: 1em;
   padding-bottom: 4px;
 }
 
@@ -187,6 +205,8 @@ img.side {
 div.centered {
   text-align: center;
   clear: both;
+  font-style: italic;
+  color: #444;
 }
 
 div.centered img {
@@ -196,8 +216,6 @@ div.centered img {
 
 div.centered p {
   margin-top: 0;
-  font-style: italic;
-  color: #444;
 }
 
 /*****************************************************************************/
@@ -210,17 +228,18 @@ div.centered p {
 .post pre {
   border: 1px solid #ddd;
   background-color: #eef;
-  padding: 0 .4em;
+  padding: 0 0.4em;
   max-width: 100%;
 }
 
 .post code {
   border: 1px solid #ddd;
   background-color: #eef;
-  padding: 0 .2em;
+  padding: 0 0.2em;
 }
 
-.post pre, .post code {
+.post pre,
+.post code {
   white-space: pre-wrap;
   max-width: 100%;
 }
@@ -233,7 +252,7 @@ div.centered p {
 .post pre.terminal {
   border: 1px solid #000;
   background-color: #333;
-  color: #FFF;
+  color: #fff;
 }
 
 .post pre.terminal code {
@@ -241,9 +260,8 @@ div.centered p {
 }
 
 @media (max-width: 500px) {
-
   a.sitename {
-    font-size:  19px;
+    font-size: 19px;
   }
 
   .navigation {
@@ -259,13 +277,14 @@ div.centered p {
     font-size: 32px;
   }
 
-  h2, #recent h2 {
+  h2,
+  #recent h2 {
     font-size: 23px;
   }
 }
 
 @media (max-width: 650px) {
-  /* phone */ 
+  /* phone */
 
   body {
     font-size: 18px; /* Slightly smaller to maintain reasonable line count */
@@ -283,7 +302,7 @@ div.centered p {
   #recent span.spacer {
     margin: 0px 3px;
   }
-  
+
   #recent span.smalldate {
     display: inline;
   }
@@ -302,7 +321,8 @@ div.centered p {
     margin-left: 12px;
   }
 
-  .post img, .post img.side {
+  .post img,
+  .post img.side {
     float: none;
     margin: 0px;
     width: 100% !important;
@@ -312,7 +332,6 @@ div.centered p {
 
 @media (max-width: 1079px) {
   /* mobile + tablet */
-
 }
 
 @media (min-width: 1080px) {
@@ -322,7 +341,6 @@ div.centered p {
     display: relative;
     left: 20px;
   }
-
 }
 
 .videoWrapper {
@@ -373,7 +391,7 @@ form.newsletter input {
 }
 
 @media (max-width: 650px) {
-  /* phone */ 
+  /* phone */
   form.newsletter input {
     width: 100%;
     max-width: 100%;
@@ -382,7 +400,8 @@ form.newsletter input {
 }
 @media (min-width: 651px) {
   /* desktop */
-  form.newsletter input[type="text"], form.newsletter input[type="email"] {
+  form.newsletter input[type="text"],
+  form.newsletter input[type="email"] {
     margin-right: 4px;
     width: 60%;
   }
@@ -397,7 +416,8 @@ form.newsletter {
   margin-top: 1.5em;
 }
 
-form.newsletter input[type="text"], form.newsletter input[type="email"] {
+form.newsletter input[type="text"],
+form.newsletter input[type="email"] {
   height: 40px;
   border-radius: 6px;
   margin-right: 0px;
@@ -407,13 +427,14 @@ form.newsletter input[type="text"], form.newsletter input[type="email"] {
 form.newsletter input[type="submit"] {
   height: 40px;
   background-color: #ac36db;
-  color: #FFFFFF;
+  color: #ffffff;
   border-radius: 6px;
   border-color: #444;
   font-family: "ff-meta-web-pro", Helvetica, sans-serif;
 }
 
-p.meta, span.meta {
+p.meta,
+span.meta {
   color: #645f66;
 }
 
@@ -430,16 +451,19 @@ p.meta, span.meta {
   margin-bottom: 4px;
 }
 
-#recent h2 a:link, #recent h2 a:visited {
+#recent h2 a:link,
+#recent h2 a:visited {
   /* A bit less vibrant */
-   color: #8c00a8;
+  color: #8c00a8;
 }
 
 #recent .spacer {
   margin: 0px 7px;
 }
 
-#recent .date, #recent .smalldate, #recent .spacer {
+#recent .date,
+#recent .smalldate,
+#recent .spacer {
   color: #777;
 }
 
@@ -473,16 +497,18 @@ p.meta, span.meta {
   font-size: 0.8em;
 }
 
-
 @media (prefers-color-scheme: dark) {
-
   body {
     background-color: #221e22;
     color: #eae4e8;
   }
 
-  h1, h2, h3, h4, h5 {
-    color: #d362e9
+  h1,
+  h2,
+  h3,
+  h4,
+  h5 {
+    color: #d362e9;
   }
 
   a:link {
@@ -493,15 +519,19 @@ p.meta, span.meta {
     color: #d362e9;
   }
 
-  h1 a:link, h1 a:visited {
+  h1 a:link,
+  h1 a:visited {
     color: #d362e9;
   }
 
-  p.meta, span.meta, .archive li span {
+  p.meta,
+  span.meta,
+  .archive li span {
     color: #aaa1ad;
   }
 
-  hr, .navigation {
+  hr,
+  .navigation {
     border-color: #d362e9;
   }
 
@@ -517,5 +547,4 @@ p.meta, span.meta {
   div.centered p {
     color: #ccc;
   }
-
 }
