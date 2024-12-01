@@ -5,7 +5,7 @@ title: It's Good for Apple, and Okay for You
 summary: "Apple Intelligence, so far."
 date: 2024-11-30T05:45:30.955Z
 featured: false
-image: "/images/2024/image-playground-hmm.jpg"
+image: "/images/2024/allen-image-playground.jpg"
 tags:
   - llm
   - products
