@@ -32,7 +32,7 @@ Concerned that I had a cursed face, I asked if I was the only one so afflicted. 
 
 <div class="centered">
 <img src="/images/2024/sad-myke.jpg">
-Not sure what prompt he used for this photo – perhaps “hung over, forlornly contemplating one’s cursed face”.</div>
+Not sure what prompt Myke used for this photo – perhaps “hung over, forlornly contemplating one’s cursed face”.</div>
 
 So what is going on here? Why are these new whiz-bang AI features creating underwhelming results? Why does my hand have seven fingers?
 
@@ -59,7 +59,7 @@ While an underpowered-but-automatic notification summary can be better than noth
 At least you can have some fun trying to get it to generate things it doesn’t want to. The safety screws are very tight on this one, but I was able to get a duck butt by prompting “image of a duck looking away from behind.” When it does something funny, though, it’s usually by accident.
 
 <div class="centered">
-<img src="/images/2024/image-playground-crazy.jpg">
+<img src="/images/2024/playground-crazy.jpg">
 It sometimes generated me with crossed eyes, but never when I asked for it to.</div>
 
 Luckily, Apple has a plan for how to handle generative AI tasks that are too difficult for local inference.
