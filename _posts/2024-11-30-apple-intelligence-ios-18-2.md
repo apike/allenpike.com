@@ -3,13 +3,12 @@ layout: post
 author: allen
 title: It's Good for Apple, and Okay for You
 summary: "Apple Intelligence, so far."
-date: 2024-11-31T05:45:30.955Z
+date: 2024-11-30T05:45:30.955Z
 featured: false
 image: "/images/2024/image-playground-hmm.jpg"
 tags:
   - llm
   - products
-  - apple
 ---
 
 The first big wave of Apple Intelligence features are arriving [shortly](https://www.cultofmac.com/news/ios-18-2-release-date-expected), with iOS 18.2. For the last month, a beta has been available, offering a peek into this new AI-powered future. I’ve been curious what Apple’s ML teams have been cooking, especially given the industry-leading security and privacy commitments they’ve made, so I checked them out.
@@ -49,7 +48,7 @@ Yes, the summaries are imperfect – as you’d expect from a small local model.
 
 Still, it feels like on-device is the right tradeoff for notification summaries. The work of constantly summarizing and re-summarizing a billion push notifications daily is best left to the devices receiving them, and the fact this 1.0 version of the feature is already partially useful is a good sign in this regard. Now comes the iterative work of improving the training data to better understand the cases it’s struggling with – from sporting events to spousal genders.
 
-Another feature that seems suitable for on-device processing is the Proofread feature. Personally, I find the iOS 18.2 UI objectionable – you need to remember to trigger it, at which point it analyzes your document, then applies two dozen improvements all at once, forcing you to then review and undo many of them. But it really does find some typos and errors. The natural evolution of this feature is to become a more-advanced form of spellcheck, passively underlining phrases and typos with suggested improvements. The current UI may be clunky, but the AI part works well.
+Another feature that seems suitable for on-device processing is Proofread. Personally, I find the iOS 18.2 UI objectionable – you need to remember to trigger it, at which point it analyzes your document, then applies two dozen improvements all at once, forcing you to then review and undo many of them. But it really does find some typos and errors. The natural evolution of this feature is to become a more-advanced form of spellcheck, passively underlining phrases and typos with suggested improvements. The current UI may be clunky, but the AI part works well.
 
 With other features, things are rougher.
 
@@ -65,9 +64,9 @@ Luckily, Apple has a plan for how to handle generative AI tasks that are too dif
 
 ## To the Cloud!
 
-For tasks that require a larger model, Apple has [Private Cloud Compute](https://security.apple.com/blog/private-cloud-compute/). They’ve smartly leaned hard into their culture as a privacy-first company, and developed a way to do GenAI work on the server in a remarkably private and secure way. Like the on-device strategy, this approach makes a ton of sense for Apple, since it leverages their existing strengths in business model, secure toolchains, and Apple Silicon.
+For work that requires a larger model, Apple has [Private Cloud Compute](https://security.apple.com/blog/private-cloud-compute/). They’ve smartly leaned hard into their culture as a privacy-first company, and developed a way to do GenAI work on the server in a remarkably private and secure way. Like the on-device strategy, this approach makes a ton of sense for Apple, since it leverages their existing strengths in business model, secure toolchains, and Apple Silicon.
 
-While easy tasks are handled by their on-device models, Apple’s cloud is used for what I’d call moderate-difficulty work: summarizing long emails, generating patches for Photos’ Clean Up feature, or refining prose in response to a prompt in Writing Tools. In my testing, Clean Up works quite well, and the other server-driven features are what you'd expect from a medium-sized model: nothing impressive.
+While easy tasks are handled by their on-device models, Apple’s cloud is used for what I’d call moderate-difficulty work: summarizing long emails, generating patches for Photos’ Clean Up feature, or refining prose in response to a prompt in Writing Tools. In my testing, Clean Up works quite well, while the other server-driven features are what you'd expect from a medium-sized model: nothing impressive.
 
 Users shouldn’t need to care whether a task is completed locally or not, so each feature just quietly uses the backend that Apple feels is appropriate. The relative performance of these two systems over time will probably lead to some features being moved from cloud to device, or vice versa.
 
@@ -77,19 +76,19 @@ Speaking of the current course, we also have **Siri**. Siri also runs mostly on 
 
 The animation _is_ nice.
 
-Like Alexa and Google Assistant, Siri will need to be totally rebuilt to fully take advantage of transformers and modern LLMs. Anybody who has tried ChatGPT Advanced Voice Mode since it was released in September knows that previous-generation voice assistants are now deprecated technology. Inconveniently, though, it takes more than 3 months to turn [an amazing but inconsistent and expensive demo](https://help.openai.com/en/articles/8400625-voice-mode-faq) into something that can replace a load-bearing daily tool like Siri for a billion users.
+But like Alexa and Google Assistant, Siri will need to be totally rebuilt to fully take advantage of transformers and modern LLMs. Anybody who has tried ChatGPT Advanced Voice Mode since it was released in September knows that previous-generation voice assistants are now deprecated technology. Inconveniently, though, it takes more than 3 months to turn [an amazing but inconsistent and expensive demo](https://help.openai.com/en/articles/8400625-voice-mode-faq) into something that can replace a load-bearing daily tool like Siri for a billion users.
 
-Google has chosen to hack around this problem by splitting their voice assistant in two: you can talk to Gemini Live, which behaves more like a frontier AI assistant, or old-school Google Assistant, which is dumber but can turn on and off the lights. This is a janky tradeoff, but it gets the new stuff in folks’ hands faster while they retool everything.
+Google has chosen to hack around this problem by splitting their voice assistant in two: you can talk to Gemini Live, which behaves more like a frontier AI assistant, or you can talk to old-school Google Assistant, which is dumber but can turn on and off the lights. This is a janky tradeoff, but it gets the new stuff in folks’ hands faster while they retool everything.
 
-Apple, of course, does not want to put janky stuff in folks’ hands. They want to offer a seamless voice assistant for everybody, something that can both meet our suddenly raised expectations of how we converse with technology, yet also reliably do basic things like set timers and turn the lights on and off. Given the scale and cost of serving an assistant like this, Siri still needs to be able to serve basic requests locally on-device. This is a hard problem. It’s a lot less fun to be on the Siri team, saddled with a decade of user expectations, than on the ChatGPT or Claude voice teams.
+Apple, of course, does not want to put janky stuff in folks’ hands. They want to offer a seamless voice assistant for everybody, something that can both meet our suddenly raised expectations of how we converse with technology, yet also reliably do basic things like set timers and turn the lights on and off. Given the scale and cost of serving an assistant like this, Siri still needs to be able to serve basic requests locally on-device. This is a hard problem. It’s a lot less fun to be on the Siri team, saddled with a decade of user expectations, than on the ChatGPT or Claude voice teams right now.
 
-While Apple works on [whatever this next-generation thing will be](https://www.macrumors.com/2024/11/25/ios-19-siri-revamp-planned/), Siri has flipped from a sorta-unreliable thing we joke about but sometimes use and appreciate, to being embarrassingly behind the curve of technology. iOS 18.2 makes the old Siri a bit more flexible with phrasing, probably by stapling a little transformer model into some part of the legacy architecture, but it’s still obviously old Siri.
+While Apple works on [whatever this next-generation thing will be](https://www.macrumors.com/2024/11/25/ios-19-siri-revamp-planned/), Siri has flipped from a sorta-unreliable tool we joke about but sometimes use and appreciate, to being embarrassingly behind the curve of technology. iOS 18.2 makes the old Siri a bit more flexible with phrasing, probably by stapling a little transformer model into some part of the legacy architecture, but it’s still obviously old Siri.
 
-In the meantime, if you want to talk to frontier AI, you need to source it elsewhere.
+In the meantime, if you want to talk to a frontier LLM, you need to source it elsewhere.
 
 ## There’s an App for That
 
-The final leg in Apple’s AI strategy stool is for state-of-the-art model providers to offer their AIs on Apple’s platforms. Famously, iOS 18.2 will let ChatGPT (and, theoretically, other assistants) integrate into Siri for handoff when Apple’s assistant recognizes that a question is out of its league.
+The final leg in Apple’s GenAI strategy stool is for state-of-the-art model providers to offer their products on Apple’s platforms. Famously, iOS 18.2 will let ChatGPT (and, theoretically, other assistants) integrate into Siri for handoff when Apple’s assistant recognizes that a question is out of its league.
 
 That’s kind of neat. But in order for the feature to be useful, Siri needs to be good enough that you reach first for Siri, and then wait for the fallback procedure when it bails. If it does bail, it passes to a second-rate version of ChatGPT, which doesn’t have its advanced capabilities like web search and data analysis. And even then, Siri sometimes still falls back instead to good old, “Here are some results I found on the web for _seriously why is this so bad it’s 2024 for god’s sake_.”
 
