@@ -18,11 +18,11 @@ For example, the new Image Playground offered to generate an illustration of me,
 
 <div class="centered">
 <img src="/images/2024/allen-image-playground.jpg">
-Is this... what I look like?</div>
+</div>
 
 My reaction to this was, “Hmm. 🤔”
 
-Instead of just using an emoji, like it's 2023, I wanted to generate an image of myself with this expression.So I tried some prompts like “hmm”, “hand on chin thinking”, and the 🤔 emoji itself. I tried both the "illustration" and "animation" styles. Eventually I did get images that evoked “hmm” – though not how I originally imagined.
+Instead of just using an emoji, like it's 2023, I wanted to generate an image of myself with this expression. So I tried some prompts like “hmm”, “hand on chin thinking”, and the 🤔 emoji itself. I tried both the "illustration" and "animation" styles. Eventually I did get images that evoked “hmm” – though not how I originally imagined.
 
 <div class="centered">
 <img src="/images/2024/image-playground-hmm.jpg">
@@ -42,11 +42,11 @@ The answer, is strategy.
 
 Apple’s strategy for ~~generative AI~~ Apple Intelligence is to run inference, as much as possible, locally on-device. This makes a lot of sense for Apple: it takes advantage of their excellent Apple Silicon hardware, it bolsters their promise of privacy as a core value, and it avoids needing to pay the server costs for a billion users’ push notification summaries – or sad AI portraits.
 
-To make this possible, they’ve trained [some models](https://machinelearning.apple.com/research/introducing-apple-foundation-models) that are small enough to fit on an iPhone. Apple platforms now ship with a ~3B-parameter language model, paired with a number of little adapters they can swap in at runtime to tune it for tasks like summarizing notifications, proofreading text, or making prose friendlier. They’ve also included an image generation model, with adapters to render emoji, animation (a Pixar-like style), and the dreadful “illustration” aesthetic showcased above. They also have a Mac-specific local model, which can power improved autocomplete when writing Swift in Xcode.
+To make this possible, they’ve trained [some models](https://machinelearning.apple.com/research/introducing-apple-foundation-models) that are small enough to fit on an iPhone. Apple platforms now ship with a ~3B-parameter language model, paired with a number of little adapters they can swap in at runtime to tune it for tasks like summarizing notifications, proofreading text, or making prose friendlier. They’ve also included an image generation model, with adapters to render in the style of emoji, Pixar-like "animation", and the dreadful “illustration” aesthetic showcased above. They also have a Mac-specific local model, which can power improved autocomplete when writing Swift in Xcode.
 
 In some cases, this on-device approach is effective. I love it when 18 messages in our neighbours’ WhatsApp are summarized as, “Smoke detector issue resolved; ripe avocado requested.” [Joanna Stern loves getting summaries](https://daringfireball.net/thetalkshow/2024/11/18/ep-414) like “Garage door opened and closed repeatedly; now closed.”
 
-Admittedly, the summaries are imperfect, as you’d expect from a small local model. It sometimes makes statistically-likely but incorrect assumptions, like claiming that famed boxer Mike Tyson won his fight, or telling Joanna that [her wife has a husband](https://bsky.app/profile/joannastern.bsky.social/post/3lb5xh5sbus2b). Even state-of-the-art models like GPT-4o or Claude 3.5 Sonnet still occasionally make mistakes like this, and the local iOS model is roughly 1% the size of those frontier models.
+Yes, the summaries are imperfect – as you’d expect from a small local model. It sometimes makes statistically-likely but incorrect assumptions, like claiming that famed boxer Mike Tyson won his fight, or telling Joanna that [her wife has a husband](https://bsky.app/profile/joannastern.bsky.social/post/3lb5xh5sbus2b). While state-of-the-art models like GPT-4o or Claude 3.5 Sonnet make mistakes like this less and less frequently, the local iOS model is roughly 1% the size of those frontier models.
 
 Still, it feels like on-device is the right tradeoff for notification summaries. The work of constantly summarizing and re-summarizing a billion push notifications a day is best left to the devices receiving them, and the fact this 1.0 version of the feature is already partially useful is a good sign in this regard. Now comes the iterative work of improving the training data to better understand the cases it’s struggling with – from sporting events to spousal genders.
 
@@ -54,13 +54,13 @@ Another feature that seems suitable for on-device processing is the Proofread fe
 
 With other features, things are rougher.
 
-While an underpowered-but-automatic notification summary can be better than nothing, there isn’t a lot of purpose to an underpowered image generation app. You can tell from the name that Apple knows “Image Playground” is, at best, a toy. But most of the fun of playing with image generation comes when you get an impressive result. Anybody who has seen outputs from state-of-the-art image generation tools like Midjourney, Flux, or Leonardo.ai will find Image Playground disappointing.
-
-At least you can have some fun trying to get it to generate things it doesn’t want to. The safety screws are very tight on this one, but I was able to get a duck butt by prompting “image of a duck looking away from behind.” When it does something funny, though, it’s usually by accident.
+While an underpowered-but-automatic notification summary can be better than nothing, there isn’t a lot of purpose to an underpowered image generation app. You can tell from the name that Apple knows “Image Playground” is, at best, a toy. But most of the fun of playing with image generation comes when you get an impressive result. Anybody who has seen outputs from state-of-the-art image generation tools like Midjourney, Flux, or [Leonardo.ai](https://leonardo.ai) will find Image Playground disappointing.
 
 <div class="centered">
 <img src="/images/2024/playground-crazy.jpg">
 It sometimes generated me with crossed eyes, but never when I asked for it to.</div>
+
+At least you can have some fun trying to get it to generate things it doesn’t want to. The safety screws are very tight on this one, but I was able to get a duck butt by prompting “image of a duck looking away from behind.” When it does something funny, though, it’s usually by accident.
 
 Luckily, Apple has a plan for how to handle generative AI tasks that are too difficult for local inference.
 
