@@ -12,7 +12,7 @@ tags:
   - apple
 ---
 
-The first big wave of Apple Intelligence features are arriving [shortly](https://www.cultofmac.com/news/ios-18-2-release-date-expected), with iOS 18.2. For the last month, a beta has been available, offering a peek into this new AI-powered future. I was curious what Apple’s ML teams have been cooking myself, especially given the industry-leading security and privacy commitments they’ve made.
+The first big wave of Apple Intelligence features are arriving [shortly](https://www.cultofmac.com/news/ios-18-2-release-date-expected), with iOS 18.2. For the last month, a beta has been available, offering a peek into this new AI-powered future. I’ve been curious what Apple’s ML teams have been cooking, especially given the industry-leading security and privacy commitments they’ve made, so I checked them out.
 
 For example, the new Image Playground offered to generate an illustration of me, so I put it to task. I gave it a reference photo, and tapped one of the suggested backgrounds: “forest.”
 
