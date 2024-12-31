@@ -13,7 +13,7 @@ Years ago, Teller performed a magic trick.[^1]
 
 First, he’d have you pick a card. He would attempt to produce the card, but fail, indicating the card may have travelled elsewhere. He’d then lead you on a short walk to a nearby park, and then be inspired to dig a hole. Buried there, beneath undisturbed grass, was a box. When opened, the box would, somehow, contain the card you’d chosen. An impossible trick.
 
-To create this magical moment, he had to do something you wouldn’t expect: he’d gone out into the park and buried a number of boxes, corresponding to potential cards one might choose. Then, he waited months, until the grass had grown over. Only then could perform the trick.
+To create this magical moment, he had to do something you wouldn’t expect: he’d gone out into the park and buried a number of boxes, corresponding to potential cards one might choose. Then, he waited months – until the grass had grown over. Only then could perform the trick.
 
 Deducing what card you’ve picked is a well-known sleight. But performing a trick where your card is seamlessly buried requires so much advance preparation that it seems impossible.
 
@@ -23,11 +23,11 @@ Teller describes the underlying principle [like so](https://www.goodreads.com/qu
 
 ---
 
-This is true of tricks, and also true of crafts.
+This is true of tricks, and also of crafts.
 
 The pianist whose fingers seem supernaturally nimble, the presenter whose message seems viscerally compelling, and the artist whose paintings seem impossibly realistic all wield the same magic: they’ve invested more time than you’d expect.
 
-It can be difficult, psychologically, to commit yourself to spend an extreme amount of time and attention towards a goal. Doing impossible things feels, well, impossible.
+It can be difficult, psychologically, to commit yourself to spend an extreme amount of time and attention towards a goal, no matter how worthwhile. Doing impossible things feels, well, impossible.
 
 That’s why, generally, the approach is to start small, then increment. [Do something, so you can change it.](https://allenpike.com/2023/do-something-so-we-can-change-it) Get your reps in. Evolve your complex system from a simple one that works.
 
