@@ -8,11 +8,12 @@ featured: false
 image: "/images/2023/notebooks.jpg"
 categories:
   - Article
+  - products
 ---
 
 Humans are unreliable narrators.
 
-Even the most honest interlocutors will confidently say untrue things. We recount [false memories](https://en.wikipedia.org/wiki/False_memory), accidentally imply speculation is fact, succumb to cognitive biases, misinterpret causal relationships, struggle with cognitive dissonance, engage in lossy paraphrasing, and kind of just say nonsense sometimes. It’s part of being human! (And, it seems, [part of being a language model too](https://en.wikipedia.org/wiki/Confabulation_(neural_networks))).
+Even the most honest interlocutors will confidently say untrue things. We recount [false memories](https://en.wikipedia.org/wiki/False_memory), accidentally imply speculation is fact, succumb to cognitive biases, misinterpret causal relationships, struggle with cognitive dissonance, engage in lossy paraphrasing, and kind of just say nonsense sometimes. It’s part of being human! (And, it seems, [part of being a language model too](<https://en.wikipedia.org/wiki/Confabulation_(neural_networks)>)).
 
 As professionals, we work to reign in these errors. A lot of the classic advice about effective communication revolves around exactly this error correction: active listening, repeating what you think you’re hearing, responding to surprising information with curiosity – all the greatest hits.
 
@@ -37,14 +38,14 @@ Now, there are some pitfalls here that are well known. For example, you can’t 
 These questions are certainly better than “Wouldn’t it be great if Q?”, but will still tend to produce untrue answers. In her book [Continuous Discovery Habits](https://www.goodreads.com/en/book/show/58046715), Teresa Torres explains why:
 
 > During a workshop, I asked a woman what factors she considered when buying a new pair of jeans. She didn’t hesitate to answer. She said, “Fit is my number-one factor.” I then asked her to tell me about the last time she bought a pair of jeans. She said, “I bought them on Amazon.” I asked, “How did you know they would fit?” She replied, “I didn’t, but they were a brand I liked, and they were on sale.”
-> 
+>
 > What’s the difference between her two responses? Her first response tells me how she thinks she buys a pair of jeans. Her second response tells me how she actually bought a pair of jeans. This is a crucial difference. She thinks she buys a pair of jeans based on fit, but brand loyalty, the convenience of online shopping, and price (or getting a good deal) were more important when it came time to make a purchase.
 
 I love this example so much. It crystallizes something I’d often seen in interviews firsthand: **people feel much more self-aware than they are**. If you ask for generalizations, you’ll get confabulations. If you ask for recent stories, you’ll have a shot at building a true model of what’s going on.
 
-This isn’t just true in product discovery interviewing. Asking about past behaviour is a core skill when interviewing for journalism, social science, hiring, or any other field where you’re more interested in how people act than in how they *think they act*. There's a good reason job interviews no longer ask “How do you approach conflict in the workplace?” and now instead ask “Tell me about a time you had conflict in the workplace.”
+This isn’t just true in product discovery interviewing. Asking about past behaviour is a core skill when interviewing for journalism, social science, hiring, or any other field where you’re more interested in how people act than in how they _think they act_. There's a good reason job interviews no longer ask “How do you approach conflict in the workplace?” and now instead ask “Tell me about a time you had conflict in the workplace.”
 
-Of course, memory errors still abound when somebody recounts a story. The thing is, when we ask somebody to generalize about themselves, those errors compound. Asking “How much do you struggle with X?” requires somebody to take all their error-prone memories around X and summarize them in a lossy way. They’ll filter through the lens of self-perception. *Am I the kind of person who should struggle with X?*
+Of course, memory errors still abound when somebody recounts a story. The thing is, when we ask somebody to generalize about themselves, those errors compound. Asking “How much do you struggle with X?” requires somebody to take all their error-prone memories around X and summarize them in a lossy way. They’ll filter through the lens of self-perception. _Am I the kind of person who should struggle with X?_
 
 Meanwhile, “Tell me about a recent time you struggled with X” makes things more concrete. It plants seeds for “why” follow-up questions, and leads to a deeper understanding.
 
@@ -60,9 +61,9 @@ After reflecting on these initial interviews, I reworked my questions to be more
 - “You described planning every week the Friday before. Tell me about how you planned out this week, and how that went.”
 - About how many Slack notifications did you defer from yesterday to today?
 
-Many of my interviewees have confidently explained how rigorously they manage their time and tasks, then backpedal and rethink their answers when they’re invited to share specific stories. Stories reveal the delightful mess that is their actual workweek. The interviews are now more fruitful *and* more fun.
+Many of my interviewees have confidently explained how rigorously they manage their time and tasks, then backpedal and rethink their answers when they’re invited to share specific stories. Stories reveal the delightful mess that is their actual workweek. The interviews are now more fruitful _and_ more fun.
 
-Of course, from a product marketing perspective, it’s still worth understanding folks’ self-deception around their problems. If you solve a problem people don’t know they have, it’s harder to sell them a solution. Critically though, your principal goal is to build something that solves substantial problems people really have. You know, to help save people money or make people money. To do that, you gotta understand what users really do, not just what they *think* they do.
+Of course, from a product marketing perspective, it’s still worth understanding folks’ self-deception around their problems. If you solve a problem people don’t know they have, it’s harder to sell them a solution. Critically though, your principal goal is to build something that solves substantial problems people really have. You know, to help save people money or make people money. To do that, you gotta understand what users really do, not just what they _think_ they do.
 
 Even for products running at scale, festooned with telemetry and A/B testing, interviewing is an important part of product development. But when you’re building something new, interviewing is absolutely critical. You need to understand your customers.
 
