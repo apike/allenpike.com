@@ -8,6 +8,7 @@ featured: false
 image: "/images/2023/notebooks.jpg"
 categories:
   - Article
+tags:
   - products
 ---
 
