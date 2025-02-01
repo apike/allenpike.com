@@ -26,7 +26,7 @@ Then suddenly, BAM. Computers became able to not just tab-complete, but tab-_con
 For example, here is a clip of me using tab continuation in Cursor to edit some code.
 
 <div class="center">
-<video src="/images/2025/cursor-tab-5.mov" controls loop />
+<video src="/images/2025/cursor-tab-6.mp4" controls loop style="max-width: 100%;" />
 I express my intent to refactor these divs into InfoRows, then use tab and a backspace-nudge to have Cursor complete the work.
 </div>
 
