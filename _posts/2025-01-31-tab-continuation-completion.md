@@ -65,10 +65,12 @@ With this technology, you can even imagine Apple or OpenAI building a cross-cutt
 That's because seamless next-action prediction depends on two things:
 
 1. Thorough consideration of the UX implications, specific to your product's workflows, and
-2. Very fast AI models – if you call gpt-4o-mini on every keystroke, you're gonna have a bad time.
+2. Fast, specialized AI models – if you call gpt-4o-mini on every keystroke, you're gonna have a bad time.
 
 Luckily, we can learn from teams like [Cursor](https://www.cursor.com/), [Grammarly](https://www.grammarly.com/), [Warp](https://www.warp.dev/), and [Windsurf](https://codeium.com/windsurf) as they forge the path. If you can tolerate the movie-villain long-podcast guy, [the Cursor developers gave him a rather interesting interview](https://www.youtube.com/watch?v=oFfVt3S51T4) in October that covered a lot of these issues. Or you can just spend time using these tools from the future, letting it rewire your brain and raise the bar for what you can imagine your own product doing.
 
 Like any other newly-possible UX pattern, we'll see an era of experimentation. Some of it will be delightful, some of it will be awful. But either way, a new generation of apps is about to make their competitors feel like sloths.
+
+---
 
 _Thanks to Maggie Appleton for inspiring me to cover UX patterns I find exciting, via her [design pattern garden](https://maggieappleton.com/patterns), and to [Arik Devens](https://danieltiger.com/) for giving me feedback on part of this article._
