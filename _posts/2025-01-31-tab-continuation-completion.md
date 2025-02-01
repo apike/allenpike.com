@@ -7,7 +7,7 @@ date: 2025-01-31T23:45:30.955Z
 featured: false
 tags:
   - products
-  - llms
+  - llm
 ---
 
 If you’ve used a code editor before, you’ve seen tab completion. When you start typing a keyword or phrase, the editor might offer to complete the rest of what you’re typing:
@@ -53,21 +53,22 @@ The technology to build great tab continuation dropped in 2023, and at first, it
 - **Notion**: Fix the formatting of the “Sloths” bullet point → Apply the same format to the following bullets
 - **Figma**: Copied a sloth, then pasted it peeking out from behind a tree → Paste another copy peeking out from the next tree, look at those little guys peekin’
 
-While all of the above features were technically feasible in 2022, you would need to build each individually. But now, we can build next-action prediction in a generalized way, and roll it out incrementally across an entire product.
-
-In theory.
-
-Currently, getting next-action prediction to work well in a product is much harder than shoving a chatbot on side.[^1] Completions present novel UI questions, which teams like [Cursor](https://www.cursor.com/), [Grammarly](https://www.grammarly.com/), [Warp](https://www.warp.dev/), and [Windsurf](https://codeium.com/windsurf) are still working through. To maintain flow, the suggestions also require very fast AI models – calling gpt-4o-mini on every keystroke is way too slothful.
+While all of the above features were technically feasible in 2022, you would need to build each individually. But now, we can build next-action prediction in a generalized way, and roll it out incrementally across an entire product – and [relentlessly improve it](https://www.cursor.com/blog/tab-update).
 
 <div class="centered">
 <img src="/images/2025/grammarly-tab.jpg" alt="Grammarly recently updated to offer batch typo fixes via tab continuation." />
 Grammarly recently updated to offer batch typo fixes via tab continuation.
 </div>
 
-Given the work involved in solving this in each app, a cross-cutting system from Apple or OpenAI may be better suited to solving it well. An operating system could theoretically tab-complete actions that jump from one app to another, which would be forking awesome. Still, my instinct is that we’re a ways off from a generalist LLM that can rapidly and seamlessly orchestrate actions between every imaginable app. There is a lot of app-specific sauce involved in making these completions delightful instead of annoying.
+With this technology, you can even imagine Apple or OpenAI building a cross-cutting system that could tab-complete actions in any app, including jumping from one app to another. It would would be forking awesome – and *probably* intractably difficult.
 
-In any case, next-action prediction will, in time, become expected functionality in professional software. As a new generation of apps takes advantage of it, older products will increasingly feel like sloths.
+That's because seamless next-action prediction depends on two things:
+
+1. Thorough consideration of the UX implications, specific to your product's workflows, and
+2. Very fast AI models – if you call gpt-4o-mini on every keystroke, you're gonna have a bad time.
+
+Luckily, we can learn from teams like [Cursor](https://www.cursor.com/), [Grammarly](https://www.grammarly.com/), [Warp](https://www.warp.dev/), and [Windsurf](https://codeium.com/windsurf) as they forge the path. If you can tolerate the movie-villain long-podcast guy, [the Cursor developers gave him a rather interesting interview](https://www.youtube.com/watch?v=oFfVt3S51T4) in October that covered a lot of these issues. Or you can just spend time using these tools from the future, letting it rewire your brain and raise the bar for what you can imagine your own product doing.
+
+Like any other newly-possible UX pattern, we'll see an era of experimentation. Some of it will be delightful, some of it will be awful. But either way, a new generation of apps is about to make their competitors feel like sloths.
 
 _Thanks to Maggie Appleton for inspiring me to cover UX patterns I find exciting, via her [design pattern garden](https://maggieappleton.com/patterns), and to [Arik Devens](https://danieltiger.com/) for giving me feedback on part of this article._
-
-[^1]: If you can tolerate the movie-villain long-podcast guy, [the Cursor developers gave him a rather interesting interview](https://www.youtube.com/watch?v=oFfVt3S51T4) in October that covered a lot of these issues.
