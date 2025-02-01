@@ -26,7 +26,9 @@ Then suddenly, BAM. Computers became able to not just tab-complete, but tab-*con
 For example, here is a clip of me using tab continuation in Cursor to change an interface and the corresponding UI.
 
 <div class="centered">
-<video src="/images/2025/cursor-tab-11.mp4" controls loop style="max-width: 100%;"></video>
+<video controls loop style="max-width: 100%;">
+  <source src="/images/2025/cursor-tab-11.mp4" type="video/mp4">
+</video>
 I express my intent to prioritize sloths’ yawn rate over backflips, then have Cursor finish the work.
 </div>
 
