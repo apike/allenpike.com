@@ -5,6 +5,7 @@ title: "The Era of Tab Continuation"
 summary: "Press tab to complete your work."
 date: 2025-01-31T23:45:30.955Z
 featured: false
+image: "/images/2025/tab-preview.jpg"
 tags:
   - products
   - llm
