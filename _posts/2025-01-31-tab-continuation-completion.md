@@ -21,7 +21,7 @@ An analogous thing happens in your browser: if you frequently visit slothville.c
 
 This is a useful pattern that saves a bunch of typing. Historically, though, it’s been limited to completing a word or phrase you’ve already started entering.
 
-Then suddenly, BAM. Computers became able to not just tab-complete, but tab-_continue_. Tab-extrapolate. While you can always switch over to ChatGPT and have it extrapolate text for you, apps that have tab continuation built right in can do so without breaking your flow.
+Then suddenly, BAM. Computers became able to not just tab-complete, but tab-*continue*. Tab-extrapolate. While you can always switch over to ChatGPT and have it extrapolate text for you, apps that have tab continuation built right in can do so without breaking your flow.
 
 For example, here is a clip of me using tab continuation in Cursor to edit some code.
 
