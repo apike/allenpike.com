@@ -15,7 +15,7 @@ If you’ve used a code editor before, you’ve seen tab completion. When you st
 
 <div class="centered">
 <img src="/images/2025/sublime-complete.jpg" alt="Sublime Text offers to complete InfoRow" />
-If I press tab, Submlime Text will complete “InfoRow” for me. Neat.
+If I press tab, Sublime Text will complete “InfoRow” for me. Neat.
 </div>
 
 An analogous thing happens in your browser: if you frequently visit slothville.com, and you start typing “slo” it will offer to complete the domain. Simply press return to confirm.
