@@ -4,7 +4,7 @@ author: allen
 title: "An Unreasonable Amount of Time"
 summary: "A method for magic."
 date: 2024-12-31T07:45:30.955Z
-featured: false
+featured: true
 tags:
   - products
   - best
