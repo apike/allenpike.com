@@ -26,8 +26,8 @@ Then suddenly, BAM. Computers became able to not just tab-complete, but tab-*con
 For example, here is a clip of me using tab continuation in Cursor to refactor some code.
 
 <div class="centered">
-<video src="/images/2025/cursor-tab-6.mp4" controls loop style="max-width: 100%;"></video>
-I express my intent to refactor these divs into InfoRows, then use tab and a backspace-nudge to have Cursor complete the work.
+<video src="/images/2025/cursor-tab-11.mp4" controls loop style="max-width: 100%;"></video>
+I express my intent to prioritize yawn rate over backflips, then have Cursor finish the work.
 </div>
 
 Cursor’s Tab feature predicts your next likely change or movement by considering various factors:
