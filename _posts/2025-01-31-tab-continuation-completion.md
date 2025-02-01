@@ -12,7 +12,7 @@ tags:
 
 If you’ve used a code editor before, you’ve seen tab completion. When you start typing a keyword or phrase, the editor might offer to complete the rest of what you’re typing:
 
-<div class="center">
+<div class="centered">
 <img src="/images/2025/sublime-complete.jpg" alt="Sublime Text offers to complete InfoRow" />
 If I press tab, Submlime Text will complete “InfoRow” for me. Neat.
 </div>
@@ -25,7 +25,7 @@ Then suddenly, BAM. Computers became able to not just tab-complete, but tab-*con
 
 For example, here is a clip of me using tab continuation in Cursor to refactor some code.
 
-<div class="center">
+<div class="centered">
 <video src="/images/2025/cursor-tab-6.mp4" controls loop style="max-width: 100%;"></video>
 I express my intent to refactor these divs into InfoRows, then use tab and a backspace-nudge to have Cursor complete the work.
 </div>
@@ -51,15 +51,15 @@ The technology to build great tab continuation dropped in 2023, and at first, it
 - **Keynote**: Copied “Sloths of 2024” and retitled it “Sloths of 2025” → Replace “2024” with “2025” in the document
 - **Google Sheets**: Renamed column from “Average Sloths” to “Total Sloths” → Change the formula below from AVERAGE to SUM
 - **Notion**: Fix the formatting of the “Sloths” bullet point → Apply the same format to the following bullets
-- **Figma**: Copied a sloth, then pasted it peeking out from behind a tree → Paste another sloth peeking out from the next tree, look at those little guys peekin’
+- **Figma**: Copied a sloth, then pasted it peeking out from behind a tree → Paste another copy peeking out from the next tree, look at those little guys peekin’
 
 While all of the above features were technically feasible in 2022, you would need to build each individually. But now, we can build next-action prediction in a generalized way, and roll it out incrementally across an entire product.
 
 In theory.
 
-Currently, getting next-action prediction to work well in a product is much harder than shoving a chatbot on side.[1] Completions present novel UI questions, which teams like [Cursor](https://www.cursor.com/), [Grammarly](https://www.grammarly.com/), [Warp](https://www.warp.dev/), and [Windsurf](https://codeium.com/windsurf) are still working through. To maintain flow, the suggestions also require very fast AI models – calling gpt-4o-mini on every keystroke is way too slothful.
+Currently, getting next-action prediction to work well in a product is much harder than shoving a chatbot on side.[^1] Completions present novel UI questions, which teams like [Cursor](https://www.cursor.com/), [Grammarly](https://www.grammarly.com/), [Warp](https://www.warp.dev/), and [Windsurf](https://codeium.com/windsurf) are still working through. To maintain flow, the suggestions also require very fast AI models – calling gpt-4o-mini on every keystroke is way too slothful.
 
-<div class="center">
+<div class="centered">
 <img src="/images/2025/grammarly-tab.jpg" alt="Grammarly recently updated to offer batch typo fixes via tab continuation." />
 Grammarly recently updated to offer batch typo fixes via tab continuation.
 </div>
