@@ -23,11 +23,11 @@ This is a useful pattern that saves a bunch of typing. Historically, though, it�
 
 Then suddenly, BAM. Computers became able to not just tab-complete, but tab-*continue*. Tab-extrapolate. While you can always switch over to ChatGPT and have it extrapolate text for you, apps that have tab continuation built right in can do so without breaking your flow.
 
-For example, here is a clip of me using tab continuation in Cursor to refactor some code.
+For example, here is a clip of me using tab continuation in Cursor to change an interface and the corresponding UI.
 
 <div class="centered">
 <video src="/images/2025/cursor-tab-11.mp4" controls loop style="max-width: 100%;"></video>
-I express my intent to prioritize yawn rate over backflips, then have Cursor finish the work.
+I express my intent to prioritize sloths’ yawn rate over backflips, then have Cursor finish the work.
 </div>
 
 Cursor’s Tab feature predicts your next likely change or movement by considering various factors:
