@@ -70,4 +70,4 @@ In any case, next-action prediction will, in time, become expected functionality
 
 _Thanks to Maggie Appleton for inspiring me to cover UX patterns I find exciting, via her [design pattern garden](https://maggieappleton.com/patterns), and to [Arik Devens](https://danieltiger.com/) for giving me feedback on part of this article._
 
-[1]: If you can tolerate the movie-villain long-podcast guy, [the Cursor developers gave him a rather interesting interview](https://www.youtube.com/watch?v=oFfVt3S51T4) in October that covered a lot of these issues.
+[^1]: If you can tolerate the movie-villain long-podcast guy, [the Cursor developers gave him a rather interesting interview](https://www.youtube.com/watch?v=oFfVt3S51T4) in October that covered a lot of these issues.
