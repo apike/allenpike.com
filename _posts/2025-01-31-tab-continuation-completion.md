@@ -73,4 +73,4 @@ Like any other newly-possible UX pattern, we'll see an era of experimentation. S
 
 ---
 
-_Thanks to Maggie Appleton for inspiring me to cover UX patterns I find exciting, via her [design pattern garden](https://maggieappleton.com/patterns), and to [Arik Devens](https://danieltiger.com/) for giving me feedback on part of this article._
+*Thanks to Maggie Appleton for inspiring me to cover UX patterns I find exciting, via her [design pattern garden](https://maggieappleton.com/patterns), and to [Arik Devens](https://danieltiger.com/) and [Luke Hutscal](http://lukehutscal.com/) for giving me feedback on this article.*
