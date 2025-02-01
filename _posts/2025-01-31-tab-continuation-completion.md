@@ -38,7 +38,7 @@ Cursor’s Tab feature predicts your next likely change or movement by consideri
 - Outstanding linter errors
 - Common code patterns
 
-So, common sense next-action prediction using transformers. But it _feels_ like magic! It’s wild that you can tell the app so much with just a little typing and nudging.
+So, common sense next-action prediction using transformers. But it _feels_ like magic! It’s wild that you can tell an app so much with just a little typing and nudging.
 
 Cursor’s Michael Truell [explains that this is exactly the vision](https://lexfridman.com/cursor-team-transcript/):
 
@@ -46,12 +46,12 @@ Cursor’s Michael Truell [explains that this is exactly the vision](https://lex
 
 He’s exactly right, except that I don’t think programming _is_ a weird discipline here. Much of knowledge work is follow-through: mechanically doing the actions any savvy observer would assume you would do next.
 
-The technology to build great tab continuation dropped in 2023, and at first, it seemed like it was mostly useful for coding. But on reflection, there are a horde of cases where a context and recent actions are enough to propose a likely next action:
+The technology to build great tab continuation dropped in 2023, and at first, it seemed like it was mostly useful for coding. But on reflection, there are a horde of cases where the context and recent actions are enough to propose a likely next action:
 
-- **Keynote**: Copied “Sloths of 2024” and retitled it “Sloths of 2025” -> Replace “2024” with “2025” in the document
-- **Google Sheets**: Renamed column from “Average Sloths” to “Total Sloths” -> Change the formula below from AVERAGE to SUM
-- **Notion**: Fix the formatting of the “Sloths” bullet point -> Apply the same format to the following bullets
-- **Figma**: Copied a sloth, then pasted it peeking out from behind a tree -> Paste another sloth peeking out from the next tree, look at those little guys peekin’
+- **Keynote**: Copied “Sloths of 2024” and retitled it “Sloths of 2025” → Replace “2024” with “2025” in the document
+- **Google Sheets**: Renamed column from “Average Sloths” to “Total Sloths” → Change the formula below from AVERAGE to SUM
+- **Notion**: Fix the formatting of the “Sloths” bullet point → Apply the same format to the following bullets
+- **Figma**: Copied a sloth, then pasted it peeking out from behind a tree → Paste another sloth peeking out from the next tree, look at those little guys peekin’
 
 While all of the above features were technically feasible in 2022, you would need to build each individually. But now, we can build next-action prediction in a generalized way, and roll it out incrementally across an entire product.
 
