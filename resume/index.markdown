@@ -14,8 +14,8 @@ Allen is a technical product leader who runs Forestwalk Labs in Vancouver, podca
 
 #### [Forestwalk Labs](http://forestwalk.ai/), CEO and Co-founder, 2024
 
-* Founded a venture-track startup building dev tools for AI engineering teams
-* Wears the non-engineering hats, and writes TypeScript as needed
+* Founded a venture-track startup building delightful tools for teams using AI
+* Writes code, interviews customers, and changes light bulbs
 
 #### [Steamclock Software](http://steamclock.com/), CEO and Co-founder, 2010 - 2024
 
