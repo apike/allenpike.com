@@ -6,4 +6,7 @@ future: true
 
 url: "https://allenpike.com"
 
-include: ['_redirects']
+include: ["_redirects"]
+
+plugins:
+  - jekyll-sitemap

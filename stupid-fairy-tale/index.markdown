@@ -8,9 +8,11 @@ title: Stupid Fairy Tale
 wordpress_id: 203
 ---
 
-*I believe this was written back in 2001, when I was but a child. I apologize in advance.*
+*An example of the kind of nonsense creative writing I would do in high school, roughly 2001. Reading it is inadvisable, other than perhaps as evidence that a kid who writes this kind of stuff could eventually become a well-adjusted adult with enough time.*
 
-Once upon a time, long long ago, there were three men. Only three; the rest were still monkeys at that point. For no justifiable reason, one of the men would live for a certain amount of time, the second would live forever, and the third would live for half of forever. The living for a certain amount of time was pretty standard, and still is, so that didn't cause much of a problem. Living forever was strange, but not unheard of. But what really sent the monkeys into a tizzy was The Man Who Would Live Half Of Forever. What did this mean? Was it a message from God? An arbitrary decision by a council? Was it so his death would be the one signal to the guy who'll live forever that he's middle aged and he should buy a motorcycle?
+Once upon a time, long long ago, there were three men. Only three; the rest were still monkeys at that point. For no justifiable reason, one of the men would live for a certain amount of time, the second would live forever, and the third would live for half of forever. The living for a certain amount of time was pretty standard, and still is, so that didn't cause much of a problem. Living forever was strange, but not unheard of. But what really sent the monkeys into a tizzy was The Man Who Would Live Half Of Forever.
+
+What did this mean? Was it a message from God? An arbitrary decision by a council? Was it so his death would be the one signal to the guy who'll live forever that he's middle aged and he should buy a motorcycle?
 
 The Wise Council Of Monkeys And A Man (formerly Wise Council Of Monkeys) wanted to know what to do about The Man Who Would Live Half Of Forever. They deliberated on this question for decades. Well, decades in dog years. And by dogs, I mean the mice that dogs evolved from. Seeing that those things only lived for a few weeks, I guess the council debated for a couple days, and then came to an arbitrary decision: kill him. The main rationale behind this was that if they killed the man, and then the world ended a few years later, then they could confirm that he really was going to live for half of forever. If the world didn't end, then they would know it was all a big practical joke, and they could then meet on what to do about that.
 
