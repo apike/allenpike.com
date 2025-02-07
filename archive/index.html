@@ -1,7 +1,7 @@
 ---
 layout: default
 isArchive: true
-title: Post Archive
+title: Article Archive
 ---
 
 <div id="home">
@@ -9,44 +9,52 @@ title: Post Archive
   <p>I write once a month about software and other tricky things.</p>
   <hr class="subtle">
 
-{%- capture site_tags -%}
-    {%- for tag in site.tags -%}
-        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
-    {%- endfor -%}
-{%- endcapture -%}
-{%- assign tags_list = site_tags | split:',' | sort -%}
+  {%- capture site_tags -%}
+  {%- for tag in site.tags -%}
+  {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+  {%- endfor -%}
+  {%- endcapture -%}
+  {%- assign tags_list = site_tags | split:',' | sort -%}
 
-<h2>Article Series</h2>
+  <h2>Article Series</h2>
 
   <ul class="posts archive">
-{%- for tag in tags_list -%}
-     {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
-     {% if site.tags[tag].size < 6 %}
-        <!-- Tag too small ({{ site.tags[tag].size }}): {{ tag_title }} -->
-     {% else %}
-        <li class="{% if tag == 'best' %} featured {% endif %}"><a href="/series/{{- tag -}}">{{- tag_title -}}</a>
-        – {{ site.tags[tag].size }} articles.
-        </li>
-     {% endif %}
-{%- endfor -%}
+    {%- for tag in tags_list -%}
+    {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
+    {% if site.tags[tag].size < 6 %}
+    <!-- Tag too small ({{ site.tags[tag].size }}): {{ tag_title }} -->
+    {% else %}
+    <li class="{% if tag == 'best' %} featured {% endif %}"><a href="/series/{{- tag -}}">{{- tag_title -}}</a>
+      –
+      {{ site.tags[tag].size }} articles.
+    </li>
+    {% endif %}
+    {%- endfor -%}
   </ul>
 
 
   <ul class="posts archive">
     {% assign prevyear  = "Future" %}
     {% for post in site.posts %}
-      {% assign newyear  = post.date | date: "%Y" %}
-      {% if prevyear != newyear %} <br> <h2>{{ newyear }}</h2>{% endif %}
-      {% assign prevyear = newyear %}
+    {% assign newyear  = post.date | date: "%Y" %}
+    {% if prevyear != newyear %} <br>
+    <h2>
+      {{ newyear }}
+    </h2>{% endif %}
+    {% assign prevyear = newyear %}
 
-        <li class="
+    <li class="
           {% if post.featured %} featured {% endif %}
           {% if post.link %} link {% endif %}
-          ">{% if post.link %}Link: {% endif %}<a href="{{ post.url }}">{{ post.title }}</a>
+          ">{% if post.link %}Link: {% endif %}<a href="{{ post.url }}">
+        {{ post.title }}</a>
 
-      <span>{% if post.link %}{% elsif post.summary %} &ndash; {{ post.summary }} {% endif %}</span></li>
+      <span>{% if post.link %}{% elsif post.summary %} &ndash;
+        {{ post.summary }} {% endif %}</span>
+    </li>
     {% endfor %}
   </ul>
 
-  <p>So far I've written {{ site.posts.size }} posts, and these old ones are mighty stale. If you're looking to read some older articles, check out my <a href="/series/best/">Best Of</a> series.
+  <p>So far I've written
+    {{ site.posts.size }} posts, and these old ones are mighty stale. If you're looking to read some older articles, check out my <a href="/series/best/">Best Of</a> series.
 </div>
