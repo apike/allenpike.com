@@ -9,10 +9,10 @@ title: Follow
 
 Here’s how to find out when I post articles, plus other bleeps and bloops:
 
-- Mastodon: [@apike](https://mastodon.social/@apike)
-- Bluesky: [@allenpike.com](https://bsky.app/profile/allenpike.com)
-- LinkedIn: [@allenpike](https://www.linkedin.com/in/allenpike/)
-- RSS: [allenpike.com/feed](/feed/)
+- Mastodon: <a href="https://mastodon.social/@apike" rel="me">@apike</a>
+- Bluesky: <a href="https://bsky.app/profile/allenpike.com" rel="me">@allenpike.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/allenpike/" rel="me">@allenpike</a>
+- RSS: <a href="/feed/">allenpike.com/feed</a>
 
 <!-- Stripped down convertkit form from https://sayzlim.net/plain-html-form-convertkit/ -->
 

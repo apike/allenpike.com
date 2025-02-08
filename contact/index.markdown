@@ -11,8 +11,8 @@ I like hearing from people. 👋🏼 You can send me feedback, criticism, sugges
 
 These are the best ways to contact me:
 
-* [@apike on Mastodon](https://mastodon.social/@apike), "[Twitter](https://twitter.com/apike)", or [Bluesky](https://bsky.app/profile/allenpike.com), for brevity
-* Or [LinkedIn](https://www.linkedin.com/in/allenpike/), if you're like that
+* <a href="https://mastodon.social/@apike" rel="me">@apike on Mastodon</a>, or <a href="https://bsky.app/profile/allenpike.com" rel="me">Bluesky</a>, for brevity
+* Or <a href="https://www.linkedin.com/in/allenpike/" rel="me">LinkedIn</a>, if you're like that
 * [comments@allenpike.com](mailto:comments@allenpike.com), for the old school
 
 I aspire to respond within a few days, especially for messages that are brief!
