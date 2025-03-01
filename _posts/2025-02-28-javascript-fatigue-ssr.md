@@ -67,7 +67,7 @@ As far as I can tell, these are the closest we have to boring framework choices 
 - **The Backend-Centric App**: If your app requires a complex backend for things like background processing or persistent connections, you might go with a well-maintained Express successor like Fastify or NestJS for a backend API, and one of the meta-frameworks for the less-complex user-facing parts.
 - **The Vercel Objector**: If you can’t stomach Next.js but want server-side rendering with progressive enhancement, React Router Framework might be the most boring choice available. Hopefully now that Remix has merged into the very popular React Router, it will have a long life.
 - **The React Objector**: If you want to share components between client and server but consider React deprecated, Svelte and Vue are relatively popular and clean enough that you could make an argument for them being boring. SvelteKit is a nice way to support Next-like SSR in Svelte, but starts to strain any definition of “boring technology”.[^2]
-- **The Table-Flip**: I would argue that there’s never been a better time to build your frontend and backend all in the same language, but backend frameworks like Ruby’s Rails or Python FastAPI still have a lot going for them. While many teams have migrated from SPAs to rendering JS on the server, others have reasonably moved back to servers written in another language, keeping client JavaScript minimal enough to just need a simple library.
+- **The Table-Flip**: There’s never been a better time to build a whole product in JavaScript or TypeScript, but some sites barely need JavaScript at all. For those, mature frameworks in other languages like Rails or Python FastAPI are pretty compelling.
 
 So, yeah. There are still too many frameworks.
 
