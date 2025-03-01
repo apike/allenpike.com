@@ -40,3 +40,6 @@ llm:
 podcasts:
   title: Podcasts
   subtitle: The art and craft of podcasts.
+choosing:
+  title: Choosing Technologies
+  subtitle: Selecting the right tools for the job.

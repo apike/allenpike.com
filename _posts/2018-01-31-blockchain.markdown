@@ -9,6 +9,7 @@ image: "/images/2018/bananacoin-square.jpg"
 categories:
 - Article
 tags:
+- choosing
 ---
 
 I'm officially sick of hearing about blockchain.

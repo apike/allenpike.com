@@ -7,7 +7,7 @@ date: 2025-02-28T23:45:30.955Z
 featured: false
 image: "/images/2025/too-many-frameworks.jpg"
 tags:
-  - javascript
+  - choosing
 ---
 
 In recent months, I’ve returned to writing code daily. It’s been a lot of fun. While I enjoy Swift, Python, and Ruby, we’ve been building in TypeScript lately since it’s a good fit for our latest project.
