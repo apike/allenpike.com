@@ -11,6 +11,7 @@ categories:
 tags:
 - best
 - products
+- choosing
 ---
 
 Agilebits recently caused a stir with their announcement that they’ve rewritten 1Password 8 as a cross-platform Electron app, replacing their well-loved native Mac app. The [takes came hot and fast](https://mjtsai.com/blog/2021/08/11/1password-8-for-mac-early-access/). Like many developers, I love and appreciate a well-crafted native UI, and I've been somewhat skeptical of the consistent trend towards cross-platform app UIs.
