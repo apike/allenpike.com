@@ -234,7 +234,7 @@ div.centered p {
 
 .post code {
   border: 1px solid #ddd;
-  background-color: #eef;
+  background-color: oklch(96.72% 0.016 314.06);
   padding: 0 0.2em;
 }
 
@@ -242,6 +242,7 @@ div.centered p {
 .post code {
   white-space: pre-wrap;
   max-width: 100%;
+  font-size: 0.94em;
 }
 
 .post pre code {
@@ -541,7 +542,7 @@ span.meta {
 
   .post code {
     background-color: #002;
-    color: #eef;
+    color: oklch(96.72% 0.016 314.06);
   }
 
   div.centered p {
