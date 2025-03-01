@@ -31,7 +31,7 @@ Although we still want to avoid sending browsers a lot of JavaScript, a huge eco
 
 “Oh wow, rendering your templates on the server? You say it can greatly improve page-load speeds? Who would have thought?” said the Rails developer, eyes rolling directly out the top of their head. “You mean browsers can display HTML?”
 
-Of course, web developers have been rendering HTML on the server since the days of `cgi-bin` in the 90s. Until recently, though, there has been an impedence mismatch between your application code that does the initial render on the server, and any separate-but-tightly-coupled logic that renders further interactions and updates in the browser.[^client] Even if both sides were in JavaScript (say, an EJS server that generated React-powered pages) the conflicting runtime environments made sharing any logic between them pretty janky.
+Of course, web developers have been rendering HTML on the server since the days of `cgi-bin` in the 90s. Until recently, though, there has been an impedance mismatch between your application code that does the initial render on the server, and any separate-but-tightly-coupled logic that renders further interactions and updates in the browser.[^client] Even if both sides were in JavaScript (say, an EJS server that generated React-powered pages) the conflicting runtime environments made sharing any logic between them pretty janky.
 
 This friction has led to the common view that each web application should be either almost entirely server-rendered with very little client JavaScript (Rails/Hotwire), or almost entirely client-rendered with the server mostly vending an API (React SPAs). Both approaches have downsides, but they work, and it’s best that you choose one.
 
@@ -83,9 +83,9 @@ But it’s still pretty awesome.
 
 *Thanks to [Jenn Cooper](https://www.linkedin.com/in/jncoops/) and [Brian Leroux](https://brianleroux@indieweb.social/@brianleroux) on their feedback on this post.*
 
-—
+—--
 
-[^client]: As somebody who loves polish and delight I'm very keyed in to this, but sometimes people ask, "What do you even need client-side rendering for nowadays?" I think it matters most for products where folks are actively getting work done, where you want things like optimistic updates, offline mode, rapid workflows, realtime collaboration, and lovely little animations that your warm your users' hearts.
+[^client]: As somebody who loves polish and delight I'm very keyed in to this, but sometimes people ask, "What do you even need client-side rendering for nowadays?" I think it matters most for products where folks are actively getting work done, where you want things like optimistic updates, offline mode, rapid workflows, realtime collaboration, and lovely little animations that warm your users' hearts.
 
 [^1]: Just two recent examples: Remix started with its own server component model, but React later shipped React Server Components which has [changed a lot about the evolution path for React Router Framework](https://remix.run/blog/incremental-path-to-react-19). And Next.js 15 was built assuming React 19 would ship much earlier than it did, which led to [Next.js 15 depending on a pre-release React 19](https://www.reddit.com/r/nextjs/comments/1ge5ry8/vercel_pushing_react_19_rc_with_nextjs_15_a/), which just today I heard brought one Next developer to tears. Not controlling your most important dependency is hard!
 
