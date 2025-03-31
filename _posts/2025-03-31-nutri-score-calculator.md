@@ -5,7 +5,7 @@ title: "A Score for Snacks"
 summary: "The Nutri-Score, and a calculator for it."
 date: 2025-03-31T23:45:30.955Z
 featured: false
-image: "/images/2025/nutri-score.jpg"
+image: "/images/2025/nutri-score-scale.jpg"
 tags:
   - overboard
 ---
@@ -64,6 +64,10 @@ Or horrifying.
 Since there are no nice Nutri-Score calculators online that take the kinds of units that are listed on North American food packages, I built one.
 
 The [Nutri-Score Snack Calculator](https://nutri-score.allenpike.com/) shows the scores of a few dozen example breakfast cereals and snack bars, and lets you enter any other packaged food to see how it stacks up.
+
+<div class="centered">
+<img src="/images/2025/nutri-score-scale.jpg" alt="Nutri-Score grade examples" />
+</div>
 
 The scoring order of the cereals was very similar to my own analysis from 2020, but I found a few things surprising about the snacks’ scores:
 - It is very hard to make a snack bar that gets a good Nutri-Score!
