@@ -63,7 +63,7 @@ Or horrifying.
 
 Since there are no nice Nutri-Score calculators online that take the kinds of units that are listed on North American food packages, I built one.
 
-The [Nutri-Score Snack Calculator](https://nutri-score.allenpike.com/) shows the scores of a few dozen example breakfast cereals and snack bars, and lets you enter any other packaged food to see how it stacks up.
+The **[Nutri-Score Snack Calculator](https://nutri-score.allenpike.com/)** shows the scores of a few dozen example breakfast cereals and snack bars, and lets you enter any other packaged food to see how it stacks up.
 
 <div class="centered">
 <img src="/images/2025/nutri-score-scale.jpg" alt="Nutri-Score grade examples" />
