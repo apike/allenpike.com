@@ -35,7 +35,7 @@ We all know we’re better off eating whole food, not packaged snacks. But also,
 
 In 2020 I had the same question about cereal, and [did a deep dive](https://allenpike.com/2020/unified-theory-of-cereal). The time has come to do the same for snacks!
 
-So I recently set out to devise a formula. I wanted to take into account the relative benefit and harm of foods’ nutrients, giving how filling each choice may be. I set out to update myself on the latest nutrition evidence, and use that knowledge to create and refine an algorithm that would give me… wait. Wait a minute.
+So I recently set out to devise a formula. I wanted to take into account the relative benefit and harm of foods’ nutrients, given how filling each choice may be. I set out to update myself on the latest nutrition evidence, and use that knowledge to create and refine an algorithm that would give me… wait. Wait a minute.
 
 *Has this been done before?*
 
