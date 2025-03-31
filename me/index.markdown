@@ -19,7 +19,7 @@ I like hearing from people! Go ahead and [send me a short note](/contact/), or y
 
 **Current Projects**
 
-- [Forestwalk](https://forestwalk.ai/): I’ve recently co-founded an early-stage startup building tools for software teams.
+- [Forestwalk](https://forestwalk.ai/): I’ve recently co-founded an early-stage startup building LLM-powered tools for teams.
 - [It Shipped That Way](https://www.itshipped.fm/), a podcast where I interview product and tech leaders.
 - [Infer](https://infervan.com/), an AI speaker series in Vancouver.
 - [Public Speaking and Appearances](/speaking/): I like to share what I’ve learned.
