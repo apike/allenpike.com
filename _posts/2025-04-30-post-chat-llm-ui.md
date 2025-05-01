@@ -51,9 +51,9 @@ The first baby step beyond chat puts your work product – a document, for examp
 This Canvas UI is what you get if you ask ChatGPT to iterate a document with you.
 </div>
 
-You’ve seen an experience like this if you’ve used Copilot in Excel, or the Cursor IDE: the chat is pushed aside. It’s far better than copying and pasting things into ChatGPT, but it still has the problems that chat-centric interactions do.
+You’ve seen an experience like this if you’ve used Copilot in Excel, or the Cursor IDE. It’s far better than copying and pasting things into ChatGPT, but it still has the problems that chat-centric interactions do.
 
-More interesting is the generation of apps that use AI to reinvent traditional UX.
+More interesting is how apps are using AI to reinvent traditional UX.
 
 ## Generative Right-Click
 
@@ -72,7 +72,7 @@ One challenge here is that the set of things that AI can do is, uh, wide. At fir
 
 Another UI convention being reinvented is the search field.
 
-It used be that finding your flight details in your email required typing something like, “air canada confirmation” and hoping that’s actually the phrasing in the email you’re thinking of.
+It used to be that finding your flight details in your email required typing something exact, like “air canada confirmation”, and hoping that’s actually the phrasing in the email you’re thinking of.
 
 Now, you should be able to type “what are the flight details for the offsite?” and find what you want.
 
