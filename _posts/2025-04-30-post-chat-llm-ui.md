@@ -133,6 +133,10 @@ A more complex cleanup might require followup questions for the user, but in mos
 
 As [imperfect](https://allenpike.com/2024/apple-intelligence-ios-18-2) as Apple Intelligence’s rollout has been, its notification summaries are a great example of what AI summaries can do. A noisy group chat exchange summarized as “Plans tonight cancelled, pencilled in for next weekend” is a godsend.
 
+<div class="centered">
+<img src="/images/2025/postchat-summary.png" alt="Apple Intelligence" />
+</div>
+
 Group chat summaries are just the initial features that will help us tame the firehose of information we’re exposed to. If you’ve worked in a large company, you know that there is 1000x more information going by than you can ever engage with. Now, we can build products that help people pull from that noise the signal, surfacing what matters to their work – and minimizing the rest.
 
 ## Voice
