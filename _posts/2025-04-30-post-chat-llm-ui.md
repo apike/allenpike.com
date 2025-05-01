@@ -131,7 +131,7 @@ A more complex cleanup might require followup questions for the user, but in mos
 
 ## Summary and Synthesis
 
-As [imperfect](https://allenpike.com/2024/apple-intelligence-ios-18-2) as Apple Intelligence’s rollout has been, its notification summaries are a great example of what AI summaries can do. A noisy group chat exchange summarized as “Plans tonight cancelled, pencilled in for next weekend” is a godsend.
+As [imperfect](https://allenpike.com/2024/apple-intelligence-ios-18-2) as Apple Intelligence’s rollout has been, its notification summaries are a great example of useful non-chat AI. A noisy group chat exchange summarized as “Plans tonight cancelled, pencilled in for next weekend” is a godsend.
 
 <div class="centered">
 <img src="/images/2025/postchat-summary.png" alt="Apple Intelligence" />
