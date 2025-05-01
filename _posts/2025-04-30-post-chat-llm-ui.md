@@ -127,7 +127,7 @@ Figma’s recent [Rename Layers feature](https://help.figma.com/hc/en-us/article
 I am in love with this.
 </div>
 
-A more complex cleanup might require followup questions for the user, but in most products, this can be fully chat-free.
+A more complex cleanup might require followup questions for the user, but in most products this can be fully chat-free.
 
 ## Summary and Synthesis
 
