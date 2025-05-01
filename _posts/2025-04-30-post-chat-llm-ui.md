@@ -153,7 +153,7 @@ Our agent could then just respond,
 
 and open the file.
 
-This isn’t yet built into the workflows we’re using today, but it now possible, and could be a really humane way of working with AI.
+This isn’t yet built into the workflows we’re using today, but it’s now possible, and should be a really useful way of working with AI.
 
 ## Do the Obvious Thing
 
@@ -164,7 +164,7 @@ This is my personal favourite non-chat AI pattern. So often in software, the nex
 I just made a typo, and a reasonable next action is for Grammarly to fix it.
 </div>
 
-I’ve [written at length about the tab completion pattern](https://allenpike.com/2025/tab-continuation-completion), where professional tools can adopt the pattern that we see in Cursor, where the user can press tab to take the next likely action. But this pattern can generalize all over our software – in so many cases, an LLM can provide a reasonable default title, label, or otherwise relieve us from repetitive work. Over time, this frees us to think more about the creative and meaningful aspect of what we’re doing.
+I’ve [written previously about the tab completion pattern](https://allenpike.com/2025/tab-continuation-completion), where professional tools can adopt the flow that we see in Cursor, where the user can press tab to take the next likely action. But this pattern can generalize all over our software – in so many cases, an LLM can provide a reasonable default title, label, or otherwise relieve us from repetitive work. Over time, this frees us to think more about the creative and meaningful aspects of what we’re doing.
 
 ## Final Boss: Completely Generated UI
 
@@ -182,7 +182,7 @@ A deeper problem arises when your interface is completely dynamic: it’s hard t
 > …
 > We had design tenets for Office 2007 that said, “Don’t do adaptive behaviors.”
 
-So yeah, maybe we’ll rediscover that generative UI is a dead end. Or *maybe* LLMs are powerful enough to overcome these hurdles, and eventually this will be the only kind of UI that matters. 
+So yeah, maybe we’ll discover that generative UI is a dead end. Or *maybe* LLMs are powerful enough to overcome these hurdles, and eventually this will be the only kind of UI that matters. 
 
 Either way, it’ll be an interesting few years.
 
@@ -190,4 +190,4 @@ Either way, it’ll be an interesting few years.
 
 As these patterns roll out in the software we use – unevenly, but steadily – traditional software UX will seem more and more backward. Some products will adapt, and others will be unseated by newcomers that start fresh with these new patterns, delivering the most useful and delightful experiences yet.
 
-Just like the times back when GUIs were displacing the terminal, these are fun times to be excited about software.
+Just like the era back when GUIs were displacing the terminal, these are fun times to be excited about software.
