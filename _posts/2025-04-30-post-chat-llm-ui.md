@@ -2,7 +2,7 @@
 layout: post
 author: allen
 title: "Post-Chat UI"
-summary: "How LLMs are making current apps feel broken"
+summary: "How LLMs are making traditional apps feel broken."
 date: 2025-04-30T23:45:30.955Z
 featured: false
 image: "/images/2025/postchat-terminal.jpg"
@@ -16,13 +16,13 @@ First, there was the terminal.
 <img src="/images/2025/postchat-terminal.jpg" alt="DOS" />
 </div>
 
-You typed text, you got scrolling text back. It was:
+You typed text. Scrolling text came back. It was:
 
 - Powerful
 - Flexible for power users
 - Easy to program
 
-But also, a UI centered around a text input field was:
+But also, since it was centered around a blank input field, it was:
 
 - Daunting
 - Unintuitive
@@ -30,7 +30,7 @@ But also, a UI centered around a text input field was:
 
 Fortunately, in the intervening decades our user interfaces got much better. We got graphical interfaces. We got direct manipulation, visual navigation, and rich thoughtful user experiences. It was great!
 
-In 2022, ChatGPT brought us back to text. Back to a world of talking to the computer via a single input field, and getting a scrolling list of inert responses back.
+In 2022, ChatGPT brought us back to text. Back to a world of talking to the computer via a single input field, and getting a scrolling list of responses back.
 
 Just like the terminal, chat-based AI is powerful, flexible for power users, and easy to program. But it has many of the problems that terminals had: it’s daunting, unintuitive, and an awkward way to do many kinds of work.
 
@@ -51,37 +51,37 @@ The first baby step beyond chat puts your work product – a document, for examp
 This Canvas UI is what you get if you ask ChatGPT to iterate a document with you.
 </div>
 
-You’ve seen an experience like this if you’ve used Copilot in Excel, or the Cursor IDE[^sound]: the chat is pushed aside. It’s far better than copying and pasting things into a ChatGPT, but it still has the problems that chat-centric interactions do.
+You’ve seen an experience like this if you’ve used Copilot in Excel, or the Cursor IDE[^sound]: the chat is pushed aside. It’s far better than copying and pasting things into ChatGPT, but it still has the problems that chat-centric interactions do.
 
 More interesting is the generation of apps that use AI to reinvent traditional UX.
 
 ## Generative Right-Click
 
-The easiest place to put a feature that acts on something is a context menu. Right-click on a thing, and in many apps now you’ll now see AI-powered actions you can take on that thing.
+The easiest place to put a feature that acts on something is a context menu. Right-click on a thing, and in many apps now you’ll now see AI-powered actions for it.
 
 <div class="centered">
 <img src="/images/2025/postchat-dia.jpg" alt="Dia cursor menu" />
 The <a href="https://www.diabrowser.com/">upcoming Dia browser</a> will infuse contextual AI actions right into your cursor. Still not sure if they’re crazy or geniuses.
 </div>
 
-This is discoverable – you don’t need to guess that the AI is good at writing the next line, the product indicates this by putting it in the menu.
+Menus are discoverable. You don’t need to guess that the AI is good at writing the next line – the product indicates this by putting it right there.
 
-One challenge here is that the set of things that AI can do is, uh, wide. Expect already-bloated right-click and “…” menus will explode with an overwhelming number of options, making them almost as daunting as an arbitrary chat field. But in time we’ll rein it in, and this will be a bread-and-butter place to surface useful AI features.
+One challenge here is that the set of things that AI can do is, uh, wide. At first, already-bloated right-click and “…” menus will explode with an overwhelming number of options, making them almost as daunting as an arbitrary chat field. But in time we’ll rein it in, and this will be a bread-and-butter place to surface useful AI features.
 
 ## Intuitive Search
 
 Another UI convention being reinvented is the search field.
 
-It used be that finding a flight details email required typing something like, “air canada confirmation” and hoping that’s actually the phrasing in the email you’re thinking of.
+It used be that finding your flight details in your email required typing something like, “air canada confirmation” and hoping that’s actually the phrasing in the email you’re thinking of.
 
-Now, you should be able to type “what are the flight details for the offsite?” and find what you wanted.
+Now, you should be able to type “what are the flight details for the offsite?” and find what you want.
 
 <div class="centered">
 <img src="/images/2025/postchat-search.jpg" alt="Superhuman search" />
 For now this requires <a href="https://superhuman.com/ai">Superhuman’s Business plan</a>, but in time this pattern will become cheaper and more universal.
 </div>
 
-Experience this once, and products with an old-school text-match search field feel broken. You should be able to just type “tax receipts from registered charities” into your email app, “the file where the login UI is defined” into your IDE, and “my upcoming vacations” into your calendar.
+Experience this once, and products with an old-school text-match search field feel broken. You should be able to just find “tax receipts from registered charities” in your email app, “the file where the login UI is defined” in your IDE, and “my upcoming vacations” in your calendar.
 
 Figma now lets you [search for a design by pasting in a similar-looking screenshot](https://youtu.be/O4a4bVIe5As?si=6hNY5AFL8z2juTVA&t=71). The era of needing to remember exactly what something is named is ending.
 
@@ -90,18 +90,18 @@ Figma now lets you [search for a design by pasting in a similar-looking screensh
 Another common UI pattern is pickers. We’re constantly picking – whether it’s filter options, dates, or themes.
 
 <div class="centered">
-<img src="/images/2025/postchat-picker.jpg" alt="Typing to choose a date" />
+<img src="/images/2025/postchat-picker.png" alt="Typing to choose a date" />
 Superhuman just letting me type a date.
 </div>
 
 
-While natural-language inputs like this date picker in Superhuman have been feasible with substantial effort for years, it’s now within every team’s reach to add [inuitive fields](https://x.com/pontusab/status/1853123214823846064) wherever they previously made users pick from lists.
+While natural-language inputs for date pickers have been acheivable with substantial effort for years, it’s now within every team’s reach to add [inuitive fields](https://x.com/pontusab/status/1853123214823846064) wherever they previously made users pick from lists.
 
-As we start to see new interfaces that support humane controls for this kind of thing, it will seem increasingly inhumane that we need to choose “Helvetica”, “Semibold”, and “36pt” from three separate dropdowns. It *is* inhumane – it’s an artifact of the past, back when computers needed us to chunk up our inputs into separate dropdowns for them, lest they be confused.
+As we start to see new interfaces that support these more humane controls, it will seem increasingly inhumane that we once chose “Helvetica”, “Semibold”, and “36pt” from three separate dropdowns. It *is* inhumane – it’s an artifact of the past, back when computers needed us to chunk up our inputs into separate dropdowns for them, lest they be confused.
 
 A more general form of “type instead of pick” is the [Command-K Bar](https://maggieappleton.com/command-bar/): a text input that lets you take any important action, right from the keyboard, given your current context. Instead of picking from a toolbar, apps like Linear and Superhuman let you just type “Mark all as read” and it’ll autocomplete the command.
 
-This was already nice to have pre-LLM, but is way more powerful now that we can connect a fuzzy search to the command list, and have an agent help perform them. Where software onboarding historically pushed users into a tour of things they might want to click, it can now ask what their immediate goals are – and guide them on exactly how to achieve them.
+This was already nice to have pre-LLM, but is way more powerful now that we can connect a fuzzy search to the command list, and have an agent help perform these actions. Where software onboarding historically pushed users into a tour of things they might want to click, it can now ask what their immediate goals are – and guide them on how to achieve them.
 
 ## Inline Feedback
 
@@ -110,7 +110,7 @@ We’ve had colored highlights indicating spelling errors for ages now. But inli
 Maggie Appleton has [a great illustration of this with her “writing daemons” concept](https://maggieappleton.com/lm-sketchbook/): configurable personalities that give you the feedback you want. Maybe one is a devil’s advocate, another encourages you to simplify, and another [insists that you cite your sources](https://x.com/rauchg/status/1865125266336432271?s=61).
 
 <div class="centered">
-<img src="/images/2025/postchat-inline.jpg" alt="Inline feedback on text" />
+<img src="/images/2025/postchat-inline.png" alt="Inline feedback on text" />
 I think of this pattern as “putting LLM angels and devils on your shoulders”.
 </div>
 
@@ -123,7 +123,7 @@ Humans are kind of messy. We mean well, but many of us end up with messy desktop
 Figma’s recent [Rename Layers feature](https://help.figma.com/hc/en-us/articles/24004711129879-Rename-layers-with-AI) is a great example. Designers often work in files full of poorly named layers – Hero Image copy 2, and the like. That’s no longer necessary – just click “Rename Layers” and it changes them to something reasonable. 
 
 <div class="centered">
-<img src="/images/2025/postchat-cleanup.jpg" alt="Figma cleanup" />
+<img src="/images/2025/postchat-cleanup.png" alt="Figma cleanup" />
 I am in love with this.
 </div>
 
