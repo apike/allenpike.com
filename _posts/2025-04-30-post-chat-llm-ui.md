@@ -51,7 +51,7 @@ The first baby step beyond chat puts your work product – a document, for examp
 This Canvas UI is what you get if you ask ChatGPT to iterate a document with you.
 </div>
 
-You’ve seen an experience like this if you’ve used Copilot in Excel, or the Cursor IDE[^sound]: the chat is pushed aside. It’s far better than copying and pasting things into ChatGPT, but it still has the problems that chat-centric interactions do.
+You’ve seen an experience like this if you’ve used Copilot in Excel, or the Cursor IDE: the chat is pushed aside. It’s far better than copying and pasting things into ChatGPT, but it still has the problems that chat-centric interactions do.
 
 More interesting is the generation of apps that use AI to reinvent traditional UX.
 
@@ -137,17 +137,17 @@ As [imperfect](https://allenpike.com/2024/apple-intelligence-ios-18-2) as Apple 
 <img src="/images/2025/postchat-summary.png" alt="Apple Intelligence" />
 </div>
 
-Group chat summaries are just the initial features that will help us tame the firehose of information we’re exposed to. If you’ve worked in a large company, you know that there is 1000x more information going by than you can ever engage with. Now, we can build products that help people pull from that noise the signal, surfacing what matters to their work – and minimizing the rest.
+Group chat summaries are just one way LLMs can help tame the firehose of information we’re exposed to. If you’ve worked in a large company, you know that there is 1000x more information going by than you can ever engage with. Now, we can build products that help people pull signal from the noise, surfacing what matters to their work – no chat needed.
 
 ## Voice
 
-An obvious thing that comes up when we talk about post-chat interfaces is voice. While most AI voice chats today are still a linear back-and-forth sequence of words, [Amelia Wattenberger points out](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses), that humans and AIs are both multimodal: we can talk and point at the same time, and an LLM can talk and type at the same time.
+An natural thing that comes up when we talk about post-chat interfaces is voice. While most AI voice chats today are still a linear back-and-forth sequence of words, [Amelia Wattenberger points out](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses) that humans and AIs are both multimodal: we can talk and point at the same time, and an LLM can talk and show at the same time.
 
-Why type into a chat UI “Hey, where is the code that defines the user button in the top right, the one to the left of logout” when instead you can wiggle your cursor over the button in question and ask,
+Why type into a chat UI “Hey, where is the code that defines the user button in the top right, specifically the one to the left of logout” when instead you can wiggle your cursor over the button in question and ask,
 
 > where is the code for this?
 
-Our agent should then just respond,
+Our agent could then just respond,
 
 > Found it.
 
@@ -157,20 +157,20 @@ This isn’t yet built into the workflows we’re using today, but it now possib
 
 ## Do the Obvious Thing
 
-This is my personal favourite non-chat AI pattern. So often in software, the next thing we’re going to do is telegraphed by what we’ve done so far. Now, we can build products that do these obvious next things for our customers, and simply have them confirm it.
+This is my personal favourite non-chat AI pattern. So often in software, the next thing we’re going to do is telegraphed by what we’ve done so far. Finally, we can build products that offer to do these obvious next things for our customers, and simply have them confirm it.
 
 <div class="centered">
 <img src="/images/2025/grammarly-tab.jpg" alt="Grammarly typo correction" />
 I just made a typo, and a reasonable next action is for Grammarly to fix it.
 </div>
 
-I’ve [written at length about the tab completion pattern](https://allenpike.com/2025/tab-continuation-completion), where professional tools should adopt the pattern that we see in Cursor, where the user can press tab to take the next likely action. But this pattern can generalize all over our software – in so many cases, an LLM can provide a reasonable default title, label, or otherwise relieve us from repetitive work. Over time, this frees us to think more about the creative and meaningful aspect of what we’re doing.
+I’ve [written at length about the tab completion pattern](https://allenpike.com/2025/tab-continuation-completion), where professional tools can adopt the pattern that we see in Cursor, where the user can press tab to take the next likely action. But this pattern can generalize all over our software – in so many cases, an LLM can provide a reasonable default title, label, or otherwise relieve us from repetitive work. Over time, this frees us to think more about the creative and meaningful aspect of what we’re doing.
 
 ## Final Boss: Completely Generated UI
 
 This last one is either the future final form of human-computer interaction, or pipe dream nonsense.
 
-LLMs can now generate user interfaces. Not only can bolt.new generate the code for a user interface, but LLMs can now also generate the kind of UI markup that lets us display a totally custom interface – specific controls, buttons, layouts, even navigation – tailored to the exact needs of the current user.
+LLMs can now generate user interfaces. Not only can [bolt.new](https://bolt.new/) generate the code for a user interface, but LLMs can now also generate a custom interface in real-time – specific controls, buttons, layouts, even navigation – tailored to the exact needs of the current user.
 
 This is amazing. But also presents a few problems.
 
@@ -188,8 +188,6 @@ Either way, it’ll be an interesting few years.
 
 ## Go forth and build
 
-As these patterns roll out in the software we use – unevenly, but steadily – traditional software UX will seem more and more backward. Some products will adapt, and others will be outcompeted by newcomers that start fresh with these new patterns, delivering more useful and delightful experiences than we’ve seen thus far.
+As these patterns roll out in the software we use – unevenly, but steadily – traditional software UX will seem more and more backward. Some products will adapt, and others will be unseated by newcomers that start fresh with these new patterns, delivering the most useful and delightful experiences yet.
 
-Just like the times back when GUI was displacing the terminal, these are fun times to be excited about software.
-
-[^sound]: I can’t mention Cursor and co-authorship UX without giving a shout out to my favorite new feature of theirs: the “Play sound on finish” setting. This little detail makes it way easier to keep your flow and attention where it belongs, and I hope they shortly fix the bug where it doesn’t play a sound when the agent blocks on your approval for a terminal command.
+Just like the times back when GUIs were displacing the terminal, these are fun times to be excited about software.
