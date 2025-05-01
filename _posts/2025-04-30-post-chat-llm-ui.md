@@ -7,7 +7,7 @@ date: 2025-04-30T23:45:30.955Z
 featured: false
 image: "/images/2025/postchat-terminal.jpg"
 tags:
-  - llms
+  - llm
 ---
 
 First, there was the terminal.
