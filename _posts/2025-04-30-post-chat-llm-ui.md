@@ -95,7 +95,7 @@ Superhuman just letting me type a date.
 </div>
 
 
-While natural-language inputs for date pickers have been acheivable with substantial effort for years, it’s now within every team’s reach to add [inuitive fields](https://x.com/pontusab/status/1853123214823846064) wherever they previously made users pick from lists.
+While natural-language inputs for date pickers have been acheivable (with substantial effort) for years, it’s now within every team’s reach to add [inuitive fields](https://x.com/pontusab/status/1853123214823846064) in places they previously made users pick from lists.
 
 As we start to see new interfaces that support these more humane controls, it will seem increasingly inhumane that we once chose “Helvetica”, “Semibold”, and “36pt” from three separate dropdowns. It *is* inhumane – it’s an artifact of the past, back when computers needed us to chunk up our inputs into separate dropdowns for them, lest they be confused.
 
@@ -120,7 +120,7 @@ Our need for chat-based review and feedback will decline as the next generation 
 
 Humans are kind of messy. We mean well, but many of us end up with messy desktops, messy inboxes, and messy codebases with inconsistent naming patterns. Luckily, computers are now good at cleaning this up for us.
 
-Figma’s recent [Rename Layers feature](https://help.figma.com/hc/en-us/articles/24004711129879-Rename-layers-with-AI) is a great example. Designers often work in files full of poorly named layers – Hero Image copy 2, and the like. That’s no longer necessary – just click “Rename Layers” and it changes them to something reasonable. 
+Figma’s recent [Rename Layers feature](https://help.figma.com/hc/en-us/articles/24004711129879-Rename-layers-with-AI) is a great example. Designers often work in files full of poorly named layers – “Hero Image copy 2”, and the like. That’s no longer necessary – just click “Rename Layers” and it changes them to something reasonable. 
 
 <div class="centered">
 <img src="/images/2025/postchat-cleanup.png" alt="Figma cleanup" />
