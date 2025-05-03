@@ -9,13 +9,13 @@ isMe: true
 ---
 
 <img src='/images/2024/allen-pike-2024.jpg' style='width: 220px;' class='side'>
-I’m a founder who loves building great software. Currently, I'm building a new product startup, [Forestwalk](https://forestwalk.ai/), where we’re making delightful tools that help teams move faster. Previously I founded [Steamclock](https://steamclock.com/), and was a Software Engineer at Apple.
+I’m a founder who loves building great software. Currently, I'm building a new product startup, [Forestwalk](https://forestwalk.ai/), where we’re making delightful tools that help teams move faster.
 
 I also [write monthly about what I'm learning](/archive/), host a podcast [about leadership](https://itshipped.fm), [speak](/speaking/) about what I’ve learned, organize an [AI engineering meetup called Infer](https://infervan.com/), and informally advise startups.
 
-Outside of work, I like to play music, overdo things, write, and play games where I make numbers go up.
+Previously I founded [Steamclock](https://steamclock.com/), and was a Software Engineer at Apple. Outside of work, I like to play music, overdo things, write, and play games where I make numbers go up.
 
-I like hearing from people! Go ahead and [send me a short note](/contact/), or you can [follow my work](/subscribe/).
+I like hearing from people! [Send me a short note](/contact/), or you can [follow my work](/subscribe/).
 
 **Current Projects**
 
