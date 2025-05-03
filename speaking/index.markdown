@@ -16,7 +16,7 @@ I usually teach the same kinds of topics that I [write about](/archive): what Iâ
 
 Also, on occasion, I'll MC a conference or show. 
 
-### Videos
+### Talks
 
 Here are some talks I've given:
 
@@ -26,7 +26,8 @@ Here are some talks I've given:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mRqBjKFyfLc?si=SEWpWtMcGOdEzzXH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-- [Testing the Untestable](https://www.youtube.com/watch?v=ZwcN-APT_gE&list=PLRFogIqRBGy_9XPJd37m57v_daaivqiRr&index=2&t=614s) at Infer Vancouver, on automated testing for LLM-powered apps
+
+- [Testing the Untestable](https://www.youtube.com/watch?v=ZwcN-APT_gE&list=PLRFogIqRBGy_9XPJd37m57v_daaivqiRr&index=2&t=614s) at Infer Vancouver in 2024, on automated testing for LLM-powered apps
 - [Native.js](https://www.youtube.com/watch?v=5LUkHss6CAw&list=PLRFogIqRBGy_9XPJd37m57v_daaivqiRr&index=6), at JSConf EU 2013 in Berlin
 - A [playlist of some of my other talks](https://www.youtube.com/playlist?list=PLRFogIqRBGy_9XPJd37m57v_daaivqiRr)
 
