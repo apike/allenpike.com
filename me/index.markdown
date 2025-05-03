@@ -19,10 +19,10 @@ I like hearing from people! Go ahead and [send me a short note](/contact/), or y
 
 **Current Projects**
 
-- [Forestwalk](https://forestwalk.ai/): I’ve recently co-founded an early-stage startup building LLM-powered tools for teams.
+- [Forestwalk](https://forestwalk.ai/): I’m co-founder of an early-stage startup. We’re building LLM-powered tools for teams.
 - [It Shipped That Way](https://www.itshipped.fm/), a podcast where I interview product and tech leaders.
 - [Infer Vancouver](https://infervan.com/), an AI speaker series in Vancouver.
-- [Steamclock](https://steamclock.com/): I’m on the board of this product studio I founded, which makes very nice apps.
+- [Steamclock](https://steamclock.com/): A mighty little app studio I founded in 2010; I'm on the board.
 - [Talks and Podcasts](/speaking/): I like to share what I’ve learned.
 
 **Historical Projects**
