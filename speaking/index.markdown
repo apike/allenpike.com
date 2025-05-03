@@ -28,27 +28,17 @@ Also, on occasion, I'll MC a conference or show.
 
 ### Videos
 
-Here are three example videos of talks I've given:
+Here are some talks I've given:
 
-**A Workflow for Directing Attention, for Learn OmniFocus**
-
-<div class='videoWrapper'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mIwV3FK-omI?start=417s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-
-
-**Competing with Art, at CocoaLove in Philadelphia**
+**Post-chat UI: Human-Centric Patterns for AI UX**
 
 <div class='videoWrapper'>
-<iframe src="//player.vimeo.com/video/153679708" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/mRqBjKFyfLc?si=jlvgJeQmsi_2g7_8" title="YouTube - Allen Pike, UX for AI apps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**Native.js, at JSConf EU in Berlin**
-
-<div class='videoWrapper'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5LUkHss6CAw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+- [Testing the Untestable](https://www.youtube.com/watch?v=ZwcN-APT_gE&list=PLRFogIqRBGy_9XPJd37m57v_daaivqiRr&index=2&t=614s) at Infer Vancouver, on automated testing for LLM-powered apps
+- [Native.js](https://www.youtube.com/watch?v=5LUkHss6CAw&list=PLRFogIqRBGy_9XPJd37m57v_daaivqiRr&index=6), at JSConf EU 2013 in Berlin
+- A [playlist of some of my other talks](https://www.youtube.com/playlist?list=PLRFogIqRBGy_9XPJd37m57v_daaivqiRr)
 
 ### Podcasts
 
