@@ -12,17 +12,7 @@ I enjoy teaching and telling stories, especially around software design and deve
 <img src='/images/allen-speaking.jpg' />
 <p style='text-align: center; font-style: italic;'>A slide from a talk I gave in 2017 at Microsoft.</p>
 
-
-### Topics
-
-I often speak on the same topics that I [write about](/archive). Here are some examples:
-
-* **Product and project management for quality**, including communication, iteration, and what it takes to drive great UX.
-* **Mobile app design and development**, especially topics around UI and product strategy.
-* **Lessons learned from shipping products**, including the various products I've led over the years, and the many dozens of products we've shipped for clients.
-* **Engineering leadership**, including building and engaging a product team, technical decision-making, and leading for quality.
-* **Running a business**, especially a software business.
-* **Personal stories** that inform, whether they're heavy or light.
+I usually teach the same kinds of topics that I [write about](/archive): what I’ve been learning as I build products and teams. Most often I talk about product, design, applying LLMs, lessons learned, engineering leadership, or startups.
 
 Also, on occasion, I'll MC a conference or show. 
 
