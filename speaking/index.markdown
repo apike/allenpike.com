@@ -18,14 +18,13 @@ Also, on occasion, I'll MC a conference or show.
 
 ### Talks
 
-Here are some talks I've given:
-
-**Post-chat UI: Human-Centric Patterns for AI UX**
+Here's a recent example – **Post-chat UI: Human-Centric Patterns for AI UX**
 
 <div class='videoWrapper'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mRqBjKFyfLc?si=SEWpWtMcGOdEzzXH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
+Here are some others:
 
 - [Testing the Untestable](https://www.youtube.com/watch?v=ZwcN-APT_gE&list=PLRFogIqRBGy_9XPJd37m57v_daaivqiRr&index=2&t=614s) at Infer Vancouver in 2024, on automated testing for LLM-powered apps
 - [Native.js](https://www.youtube.com/watch?v=5LUkHss6CAw&list=PLRFogIqRBGy_9XPJd37m57v_daaivqiRr&index=6), at JSConf EU 2013 in Berlin
