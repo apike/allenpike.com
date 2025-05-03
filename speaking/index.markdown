@@ -4,7 +4,7 @@ comments: false
 date: 2018-01-18 12:51:43
 layout: page
 slug: speaking
-title: Speaking and Podcasts
+title: Talks and Podcasts
 ---
 
 I enjoy teaching and telling stories, especially around software design and development. I've been lucky enough to be invited to do so at a couple dozen conferences and podcasts over the years. If you run a conference or podcast and would like to chat, [get in touch](/contact/).

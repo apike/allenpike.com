@@ -21,13 +21,13 @@ I like hearing from people! Go ahead and [send me a short note](/contact/), or y
 
 - [Forestwalk](https://forestwalk.ai/): I’ve recently co-founded an early-stage startup building LLM-powered tools for teams.
 - [It Shipped That Way](https://www.itshipped.fm/), a podcast where I interview product and tech leaders.
-- [Infer](https://infervan.com/), an AI speaker series in Vancouver.
-- [Public Speaking and Appearances](/speaking/): I like to share what I’ve learned.
+- [Infer Vancouver](https://infervan.com/), an AI speaker series in Vancouver.
 - [Steamclock](https://steamclock.com/): I’m on the board of this product studio I founded, which makes very nice apps.
-- [The Feedback Wizard](https://feedbackwizard.steamclock.com/), a little LLM experiment.
+- [Talks and Podcasts](/speaking/): I like to share what I’ve learned.
 
 **Historical Projects**
 
+- [The Feedback Wizard](https://feedbackwizard.steamclock.com/), a little LLM experiment.
 - [Fun Fact](https://funfact.fm/): A podcast I did monthly, about facts.
 - [Two Spies](https://playspies.com): A turn-based spy strategy game.
 - [My resume](/resume/): Obligatory, I suppose.
