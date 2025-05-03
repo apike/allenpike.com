@@ -37,7 +37,7 @@ I enjoy guesting on podcasts &ndash; they're most of the fun of giving a talk, w
 * The [It Shipped That Way Podcast](https://www.itshipped.fm/), where I interview product leaders about what they've learned. Example episodes:
   * Ep. 6, [Solving Engineering Problems with DuckDuckGo’s Cate Huston](https://www.itshipped.fm/episodes/4)
   * Ep. 12, [The Intersection of Business and Design, w/ fmr. Shopify Product GM Lynsey Thornton](https://www.itshipped.fm/episodes/12)
-* The [Fun Fact Podcast](https://funfact.fm), where Arik Devens and I discuss important facts. Example episodes:
+* The [Fun Fact Podcast](https://funfact.fm), where Arik Devens and I discussed important facts. Example episodes:
   * Ep. 56, [A Hippo Astronaut](https://funfact.fm/episodes/56) 
   * Ep. 66, [We Gotta Blow It Up](https://funfact.fm/episodes/66)
 * [The Xcoders Podcast, March 2020](https://xcoders.org/2020/03/19/xcoders-podcast-march.html), where I talk about starting Vancouver Xcoders, and approaches for sharing code across platforms.

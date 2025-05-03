@@ -191,3 +191,7 @@ Either way, it’ll be an interesting few years.
 As these patterns roll out in the software we use – unevenly, but steadily – traditional software UX will seem more and more backward. Some products will adapt, and others will be unseated by newcomers that start fresh with these new patterns, delivering the most useful and delightful experiences yet.
 
 Just like the era back when GUIs were displacing the terminal, these are fun times to be excited about software.
+
+----
+
+*I also gave [a talk on this topic](https://www.youtube.com/watch?v=mRqBjKFyfLc) at the Vancouver AI meetup.*
