@@ -7,11 +7,11 @@ slug: subscribe
 title: Follow
 ---
 
-Here’s how to find out when I post articles, plus other bleeps and bloops:
+You can get my monthly articles, plus other bleeps and bloops, on social media:
 
-- Mastodon: <a href="https://mastodon.social/@apike" rel="me">@apike</a>
-- Bluesky: <a href="https://bsky.app/profile/allenpike.com" rel="me">@allenpike.com</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/allenpike/" rel="me">@allenpike</a>
+- Mastodon: <a href="https://mastodon.social/@apike" rel="me" title="Allen Pike on Mastodon">@apike</a>
+- Bluesky: <a href="https://bsky.app/profile/allenpike.com" rel="me" title="Allen Pike on Bluesky">@allenpike.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/allenpike/" rel="me" title="Allen Pike on LinkedIn">@allenpike</a>
 - RSS: <a href="/feed/">allenpike.com/feed</a>
 
 <!-- Stripped down convertkit form from https://sayzlim.net/plain-html-form-convertkit/ -->
