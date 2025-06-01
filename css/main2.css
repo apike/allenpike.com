@@ -102,6 +102,10 @@ hr.subtle {
 ul,
 ol {
   margin-left: 2em;
+}
+
+.content ul,
+.content ol {
   margin-top: 1em;
   margin-bottom: 1em;
 }
