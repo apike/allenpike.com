@@ -6,6 +6,8 @@ summary: "Some highlights and lowlights."
 date: 2025-05-31T23:45:30.955Z
 featured: false
 image: "/images/2025/figma-offline.jpg"
+tags:
+  - products
 
 ---
 

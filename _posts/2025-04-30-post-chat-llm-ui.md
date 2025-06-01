@@ -8,6 +8,7 @@ featured: true
 image: "/images/2025/postchat-terminal.jpg"
 tags:
   - llm
+  - products
 ---
 
 First, there was the terminal.
