@@ -67,7 +67,7 @@ Figma will decide when your presentation is over.
 
 This all made me uneasy, so I practiced the flow more often than usual. I made sure I clicked the right things to make it work offline. Then, I went to go present.
 
-At the venue, I immediatley noticed something once the slides were up on their giant 40 foot display: I needed to click twice to advance each slide. Odd, but I’m an adult. I can click twice for each slide.
+At the venue, I immediately noticed something once the slides were up on their giant 40 foot display: I needed to click twice to advance each slide. Odd, but I’m an adult. I can click twice for each slide.
 
 Unfortunately, halfway into my talk I noticed a much bigger problem.
 
