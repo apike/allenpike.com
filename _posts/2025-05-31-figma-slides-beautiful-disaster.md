@@ -59,8 +59,8 @@ It was during this dry run I noticed some bad omens:
 6. Even beyond this, the functionality around managing Present and the Audience view is just a little… flaky?
 
 <div class="centered">
-<video style="max-width: 100%" src="/images/2025/figma-x.mp4" autoplay loop muted playsinline>
-  Your browser doesn't support HTML5 video.
+<video style="max-width: 100%" src="/images/2025/figma-x.mp4" autoplay loop muted playsinline controls>
+  Your viewer doesn't support HTML5 video, but you [can see the video here](/images/2025/figma-x.mp4).
 </video>
 Figma will decide when your presentation is over.
 </div>
