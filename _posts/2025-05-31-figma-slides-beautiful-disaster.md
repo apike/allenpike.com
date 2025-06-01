@@ -93,10 +93,14 @@ A silver lining was that the core point of my talk was that [boring technology i
 
 While I was able to reproduce the animation bug the next day, I haven’t been able to since restarting Figma. Their forums have stories of [other](https://forum.figma.com/ask-the-community-7/fixed-figma-slides-show-smart-animate-transition-only-in-presenter-view-and-not-in-audience-view-39081?utm_source=chatgpt.com) [similar](https://forum.figma.com/ask-the-community-7/fixed-figma-slides-show-smart-animate-transition-only-in-presenter-view-and-not-in-audience-view-39081?utm_source=chatgpt.com) [bugs](https://forum.figma.com/ask-the-community-7/figma-slides-with-multiple-videos-in-present-mode-have-to-click-arrow-key-loads-before-next-slide-28477?utm_source=chatgpt.com), none quite the same. So maybe it’s fixed.
 
-Even if this specific bug is fixed, though, I get the strong impression that Figma doesn’t treat presenting Slides as mission-critical. A team that uses Figma Slides at meetups or conferences wouldn’t let clicking Present offline just vomit “Error -106”.
+Even if this specific bug is fixed, though, I get the impression that Figma doesn’t treat presenting Slides as mission-critical. A team that uses Figma Slides at meetups or conferences wouldn’t let clicking Present offline just vomit “Error -106”.
 
 While Keynote is old, and pasting things in from other design tools feels janky, the OG still benefits from Apple institutionally [giving a shit](https://allenpike.com/2022/giving-a-shit) about giving a presentation to an audience. You can tell they feel it should be bulletproof.
 
 So, in the end, I learned the lesson I was trying to teach. Boring technology is good, actually. 
 
 Here’s to Keynote: it works. 🍻
+
+----
+
+Update: A PM at Figma [has helpfully taken this feedback to the team](https://news.ycombinator.com/item?id=44152221), and says they do see this flow as needing to be bulletproof. That’s great to hear, since there's a lot to like about Figma Slides. I look forward to a world where Figma’s new products graduate from fascinating to boringly reliable. 🌟
