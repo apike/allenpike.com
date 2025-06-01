@@ -2,21 +2,20 @@
 layout: post
 author: allen
 title: "Figma Slides is a Beautiful Disaster"
-summary: "A fun story about presenting."
+summary: "Some highlights and lowlights."
 date: 2025-05-31T23:45:30.955Z
 featured: false
-image: "/images/2025/figma-smash.jpg"
-tags:
-  - llm
+image: "/images/2025/figma-offline.jpg"
+
 ---
 
 I think of presentation slides as having 3 main jobs:
 
-1. Emphasize key points, so people remember
-2. Break up complex concepts, so people learn
-3. Entertain, so people pay attention
+1. **Emphasize key points**, so people remember
+2. **Break up complex concepts**, so people learn
+3. **Entertain**, so people pay attention
 
-This calls for slides that are mostly images or very short phrases. Usually some slides justify something a bit more complex to illustrate a point – a diagram, for example. This sometimes means going back and forth between Keynote and, say, Figma, but it’s worth the effort.
+This calls for slides that are mostly images or very short phrases. A minority of slides justify designing something to match the vibe or illustrate a point – a diagram, for example. This can mean going back and forth between Keynote and, say, Figma, but it’s worth the effort.
 
 This year I’ve been spending a lot of time in Figma, so when I was asked to speak at Vancouver's JavaScript meetup I thought, “Why not try [Figma Slides](https://www.figma.com/slides/)?” Figma Slides launched a year back, and [graduated from beta in March](https://www.linkedin.com/posts/paigecostello_figma-slides-came-out-of-beta-today-30-activity-7308211241049591811-Z_-U/). I’ve used Keynote for almost 20 years now – it seemed like time for me to finally upgrade my presentation tool.
 
@@ -79,7 +78,7 @@ The animations – which I had used only on my most complex slides, which needed
 <a href="https://www.youtube.com/watch?v=j7_o-YiwGwo">
 <img src="/images/2025/clicker-fail.jpg" alt="A man looks in confusion at his own clicker." />
 </a>
-The exact moment I realized that I’d been hoisted on my own petard.
+Looking at my clicker in desperation: the exact moment I realized that I’d been hoisted on my own petard.
 </div>
 
 After some exploratory clicking, I found that once all the builds on a blank slide had been triggered, it would then jump to the next slide. At that point, you could click back to show the fully built skipped slide.
