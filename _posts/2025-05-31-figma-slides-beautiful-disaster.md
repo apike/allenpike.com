@@ -103,4 +103,4 @@ Here’s to Keynote: it works. 🍻
 
 ----
 
-Update: A PM at Figma [has helpfully taken this feedback to the team](https://news.ycombinator.com/item?id=44152221), and says they do see this flow as needing to be bulletproof. That’s great to hear, since there's a lot to like about Figma Slides. I look forward to a world where Figma’s new products graduate from fascinating to boringly reliable. 🌟
+*Update*: A PM at Figma [has graciously taken this feedback to the team](https://news.ycombinator.com/item?id=44152221), and says they do see this flow as needing to be bulletproof. That’s great to hear, since there's a lot to like about Figma Slides. I look forward to a world where Figma’s new products graduate from fascinating to boringly reliable. 🌟
