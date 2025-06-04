@@ -6,6 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   {% if page.fulltitle %}
   <title>{{page.fulltitle}}</title>
+  {% elsif page.url contains '/series/' and page.tag %}
+  {% assign series = site.data.seriestitles[page.tag] %}
+  {% assign series_title = series.title | default: page.tag %}
+  <title>
+    {{ series_title }}: A Series - Allen Pike
+  </title>
   {% else %}
   <title>
     {{ page.title }} - Allen Pike
