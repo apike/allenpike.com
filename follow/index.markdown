@@ -4,7 +4,7 @@ comments: false
 layout: page
 isSubscribe: true
 slug: subscribe
-title: Follow
+title: Follow and Socials
 ---
 
 You can get my monthly articles, plus other bleeps and bloops, on social media:
