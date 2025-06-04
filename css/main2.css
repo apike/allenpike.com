@@ -504,6 +504,15 @@ span.meta {
   color: #444;
 }
 
+/* 2-column layout for archive on wider screens */
+@media (min-width: 800px) {
+  .archive.series {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0 2em; /* horizontal gap between columns, no vertical gap */
+  }
+}
+
 .prologue {
   text-align: center;
   opacity: 0.8;

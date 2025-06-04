@@ -5,7 +5,7 @@ title: Article Archive
 ---
 
 <div id="home">
-  <h1>Archive of articles</h1>
+  <h1>Article and essay archive</h1>
   <p>I write once a month about software and other tricky things.</p>
   <hr class="subtle">
 
@@ -18,7 +18,7 @@ title: Article Archive
 
   <h2>Article Series</h2>
 
-  <ul class="posts archive">
+  <ul class="posts archive series">
     {%- for tag in tags_list -%}
     {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
     {% if site.tags[tag].size < 6 %}
