@@ -213,6 +213,14 @@ blockquote.speaker-2 {
   text-align: right;
 }
 
+blockquote.top {
+  margin-top: 2em;
+}
+
+blockquote.bottom {
+  margin-bottom: 2em;
+}
+
 img.side {
   max-width: 50%;
 }
