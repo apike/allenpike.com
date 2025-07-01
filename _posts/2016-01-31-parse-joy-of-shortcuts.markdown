@@ -11,6 +11,7 @@ categories:
 - Article
 tags:
 - choosing
+- startups
 ---
 
 Some time ago, we had a client come to us with a problem. Their app was a mess. It consisted of roughly 400 kilograms of copy-pasted Objective-C, written by a departed team member in some kind of over-caffeinated fever dream. There was no server logic, or anything else that would qualify as logical for that matter. It was simply a large, quivering mass of queries to Parse.

@@ -5,6 +5,9 @@ title: How Leaders Manage Time & Attention
 summary: Some findings on productivity.
 date: 2023-05-31T05:45:30.955Z
 featured: false
+tags:
+  - startups
+  - overboard 
 categories:
   - Article
   - Productivity
