@@ -7,6 +7,7 @@ summary: "I attempt stop you from making a mistake."
 image: "/images/2020/mike-holmes-sonic.jpg"
 tags:
 - products
+- startups
 categories:
 - Article
 

@@ -8,6 +8,7 @@ featured: false
 image: "/images/2024/gpt-releases-og.png"
 tags:
   - llm
+  - startups
 
 ---
 

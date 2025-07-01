@@ -202,7 +202,15 @@ ul.posts {
 
 blockquote {
   padding-left: 1em;
-  border-left: 1px solid #8400b8;
+  border-left: 2px solid #8400b8;
+}
+
+blockquote.speaker-2 {
+  border-left: none;
+  border-right: 2px solid #0056b8;
+  padding-left: 1em;
+  padding-right: 1em;
+  text-align: right;
 }
 
 img.side {
