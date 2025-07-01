@@ -1,11 +1,11 @@
 ---
 layout: post
 author: allen
-title: "Spending A Lot of Money on a Coding Agent"
+title: "Spending Too Much Money on a Coding Agent"
 summary: "On making use of large thinking models."
 date: 2025-06-30T23:45:30.955Z
 featured: false
-image: "/images/2025/XoXoXoXoXoXoXoXo.jpg"
+image: "/images/2025/cursor-agent.jpg"
 tags:
   - startups
   - llm
@@ -21,7 +21,7 @@ But then, this spring, something interesting happened.
 
 ## Full speed ahead
 
-Last month, my co-founder Jenn and I were rapidly sprinting to hit a self-imposed deadline (demoing our latest experiment at Web Summit Vancouver). Luckily, Claude Sonnet is truly helpful when coding – especially in TypeScript. Still, under time pressure, I started to get frustrated with its LLM-isms: overcomplicating changes, proposing unnecessary dependencies, and just [literally changing failing tests into skipped tests](https://www.lesswrong.com/posts/rKC4xJFkxm6cNq4i9/reward-hacking-is-becoming-more-sophisticated-and-deliberate) to resolve “the tests are failing.” Like, what the crap?
+Last month, my co-founder Jenn and I were rapidly sprinting to hit a self-imposed deadline (demoing our latest experiment at Web Summit Vancouver). Luckily, Claude Sonnet is truly helpful when coding – especially in TypeScript. Still, under time pressure, I started to get annoyed with its LLM-isms: overcomplicating changes, proposing unnecessary dependencies, and just [literally changing failing tests into skipped tests](https://www.lesswrong.com/posts/rKC4xJFkxm6cNq4i9/reward-hacking-is-becoming-more-sophisticated-and-deliberate) to resolve “the tests are failing.” Like, what the crap?
 
 Frustrated, I tried switching from Claude Sonnet to the new o3 thinking model. I knew o3 was painfully slow, so I took the time to write out exactly what I knew, and what I wanted the solution to look like, and gave it some time to work. To my surprise, the response was… great?
 
@@ -82,11 +82,11 @@ So I guess it really is a thing. You can get $1000/mo of value from coding agent
 
 Obviously, simply spending $1000 does not guarantee you a positive return! Here are some practices that we’ve found get more value out of large thinking models like o3 and Claude Opus:
 
-- **Shift errors earlier**: The faster you can detect a coding error, the cheaper it is to fix. This is doubly true for LLMs. Shifting errors from runtime -> test-time -> build-time makes everybody more productive. Even better, fix issues deterministically with a linter or formatter. Let your expensive LLMs and humans focus on the squishy parts.
+- **Shift errors earlier**: The faster you can detect a coding error, the cheaper it is to fix. This is doubly true for LLMs. Shifting errors from runtime → test-time → build-time makes everybody more productive. Even better, fix issues deterministically with a linter or formatter. Let your expensive LLMs and humans focus on the squishy parts.
 - **Use boring technology**: LLMs do much better with well-documented and well-understood dependencies than obscure, novel, or magical ones. Now is not the time to let Steve load in a Haskell-to-WebAssembly pipeline.
 - **Refine your Cursor rules**: Whether they’re literal [.cursor/rules](https://docs.cursor.com/context/rules) or your IDE’s equivalent, collect and iterate useful prompts and docs for LLMs in your repo. This compounds across a team: if Jenn uses a Cursor rule to tamp down the LLM from idiotically coding a “fallback” path around code that never worked in the first place, I get that same benefit next time I pull.
 - **Improve your dev scripts**: If checking your CI for error logs is convoluted, add an `npm run get:ci-errors` script. If your console logs are a noisy firehose, change it so you can launch with `DEBUG=myapp:namespace` to surface only the relevant logs.
-- **Invest in readable code**: Your ratio of reading code to writing code has now gone way up. Pursue small files, clear type hints, and clear naming conventions.
+- **Invest in readable code**: Your ratio of reading code to writing code has now gone way up. Pursue small files, clean type hints, and clear naming conventions.
 - **Have empathy for the model**: It can only do so much before it [collapses into incompetence](https://machinelearning.apple.com/research/illusion-of-thinking). Observe what the model is struggling with, and improve its environment to make both of your jobs easier. How you [manage the model’s context and attention](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/) makes a big difference.
 
 If you have a big codebase that isn’t Python or TypeScript, you might still be skeptical that you can get $1000/mo of value from these tools. Well, you’re in luck: working with large agentic models is much more affordable than it was way back 4 weeks ago when we did our experiment.
@@ -101,11 +101,16 @@ Either way, the question is becoming less “how can we justify the cost of codi
 - You can now spin up Cursor background agents from [Slack or the web](https://www.cursor.com/blog/agent-web).
 - You can use Claude Code to script refactors or other big jobs.
 - You can have one agent draft a PR, and another agent (with clean context) sanity check or critique it before human review.
-- You can configure Cursor to pick up any Linear issue in your current sprint and pre-prep it with an initial PR. It can draft a proposed fix, or at least give you a starting point, e.g. identified relevant files, done architectural analysis, written a failing test, or figuring out which commit caused the bug.
-- You can now use [o3-pro](https://help.openai.com/en/articles/9624314-model-release-notes) to automatically run 10 copies of o3 at once on each problem, and pick the best output.
+- You can configure Cursor to pick up each Linear issue in your current sprint and prep it with an initial PR. It can draft a proposed fix, or at least give you a starting point, e.g. identify relevant files, do architectural analysis, write a failing test, or figure out which commit caused the bug.
+- You can now have [o3-pro](https://help.openai.com/en/articles/9624314-model-release-notes) run 10 copies of o3 at once on each problem, and automatically pick the best output.
 - Or heck, you can simply have two checkouts of a repo, one on each monitor, and work with a second agent while you wait for the first.[^1]
 
-As the tools improve and we get better at using them, the takeaway becomes not just “wow, this LLM lets me vibe code so much unmaintainable slop for my demo” but moreso “wow, these 3 agents can work at once to help me make understandable, maintainable patches for our production codebase.” And that’s a pretty profound change.
+<div class="centered">
+<img src="/images/2025/cursor-agent.jpg" alt="Two cursor agents working on tasks." />
+Coding agents can be assigned a variety of tasks.
+</div>
+
+As the tools improve and we get better at using them, the state of the art moves from “wow, this LLM lets me vibe code so much unmaintainable slop for my demo” but towards “wow, these 3 agents can work at once to help me make clear, maintainable improvements to existing code.” It’s a pretty big accelerator.
 
 I think Thomas Ptacek [put it well](https://fly.io/blog/youre-all-nuts/):
 

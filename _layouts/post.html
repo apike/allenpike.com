@@ -43,11 +43,11 @@ layout: default
       {{ page.previous_in[tag].title }} →</a></p>
   {% else %}
   <p>Latest in the series <b><a href="/series/{{ tag }}">
-        {{ tag_title }}</a>.
-      {% endif %}
-      {%- endfor -%}
+        {{ tag_title }}</a></b>.
+    {% endif %}
+    {%- endfor -%}
 
-      {% endif %}
+    {% endif %}
 
-      <p>Liked this? <a href="/subscribe">Follow along</a> to see what's next.</p>
+  <p>Liked this? <a href="/subscribe">Follow along</a> to see what's next.</p>
 </div>
