@@ -123,4 +123,4 @@ Less time typing code and debugging typos, more time thinking about systems and 
 
 I think that’s pretty cool.
 
-[^1]: This seemed objectively bokners, but especially on days where o3 is slow and you're churning out easy fixes and polish items, it can be effective. Jenn tried three at once, but it was a bit much.
+[^1]: This seemed objectively bonkers, but especially on days where o3 is slow and you're churning out easy fixes and polish items, it can be effective. Jenn tried three at once, but it was a bit much.
