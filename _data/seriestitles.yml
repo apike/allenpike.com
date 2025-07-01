@@ -1,6 +1,7 @@
 steamclock:
   title: Steamclock
   subtitle: Some lessons and moments from building Steamclock.
+  showOnArchive: false
 teams:
   title: Building Teams
   subtitle: Approaches to leading and serving a team.
@@ -43,3 +44,6 @@ podcasts:
 choosing:
   title: Choosing Technologies
   subtitle: Selecting the right tools for the job.
+startups:
+  title: Growing Startups
+  subtitle: Approaches, failures, and lessons in making a new business work.

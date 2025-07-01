@@ -10,6 +10,7 @@ categories:
 - Article
 tags:
 - choosing
+- startups
 ---
 
 I'm officially sick of hearing about blockchain.

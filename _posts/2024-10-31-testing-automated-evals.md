@@ -10,6 +10,7 @@ tags:
   - llm
   - products
   - forestwalk
+  - startups
 ---
 
 _I gave [a talk version](https://www.youtube.com/watch?v=ZwcN-APT_gE) of this article at the first [Infer meetup](https://infervan.com/) earlier this month._
