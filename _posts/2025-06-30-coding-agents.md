@@ -123,4 +123,12 @@ Less time typing code and debugging typos, more time thinking about systems and 
 
 I think that’s pretty cool.
 
+------
+
+*Update, Jul 16*: A lot of folks have written in with their observations on using large thinking models for coding – thank  you! Some quick further observations from readers and our team on Claude specifically:
+
+- Claude 4 Opus is better than o3 on many tasks, especially in Claude Code (e.g. writing tests) even while it’s worse than Cursor + o3 at others (e.g. carelssly plowing ahead instead of asking for direction, or trivially jumping back to a certain step in the chain)
+- You can use Claude Code within Cursor, to get some of the benefits of each.
+- Claude Code has a smaller $100 Max plan, though if you're coding all day you’ll likely need the $200/mo one.
+
 [^1]: This seemed objectively bonkers, but especially on days where o3 is slow and you're churning out easy fixes and polish items, it can be effective. Jenn tried three at once, but it was a bit much.
