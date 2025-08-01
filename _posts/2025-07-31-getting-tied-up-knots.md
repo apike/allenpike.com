@@ -23,13 +23,13 @@ These bad knots got me through most of life – they tie a garbage bag until it�
 
 I kind of knew this. I had camped every year for decades, and my knots were always a source of frustration. But I was never a Boy Scout. I missed the knot-tying part of life! And my dad moved out when I was a kid. And… I dunno. I’m a computer guy, don’t make me learn knots.
 
-I mean, obviously I *could* learn knots. I [learned long ago](https://allenpike.com/2014/being-bad-at-things) that we can learn anything at any age! Being bad at something is just the first step to getting pretty good at it.
+I mean, obviously I *could* learn knots. I [learned long ago](https://allenpike.com/2014/being-bad-at-things) that we can learn anything at any age. Being bad at something is just the first step to getting pretty good at it.
 
 But if you try to get started with knots, it’s… a lot. The Ashley Book of Knots documents 3857 of them. I downloaded the [Knots 3D](https://apps.apple.com/us/app/knots-3d/id453571750?platform=iphone) app, hoping it would give me some guidance. It explains 201 knots, but specifically calls out the “essential” knots: the mere **18 knots** one must learn how to execute in order to survive.
 
 You see, there are knots for binding an object down, hitching a rope to an object, adding a loop to a rope, joining two ropes together, stopping a rope from going through a hole, and making an adjustable tie. The ideal knot can vary depending on the direction of tension, the kind of rope, and the relative size of the ropes you’re using. Plus, many knots can easily be done incorrectly, resulting in a problematic bad version – like our cursed double-tied shoelaces.
 
-But… I just wanna quickly tie tarps. And do basic camping stuff. There are a lot of things I’d rather spend my time mastering than knots! So I went back to ignoring them.
+But… I just wanna quickly tie tarps. And do basic camping stuff. There are a lot of things I’d rather spend my time mastering than knots, so I went back to ignoring them.
 
 A couple years ago, after one particularly frustrating battle with a large tarp in the rain, I finally realized I’d played myself. By avoiding knot practice for so long, I’d let it become a gremlin in my mind. A thing I was bad at, not as a transitional phase towards being good, or even because I was happy to be bad at it, but because I’d let being bad at it become part of my character.
 
