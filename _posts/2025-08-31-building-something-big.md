@@ -21,7 +21,7 @@ This *mostly* achieved my goals. For a while.
 
 Yet a standard human foible is that, as we achieve our dreams, we generate larger ones. A decade in, I didn’t just want to build great apps with a small team of good people. I wanted to build great products that had a positive impact on a *lot of people*, and I wanted to do that with *a highly ambitious team*.
 
-Over the years I’ve had the chance to work with some really incredible folks – driven, passionate, smart, and ambitious. People who are unhappy with the status quo, and who rally their peers to do better work and tackle bigger problems.
+Over the years I’ve had the chance to work with some really incredible folks – driven, passionate, smart, and ambitious. People who are unhappy with the status quo, and who rally their peers to do better work and set their sights higher.
 
 As I was working last year towards founding [Forestwalk](https://forestwalk.ai/), I realized that a core motivator for us was building with these kinds of people. But how the heck could we afford to do that?
 
