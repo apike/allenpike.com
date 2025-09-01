@@ -7,7 +7,7 @@ date: 2025-08-31T23:45:30.955Z
 featured: false
 tags:
   - startups
-  - Forestwalk
+  - forestwalk
 
 ---
 
