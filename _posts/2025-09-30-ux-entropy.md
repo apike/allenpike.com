@@ -29,7 +29,7 @@ Circa 2012, if your next meeting was online, it was important to start the proce
 
 With luck, you would eventually be in the meeting. The other participants, often, would not be. Regrettably, each participant also needed to do the incantations, and they might not have started early. They might even be stuck.
 
-For example, the person you’re meeting might *think* they’re waiting for you, so they’ve multi-tasked to another app – but surprise! GoToMeeting or WebEx or whatever actually needed them to click “OK” or “Update” or “Ẓ̴͝a̴̡̕l̷̙̓g̶̫̔ó̸̻” to continue the joining process. After 5-10 minutes you would politely email your colleage, asking if they were still joining. Often enough you’d find yourself attempting to help people troubleshoot the above steps via email, which was… not enjoyable.
+For example, the person you’re meeting might *think* they’re waiting for you, so they’ve multi-tasked to another app – but surprise! GoToMeeting or WebEx or whatever actually needed them to click “OK” or “Update” or “Ẓ̴͝a̴̡̕l̷̙̓g̶̫̔ó̸̻” to continue the joining process. After 5-10 minutes you would politely email your colleague, asking if they were still joining. Often enough you’d find yourself attempting to help people troubleshoot the above steps via email, which was… not enjoyable.
 
 This was all obviously bad. Any user could see it was bad, but it seemed – oddly – like the companies supporting these apps were kind of blind to it. Or, at least, their enterprise customers weren’t demanding better.
 
@@ -56,7 +56,7 @@ The first hurdle for Zoom, shortly after their IPO, was security issues. These r
 
 > One-click is important. However, you need to make sure there’s not any potential issue, any potential violation of the operating system. Sometimes we have to sacrifice usability for privacy or security, that’s exactly what we did. We now think security or privacy [is] even more important than that.
 
-And objectively, this is good! We want the software everybody uses to communicate to be private and secure. But it’s also a change in mindset from what the product great in the first place. The defaults get locked down, the settings panels balloon, and Zoom is that much less likely to incubate the next team communications breakthrough.
+And objectively, this is good! We want the software everybody uses to communicate to be private and secure. But it’s also a change in mindset from what made the product great in the first place. The defaults get locked down, the settings panels balloon, and Zoom is that much less likely to incubate the next team communications breakthrough.
 
 Zoom was also one of the companies most thrashed around by the pandemic. While from the outside the surge in usage might have seemed like a blessing, it ultimately caused Zoom more trouble than it was worth. Yuan again:
 
