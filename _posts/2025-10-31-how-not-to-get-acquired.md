@@ -50,7 +50,7 @@ Explain that it’s your policy not to have more than one or two calls about an 
 
 If they really want you, they’ll give you a number. Optionally you can expedite things by seeding them with an anchor. You could say, “Well, obviously we would need to consider anything exceeding $50M but most acquirers can’t justify something like that given how early we are” or “Well our valuation at last round was $10M, so we don’t expect to consider any offers until we’ve substantially exceeded that level.” Being transparent might not maximize how much you get if they do acquire you, but it speeds things up, and statistically they’re not gonna acquire you anyway! So you’re instead optimizing for the more important thing: getting back to building with minimal distraction.
 
-When asked for a number, their corp dev person might push to collect a lot more info about your business, or even interview all your team members – basically derailing your startup so they can get more confidence in the number. This distraction is not worth improving the accuracy of a number that you’re probably going to decline anyhow. Instead, have them give a range based on what they do know, then just consider the bottom end of their provided range.
+When asked for a number, their corp dev person might push to collect a lot more info about your business, or even interview all your team members – basically derailing your startup so they can get more confidence in the number. This disruption is not worth improving the accuracy of a number that you’re probably going to decline anyhow. Instead, have them give a range based on what they do know, then just consider the bottom end of their provided range.
 
 ## Attempt to decline the offer
 
