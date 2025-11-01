@@ -1,7 +1,7 @@
 ---
 layout: post
 author: allen
-title: "How Not to Get Acquired"
+title: "How to Not Get Acquired"
 summary: "Distraction management in intense times."
 date: 2025-10-31T23:45:30.955Z
 featured: false
