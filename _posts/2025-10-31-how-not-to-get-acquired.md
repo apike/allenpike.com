@@ -36,7 +36,7 @@ In these cases – when I can’t bring myself to just politely say no thank you
 
 ## A simple algorithm
 
-Firstly, be sure when you’re taking these exploration calls that you’re getting something for your time. While naturally you’ll be sharing about your work, also seek to learn about their business. While I’ve kept these conversations short and sweet, they’ve still enabled me to learn about some fascinating businesses, and even made friends. Every person who considers buying your business is a potential mentor – doubly so in the unlikely case they actually pull the trigger and become your new boss.
+Firstly, when taking these exploration calls it’s worth getting something for your time. While naturally you’ll be sharing about your work, also seek to learn about their business. While I’ve kept these conversations short and sweet, they’ve still enabled me to learn about some fascinating businesses, and even made friends. Every person who considers buying your business is a potential mentor – doubly so in the unlikely case they actually pull the trigger and become your new boss.
 
 If you’re not careful, though, an acquistion inquiry will fractal into a long distracting back-and-forth. Most big companies have professionals whose full-time job is to learn about startups and try to acquire them at competitive prices – affectionately referred to as Corp Dev. The asymmetry here is why the [Pocket Guide of Essential YC Advice](https://www.ycombinator.com/library/4D-yc-s-essential-startup-advice) flatly says “Don’t talk to corp dev.” This is an oversimplification, but the plausibility of any deal will indeed hinge not on the M&A folks, but on a champion – a product leader or founder who wants you on their team.
 
