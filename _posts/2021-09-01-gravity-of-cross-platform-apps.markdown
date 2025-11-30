@@ -20,7 +20,7 @@ Now, the discourse around cross-platform app technologies has traditionally revo
 
 <img src="/images/2021/good-cheap-scale.png">
 
-And this is *kinda* true. Like, it’s true enough for a hand wavey explanation of why cross-platform tools are popular. But it is wrong enough that this mental model tends to obscure exactly why the latest large, profitable company has gone down this path. Each time a cross-platform app has found itself in the crosshairs of the internet, I hear a variant of this question: “**What is it about enterprise companies that make so many of them abandon native apps, when they could surely afford to develop one app for each platform?**”
+And this is *kinda* true. Like, it’s true enough for a hand wavey explanation of why cross-platform tools are popular. But it is wrong enough that this mental model tends to obscure exactly why the latest large, profitable company has gone down this path. Each time a cross-platform app has found itself in the crosshairs of the internet, I hear a variant of this question: “**What is it about enterprise companies that leads so many of them to abandon native apps, when they could surely afford to develop one app for each platform?**”
 
 Well *excellent question*, synthetic rhetorical person!
 
