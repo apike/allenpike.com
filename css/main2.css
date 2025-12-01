@@ -232,6 +232,12 @@ div.centered {
   color: #444;
 }
 
+div.centered iframe,
+div.centered .instagram-media {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
 @media (prefers-color-scheme: dark) {
   div.centered {
     color: #ccc;
