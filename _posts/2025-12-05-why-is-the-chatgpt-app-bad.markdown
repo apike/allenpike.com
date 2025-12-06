@@ -29,4 +29,4 @@ Apparently he [merged a fix this week](https://x.com/stephancasas/status/1995982
 
 Something implied in last week's article that's worth saying explicitly: although many good Mac apps are native, **being native is neither necessary nor sufficient for being a great app**.
 
-While OpenAI is investing more in desktop apps than any other model labs, they have work to do before they can transcend "better than the alternatives" and achieve "great."
+While OpenAI is investing more in desktop apps than any other model labs, they have much to do before they can transcend "better than the alternatives" and achieve "great."
