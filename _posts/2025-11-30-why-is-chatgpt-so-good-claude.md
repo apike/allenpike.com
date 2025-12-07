@@ -93,4 +93,6 @@ Just as ChatGPT’s unexpected success woke OpenAI to the opportunities of being
 
 Until then, ChatGPT will reign supreme.
 
+*Update: Although I think ChatGPT for Mac has problems but is useful, [not everybody agrees](https://allenpike.com/2025/why-is-the-chatgpt-app-bad)!*
+
 [^1]: We’ve done some Electron work at Forestwalk, and it was surprising how easy it was to cause classic Electron bugs like the whole app being a white square, the top navigation scrolling out of view, and the like. It was even more surprising how tractable it is to just refuse to tolerate these common issues, and put in the time to fix them one by one. It can be done.
