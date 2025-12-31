@@ -6,9 +6,8 @@ layout: page
 slug: second-person-present-tense-story
 title: Second person, present tense story
 wordpress_id: 204
+warning: A high school writing exercise from roughly 2001.<br><br>Reading this nonsense is inadvisable – other than perhaps as evidence that a kid who writes this way could eventually become a well-adjusted adult with enough time.
 ---
-
-*An example of the kind of nonsense creative writing I would do in high school, roughly 2001. Reading it is inadvisable, other than perhaps as evidence that a kid who writes this kind of stuff could eventually become a well-adjusted adult with enough time.*
 
 Ooh! Look who it is! Read my story, do you? Don't be denying it, I have proof! The silent type, eh? I think we can soon remedy that. I've written a little story; but not in first person—no, that won't do at all. Third person is way too overdone. So I will take the path not often traveled: second person.
 

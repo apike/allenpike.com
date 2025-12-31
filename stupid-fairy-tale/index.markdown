@@ -5,10 +5,10 @@ date: 2007-10-12 01:44:37
 layout: page
 slug: stupid-fairy-tale
 title: Stupid Fairy Tale
+warning: A high school writing exercise from roughly 2001.<br><br>Reading this nonsense is inadvisable – other than perhaps as evidence that a kid who writes this way could eventually become a well-adjusted adult with enough time.
+
 wordpress_id: 203
 ---
-
-*An example of the kind of nonsense creative writing I would do in high school, roughly 2001. Reading it is inadvisable, other than perhaps as evidence that a kid who writes this kind of stuff could eventually become a well-adjusted adult with enough time.*
 
 Once upon a time, long long ago, there were three men. Only three; the rest were still monkeys at that point. For no justifiable reason, one of the men would live for a certain amount of time, the second would live forever, and the third would live for half of forever. The living for a certain amount of time was pretty standard, and still is, so that didn't cause much of a problem. Living forever was strange, but not unheard of. But what really sent the monkeys into a tizzy was The Man Who Would Live Half Of Forever.
 

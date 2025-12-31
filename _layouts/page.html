@@ -3,6 +3,10 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 
+{% if page.warning %}
+<p class='warning'>{{ page.warning }}</p>
+{% endif %}
+
 <div class="post">
 {{ content }}
 </div>
