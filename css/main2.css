@@ -78,6 +78,36 @@ table {
   font: 100%;
 }
 
+.post table {
+  border-collapse: separate;
+  border-spacing: 1em 0;
+  /* Compensate for edge spacing created by border-spacing */
+  width: calc(100% + 2em);
+  margin-left: -1em;
+  margin-bottom: 1em;
+}
+
+@media (min-width: 651px) {
+  .post table {
+    border-spacing: 2em 0;
+    width: calc(100% + 4em);
+    margin-left: -2em;
+  }
+}
+
+.post table th,
+.post table td {
+  padding: 0.25em 0;
+}
+
+.post table th {
+  border-bottom: 1px solid #8e17a6;
+}
+
+.post table td {
+  border-bottom: 1px solid rgba(142, 23, 166, 0.5);
+}
+
 p.summary {
   font-size: 24px;
 }
@@ -578,6 +608,14 @@ span.meta {
   hr,
   .navigation {
     border-color: #d362e9;
+  }
+
+  .post table th {
+    border-bottom-color: #d362e9;
+  }
+
+  .post table td {
+    border-bottom-color: rgba(211, 98, 233, 0.5);
   }
 
   hr.subtle {
