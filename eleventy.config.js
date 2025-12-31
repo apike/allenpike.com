@@ -3,6 +3,14 @@ const yaml = require("js-yaml");
 module.exports = function(eleventyConfig) {
   
   // ============================================
+  // Ignore directories and files
+  // ============================================
+  eleventyConfig.ignores.add("_posts");        // Jekyll posts source (we use /posts/)
+  eleventyConfig.ignores.add("_site_jekyll");  // Comparison build
+  eleventyConfig.ignores.add("_site_11ty");    // Comparison build
+  eleventyConfig.ignores.add("google98019dc16f804178.html");  // Passthrough only, don't process
+
+  // ============================================
   // Front Matter Options (handle Jekyll-style dates)
   // ============================================
   eleventyConfig.setFrontMatterParsingOptions({
@@ -132,10 +140,14 @@ module.exports = function(eleventyConfig) {
     return d.toLocaleDateString();
   });
 
-  // XML date format for Atom feed
+  // XML date format for Atom feed (UTC with +00:00 offset)
   eleventyConfig.addFilter("date_to_xmlschema", function(date) {
     if (!date) return '';
-    return new Date(date).toISOString();
+    const d = new Date(date);
+    const pad = (n) => n.toString().padStart(2, '0');
+    
+    // Format as UTC: YYYY-MM-DDTHH:MM:SS+00:00
+    return `${d.getUTCFullYear()}-${pad(d.getUTCMonth() + 1)}-${pad(d.getUTCDate())}T${pad(d.getUTCHours())}:${pad(d.getUTCMinutes())}:${pad(d.getUTCSeconds())}+00:00`;
   });
 
   // XML escape for Atom feed
