@@ -221,11 +221,17 @@ module.exports = function(eleventyConfig) {
   // Markdown Configuration
   // ============================================
   const markdownIt = require("markdown-it");
+  const markdownItAnchor = require("markdown-it-anchor");
   const md = markdownIt({
     html: true,
     breaks: false,
     linkify: true
-  }).use(require("markdown-it-footnote"));
+  })
+    .use(require("markdown-it-footnote"))
+    .use(markdownItAnchor, {
+      permalink: false,  // Don't add permalink icons
+      slugify: (s) => s.toLowerCase().replace(/[^\w]+/g, '-').replace(/(^-|-$)/g, '')
+    });
   
   eleventyConfig.setLibrary("md", md);
   

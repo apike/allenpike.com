@@ -6,22 +6,22 @@ eleventyExcludeFromCollections: true
  
   <title>Allen Pike</title>
   <link href="https://www.allenpike.com/"/>
-  <link type="application/atom+xml" rel="self" href="{{ meta.url }}/feed/"/>
+  <link type="application/atom+xml" rel="self" href="https://www.allenpike.com/feed/"/>
   <updated>{{ collections.posts[0].date | date_to_xmlschema }}</updated>
-  <id>{{ meta.url }}/</id>
+  <id>https://www.allenpike.com/</id>
   <author>
     <name>Allen Pike</name>
   </author>
 
   {% for post in collections.posts limit:3 %}
   <entry>
-    <id>{{ meta.url }}{{ post.url }}</id>
+    <id>https://www.allenpike.com{{ post.url }}</id>
     <link type="text/html" rel="alternate" href="https://www.allenpike.com{{ post.url }}"/>
     <title>{{ post.data.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
       <name>Allen Pike</name>
-      <uri>{{ meta.url }}/</uri>
+      <uri>https://www.allenpike.com/</uri>
     </author>
     <content type="html">{{ post.content | xml_escape | relative_urls_to_absolute }}</content>
   </entry>
