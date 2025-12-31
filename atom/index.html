@@ -1,27 +1,28 @@
 ---
-layout: nil
+permalink: /feed/index.xml
+eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
   <title>Allen Pike</title>
   <link href="https://www.allenpike.com/"/>
-  <link type="application/atom+xml" rel="self" href="{{ site.url }}/feed/"/>
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>{{ site.url }}/</id>
+  <link type="application/atom+xml" rel="self" href="{{ meta.url }}/feed/"/>
+  <updated>{{ collections.posts[0].date | date_to_xmlschema }}</updated>
+  <id>{{ meta.url }}/</id>
   <author>
     <name>Allen Pike</name>
   </author>
 
-  {% for post in site.posts limit:3 %}
+  {% for post in collections.posts limit:3 %}
   <entry>
-    <id>{{ site.url }}{{ post.id }}</id>
+    <id>{{ meta.url }}{{ post.url }}</id>
     <link type="text/html" rel="alternate" href="https://www.allenpike.com{{ post.url }}"/>
-    <title>{{ post.title | xml_escape }}</title>
+    <title>{{ post.data.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
       <name>Allen Pike</name>
-      <uri>{{ site.url }}/</uri>
+      <uri>{{ meta.url }}/</uri>
     </author>
     <content type="html">{{ post.content | xml_escape | relative_urls_to_absolute }}</content>
   </entry>

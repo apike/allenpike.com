@@ -9,24 +9,18 @@ title: Article Archive
   <p>I write once a month about software and other tricky things.</p>
   <hr class="subtle">
 
-  {%- capture site_tags -%}
-  {%- for tag in site.tags -%}
-  {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
-  {%- endfor -%}
-  {%- endcapture -%}
-  {%- assign tags_list = site_tags | split:',' | sort -%}
-
   <h2>Article Series</h2>
 
   <ul class="posts archive series">
-    {%- for tag in tags_list -%}
-    {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
-    {% if site.tags[tag].size < 6 or site.data.seriestitles[tag].showOnArchive == false %}
-    <!-- Tag too small ({{ site.tags[tag].size }}): {{ tag_title }} -->
+    {%- for tag in collections.tagList -%}
+    {% assign tag_title = seriestitles[tag].title | default: tag %}
+    {% assign tag_posts = collections[tag] %}
+    {% if tag_posts.size < 6 or seriestitles[tag].showOnArchive == false %}
+    <!-- Tag too small ({{ tag_posts.size }}): {{ tag_title }} -->
     {% else %}
     <li class="{% if tag == 'best' %} featured {% endif %}"><a href="/series/{{- tag -}}">{{- tag_title -}}</a>
       –
-      {{ site.tags[tag].size }} articles.
+      {{ tag_posts.size }} articles.
     </li>
     {% endif %}
     {%- endfor -%}
@@ -35,7 +29,7 @@ title: Article Archive
 
   <ul class="posts archive">
     {% assign prevyear  = "Future" %}
-    {% for post in site.posts %}
+    {% for post in collections.posts %}
     {% assign newyear  = post.date | date: "%Y" %}
     {% if prevyear != newyear %} <br>
     <h2>
@@ -44,17 +38,17 @@ title: Article Archive
     {% assign prevyear = newyear %}
 
     <li class="
-          {% if post.featured %} featured {% endif %}
-          {% if post.link %} link {% endif %}
-          ">{% if post.link %}Link: {% endif %}<a href="{{ post.url }}">
-        {{ post.title }}</a>
+          {% if post.data.featured %} featured {% endif %}
+          {% if post.data.link %} link {% endif %}
+          ">{% if post.data.link %}Link: {% endif %}<a href="{{ post.url }}">
+        {{ post.data.title }}</a>
 
-      <span>{% if post.link %}{% elsif post.summary %} &ndash;
-        {{ post.summary }} {% endif %}</span>
+      <span>{% if post.data.link %}{% elsif post.data.summary %} &ndash;
+        {{ post.data.summary }} {% endif %}</span>
     </li>
     {% endfor %}
   </ul>
 
   <p>So far I've written
-    {{ site.posts.size }} posts, and these old ones are mighty stale. If you're looking to read some older articles, check out my <a href="/series/best/">Best Of</a> series.
+    {{ collections.posts.size }} posts, and these old ones are mighty stale. If you're looking to read some older articles, check out my <a href="/series/best/">Best Of</a> series.
 </div>

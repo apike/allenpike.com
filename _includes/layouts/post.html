@@ -1,0 +1,54 @@
+---
+layout: default
+---
+<h1><a href='{{ page.url }}'>{% if link %}Link: {% endif %}
+    {{ title | widow }}</a></h1>
+{% if summary %}<p class="summary">
+  {{ summary }}
+</p>{% endif %}
+
+<p class="meta">
+  {{ page.date | date: "%B %-d, %Y" }} &bull;
+  {{ content | reading_time }} read
+</p>
+
+<hr class="subtle">
+
+{% assign current_year = "now" | date: "%Y" %}
+{% assign post_year = page.date | date: "%Y" %}
+{% assign years_old = current_year | minus: post_year %}
+
+{% if categories.last == "Sarcastic News" %}
+<p class='warning'>This an ancient satirical news post from when I was in college. I apologise.</p>
+{% elsif categories.first == "Faith" %}
+<p class='warning'>This an old status update on my web-based game <a href='/engineering-faith/'>Engineering Faith</a>.</p>
+{% elsif years_old > 10 %}
+<p class='warning'>This post is over ten years old. Chances are, I've learned enough to have advanced my thinking about some of this stuff.</p>
+{% endif %}
+
+<div class="post">
+  {{ content }}
+</div>
+
+<hr class="subtle">
+
+<div id="nextnav">
+  {% if tags.size > 0 %}
+
+  {%- for tag in tags -%}
+  {% assign tag_title = seriestitles[tag].title | default: tag %}
+  {% if previous_in[tag] %}
+  <p>Next in the <a href="/series/{{ tag }}"><b>
+        {{ tag_title }}</b></a> series: <a href="{{ previous_in[tag].url }}">
+      {{ previous_in[tag].data.title }} →</a></p>
+  {% else %}
+  <p>Latest in the series <b><a href="/series/{{ tag }}">
+        {{ tag_title }}</a></b>.
+    {% endif %}
+    {%- endfor -%}
+
+    {% endif %}
+
+  <p>Liked this? <a href="/subscribe">Follow along</a> to see what's next.</p>
+</div>
+
