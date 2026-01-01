@@ -14,7 +14,7 @@ tags:
 
 One of the interesting questions when designing AI-enabled software is, “What does search input mean?”
 
-This was once a simple question: if a user entered “squish” in a search box, it would of course return things that contained “squish”. Over time, computers have improved to the point where a kind of universal “omnibox” is now possible. Today software can:
+This was once a simple question: if a user entered “squish” in a search box, it would of course return things that contained “squish”. Over time though, computers have improved to the point where a kind of universal “omnibox” is now possible. Today software can:
 
 1. Return things with your input’s **typo** fixed
 2. Return things with a **synonym** to your input
