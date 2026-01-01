@@ -12,13 +12,13 @@ tags:
 
 ---
 
-One of the interesting questions when designing AI-enabled software is, “What is the intent of search input?”
+One of the interesting questions when designing AI-enabled software is, “What does search input mean?”
 
-This was once a simple question: if a user entered “squish” in a search box, it would of course return entries that contained the string “squish”. Over time, computers’ capabilities grew to the point where a kind of universal “omnibox” is now possible. Today software can:
+This was once a simple question: if a user entered “squish” in a search box, it would of course return things that contained “squish”. Over time, computers have improved to the point where a kind of universal “omnibox” is now possible. Today software can:
 
-1. Return results with your input’s **typo** fixed
-2. Return results with a **synonym** to your input
-3. **Autocomplete** recent or popular results
+1. Return things with your input’s **typo** fixed
+2. Return things with a **synonym** to your input
+3. **Autocomplete** recent or popular things
 4. Directly retrieve an **answer** to your input
 5. Jump to an **action** based on your input
 6. Generate a **conversational** response to your input
