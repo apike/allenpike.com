@@ -1,0 +1,9 @@
+---
+alwaysApply: true
+---
+
+Use the package.json commands for lifecycle management:
+
+- npm run build // generate site
+- npn run clean // rm -rf the build
+- npm run watch // serve the site and watch for updates
