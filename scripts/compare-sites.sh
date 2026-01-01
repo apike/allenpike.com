@@ -156,63 +156,79 @@ fetch_url() {
 # Compare a single URL
 compare_url() {
     local path="$1"
-    local url_dir="$2"
+    local tmp_dir="$2"
+    local diff_log="$3"
     
     local old_url="${OLD_DOMAIN}${path}"
     local new_url="${NEW_DOMAIN}${path}"
     
-    mkdir -p "$url_dir"
+    mkdir -p "$tmp_dir"
     
     # Fetch both versions
     local old_status
     local new_status
-    old_status=$(fetch_url "$old_url" "$url_dir/old")
-    new_status=$(fetch_url "$new_url" "$url_dir/new")
+    old_status=$(fetch_url "$old_url" "$tmp_dir/old")
+    new_status=$(fetch_url "$new_url" "$tmp_dir/new")
     
     local has_diff=0
     local diff_summary=""
+    local diff_content=""
     
     # Compare HTTP status codes
     if [ "$old_status" != "$new_status" ]; then
         has_diff=1
         diff_summary+="Status: $old_status vs $new_status; "
+        diff_content+="[Status Code Difference]\nOld: $old_status\nNew: $new_status\n\n"
     fi
     
     # Compare headers (excluding date-related headers that always differ)
-    if [ -f "$url_dir/old.headers" ] && [ -f "$url_dir/new.headers" ]; then
+    if [ -f "$tmp_dir/old.headers" ] && [ -f "$tmp_dir/new.headers" ]; then
         # Filter out headers that are expected to differ
-        grep -viE '^(date:|server:|x-request-id:|x-runtime:|age:|via:|cf-|set-cookie:|expires:|last-modified:|cache-status:|etag:|strict-transport-security:|x-nf-)' "$url_dir/old.headers" > "$url_dir/old.headers.filtered" 2>/dev/null || true
-        grep -viE '^(date:|server:|x-request-id:|x-runtime:|age:|via:|cf-|set-cookie:|expires:|last-modified:|cache-status:|etag:|strict-transport-security:|x-nf-)' "$url_dir/new.headers" > "$url_dir/new.headers.filtered" 2>/dev/null || true
+        grep -viE '^(date:|server:|x-request-id:|x-runtime:|age:|via:|cf-|set-cookie:|expires:|last-modified:|cache-status:|etag:|strict-transport-security:|x-nf-|content-length:|x-robots-tag:)' "$tmp_dir/old.headers" > "$tmp_dir/old.headers.filtered" 2>/dev/null || true
+        grep -viE '^(date:|server:|x-request-id:|x-runtime:|age:|via:|cf-|set-cookie:|expires:|last-modified:|cache-status:|etag:|strict-transport-security:|x-nf-|content-length:|x-robots-tag:)' "$tmp_dir/new.headers" > "$tmp_dir/new.headers.filtered" 2>/dev/null || true
         
-        if ! diff -q "$url_dir/old.headers.filtered" "$url_dir/new.headers.filtered" > /dev/null 2>&1; then
+        if ! diff -q "$tmp_dir/old.headers.filtered" "$tmp_dir/new.headers.filtered" > /dev/null 2>&1; then
             has_diff=1
-            diff "$url_dir/old.headers.filtered" "$url_dir/new.headers.filtered" > "$url_dir/headers.diff" 2>/dev/null || true
             diff_summary+="Headers differ; "
+            diff_content+="[Header Differences]\n"
+            diff_content+="$(diff "$tmp_dir/old.headers.filtered" "$tmp_dir/new.headers.filtered" 2>/dev/null || true)\n\n"
         fi
-        rm -f "$url_dir/old.headers.filtered" "$url_dir/new.headers.filtered"
+        rm -f "$tmp_dir/old.headers.filtered" "$tmp_dir/new.headers.filtered"
     fi
     
-    # Compare body content
-    if [ -f "$url_dir/old.body" ] && [ -f "$url_dir/new.body" ]; then
-        if ! diff -q "$url_dir/old.body" "$url_dir/new.body" > /dev/null 2>&1; then
+    # Compare body content (ignore blank line changes with -B)
+    if [ -f "$tmp_dir/old.body" ] && [ -f "$tmp_dir/new.body" ]; then
+        if ! diff -q -B "$tmp_dir/old.body" "$tmp_dir/new.body" > /dev/null 2>&1; then
             has_diff=1
-            diff "$url_dir/old.body" "$url_dir/new.body" > "$url_dir/body.diff" 2>/dev/null || true
+            local body_diff
+            body_diff=$(diff -B "$tmp_dir/old.body" "$tmp_dir/new.body" 2>/dev/null || true)
             
             # Count lines of difference
             local diff_lines
-            diff_lines=$(wc -l < "$url_dir/body.diff" | tr -d ' ')
+            diff_lines=$(echo "$body_diff" | wc -l | tr -d ' ')
             diff_summary+="Body differs ($diff_lines lines); "
+            diff_content+="[Body Differences]\n$body_diff\n"
         fi
     fi
     
-    # Return result
+    # Write to diff log if there were differences
     if [ $has_diff -eq 1 ]; then
+        {
+            echo "================================================================================"
+            echo "PATH: $path"
+            echo "Old: $old_url"
+            echo "New: $new_url"
+            echo "Summary: $diff_summary"
+            echo "--------------------------------------------------------------------------------"
+            echo -e "$diff_content"
+        } >> "$diff_log"
         echo "DIFF|$path|$old_status|$new_status|$diff_summary"
     else
-        # Clean up if no differences
-        rm -rf "$url_dir"
         echo "MATCH|$path|$old_status|$new_status|"
     fi
+    
+    # Clean up temp files
+    rm -rf "$tmp_dir"
 }
 
 # Main comparison loop
@@ -236,6 +252,18 @@ run_comparison() {
     echo "Results:" >> "$summary_file"
     echo "--------" >> "$summary_file"
     
+    # Initialize diff log file
+    local diff_log="$OUTPUT_DIR/site-diffs.log"
+    echo "Site Differences Log" > "$diff_log"
+    echo "====================" >> "$diff_log"
+    echo "Date: $(date)" >> "$diff_log"
+    echo "Old domain: $OLD_DOMAIN" >> "$diff_log"
+    echo "New domain: $NEW_DOMAIN" >> "$diff_log"
+    echo "" >> "$diff_log"
+    
+    # Temp directory for intermediate files
+    local tmp_dir="$OUTPUT_DIR/.tmp"
+    
     while IFS= read -r full_url; do
         [ -z "$full_url" ] && continue
         
@@ -248,20 +276,10 @@ run_comparison() {
             path="/"
         fi
         
-        local sanitized
-        sanitized=$(sanitize_path "$path")
-        
-        # Use "root" for homepage
-        if [ -z "$sanitized" ]; then
-            sanitized="root"
-        fi
-        
-        local url_dir="$OUTPUT_DIR/$sanitized"
-        
         echo -ne "${BLUE}[$total] Testing: $path ... ${NC}"
         
         local result
-        result=$(compare_url "$path" "$url_dir")
+        result=$(compare_url "$path" "$tmp_dir" "$diff_log")
         
         local status
         status=$(echo "$result" | cut -d'|' -f1)
@@ -291,6 +309,9 @@ run_comparison() {
         
     done <<< "$URLS"
     
+    # Clean up temp directory
+    rm -rf "$tmp_dir"
+    
     # Print summary
     echo ""
     echo "========================================="
@@ -312,11 +333,10 @@ run_comparison() {
     echo "  Errors: $errors" >> "$summary_file"
     
     if [ $diffs -gt 0 ]; then
-        echo -e "Differences saved to: ${BLUE}$OUTPUT_DIR/${NC}"
+        echo -e "Differences saved to: ${BLUE}$diff_log${NC}"
         echo ""
         echo "To review differences:"
-        echo "  ls $OUTPUT_DIR/"
-        echo "  cat $OUTPUT_DIR/<path>/body.diff"
+        echo "  cat $diff_log"
     fi
     
     # Return non-zero if there were differences

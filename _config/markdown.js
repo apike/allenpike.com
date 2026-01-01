@@ -13,7 +13,7 @@ function createMarkdownLibrary() {
   const md = markdownIt({
     html: true,
     breaks: false,
-    linkify: true,
+    linkify: false,
     typographer: true,
   })
     .use(markdownItFootnote)
