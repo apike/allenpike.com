@@ -11,6 +11,14 @@ function posts(collectionApi) {
     .getFilteredByGlob("posts/**/*.{md,markdown}")
     .sort((a, b) => b.date - a.date);
 
+  // Strip trailing slashes from post URLs for Jekyll-compatible output
+  // This ensures post.url returns /2025/post-name instead of /2025/post-name/
+  posts.forEach((post) => {
+    if (post.url && post.url.endsWith("/")) {
+      post.url = post.url.slice(0, -1);
+    }
+  });
+
   // Build tag -> posts mapping
   const tagPosts = {};
   posts.forEach((post) => {
@@ -58,4 +66,3 @@ module.exports = {
   posts,
   tagList,
 };
-
