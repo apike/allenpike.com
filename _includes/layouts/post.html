@@ -14,7 +14,7 @@ layout: default
 
 <hr class="subtle">
 
-{% assign current_year = "now" | date: "%Y" %}
+{% assign current_year = now | date: "%Y" %}
 {% assign post_year = page.date | date: "%Y" %}
 {% assign years_old = current_year | minus: post_year %}
 
@@ -51,4 +51,3 @@ layout: default
 
   <p>Liked this? <a href="/subscribe">Follow along</a> to see what's next.</p>
 </div>
-
