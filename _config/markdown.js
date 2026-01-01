@@ -14,6 +14,7 @@ function createMarkdownLibrary() {
     html: true,
     breaks: false,
     linkify: true,
+    typographer: true,
   })
     .use(markdownItFootnote)
     .use(markdownItAnchor, {
@@ -76,4 +77,3 @@ function customizeFootnotes(md) {
 }
 
 module.exports = { createMarkdownLibrary };
-

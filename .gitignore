@@ -8,3 +8,4 @@ _site_jekyll
 vendor
 .bundle
 node_modules/
+comparison-output/
