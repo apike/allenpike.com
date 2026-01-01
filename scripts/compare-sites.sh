@@ -196,12 +196,12 @@ compare_url() {
         rm -f "$tmp_dir/old.headers.filtered" "$tmp_dir/new.headers.filtered"
     fi
     
-    # Compare body content (ignore blank line changes with -B)
+    # Compare body content (ignore blank lines with -B, ignore whitespace with -w)
     if [ -f "$tmp_dir/old.body" ] && [ -f "$tmp_dir/new.body" ]; then
-        if ! diff -q -B "$tmp_dir/old.body" "$tmp_dir/new.body" > /dev/null 2>&1; then
+        if ! diff -q -B -w "$tmp_dir/old.body" "$tmp_dir/new.body" > /dev/null 2>&1; then
             has_diff=1
             local body_diff
-            body_diff=$(diff -B "$tmp_dir/old.body" "$tmp_dir/new.body" 2>/dev/null || true)
+            body_diff=$(diff -B -w "$tmp_dir/old.body" "$tmp_dir/new.body" 2>/dev/null || true)
             
             # Count lines of difference
             local diff_lines

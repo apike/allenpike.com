@@ -30,20 +30,27 @@ function defaultshareimg(text) {
   return text || "/images/simple-opengraph-banner.png";
 }
 
-// allenpike.rb - Reading time calculator
+// allenpike.rb - Reading time calculator (matches Jekyll version exactly)
 function reading_time(content) {
   if (!content) return "1 min";
 
-  // Strip HTML and pre tags
+  // Strip pre tags first, then strip HTML (matches Jekyll's get_plain_text)
   const text = content
-    .replace(/<pre[\s\S]*?<\/pre>/gi, "")
+    .replace(/<pre(?:(?!<\/pre).|\s)*<\/pre>/gmi, "")
     .replace(/<[^>]+>/g, "");
 
-  const words = text.trim().split(/\s+/).length;
+  const totalWords = text.split(/\s+/).filter(w => w.length > 0).length;
   const wordsPerMinute = 210;
-  const minutes = Math.round(words / wordsPerMinute);
 
-  if (minutes < 1) return "30 sec";
+  // Matches Jekyll's hardcoded ranges
+  if (totalWords <= 89) return "30 sec";
+  if (totalWords <= 269) return "1 min";
+  if (totalWords <= 449) return "2 min";
+  if (totalWords <= 629) return "3 min";
+  if (totalWords <= 809) return "4 min";
+  if (totalWords <= 1050) return "5 min";
+
+  const minutes = Math.floor(totalWords / wordsPerMinute);
   return `${minutes} min`;
 }
 
