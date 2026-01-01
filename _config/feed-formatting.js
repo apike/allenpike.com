@@ -23,7 +23,11 @@ function date_to_xmlschema(dateValue) {
   const d = new Date(dateValue);
   const pad = (n) => n.toString().padStart(2, "0");
 
-  return `${d.getUTCFullYear()}-${pad(d.getUTCMonth() + 1)}-${pad(d.getUTCDate())}T${pad(d.getUTCHours())}:${pad(d.getUTCMinutes())}:${pad(d.getUTCSeconds())}+00:00`;
+  return `${d.getUTCFullYear()}-${pad(d.getUTCMonth() + 1)}-${pad(
+    d.getUTCDate()
+  )}T${pad(d.getUTCHours())}:${pad(d.getUTCMinutes())}:${pad(
+    d.getUTCSeconds()
+  )}+00:00`;
 }
 
 // XML escape for Atom feed
