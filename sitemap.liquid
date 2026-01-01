@@ -1,0 +1,22 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for post in collections.posts %}
+<url>
+<loc>https://allenpike.com{{ post.url }}</loc>
+<lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+</url>
+{%- endfor %}
+{%- for page in collections.all %}
+{%- unless page.url contains '/posts/' or page.data.eleventyExcludeFromCollections %}
+{%- if page.url and page.url != '/sitemap.xml' and page.url != '/feed/' and page.url != '/atom/' and page.url != '/feed.json' %}
+<url>
+<loc>https://allenpike.com{{ page.url }}</loc>
+</url>
+{%- endif %}
+{%- endunless %}
+{%- endfor %}
+</urlset>

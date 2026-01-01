@@ -1,5 +1,6 @@
 ---
-layout: nil
+permalink: /feed.json
+eleventyExcludeFromCollections: true
 ---
 {
   "version": "https://jsonfeed.org/version/1",
@@ -10,10 +11,10 @@ layout: nil
     "name": "Allen Pike"
   },
   "items": [
-    {% for post in site.posts limit:3 %}{
+    {% for post in collections.posts limit:3 %}{
       "id": "{{ post.url }}",
       "url": "https://www.allenpike.com{{ post.url }}",
-      "title": "{{ post.title | escape_quotes }}",
+      "title": "{{ post.data.title | escape_quotes }}",
       "date_published": "{{ post.date | date_to_xmlschema }}",
       "content_html": "{{ post.content | relative_urls_to_absolute | escape_for_json }}"
     }{% if forloop.last != true %},{% endif %}{% endfor %}

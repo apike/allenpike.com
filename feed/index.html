@@ -1,5 +1,5 @@
 ---
-layout: nil
+eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
@@ -7,17 +7,17 @@ layout: nil
   <title>Allen Pike</title>
   <link href="https://www.allenpike.com/"/>
   <link type="application/atom+xml" rel="self" href="https://www.allenpike.com/feed/"/>
-  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <updated>{{ collections.posts[0].date | date_to_xmlschema }}</updated>
   <id>https://www.allenpike.com/</id>
   <author>
     <name>Allen Pike</name>
   </author>
 
-  {% for post in site.posts limit:3 %}
+  {% for post in collections.posts limit:3 %}
   <entry>
     <id>https://www.allenpike.com{{ post.url }}</id>
     <link type="text/html" rel="alternate" href="https://www.allenpike.com{{ post.url }}"/>
-    <title>{{ post.title | xml_escape }}</title>
+    <title>{{ post.data.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
       <name>Allen Pike</name>

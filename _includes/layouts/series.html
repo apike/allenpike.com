@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{% assign series = site.data.seriestitles[page.tag] %}
-{% assign series_title = series.title | default: page.tag %}
+{% assign series = seriestitles[tag] %}
+{% assign series_title = series.title | default: tag %}
 <div id="home">
   <h1>
     {{ series_title }}: A Series
@@ -13,16 +13,17 @@ layout: default
   </p>
   {% endif %}
   <hr class="subtle">
-  {% assign posts = site.tags[page.tag] | sort: "date" | reverse %}
+  {% assign posts = collections[tag] | reverse %}
   {% for post in posts %}
-  {% include excerpt.html %}
+  {% include "excerpt.html" %}
   {% endfor %}
   </ul>
 
-  {% if page.tag == 'best' %}
+  {% if tag == 'best' %}
   <hr class="subtle">
   <p>
     <em>You've read the best Allen Pike has to offer. If you'd like to read the other stuff, you can visit the <a href="/archive/">archive</a>.</em>
   </p>
   {% endif %}
 </div>
+

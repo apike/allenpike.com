@@ -4,33 +4,33 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  {% if page.fulltitle %}
-  <title>{{page.fulltitle}}</title>
-  {% elsif page.url contains '/series/' and page.tag %}
-  {% assign series = site.data.seriestitles[page.tag] %}
-  {% assign series_title = series.title | default: page.tag %}
+  {% if fulltitle %}
+  <title>{{fulltitle}}</title>
+  {% elsif page.url contains '/series/' and tag %}
+  {% assign series = seriestitles[tag] %}
+  {% assign series_title = series.title | default: tag %}
   <title>
     {{ series_title }}: A Series - Allen Pike
   </title>
   {% else %}
   <title>
-    {{ page.title }} - Allen Pike
+    {{ title }} - Allen Pike
   </title>
   {% endif %}
 
-  {% if page.summary and page.title %}
+  {% if summary and title %}
   <meta property="og:site_name" content="Allen Pike" />
-  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:title" content="{{ title }}" />
   <meta property="og:type" content="article" />
-  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-  <meta property="og:image" content="{{ site.url }}{{ page.image | defaultshareimg }}" />
-  <meta property="og:description" content="{{ page.summary }}" />
+  <meta property="og:url" content="{{ meta.url }}{{ page.url }}" />
+  <meta property="og:image" content="{{ meta.url }}{{ image | defaultshareimg }}" />
+  <meta property="og:description" content="{{ summary }}" />
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@apike" />
-  <meta name="twitter:title" content="{{ page.title }}" />
-  <meta name="twitter:description" content="{{ page.summary }}" />
-  <meta name="twitter:image" content="{{ site.url }}{{ page.image | defaultshareimg }}" />
+  <meta name="twitter:title" content="{{ title }}" />
+  <meta name="twitter:description" content="{{ summary }}" />
+  <meta name="twitter:image" content="{{ meta.url }}{{ image | defaultshareimg }}" />
   {% endif %}
 
   <meta name="viewport" content="width=device-width">
@@ -70,12 +70,12 @@
   <div class="container">
     <div class="site">
       <div class="header navigation">
-        <a class="sitename" href="{{ root_url }}/">Allen Pike</a>
+        <a class="sitename" href="/">Allen Pike</a>
         <ul>
-          <li {% if page.isArchive %} class="active" {% endif %}><a href="/archive/">Articles</a>
-          <li {% if page.isMe %} class="active" {% endif %}> <a href="{{ root_url }}/me/">About</a>
+          <li {% if isArchive %} class="active" {% endif %}><a href="/archive/">Articles</a>
+          <li {% if isMe %} class="active" {% endif %}> <a href="/me/">About</a>
           </li>
-          <li {% if page.isSubscribe %} class="active" {% endif %}><a href="/follow/">Follow</a>
+          <li {% if isSubscribe %} class="active" {% endif %}><a href="/follow/">Follow</a>
         </ul>
       </div>
 
@@ -85,12 +85,12 @@
       </div>
 
       <div class="footer navigation">
-        <a href="{{ root_url }}/" class="sitename">Allen Pike</a>
+        <a href="/" class="sitename">Allen Pike</a>
         <ul>
-          <li {% if page.isArchive %} class="active" {% endif %}><a href="/archive/">Articles</a>
-          <li {% if page.isMe %} class="active" {% endif %}> <a href="{{ root_url }}/me/">About</a>
+          <li {% if isArchive %} class="active" {% endif %}><a href="/archive/">Articles</a>
+          <li {% if isMe %} class="active" {% endif %}> <a href="/me/">About</a>
           </li>
-          <li {% if page.isSubscribe %} class="active" {% endif %}><a href="/follow/">Follow</a>
+          <li {% if isSubscribe %} class="active" {% endif %}><a href="/follow/">Follow</a>
         </ul>
       </div>
 
@@ -100,3 +100,4 @@
 </body>
 
 </html>
+

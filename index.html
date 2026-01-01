@@ -7,11 +7,11 @@ summary: Allen Pike writes about making nice software, building teams, and other
 ---
 
 <div id="home">
-  <p>Hi, I'm <a href='/me/'>Allen Pike</a>. I’m currently building <a href="https://forestwalk.ai">Forestwalk Labs</a>, hosting <a href='https://itshipped.fm'>It Shipped That Way</a>, and writing monthly about what I’m learning.</p>
+  <p>Hi, I'm <a href='/me/'>Allen Pike</a>. I'm currently building <a href="https://forestwalk.ai">Forestwalk Labs</a>, hosting <a href='https://itshipped.fm'>It Shipped That Way</a>, and writing monthly about what I'm learning.</p>
 
-  {% for post in site.posts limit: 12 %}
+  {% for post in collections.posts limit: 12 %}
 
-  {% include excerpt.html %}
+  {% include "excerpt.html" %}
 
   {% endfor %}
   </ul>

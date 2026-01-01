@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
-<h1><a href='{{ page.url }}'>{% if page.link %}Link: {% endif %}
-    {{ page.title | widow }}</a></h1>
-{% if page.summary %}<p class="summary">
-  {{ page.summary }}
+<h1><a href='{{ page.url }}'>{% if link %}Link: {% endif %}
+    {{ title | widow }}</a></h1>
+{% if summary %}<p class="summary">
+  {{ summary }}
 </p>{% endif %}
 
 <p class="meta">
@@ -14,13 +14,13 @@ layout: default
 
 <hr class="subtle">
 
-{% assign current_year = 'now' | date: "%Y" %}
+{% assign current_year = now | date: "%Y" %}
 {% assign post_year = page.date | date: "%Y" %}
 {% assign years_old = current_year | minus: post_year %}
 
-{% if page.categories.last == "Sarcastic News" %}
+{% if categories.last == "Sarcastic News" %}
 <p class='warning'>This an ancient satirical news post from when I was in college. I apologise.</p>
-{% elsif page.categories.first == "Faith" %}
+{% elsif categories.first == "Faith" %}
 <p class='warning'>This an old status update on my web-based game <a href='/engineering-faith/'>Engineering Faith</a>.</p>
 {% elsif years_old > 10 %}
 <p class='warning'>This post is over ten years old. Chances are, I've learned enough to have advanced my thinking about some of this stuff.</p>
@@ -33,14 +33,14 @@ layout: default
 <hr class="subtle">
 
 <div id="nextnav">
-  {% if page.tags.size > 0 %}
+  {% if tags.size > 0 %}
 
-  {%- for tag in page.tags -%}
-  {% assign tag_title = site.data.seriestitles[tag].title | default: tag %}
-  {% if page.previous_in[tag] %}
+  {%- for tag in tags -%}
+  {% assign tag_title = seriestitles[tag].title | default: tag %}
+  {% if previous_in[tag] %}
   <p>Next in the <a href="/series/{{ tag }}"><b>
-        {{ tag_title }}</b></a> series: <a href="{{ page.previous_in[tag].url }}">
-      {{ page.previous_in[tag].title }} →</a></p>
+        {{ tag_title }}</b></a> series: <a href="{{ previous_in[tag].url }}">
+      {{ previous_in[tag].data.title }} →</a></p>
   {% else %}
   <p>Latest in the series <b><a href="/series/{{ tag }}">
         {{ tag_title }}</a></b>.

@@ -1,0 +1,6 @@
+{
+  "old_domain": "https://allenpike.com",
+  "new_domain": "https://deploy-preview-131--allenpike.netlify.app",
+  "limit": 2000,
+  "output_dir": "comparison-output"
+}

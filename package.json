@@ -1,0 +1,21 @@
+{
+  "name": "allenpike-com",
+  "version": "2.0.0",
+  "description": "Allen Pike's personal website",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "watch": "eleventy --watch",
+    "clean": "rm -rf _site"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "js-yaml": "^4.1.1",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.2.0",
+    "markdown-it-footnote": "^4.0.0"
+  }
+}

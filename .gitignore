@@ -1,7 +1,11 @@
 _site
+_site_11ty
+_site_jekyll
 .DS_Store
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 vendor
 .bundle
+node_modules/
+comparison-output/
