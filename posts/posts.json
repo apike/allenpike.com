@@ -1,5 +1,5 @@
 {
   "layout": "post",
   "date": "git Created",
-  "permalink": "/{{ page.date | date: '%Y' }}/{{ page.fileSlug | slugify }}.html"
+  "permalink": "/{{ page.date | date: '%Y' }}/{{ slug | default: page.fileSlug }}/index.html"
 }

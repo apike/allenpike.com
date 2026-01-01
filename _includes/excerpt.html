@@ -16,7 +16,7 @@
   {% if post.data.summary %}<p class="summary">{{ post.data.summary }}</p>{% endif %}
       
   <div class="post">
-  {{ post.content | strip_html | truncatewords: 50 }}
+  {{ post.content | strip_html | strip_markdown_links | truncatewords: 50 }}
   <p><a href='{{ post.url }}'>{{ post.content | reading_time }} read →</a></p>
   </div>
 {% endif %}

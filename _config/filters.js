@@ -25,6 +25,13 @@ function widow(text) {
   return text.replace(/ ([^ ]*)$/, "&nbsp;$1");
 }
 
+// Strip markdown link syntax that wasn't processed (for excerpts)
+// Converts [text](url) to just text
+function strip_markdown_links(text) {
+  if (!text) return text;
+  return text.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1");
+}
+
 // allenpike.rb - Default share image
 function defaultshareimg(text) {
   return text || "/images/simple-opengraph-banner.png";
@@ -36,10 +43,10 @@ function reading_time(content) {
 
   // Strip pre tags first, then strip HTML (matches Jekyll's get_plain_text)
   const text = content
-    .replace(/<pre(?:(?!<\/pre).|\s)*<\/pre>/gmi, "")
+    .replace(/<pre(?:(?!<\/pre).|\s)*<\/pre>/gim, "")
     .replace(/<[^>]+>/g, "");
 
-  const totalWords = text.split(/\s+/).filter(w => w.length > 0).length;
+  const totalWords = text.split(/\s+/).filter((w) => w.length > 0).length;
   const wordsPerMinute = 210;
 
   // Matches Jekyll's hardcoded ranges
@@ -74,6 +81,7 @@ module.exports = {
   defaultshareimg,
   reading_time,
   date,
+  strip_markdown_links,
   // Feed formatting filters
   ...feedFormatting,
   // Alias for backwards compatibility
