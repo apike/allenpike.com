@@ -88,7 +88,13 @@ module.exports = function (eleventyConfig) {
   // Transforms
   // ============================================
   eleventyConfig.addTransform("smartquotes", function (content, outputPath) {
-    if (outputPath && outputPath.endsWith(".html")) {
+    // Apply smart quotes to HTML pages, but skip XML feeds
+    if (
+      outputPath &&
+      outputPath.endsWith(".html") &&
+      !outputPath.includes("/feed/") &&
+      !outputPath.includes("/atom/")
+    ) {
       return applySmartQuotesToHTML(content);
     }
     return content;
