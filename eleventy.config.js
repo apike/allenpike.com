@@ -1,4 +1,6 @@
 const yaml = require("js-yaml");
+const smartquotes = require("smartquotes");
+const { parseHTML } = require("linkedom");
 const filters = require("./_config/filters");
 const collections = require("./_config/collections");
 const { createMarkdownLibrary } = require("./_config/markdown");
@@ -83,6 +85,16 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addExtension("markdown", { key: "md" });
 
   // ============================================
+  // Transforms
+  // ============================================
+  eleventyConfig.addTransform("smartquotes", function (content, outputPath) {
+    if (outputPath && outputPath.endsWith(".html")) {
+      return applySmartQuotesToHTML(content);
+    }
+    return content;
+  });
+
+  // ============================================
   // Configuration
   // ============================================
   return {
@@ -124,4 +136,41 @@ function parseJekyllDate(dateStr) {
   }
 
   return null;
+}
+
+/**
+ * Apply smart quotes only to text content in HTML, not to attributes
+ */
+function applySmartQuotesToHTML(html) {
+  const { document } = parseHTML(html);
+
+  // Walk all text nodes and apply smartquotes
+  const walker = document.createTreeWalker(
+    document,
+    4, // NodeFilter.SHOW_TEXT
+    {
+      acceptNode: (node) => {
+        // Skip text inside script, style, pre, code, and textarea
+        const parent = node.parentElement;
+        if (parent) {
+          const tag = parent.tagName.toLowerCase();
+          if (["script", "style", "pre", "code", "textarea"].includes(tag)) {
+            return 2; // NodeFilter.FILTER_REJECT
+          }
+        }
+        return 1; // NodeFilter.FILTER_ACCEPT
+      },
+    }
+  );
+
+  const textNodes = [];
+  while (walker.nextNode()) {
+    textNodes.push(walker.currentNode);
+  }
+
+  for (const node of textNodes) {
+    node.textContent = smartquotes.string(node.textContent);
+  }
+
+  return document.toString();
 }

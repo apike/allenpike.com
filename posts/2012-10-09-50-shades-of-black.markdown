@@ -11,6 +11,7 @@ categories:
 ---
 
 <img src='/images/wp-uploads/2012/10/iphone5-materials1.jpg' class='retinize'>
+
 Many positive reviews of the iPhone 5 obsess over the feel of the device. It's good, but in my hand it's no better than an iPhone 4. To be honest, the mix of materials and abundance of seams is pretty inelegant. Yet [Slate has this to say](http://www.slate.com/articles/technology/technology/2012/10/iphone_5_review_marveling_at_the_existence_of_the_greatest_phone_ever_made_.html):
 
 > This is a gadget that seems as if it fell into the box fully formed. If you run your hands around its face, you scarcely feel any seams or other points of connection; there’s little evidence that this thing is a highly complex device made from lots of smaller things.

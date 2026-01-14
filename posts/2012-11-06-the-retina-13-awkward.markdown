@@ -11,6 +11,7 @@ categories:
 ---
 
 <img src='/images/wp-uploads/2012/11/retina13.jpg' class='retinize'>
+
 Patrick Gibson [posted a review today of the Retina 13" MacBook Pro](http://patrickbgibson.tumblr.com/post/35140489041/the-retina-macbook-pro-13):
 
 

@@ -14,6 +14,7 @@ tags:
 ---
 
 <img src="/images/2013/odeo.png" width="150" />
+
 In February 2005, Ev Williams and Noah Glass launched an exciting new podcasting business called Odeo. Podcasting, or "audioblogging", was booming. The Great Startup Cynicism of the early 2000s was lifting, and podcasting was the Next Big Thing. [The New York Times explained:](http://www.nytimes.com/2005/02/25/technology/25podcast.html)
 
 > Mr. Williams, who is 32, helped found a maker of Web logging software, Pyra Labs, which he sold to Google in 2003 for an undisclosed amount of stock, and then stayed at the company until last October. He predicts that podcasting will repeat the steep growth curve of the text blogging phenomenon - which went from only a few thousand blogs when he entered the field in 1999 to more than 7.3 million today.
@@ -36,6 +37,7 @@ At xoxo this year, Marco mentioned this coming of age during [a talk about his f
 > "They're going through a boom of supply and demand right now. They've been around for over a decade, but in the last few years, people like 5by5 have come out and really raised the bar and brought a lot of people in."
 
 <img src="/images/2013/active-podcasts.png" width="386"/>
+
 Indeed, 5by5 has raised the bar. Since they launched, the range of shows available has increased dramatically. In 2010, professional tech podcasts were dominated by the likes of TWiT. Now, there are more good shows than I could possibly keep up with. 5by5 runs 34 shows, iMore runs 11, and Mule Radio runs 20. Further, a [host](http://releasenotes.tv/) of [indie](http://www.coreint.org/) developers [now](http://developingperspective.com/) run [great](http://springboardshow.com/) independent [shows](http://nodeup.com/), making it even harder to keep up.
 
 So the number of geek-oriented shows is definitely going through a boom. That's great, but it's driven me to wonder: is this is actually sustainable, or is it just another bubble of perception like Odeo was?
@@ -62,6 +64,7 @@ As it happens, This American Life, which any sane podcast listener would have in
 >“We’ve fluctuated between 1.7 to 1.8 million (listeners) pretty much for the last decade on the radio,” says Glass. “At the same time, we’ve gone from not having a podcast to having 800,000 people who hear us that way.”
 
 <img src="/images/2013/podcasts-graph.png" width="312" />
+
 Since the 5by5 era began, there has only been [one group studying podcasting specifically](http://www.edisonresearch.com/home/archives/2012/05/the-podcast-consumer-2012.php). Their reports are unfortunately irregular, but between 2010 and 2012, they measured a 65% increase in the number of monthly American podcast listeners. 65%. That is some spectacular growth for a format that isn't the Next Big Thing. 
 
 Surely this growth can't all be from geeks. So the jig is up: podcasting is seriously growing, and it's not just geeks.

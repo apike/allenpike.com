@@ -13,6 +13,7 @@ tags:
 ---
 
 <img src='/images/2014/castro-upup.jpg' width='200'>
+
 In November, my co-founder Nigel and I started planning an app to help record podcasts. Before we could do it right, we needed to do two things first: [investigate the podcasting industry](/2013/fall-and-rise-of-podcasting/), and start [a show of our own](http://www.upup.fm). Before we could start a show, we needed a format.
 
 ##  Formatting...
@@ -38,4 +39,5 @@ In a stroke of digital destiny, I stumbled upon the crazy story of [the I Fight 
 ## Pressing Start
 
 <img src='/images/2014/upup.png' width='200'>
+
 After two months in production, we launched [Up Up Down Down](http://www.upup.fm/) last week. So far we've received a lot of positive feedback, some helpful audio quality tips, and a single [review on iTunes](https://itunes.apple.com/us/podcast/up-up-down-down/id825505015). We originally planned on doing ten episodes, but our list of guests is looking really good. Perhaps we might not be able to stop at ten.
