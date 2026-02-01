@@ -92,7 +92,7 @@ You see, Noto Color Emoji is a Google font that is helpful in that it gives you 
 
 <img src="/images/2026/iphone-emoji-error.png" alt="iPhone showing an error when trying to load Noto Color Emoji." style="float: right; width: 320px">
 
-After I mentioned the bug in a private Slack, Daniel Jalkut [filed it in the Safari bug tracker](https://bugs.webkit.org/show_bug.cgi?id=305636), and Simon Fraser on the webkit team has already commented, noting the slowness seems to be within CoreSVG. Chances are this will get fixed!
+After I mentioned the bug in a Slack, Daniel Jalkut [filed it in the Safari bug tracker](https://bugs.webkit.org/show_bug.cgi?id=305636), and Simon Fraser on the webkit team has already commented, noting the slowness seems to be within CoreSVG. Chances are this will get fixed!
 
 In the meantime, I'd like to contribute this humble finding to the search corpus: don't use Noto Color Emoji on Apple platforms – list "Apple Color Emoji" first. At least, until the bug is fixed and the resulting Safari release is widespread.
 
