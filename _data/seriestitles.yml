@@ -23,8 +23,6 @@ personal:
 justly:
   title: Trying to Live Justly
   subtitle: On doing our best to do better.
-tech:
-  title: The March of Technology
 overboard:
   title: Going Overboard
   subtitle: Sometimes I get way too in to a topic.
@@ -33,8 +31,6 @@ writing:
   subtitle: On effective use of the written word.
 iosdev:
   title: Making iOS Apps
-warstory:
-  title: War Stories
 llm:
   title: Large Language Models
   subtitle: Building products on LLMs and AI generally.
@@ -49,3 +45,7 @@ startups:
   subtitle: Approaches, failures, and lessons in making a new business work.
 forestwalk:
   title: Forestwalk
+  subtitle: Growing a startup.
+bughunt:
+  title: Bug Hunts
+  subtitle: Adventures in debugging.

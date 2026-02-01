@@ -312,6 +312,7 @@ div.centered p {
 
 .post pre code {
   border: none;
+  background-color: transparent;
 }
 
 /* terminal */
@@ -620,6 +621,11 @@ span.meta {
 
   hr.subtle {
     border-color: #3f3e3f;
+  }
+
+  .post pre {
+    background-color: #002;
+    border-color: #444;
   }
 
   .post code {

@@ -149,24 +149,24 @@ function parseJekyllDate(dateStr) {
  */
 function applySmartQuotesToHTML(html) {
   const { document } = parseHTML(html);
+  const skipTags = ["script", "style", "pre", "code", "textarea"];
+
+  // Check if any ancestor is a tag we should skip
+  function hasSkipAncestor(node) {
+    let el = node.parentElement;
+    while (el) {
+      if (skipTags.includes(el.tagName.toLowerCase())) {
+        return true;
+      }
+      el = el.parentElement;
+    }
+    return false;
+  }
 
   // Walk all text nodes and apply smartquotes
   const walker = document.createTreeWalker(
     document,
-    4, // NodeFilter.SHOW_TEXT
-    {
-      acceptNode: (node) => {
-        // Skip text inside script, style, pre, code, and textarea
-        const parent = node.parentElement;
-        if (parent) {
-          const tag = parent.tagName.toLowerCase();
-          if (["script", "style", "pre", "code", "textarea"].includes(tag)) {
-            return 2; // NodeFilter.FILTER_REJECT
-          }
-        }
-        return 1; // NodeFilter.FILTER_ACCEPT
-      },
-    }
+    4 // NodeFilter.SHOW_TEXT
   );
 
   const textNodes = [];
@@ -175,7 +175,9 @@ function applySmartQuotesToHTML(html) {
   }
 
   for (const node of textNodes) {
-    node.textContent = smartquotes.string(node.textContent);
+    if (!hasSkipAncestor(node)) {
+      node.textContent = smartquotes.string(node.textContent);
+    }
   }
 
   return document.toString();
