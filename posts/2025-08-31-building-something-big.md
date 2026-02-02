@@ -4,7 +4,7 @@ author: allen
 title: "Building Something Big"
 summary: "On the pros and cons of the indie path."
 date: 2025-08-31T23:45:30.955Z
-featured: false
+featured: true
 tags:
   - startups
   - forestwalk
