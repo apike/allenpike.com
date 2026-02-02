@@ -7,7 +7,6 @@ slug: "disclosure-indicator-ndas"
 title: "The Disclosure Indicator"
 summary: "Idea Guy wants an NDA signed."
 image: "/images/allen-pike-2014.jpg"
-featured: true
 categories:
 - Article
 tags:

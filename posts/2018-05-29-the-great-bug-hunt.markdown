@@ -6,7 +6,6 @@ slug: "the-great-bug-hunt"
 title: "The Great Bug Hunt"
 summary: "A crashing Xbox proves hard to debug."
 image: "/images/2018/campfire-square.jpg"
-featured: true
 categories:
 - Article
 tags:

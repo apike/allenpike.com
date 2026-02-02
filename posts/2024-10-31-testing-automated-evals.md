@@ -4,7 +4,6 @@ author: allen
 title: Testing the Untestable
 summary: "The four phases of automated evals for LLM-powered features."
 date: 2024-10-31T05:45:30.955Z
-featured: false
 image: "/images/2024/ai-evals.jpg"
 tags:
   - llm

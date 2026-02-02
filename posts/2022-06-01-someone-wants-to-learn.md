@@ -5,7 +5,6 @@ title: Someone Wants to Learn From You
 summary: How writing habits pay odd dividends.
 date: 2022-06-01T12:42:18.627Z
 image: /images/2022/tree-square.jpg
-featured: false
 categories:
   - Article
 tags:

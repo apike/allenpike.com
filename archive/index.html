@@ -38,7 +38,7 @@ title: Article Archive
     {% assign prevyear = newyear %}
 
     <li class="
-          {% if post.data.featured %} featured {% endif %}
+          {% if post.data.tags contains "best" %} featured {% endif %}
           {% if post.data.link %} link {% endif %}
           ">{% if post.data.link %}Link: {% endif %}<a href="{{ post.url }}">
         {{ post.data.title }}</a>

@@ -4,7 +4,6 @@ author: allen
 title: Our Unevenly Distributed Future
 summary: "How self-driving cars become mundane."
 date: 2024-09-30T05:45:30.955Z
-featured: false
 image: "/images/2024/waymo-6g.jpg"
 tags:
 ---

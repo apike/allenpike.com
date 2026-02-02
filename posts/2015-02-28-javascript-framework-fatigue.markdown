@@ -6,7 +6,6 @@ layout: post
 slug: "javascript-framework-fatigue"
 title: "A JS Framework on Every Table"
 summary: "There are too many JavaScript frameworks."
-featured: true
 categories:
 - Article
 tags:

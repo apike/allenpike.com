@@ -4,7 +4,6 @@ date: "2021-10-01 11:00:00 -08:00"
 layout: post
 title: "Fight for Outside Perspective"
 summary: "The case of too many team meetings."
-featured: false
 categories:
 - Article
 tags:

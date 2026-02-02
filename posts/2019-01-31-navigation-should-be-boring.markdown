@@ -7,7 +7,6 @@ summary: "Apps should be interesting, but not like that."
 image: "/images/2019/translate-square.jpg"
 categories:
 - Article
-featured: true
 tags:
 - steamclock
 - products

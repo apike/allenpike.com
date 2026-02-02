@@ -4,7 +4,6 @@ author: allen
 title: Once a Month
 summary: "An easy way to do more things you love."
 date: 2024-02-29T05:45:30.955Z
-featured: false
 categories:
   - Article
 tags:

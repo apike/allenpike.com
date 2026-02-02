@@ -7,7 +7,6 @@ summary: "A new germ turns things upside down."
 image: "/images/2020/ellie-thomas.jpg"
 tags:
 - personal
-featured: true
 categories:
 - Article
 - best

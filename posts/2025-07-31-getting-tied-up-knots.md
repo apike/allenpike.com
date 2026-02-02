@@ -4,7 +4,6 @@ author: allen
 title: "Getting Tied Up"
 summary: "On little things that get in the way."
 date: 2025-07-31T23:45:30.955Z
-featured: false
 image: "/images/2025/tarbuck.jpg"
 tags:
   - personal

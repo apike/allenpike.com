@@ -4,7 +4,6 @@ author: allen
 title: "Spending Too Much Money on a Coding Agent"
 summary: "On making use of large thinking models."
 date: 2025-06-30T23:45:30.955Z
-featured: false
 image: "/images/2025/cursor-agent.jpg"
 tags:
   - startups

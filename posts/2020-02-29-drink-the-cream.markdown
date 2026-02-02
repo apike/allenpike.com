@@ -8,7 +8,6 @@ image: "/images/2020/cream-pot-small.jpg"
 tags:
 - teams
 - best
-featured: true
 categories:
 - Article
 

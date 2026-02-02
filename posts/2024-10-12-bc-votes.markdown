@@ -3,7 +3,6 @@ layout: post
 author: allen
 title: "BC Votes"
 date: 2024-10-12T21:11:05.627Z
-featured: false
 link: "https://vancouversun.com/news/bc-election-2024-12-hot-topics-party-platforms"
 categories:
   - Link

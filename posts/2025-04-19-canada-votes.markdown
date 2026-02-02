@@ -3,7 +3,6 @@ layout: post
 author: allen
 title: "Canada Votes"
 date: 2025-04-19T21:11:05.627Z
-featured: false
 link: "https://www.elections.ca/content2.aspx?section=vote&document=index&lang=e"
 categories:
   - Link

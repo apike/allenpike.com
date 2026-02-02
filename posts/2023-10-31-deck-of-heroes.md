@@ -4,7 +4,6 @@ author: allen
 title: Build a Deck of Heroes
 summary: A way to relate to inspiring people.
 date: 2023-10-31T05:45:30.955Z
-featured: false
 image: "/images/2023/cards-banner.jpg"
 categories:
   - Article

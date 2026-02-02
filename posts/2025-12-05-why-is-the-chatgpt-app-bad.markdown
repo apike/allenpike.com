@@ -3,7 +3,6 @@ layout: post
 author: allen
 title: "Why is ChatGPT for Mac So… Bad?"
 date: 2025-12-05T21:11:05.627Z
-featured: false
 link: "https://x.com/rjonesy/status/1997030661513973809?s=61&t=Y1ek6K3yg6YJer4ARcyseg"
 categories:
   - Link

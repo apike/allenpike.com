@@ -6,7 +6,6 @@ layout: post
 slug: unprofessionalism
 summary: "Being real brings the haters."
 title: "Unprofessionalism"
-featured: true
 categories:
 - Article
 oldtags:

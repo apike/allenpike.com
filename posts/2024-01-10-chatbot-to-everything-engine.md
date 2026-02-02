@@ -4,7 +4,6 @@ author: allen
 title: From Chatbot to Everything Engine
 summary: "A curious design constraint signals an ambitious future."
 date: 2024-01-10T05:45:30.955Z
-featured: false
 image: "/images/2024/gpts-banner.jpg"
 categories:
   - Article

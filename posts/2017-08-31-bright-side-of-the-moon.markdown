@@ -7,7 +7,6 @@ slug: "bright-side-of-the-moon"
 title: "Bright Side of the Moon"
 summary: "We see an eclipse."
 image: "/images/2017/eclipse-square.jpg"
-featured: true
 categories:
 - Article
 tags:

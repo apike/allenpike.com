@@ -7,7 +7,6 @@ slug: "principle-of-least-surprise"
 title: "The Principle of Least Surprise"
 summary: "An iceberg looms, and we take evasive action."
 image: "/images/2017/surprise-crop.jpg"
-featured: true
 categories:
 - Article
 tags:

@@ -6,10 +6,10 @@ slug: "canadian-cheese-cartel"
 title: "The Canadian Cheese Cartel"
 summary: "Cheese please."
 image: "/images/2018/cheese-square.jpg"
-featured: true
 categories:
 - Article
 tags:
+- best
 ---
 
 Canada has a cheese problem.

@@ -4,7 +4,6 @@ author: allen
 title: "JavaScript Fatigue Strikes Back"
 summary: "The new frameworks will continue until morale improves."
 date: 2025-02-28T23:45:30.955Z
-featured: false
 image: "/images/2025/too-many-frameworks.jpg"
 tags:
   - choosing

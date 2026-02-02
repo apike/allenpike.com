@@ -6,7 +6,6 @@ layout: post
 slug: maximum-viable-products
 summary: "We try to make the best products we can."
 title: "Maximum Viable Products"
-featured: true
 categories:
 - Article
 oldtags:
@@ -16,6 +15,7 @@ oldtags:
 tags:
 - steamclock
 - products
+- best
 
 ---
 

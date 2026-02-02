@@ -4,7 +4,6 @@ author: allen
 title: Feeding the Baby
 summary: "On accidentally becoming a CEO."
 date: 2024-06-29T05:45:30.955Z
-featured: true
 tags:
   - steamclock
   - personal

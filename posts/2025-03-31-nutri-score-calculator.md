@@ -4,7 +4,6 @@ author: allen
 title: "A Score for Snacks"
 summary: "The Nutri-Score, and a calculator for it."
 date: 2025-03-31T23:45:30.955Z
-featured: false
 image: "/images/2025/nutri-score-scale.jpg"
 tags:
   - overboard

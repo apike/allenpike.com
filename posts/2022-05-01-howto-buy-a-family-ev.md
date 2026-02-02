@@ -5,7 +5,6 @@ title: How to Buy a Family EV
 summary: Doing battle with the global supply chain.
 date: 2022-05-01T12:42:18.627Z
 image: /images/2022/evs-square.jpg
-featured: false
 categories:
   - Article
 tags:

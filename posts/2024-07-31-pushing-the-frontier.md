@@ -4,7 +4,6 @@ author: allen
 title: Pushing the Frontier
 summary: "If – and when – GPT-5 might eat your lunch"
 date: 2024-07-31T05:45:30.955Z
-featured: false
 image: "/images/2024/gpt-releases-og.png"
 tags:
   - llm

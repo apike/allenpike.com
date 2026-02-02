@@ -4,11 +4,11 @@ author: allen
 title: "Post-Chat UI"
 summary: "How LLMs are making traditional apps feel broken."
 date: 2025-04-30T23:45:30.955Z
-featured: true
 image: "/images/2025/postchat-terminal.jpg"
 tags:
   - llm
   - products
+  - best
 ---
 
 First, there was the terminal.

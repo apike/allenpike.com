@@ -4,7 +4,6 @@ author: allen
 title: Beyond Optimism
 summary: On a mindset for doing hard things.
 date: 2022-01-01T20:30:37.360Z
-featured: false
 categories:
   - Article
 tags:

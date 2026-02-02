@@ -4,7 +4,6 @@ author: allen
 title: Make the Thing a Link
 summary: A quick way to level up prose.
 date: 2023-08-31T05:45:30.955Z
-featured: false
 categories:
   - Article
 tags:

@@ -4,7 +4,6 @@ author: allen
 title: 2022 Vancouver Election Guide
 summary: 9 parties. 59 candidates. One ballot.
 date: 2022-09-21T12:42:18.627Z
-featured: false
 image: "/images/2022/vancouver-parties-graph-2022.png"
 categories:
   - Article

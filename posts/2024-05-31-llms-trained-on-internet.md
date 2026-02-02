@@ -4,7 +4,6 @@ author: allen
 title: LLMs Aren’t Just “Trained On the Internet” Anymore
 summary: "A path to continued model improvement."
 date: 2024-05-31T05:45:30.955Z
-featured: false
 image: "/images/2024/gpt3-data.png"
 categories:
   - Article

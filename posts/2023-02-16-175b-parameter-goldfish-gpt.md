@@ -4,7 +4,6 @@ author: allen
 title: A 175-Billion-Parameter Goldfish
 summary: The problem and opportunity of language model context.
 date: 2023-02-16T12:42:18.627Z
-featured: false
 image: "/images/2023/gpt-model-flow.png"
 categories:
   - Article

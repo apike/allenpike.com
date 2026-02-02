@@ -3,7 +3,6 @@ layout: post
 author: allen
 title: "It Shipped That Way"
 date: 2022-11-20T21:11:05.627Z
-featured: false
 link: "https://www.itshipped.fm/"
 categories:
   - Link

@@ -4,7 +4,6 @@ author: allen
 title: You Should Propose More Things
 summary: A habit for getting decisions made.
 date: 2022-11-01T12:42:18.627Z
-featured: false
 categories:
   - Article
 tags:

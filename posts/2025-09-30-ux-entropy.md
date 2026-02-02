@@ -4,7 +4,6 @@ author: allen
 title: "UX Entropy"
 summary: "Zoom’s arc from hero to hulk."
 date: 2025-09-30T23:45:30.955Z
-featured: false
 image: "/images/2025/zoom-admin-settings.jpg"
 tags:
   - startups

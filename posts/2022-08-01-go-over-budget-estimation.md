@@ -5,7 +5,6 @@ title: How to Go Over Budget
 summary: On working within an estimate.
 date: 2022-08-01T12:42:18.627Z
 image: /images/2022/sharks-istock-square.jpg
-featured: false
 categories:
   - Article
 tags:

@@ -4,7 +4,6 @@ author: allen
 title: Sell First, or Build First?
 summary: "An age-old startup question."
 date: 2024-04-30T05:45:30.955Z
-featured: false
 categories:
   - Article
 tags:

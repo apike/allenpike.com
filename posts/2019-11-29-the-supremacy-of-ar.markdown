@@ -5,7 +5,6 @@ layout: post
 title: "The Coming Supremacy of AR"
 summary: "How augmented reality is far more than a phone on your face."
 image: "/images/2019/ar-hell.jpg"
-featured: true
 categories:
 - Article
 tags:

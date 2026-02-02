@@ -7,7 +7,6 @@ slug: providing-joy-at-60-fps
 summary: "We make an app feel fast."
 title: Providing joy at 60 fps
 wordpress_id: 1972
-featured: true
 categories:
 - Article
 - Best Of

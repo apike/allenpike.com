@@ -4,7 +4,6 @@ author: allen
 title: Going Way Beyond ChatGPT
 summary: Techniques for building products on LLMs today.
 date: 2023-06-30T05:45:30.955Z
-featured: false
 image: "/images/2023/chatgpt-map.png"
 categories:
   - Article

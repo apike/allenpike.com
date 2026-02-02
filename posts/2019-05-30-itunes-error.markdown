@@ -5,11 +5,11 @@ layout: post
 title: "iTunes: An Error Occurred"
 summary: "Like all good things, iTunes comes to an end."
 image: "/images/2019/itunes/invalid-square.jpg"
-featured: true
 categories:
 - Article
 tags:
 - overboard
+- best
 ---
 
 <style>
@@ -89,6 +89,3 @@ And now, it can finally lay down its burdens and get back to its roots. It can c
 So let's pour one out for iTunes. Farewell.
 
 <a href="/images/2019/itunes/itunes-not-open-anymore.png"><img src="/images/2019/itunes/itunes-not-open-anymore.png"></a>
-
-
-

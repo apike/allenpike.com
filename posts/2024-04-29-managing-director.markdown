@@ -3,7 +3,6 @@ layout: post
 author: allen
 title: "Steamclock’s Next Chapter"
 date: 2024-04-29T21:11:05.627Z
-featured: false
 link: "https://steamclock.com/blog/2024/04/managing-director"
 categories:
   - Link

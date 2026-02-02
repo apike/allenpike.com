@@ -3,7 +3,6 @@ layout: post
 author: allen
 title: "Final Fact"
 date: 2024-11-17T21:11:05.627Z
-featured: false
 link: "https://funfact.fm/episodes/82"
 categories:
   - Link

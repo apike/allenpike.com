@@ -4,7 +4,6 @@ author: allen
 title: You Should Have a Research Question
 summary: How to turn curiosity into a superpower.
 date: 2023-11-29T05:45:30.955Z
-featured: false
 image: "/images/2023/research-banner.jpg"
 categories:
   - Article

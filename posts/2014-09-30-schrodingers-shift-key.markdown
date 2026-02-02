@@ -6,11 +6,12 @@ layout: post
 slug: "schrodingers-shift-key"
 summary: "I get upset about a shift key."
 title: "Schrödinger's Shift Key"
-featured: true
 categories:
 - Article
 oldtags:
 - Story
+tags:
+- best
 ---
 
 In iOS 7.1, Apple changed the design of the shift key. This was the worst thing to happen in the history of software.

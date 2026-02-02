@@ -4,7 +4,6 @@ author: allen
 title: Humans Need Play
 summary: On a vicious pattern that breeds burnout.
 date: 2023-02-01T12:42:18.627Z
-featured: false
 image: "/images/2023/railbound.jpg"
 categories:
   - Article

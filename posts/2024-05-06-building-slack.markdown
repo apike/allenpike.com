@@ -3,7 +3,6 @@ layout: post
 author: allen
 title: "Building Slack"
 date: 2024-05-06T21:11:05.627Z
-featured: false
 link: "https://buildingslack.com/"
 categories:
   - Link

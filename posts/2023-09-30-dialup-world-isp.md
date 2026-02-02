@@ -4,7 +4,6 @@ author: allen
 title: The Curse of Dialup World
 summary: An acquisition gets weird.
 date: 2023-09-30T05:45:30.955Z
-featured: true
 image: "/images/2023/dialup-broadband-chart.png"
 categories:
   - Article

@@ -7,7 +7,6 @@ summary: "Why every diet could use the occasional book."
 image: "/images/2021/levar.jpg"
 categories:
 - Article
-featured: true
 tags:
 - best
 - thoughtfulness

@@ -7,7 +7,6 @@ slug: leaving-apple
 title: Leaving Apple
 summary: "I leave my dream job."
 wordpress_id: 1697
-featured: true
 categories:
 - Article
 - Best Of
@@ -18,6 +17,7 @@ tags:
 - personal
 - steamclock
 - startups
+- best
 ---
 
 ![](/images/wp-uploads/2010/06/badge.jpg)Today was my last day at Apple.

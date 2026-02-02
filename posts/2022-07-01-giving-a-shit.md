@@ -4,7 +4,6 @@ author: allen
 title: Giving a Shit as a Service
 summary: A mental model for service businesses.
 date: 2022-07-01T12:42:18.627Z
-featured: true
 categories:
   - Article
 tags:

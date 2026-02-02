@@ -4,7 +4,6 @@ author: allen
 title: 32K of Context in Your Pocket
 summary: A wild large-context LLM appears.
 date: 2023-03-15T05:45:30.955Z
-featured: false
 categories:
   - Article
 tags:

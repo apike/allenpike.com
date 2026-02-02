@@ -7,13 +7,14 @@ slug: cancelling-yes-or-no
 title: Cancelling "Yes or No"
 summary: "We say no to bad modal dialogs."
 wordpress_id: 305
-featured: true
 categories:
 - Article
 - Best Of
 oldtags:
 - Modal Dialogs
 - User Interface
+tags:
+- best
 ---
 
 Curtis inquired in [a comment on my last post](http://www.antipode.ca/2008/you-will-lose-all-unsaved-progress/#comment-1165) about "Yes" and "No" being poor menu options. There are many UI design sources that suggest this, but I go as far as to say dialogs should _never_ use Yes and No as options. OK is almost as bad unless it's the only option. Why? People don't read dialog boxes. This is how most users see dialog boxes:

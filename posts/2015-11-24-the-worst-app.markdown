@@ -6,7 +6,6 @@ layout: post
 slug: "the-worst-app"
 title: "The Worst App"
 summary: "Stephanie isn't the only one upset about an app."
-featured: true
 categories:
 - Article
 tags:

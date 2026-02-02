@@ -4,7 +4,6 @@ author: allen
 title: Starting Forestwalk
 summary: "A wild startup appears."
 date: 2024-08-16T05:45:30.955Z
-featured: false
 image: "/images/2024/fw-opengraph.jpg"
 tags:
   - llm

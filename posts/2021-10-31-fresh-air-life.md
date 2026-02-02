@@ -5,7 +5,6 @@ title: Fresh Air Life
 summary: On getting out in the rain.
 date: 2021-11-01T22:02:00.000Z
 image: /images/2021/winter-istock.jpg
-featured: false
 categories:
   - Article
 tags:

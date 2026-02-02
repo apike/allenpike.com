@@ -4,7 +4,6 @@ author: allen
 title: Collect Stories, Not Generalizations
 summary: An approach for product interviewing.
 date: 2023-04-30T05:45:30.955Z
-featured: false
 image: "/images/2023/notebooks.jpg"
 categories:
   - Article

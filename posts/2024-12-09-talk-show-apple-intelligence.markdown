@@ -3,7 +3,6 @@ layout: post
 author: allen
 title: "The Talk Show, Ep. 415"
 date: 2024-12-09T19:30:00.000Z
-featured: false
 link: "https://daringfireball.net/thetalkshow/2024/12/02/ep-415"
 categories:
   - Link

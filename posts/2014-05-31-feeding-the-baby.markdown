@@ -6,13 +6,13 @@ layout: post
 slug: "feeding-the-baby"
 summary: "Running a startup turns out to be weird."
 title: "Feeding the Baby"
-featured: true
 categories:
   - Article
 oldtags:
   - Story
 tags:
   - steamclock
+  - best
 ---
 
 _I published [a more refined version of this story](/2024/feeding-the-baby-2) in 2024._

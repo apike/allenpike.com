@@ -4,7 +4,6 @@ author: allen
 title: "Why is ChatGPT for Mac So Good?"
 summary: "Claude, Copilot, and making a good desktop app."
 date: 2025-11-30T23:45:30.955Z
-featured: false
 image: "/images/2025/claude-popups.jpg"
 tags:
   - llm

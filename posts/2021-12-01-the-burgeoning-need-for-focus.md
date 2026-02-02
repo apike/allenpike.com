@@ -4,7 +4,6 @@ author: allen
 title: The Burgeoning Need for Focus
 summary: How increasing resources can decrease effectiveness.
 date: 2021-12-01T20:30:37.360Z
-featured: false
 categories:
   - Article
 tags:

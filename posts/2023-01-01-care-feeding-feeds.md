@@ -4,7 +4,6 @@ author: allen
 title: The Care and Feeding of Feeds
 summary: Three new apps make for healthier scrolling.
 date: 2023-01-01T12:42:18.627Z
-featured: false
 image: "/images/2023/ivory.jpg"
 categories:
   - Article

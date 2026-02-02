@@ -4,7 +4,6 @@ author: allen
 title: "A Box of Many Inputs"
 summary: "On browsers, local classifiers, and Roger Rabbit."
 date: 2025-12-31T23:45:30.955Z
-featured: false
 image: "/images/2025/framed-google.jpg"
 tags:
   - llm

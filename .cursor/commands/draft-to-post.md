@@ -7,7 +7,6 @@ Take the provided text, which will be in the form of a Markdown blog post draft,
 - Add 11ty "front matter" as found in the posts in the `posts` folder, example below.
 - Ensure the date is the last day of the current month, which is likely today.
 - Pull in the title and `summary` subtitle from the top of the text draft provided.
-- Leave featured as false.
 - Set the `image` to the the banner image specified at the top of the text draft, if any. Otherwise, ask me if there is one. If the post will have no feature image, then `image` can be omitted from the front matter, but I should confirm that.
 - Based on the draft content, propose tags from the tags described in _data/seriestitles.yml.
 - After the front matter, other than the changes specified here, include my pasted content verbatim, including what seems like any typos or inaccuracies, other than the image substitution described below.
@@ -19,7 +18,6 @@ author: allen
 title: "A Box of Many Inputs"
 summary: "On browsers, local classifiers, and Roger Rabbit."
 date: 2025-12-31T23:45:30.955Z
-featured: false
 image: "/images/2025/framed-google.jpg"
 tags:
   - llm
