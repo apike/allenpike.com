@@ -14,7 +14,7 @@ tags:
 
 ---
 
-We recently interviewed a developer who was a new grad, brimming with enthusiasm. They answered our interview questions deftly, did well on our coding test, and presented a side project app that was sophisticated for somebody only six months out of university. Even better, their primary language was [Swift](/2015/moving-swiftly/).
+We recently interviewed a developer who was a new grad, brimming with enthusiasm. They answered our interview questions deftly, did well on our coding test, and presented a side project app that was sophisticated for somebody only six months out of university. Even better, their primary language was Swift.
 
 They had been writing Swift 70 hours a week, and were working methodically to develop their skills at an accelerated rate. Their goal, which they hoped to pursue by learning from our team at Steamclock, was to become a "senior developer" in 1.5 years.
 

@@ -10,7 +10,7 @@ categories:
 - Faith
 ---
 
-![](https://www.allenpike.com/images/old/weirdgraphs.gif) I was quite productive this weekend in both schoolwork and Engineering Faith. I have Beings of Worship working now, which means you can define the gods, heroes, and whatever else your people will worship. It took a fair while to get a system that crammed the massive variety of beings people might worship into a simple little discription. Some details need to be added (such as the concept of an evil being) but it's going pretty well.
+I was quite productive this weekend in both schoolwork and Engineering Faith. I have Beings of Worship working now, which means you can define the gods, heroes, and whatever else your people will worship. It took a fair while to get a system that crammed the massive variety of beings people might worship into a simple little discription. Some details need to be added (such as the concept of an evil being) but it's going pretty well.
 
 In addition, I did some testing to see exactly how all this stuff I'd set up was behaving. As it turns out, it's behaving pretty psychotically. I set up a graph so you could see your faith's progress over time, and took a look at how my three test accounts have been doing. My first account was doing quite normally. My second, and third though, had really bizarre spikes in their properties at regular intervals. The third also had a quite lame spike in population and subsequent plummet that can only be described as stupid.
 

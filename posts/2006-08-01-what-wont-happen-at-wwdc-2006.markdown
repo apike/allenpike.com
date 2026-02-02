@@ -15,7 +15,7 @@ oldtags:
 - Prediction
 ---
 
-![Banner from WWDC 2004.](/images/wp-uploads/2006/08/tiger-photocopiers.jpg)Next week I'm going to be at Apple's [Worldwide Developers' Conference](http://developer.apple.com/wwdc/), partially thanks to a scholarship from Apple, and partially thanks to work. If you're going to be there, [drop me a line](/site/contact.php)!
+![Banner from WWDC 2004.](/images/wp-uploads/2006/08/tiger-photocopiers.jpg)Next week I'm going to be at Apple's [Worldwide Developers' Conference](http://developer.apple.com/wwdc/), partially thanks to a scholarship from Apple, and partially thanks to work. If you're going to be there, [drop me a line](/contact/)!
 
 WWDC is one of the two yearly events where Steve Jobs gets on stage and announces all sorts of new crap that us Apple fanboys just have to buy. Beforehand, everybody posts their predections about what they think will be announced at these conferences, but that's passé. It's now time for my predictions: what we **won't** see at the Developers' Conference, contrary to what some are saying.
 
@@ -35,5 +35,3 @@ WWDC is one of the two yearly events where Steve Jobs gets on stage and announce
 
 	
   5. An [iPod Class on Virgin Atlantic flights](http://secretdiaryofstevejobs.blogspot.com/2006/07/wacky-old-sir-richard-branson-calls-me.html). Actually, this one's pretty realistic.
-
-

@@ -10,7 +10,7 @@ categories:
 - Faith
 ---
 
-I'm not dicouraged by hurricanes. Not the [hurricane of bug reports](/faith/bugs/), not the [hurricane of invite requests](/faith/request.php), not even the [hurricane named after Faith](/features/news/).
+I'm not dicouraged by hurricanes. Not the hurricane of bug reports, not the hurricane of invite requests, not even the hurricane named after Faith.
 
 Okay, maybe only a tiny bit. But no worry; I should have expected the beta testers would find more bugs than I expected... right? This is just the normal one-month-into-beta panic.
 
@@ -24,6 +24,6 @@ One of the biggest reasons to have a fairly large Beta was to find out where the
 
 Another problem is that for Beta I decided to run a slightly (1/3) slower world so that I could keep up with what's going on. As a side effect, the game is kind of dragging on. Tomorrow I'm starting a faster (twice as fast as the current one) world that should be more engaging to everybody (including me.)
 
-I also recommend that those who are eager/impatient/bored check out the now-public [Changes Page](/faith/changes.php) and [Help System](/faith/help/). The changes page will help give people an idea of progress by version numbers, even if they don't know what the bugfixes mean. In case you're curious, I'm going to align the version numbers so 1.0 is the first out-of-beta version, and will use the standard convention that 0.5.10 is a higher version than 0.5.9.
+I also recommend that those who are eager/impatient/bored check out the now-public Changes Page and Help System. The changes page will help give people an idea of progress by version numbers, even if they don't know what the bugfixes mean. In case you're curious, I'm going to align the version numbers so 1.0 is the first out-of-beta version, and will use the standard convention that 0.5.10 is a higher version than 0.5.9.
 
 Anyway, I'm off to fix some bugs so that tomorrow at the [Beta Party](http://www.alteringtime.com/forum/viewtopic.php?t=1317) (at 7pm Sunday at Guildford Boston Pizza) I won't be pelted with small rocks and fruit.

@@ -10,7 +10,7 @@ categories:
 - Faith
 ---
 
-![](https://www.allenpike.com/images/old/goodgraphs.gif) I've slain the evil fluctuations that were plaguing my dear faiths. Populations now behave in a nice, heartwarming way: they grow for a while, and then taper off until you do something to encourage their growth. Well, the graphs warm my heart anyway. For those of you who don't get my jabbering about graphs, just believe me that it's way better now.
+I've slain the evil fluctuations that were plaguing my dear faiths. Populations now behave in a nice, heartwarming way: they grow for a while, and then taper off until you do something to encourage their growth. Well, the graphs warm my heart anyway. For those of you who don't get my jabbering about graphs, just believe me that it's way better now.
 
 There were quite a few problems causing this, actually. For one, I turned on too many things in the game before testing them all individually. For another, I had a cool idea for regulating population that while cool, was totally not the way populations really behave. Thirdly, I was making formulas without considering very much what the graphs/maths/calculus behind them was.
 
