@@ -13,8 +13,6 @@ oldtags:
 - Spam
 ---
 
-![](/images/old/spam.jpg)
-
 The American Congress is on the verge of putting their first ever anti-spam regulations into law. While banning certain shady practices spammers commonly use, it legalizes spam sent in many circumstances, causing joy for politicians seen to be doing something, joy for spammers who can now spam legally, and annoyance for everyone else.
 
 The CAN-SPAM act (originally intended to mean spam is being canned rather than you can now spam) originally required all commercial email to be solicited, meaning you had to opt in to receive it. The revised bill is completely different in that sense, meaning you have to opt out of a list to stop getting spam. "Wow, now that just makes it all better doesn't it!" cried one battered spam fighter, in what is reported to have been sarcasm. "If you click unsubscribe they're supposed to take you off the list. Nothing says they can't have 314159 lists, and unsubscribing from one puts you on all the rest. Wait a minute, they already do that."

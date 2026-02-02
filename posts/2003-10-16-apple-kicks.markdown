@@ -13,8 +13,6 @@ oldtags:
 - Apple
 ---
 
-![Apple Logo](/images/old/new_apple_logo.gif)
-
 CUPERTINO, USA - Apple Computer has made a flurry of announcements and releases in the last two months that have pleased existing fans and earned it new ones. Recent months have seen new PowerBooks, new iMacs, the PowerMac G5, new iPods with new accessories, a new Music Store for Mac and Windows, and the cherry on top, the new version of its operating system coming out in less than a week.
 
 Possibly the most talked-about announcement in this period is the ridiculously powerful [Power Mac G5](http://www.apple.com/powermac/). Lauded by Apple as the fastest personal computer ever (while hard to prove, it's at least very close) it is the first computer to offer 64-bit computing to the masses, which gets Apple ahead of the game, already working on getting this technology into notebooks by the time it's needed by the masses. A local systems analyst is very excited about these machines, saying "When I got mine and opened the box, I had to change my pants." While we're not sure what he meant by that exactly, the consensus is that it's a good thing. While some complain about the "bang to buck ratio" of the G5, Virginia Tech disagrees. They recently purchased 1100 of the PowerMacs to [assemble](http://computing.vt.edu/research_computing/terascale/) what is currently being tested as the 2nd fastest supercomputer in the entire world, which they're unofficially calling "Big Mac." We hope the aforementioned analyst doesn't get a glimpse of this supercomputer.

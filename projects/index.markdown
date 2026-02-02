@@ -26,7 +26,7 @@ For a summary of what I do, see [my resume](/resume/). What follows is more of a
 
 I love teaching and discussing tech and other topics, and appear on podcasts relatively often. <a href="/speaking/">Sometimes, people record it.</a>
 
-I also previously ran the podcasts **[Fun Fact](http://funfact.fm/)**, a show full of incredibly important facts, and **[Up Up Down Down](http://upup.fm/)**, a show about the craft of video games.
+I also previously ran the podcasts **[Fun Fact](https://funfact.fm/)**, a show full of incredibly important facts, and **[Up Up Down Down](https://upup.fm/)**, a show about the craft of video games.
 
 **Steamclock-era Projects** (2010-2023)
 
@@ -34,9 +34,9 @@ From founding Steamclock to [handing off day-to-day](https://allenpike.com/2024/
 
 - **Systems**: Growing Steamclock effectively required developing and iterating a lot of systems, docs, and approaches. These included processes for hiring and onboarding, people management, compensation, finance, branding, project and product management, internal comms, and marketing.
 
-- **[Two Spies](http://www.steamclock.com/spies/)**, a turn-based iPhone game that proved more popular than I expected.
+- **[Two Spies](https://www.steamclock.com/spies/)**, a turn-based iPhone game that proved more popular than I expected.
 
-- **[Consulting work](http://www.steamclock.com/services/)**: Steamclock help companies ship great mobile apps. Some the our [interesting client projects at Steamclock](https://steamclock.com/work/) have been:
+- **[Consulting work](https://www.steamclock.com/services/)**: Steamclock help companies ship great mobile apps. Some the our [interesting client projects at Steamclock](https://steamclock.com/work/) have been:
 
   - an interactive [3D map of the internet](https://steamclock.com/work/mapoftheinternet)
   - various personal finance apps, including "roboavisors" and a featureful stock trading app
@@ -58,9 +58,9 @@ From founding Steamclock to [handing off day-to-day](https://allenpike.com/2024/
   - work on the webOS App Store, of all things
   - a bespoke iOS app for ordering bespoke suits.
 
-- **[Quests](http://www.steamclock.com/quests/)**, a Mac menubar app to see your assigned issues and pull requests.
+- **[Quests](https://www.steamclock.com/quests/)**, a Mac menubar app to see your assigned issues and pull requests.
 
-- **[Party Monster](http://www.steamclock.com/partymonster/)**: A queueing DJ app for parties and road trips. We made a [funky video](/2012/making-a-funky-app-video/) for it as well.
+- **[Party Monster](https://www.steamclock.com/partymonster/)**: A queueing DJ app for parties and road trips. We made a [funky video](/2012/making-a-funky-app-video/) for it as well.
 
 - **[WeddingDJ](http://www.steamclock.com/weddingdj/)**: The best darn iPhone app for running music at weddings.
 
@@ -86,7 +86,7 @@ For reasons I don't fully understand, Apple offered me a job right out of univer
 
 - **Prototypes**: Working on product prototypes that don't ship is as fun and frustrating as it sounds. Over beer you should totally not ask me for NDA-violating war stories on this topic.
 
-- **Websites for Fun**: I'm often making websites for fun, for example for a local theatre company, a WoW guild, and [my wedding](http://karen.and.allenpike.com/). If there's one thing I've learned about this, it's to use a static site generator and not have to worry about updating Wordpress for the rest of your life.
+- **Websites for Fun**: I'm often making websites for fun, for example for a local theatre company, a WoW guild, and [my wedding](https://karen.and.allenpike.com/). If there's one thing I've learned about this, it's to use a static site generator and not have to worry about updating Wordpress for the rest of your life.
 
 **Discovery Era Projects** (2003-2008)
 
