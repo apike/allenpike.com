@@ -14,6 +14,9 @@ best:
 products:
   title: Making Great Products
   subtitle: Interesting aspects of product development.
+voting:
+  title: Voting
+  subtitle: Trying to make sense of elections in Vancouver and Canada.
 projects:
   title: Effective Projects
   subtitle: The art and science of shipping.

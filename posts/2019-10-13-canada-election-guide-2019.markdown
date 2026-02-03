@@ -9,6 +9,7 @@ categories:
 - Article
 tags:
 - overboard
+- voting
 ---
 
 *Updated to reflect latest polling, and to add a [Vancouver Granville](#granville) section, through Oct 19.*

@@ -9,6 +9,7 @@ categories:
 - Article
 tags:
 - overboard
+- voting
 ---
 
 *Updated through October 19.*

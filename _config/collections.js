@@ -29,11 +29,11 @@ function posts(collectionApi) {
     });
   });
 
-  // For each tag with 3+ posts, add prev/next navigation
+  // For each tag with 2+ posts, add prev/next navigation
   // Note: This mutates post.data intentionally for template access
   Object.keys(tagPosts).forEach((tag) => {
     const taggedPosts = tagPosts[tag];
-    if (taggedPosts.length < 3) return;
+    if (taggedPosts.length < 2) return;
 
     taggedPosts.forEach((post, index) => {
       if (!post.data.next_in) post.data.next_in = {};
