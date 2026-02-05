@@ -86,7 +86,7 @@ Originally, Apple's Color Emoji were basically a hack. They just stuck PNG image
 
 But that – as it so often is – was not that.
 
-You see, Noto Color Emoji is a Google font that is helpful in that it gives you consistent emoji rendering across platforms. We included it to get decent emoji rendering on Linux (where we do some HTML-to-video rendering in the cloud, a technique that sounds horrifying but can be pretty useful). However, the font relies on [COLRv1](https://developer.chrome.com/blog/colrv1-fonts), a spec Google advises will make your apps load faster because it results in smaller emoji than bitmaps – and can fall back to supplying SVG for other browsers.[^colr]
+You see, Noto Color Emoji is a Google font that is helpful in that it gives you consistent emoji rendering across platforms. We'd included it earlier to get decent emoji rendering on Linux (where we do some HTML-to-video rendering in the cloud, a technique that sounds horrifying but can be pretty useful). However, the font relies on [COLRv1](https://developer.chrome.com/blog/colrv1-fonts), a spec Google advises will make your apps load faster because it results in smaller emoji than bitmaps – and can fall back to supplying SVG for other browsers.[^colr]
 
 "Other browsers", in this case, is Safari. And, I guess, "falling back to SVG" means spending 1600ms of "Layout" for a single character. If you'd like to see what this looks like scaled up, you can try loading [the Google Fonts page that attempts to showcase all of the Noto Color Emoji](https://fonts.google.com/noto/specimen/Noto+Color+Emoji) glyphs on iPhone. (As of iOS 26.2, it goes poorly.)
 
