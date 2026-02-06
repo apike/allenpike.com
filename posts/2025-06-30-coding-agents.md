@@ -33,20 +33,20 @@ Depending on the task, my o3 conversations were averaging roughly $5 of Cursor r
 Still, we were in a hurry. And what is a startup if not a series of experiments? So I turned to my co-founder.
 
 > Jenn, I have a proposal. You’re going to hate it.
-{: .speaker-2.top }
+{.speaker-2 .top}
 
 > I’m listening?
 
 > So you know I’ve been getting really good results from o3. I propose we try just defaulting to o3 for the next 3 weeks until our demo, and increase our Cursor spending cap to $1000/mo.
-{: .speaker-2 }
+{.speaker-2}
 
 > That’s a *lot* of money.
 
 > I know. It’s ridiculous. This is ridiculous. But also, when we hire a Founding Engineer, they will cost a lot more than that. Like, 10x more.
-{: .speaker-2 }
+{.speaker-2}
 
 > …Okay. Let’s try it. If it’s not worth the cost, we’ll go back.
-{: .bottom }
+{.bottom}
 
 So we tried it. And, to both of our horror, it was worth the cost.
 
@@ -70,13 +70,13 @@ At a software company, coding counts as important. A couple days later, the Head
 Emboldened, I decided to test the water by mentioning to one of our investors – a co-founder at a relatively large tech company – that we were trialling spending $1000/mo on o3 inference.
 
 > $1000/mo! What are you doing with o3 that’s costing that much? I’m averaging $50/day on Claude Opus 4
-{: .top }
+{.top}
 
 > $50/day is $1000/mo?
-{: .speaker-2 }
+{.speaker-2}
 
 > Oh lol right, yeah you’re good
-{: .bottom }
+{.bottom}
 
 So I guess it really is a thing. You can get $1000/mo of value from coding agents now.
 

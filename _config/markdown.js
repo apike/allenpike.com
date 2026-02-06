@@ -4,6 +4,7 @@
 
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const markdownItAttrs = require("markdown-it-attrs");
 const markdownItFootnote = require("markdown-it-footnote");
 
 /**
@@ -16,6 +17,7 @@ function createMarkdownLibrary() {
     linkify: false,
     typographer: true,
   })
+    .use(markdownItAttrs)
     .use(markdownItFootnote)
     .use(markdownItAnchor, {
       permalink: false,
