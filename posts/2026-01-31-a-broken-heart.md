@@ -94,13 +94,17 @@ You see, Noto Color Emoji is a Google font that is helpful in that it gives you 
 
 After I mentioned the bug in a Slack, Daniel Jalkut [filed it in the Safari bug tracker](https://bugs.webkit.org/show_bug.cgi?id=305636), and Simon Fraser on the webkit team has already commented, noting the slowness seems to be within CoreSVG. Chances are this will get fixed!
 
-In the meantime, I'd like to contribute this humble finding to the search corpus: don't use Noto Color Emoji on Apple platforms – list "Apple Color Emoji" first. At least, until the bug is fixed and the resulting Safari release is widespread.
+In the meantime, I'd like to contribute this humble finding to the search corpus: don't use Noto Color Emoji on Apple platforms – list "Apple Color Emoji" first. At least, until the bug is fixed and the resulting Safari release is widespread.[^3]
 
 I'd also like to come clean on a little secret. As profoundly helpful as Claude was in debugging this – I surely fixed this problem 10x faster than I would have without it – I must admit, it was Claude that tipped us off to the existence of Noto Color Emoji in the first place. I suspect that, without the coding agent, we would have solved the Linux emoji problem in a more boring way (using an icon library) and not ended up with a weird slow emoji implementation.
 
 It seems more true every month: these coding agents are very much like a power saw. Profoundly useful, and proportionately dangerous.
 
 So, I suppose, here's to Claude. The cause of – and solution to – all of startups' problems.
+
+------
+
+[^3]: *Addendum, Feb 11:* A couple folks from Google reached out informally about this on Mastodon. [Dominik Röttsches noted](https://chaos.social/@drott/116052600359736344) that 🧺 is one of the hardest glyphs to render, but in my tests it doesn't seem to trigger this bug at all – ❤️ and 🤯 take 1600ms to lay out, but 🧺 and 🫠 take 0.2ms, implying it's a glyph-specific problem. <p>This meshes with [Tom Roggero's note](https://typo.social/@tom/116021695858037084) that the font can be patched to improve performance. I'll post another update if I hear that the font has been patched, which would surely be faster than a new version of Safari needing to propagate! 
 
 [^claude]: As of publication, my default tool is Claude 4.5 Opus in Cursor or Claude Code. 
 [^colr]: The COLRv1 spec is ostensibly for supporting a variety of new font techniques like gradients, palettes, nested glyphs, and the like, but so far it seems to be mostly used for emoji.
