@@ -104,7 +104,7 @@ So, I suppose, here's to Claude. The cause of – and solution to – all of sta
 
 ------
 
-[^3]: *Addendum, Feb 11:* A couple folks from Google reached out informally about this on Mastodon. [Dominik Röttsches noted](https://chaos.social/@drott/116052600359736344) that 🧺 is one of the hardest glyphs to render, but in my tests it doesn't seem to trigger this bug at all – ❤️ and 🤯 take 1600ms to lay out, but 🧺 and 🫠 take 0.2ms, implying it's a glyph-specific problem. <p>This meshes with [Tom Roggero's note](https://typo.social/@tom/116021695858037084) that the font can be patched to improve performance. I'll post another update if I hear that the font has been patched, which would surely be faster than a new version of Safari needing to propagate! 
+[^3]: *Addendum, Feb 11:* A couple folks from Google reached out informally about this bug. [Dominik Röttsches noted](https://chaos.social/@drott/116052600359736344) that 🧺 is one of the hardest glyphs to render, but in my tests it doesn't seem to trigger this bug at all – ❤️ and 🤯 take 1600ms to lay out, but 🧺 and 🫠 take 0.2ms, implying it's a glyph-specific problem. <p>This meshes with [Tom Roggero's note](https://typo.social/@tom/116021695858037084) that the font can be patched to improve performance. I'll post another update if I hear that the font has been patched, which would surely be faster than a new version of Safari needing to propagate! 
 
 [^claude]: As of publication, my default tool is Claude 4.5 Opus in Cursor or Claude Code. 
 [^colr]: The COLRv1 spec is ostensibly for supporting a variety of new font techniques like gradients, palettes, nested glyphs, and the like, but so far it seems to be mostly used for emoji.
