@@ -46,8 +46,10 @@ Except there was one remaining problem. Closing cities semi-randomly would somet
 
 <img src="/images/2022/spies-line.jpg">
 
-So, goal #2 was: don’t create long lines of cities. Unfortunately, unlike the search term “graph theory identify node that splits graph”, there aren’t a lot of useful results for “graph theory identify node that doesn’t make graph more… liney”. The solution here used an inelegant but effective search through the possible choices, weighing them for this factor and a few others that would tend towards maintaining an interesting map shape as it shrank.
+So, goal #2 was: don’t create long lines of cities. Unfortunately, unlike the search term “graph theory identify node that splits graph”, there aren’t a lot of useful results for “graph theory identify node that doesn’t make graph more… liney”[^1]. The solution here used an inelegant but effective search through the possible choices, weighing them for this factor and a few others that would tend towards maintaining an interesting map shape as it shrank.
 
 Was it easily explainable to players? No. Was it mathematically pure? Very no. But in the end, it was fun. And players stopped asking how the game closed cities since it stopped feeling frustrating or weird, and seemed “natural”. Once these changes rolled out, they went back to commenting on more interesting things, like how to strategically taunt their opponents.
 
 Building great products often looks like this. A series of tiny improvements, built out of equal parts observation, experimentation, and re-evaluation. And occasionally, a little bit of math.
+
+[^1]: *Addendum, Feb 2026*: Luke Salamone, an ML engineer at TikTok, recently solved the "Two Spies city closing problem" using math. Turns out, the answer to "how do you remove a node from a graph without making it more 'liney'" is to [do long-term minimization of the graph's Weiner number using beam search](https://blog.lukesalamone.com/posts/beam-search-graph-pruning/)!
