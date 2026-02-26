@@ -8,7 +8,7 @@ title: About Allen
 isMe: true
 ---
 
-<img src='/images/2024/allen-pike-2024.jpg' style='width: 220px;' class='side'>
+<img src='/images/2024/allen-pike-2024.jpg' width='1690' height='1691' style='width: 220px; height: auto;' class='side'>
 
 I’m a founder who loves building great software. Currently, I'm building a new product startup, [Forestwalk](https://forestwalk.ai/), where we’re making delightful tools that help teams move faster.
 
