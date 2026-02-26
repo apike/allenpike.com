@@ -3,6 +3,7 @@ layout: post
 author: allen
 title: How Two Spies Closes Cities
 summary: A little story about iterative experimentation.
+image: /images/2022/spies-split.jpg
 date: 2022-03-01T12:42:18.627Z
 categories:
   - Article
