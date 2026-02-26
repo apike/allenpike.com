@@ -35,26 +35,29 @@
 
   <meta name="viewport" content="width=device-width">
 
+  <link rel="preconnect" href="https://use.typekit.net" crossorigin>
+
   <!-- syntax highlighting CSS -->
   <link rel="stylesheet" href="/css/syntax.css">
 
   <!-- Custom CSS -->
   <link rel="stylesheet" href="/css/main2.css">
 
+  <link rel="stylesheet" href="https://use.typekit.net/yqh6wdu.css">
+
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
   <link rel="alternate" type="application/atom+xml" href="/feed/" title="Atom feed">
   <link rel="alternate" type="application/json" href="/jsonfeed/" tite="JSON Feed">
 
-  <script src="https://use.typekit.net/yqh6wdu.js"></script>
-  <script>
-    try {
-      Typekit.load({
-        async: false
-      });
-    } catch (e) {}
+  <script type="speculationrules">
+  {
+    "prerender": [{
+      "where": { "href_matches": "/*" },
+      "eagerness": "moderate"
+    }]
+  }
   </script>
-  <link rel="author" href="https://plus.google.com/115189793104525758622" />
 
   <!-- Fathom - cookieless analytics -->
   <script src="https://cdn.usefathom.com/script.js" data-site="FATFGKEE" defer></script>
