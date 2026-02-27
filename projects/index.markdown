@@ -20,6 +20,8 @@ For a summary of what I do, see [my resume](/resume/). What follows is more of a
 
 - **[Infer](https://infervan.com/)**: I started Vancouvers AI engineering speaker series.
 
+- **Little utilities**: I occasionally put up a little utility for my own use, such as the [Nutri-Score Calculator](https://nutri-score.allenpike.com/) or the [Next Book, a ranked vote for book clubs](https://next-book.allenpike.com/).
+
 - **Not being at a computer**: I play guitar, draw, write music, and otherwise dabble in the world away from computers. There is nothing to link here, which is for the best.
 
 **Talks and Podcast Appearances**
