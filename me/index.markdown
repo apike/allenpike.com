@@ -10,7 +10,7 @@ isMe: true
 
 <img src='/images/2024/allen-pike-2024.jpg' width='1690' height='1691' style='width: 220px; height: auto;' class='side'>
 
-I’m a founder who loves building great software. Currently, I'm building a new product startup, [Forestwalk](https://forestwalk.ai/), where we’re making delightful tools that help teams move faster.
+I’m a founder who loves building great software. Currently, I'm building a new product startup, [Forestwalk](https://forestwalk.ai/), where we’re making delightful tools like [Cedarloop](https://cedarloop.ai/) that help teams move faster.
 
 I also [write monthly about what I'm learning](/archive/), host a podcast [about leadership](https://itshipped.fm), [speak](/speaking/) about what I’ve learned, organize an [AI engineering meetup called Infer](https://infervan.com/), and informally advise startups.
 

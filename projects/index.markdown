@@ -12,7 +12,7 @@ For a summary of what I do, see [my resume](/resume/). What follows is more of a
 
 **Current Projects**
 
-- **[Forestwalk](https://forestwalk.ai)**: I co-founded Forestwalk to build delightful tools for teams, using LLMs.
+- **[Forestwalk](https://forestwalk.ai)**: I co-founded Forestwalk to build delightful tools for teams, using LLMs. Most recently we've built [Cedarloop](https://cedarloop.ai/), an agent that automates work in and around meetings in real time.
 
 - **[Writing](https://www.allenpike.com/)**: For a decade, I've published an article at least once a month. Topics often include product management, building teams, and the various things that go in to growing a software business.
 
