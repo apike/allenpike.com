@@ -238,7 +238,7 @@ blockquote {
 blockquote.speaker-2 {
   border-left: none;
   border-right: 2px solid #0056b8;
-  padding-left: 1em;
+  padding-left: 1.5em;
   padding-right: 1em;
   text-align: right;
 }
