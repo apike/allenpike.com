@@ -11,6 +11,8 @@ categories:
 oldtags:
 - Chrome
 - Browsers
+tags:
+- webtech
 ---
 
 Today, [a Canary build of Google Chrome](http://garybacon.com/post/new-awesome-bar-in-googles-chrome-canary/) removed something kind of important from the browser: the URL.

@@ -8,6 +8,7 @@ image: "/images/2025/claude-popups.jpg"
 tags:
   - llm
   - products
+  - polish
 
 ---
 

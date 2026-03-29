@@ -52,3 +52,11 @@ forestwalk:
 bughunt:
   title: Bug Hunts
   subtitle: Adventures in debugging.
+  showOnArchive: false
+webtech:
+  title: Building for the Web
+  subtitle: Product and technical considerations.
+  showOnArchive: false
+polish:
+  title: Polish and Delight
+  subtitle: The details add up.

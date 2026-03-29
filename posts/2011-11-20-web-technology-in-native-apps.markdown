@@ -13,6 +13,8 @@ oldtags:
 - HTML5
 - iOS
 - Mobile Safari
+tags:
+- webtech
 ---
 
 When discussing mobile apps, we're often asked, "native or HTML5"? For some products it really makes sense to build a mobile web site, for others a 100% native app is the best approach. What often surprises people is when we recommend some of each. Once you've made the call to distribute using the App Store, you have both technologies at your disposal and should build each part of your app using the best tool.

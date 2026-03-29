@@ -8,6 +8,8 @@ title: "When Used Properly"
 summary: "The Aeropress box causes me great pain."
 categories:
 - Article
+tags:
+- polish
 ---
 
 It is well known in the tech world that [to be successful, you need a fussy way to make coffee](http://chasegallagher.com/writing/2012/10/1/a-fussy-way-to-make-coffee). A couple years ago, after seeing some great recommendations, I thought I might finally try the legendary [AeroPress](http://en.wikipedia.org/wiki/AeroPress). Next time I was down at our local [fancy coffee shop](http://revolvercoffee.ca/home/), waiting for a fancy coffee, I took a look on their fancy shelves, and found the box. It was not what I expected. 

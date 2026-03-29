@@ -7,6 +7,7 @@ link: "https://steamclock.com/blog/2020/10/microcopy/"
 categories:
 - Link
 tags:
+- polish
 ---
 
 I recently wrote an [article on tuning microcopy](https://steamclock.com/blog/2020/10/microcopy/) – the tiny bits of text that lead folks through your product – over on the Steamclock blog:

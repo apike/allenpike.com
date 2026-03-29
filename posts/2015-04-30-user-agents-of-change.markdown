@@ -8,6 +8,8 @@ summary: "The user-agent string just can't stop."
 title: "User Agents of Change"
 categories:
 - Article
+tags:
+- webtech
 ---
 
 <img src='/images/2015/ie-edge.jpg' width='250'>

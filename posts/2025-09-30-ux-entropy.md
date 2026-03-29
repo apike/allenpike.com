@@ -8,6 +8,7 @@ image: "/images/2025/zoom-admin-settings.jpg"
 tags:
   - startups
   - products
+  - polish
 
 ---
 

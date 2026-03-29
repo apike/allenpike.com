@@ -10,6 +10,7 @@ categories:
 - Article
 tags:
 - steamclock
+- webtech
 ---
 
 In 2013, I decided it was time to start an iOS development meet up. I’d run [VanJS](http://www.vanjs.com/) for many years, which was great. There was one thing about running VanJS that was *not* great though, and that was using Meetup.com.

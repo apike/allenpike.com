@@ -6,9 +6,9 @@ summary: "Or, getting a 100x speedup with one dumb line of code."
 date: 2026-01-31T23:45:30.955Z
 image: "/images/2026/profile-banner.jpg"
 tags:
-  - llm
   - bughunt
   - best
+  - webtech
 
 ---
 

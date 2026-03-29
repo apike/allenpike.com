@@ -12,6 +12,7 @@ oldtags:
 - Story
 tags:
 - best
+- polish
 ---
 
 In iOS 7.1, Apple changed the design of the shift key. This was the worst thing to happen in the history of software.
