@@ -55,7 +55,7 @@ But as all companies increasingly have tools that can assess, consider, analyze,
 
 Extremely transparent orgs like Zapier, GitLab, and PostHog that might have struggled to cope with their firehoses – and who often had gaps in the data due to untranscribed meetings and decisions – will increasingly be able to leverage it. Sure, not all of it, certainly not at first. (Some of it is just junk.) But increasingly more of it. And critically, it won't just be executives that will be able to attend to all this knowledge.
 
-## Were we ought to be
+## Where we ought to be
 
 The frontend dev working on your internal admin dashboard should be flagged that the React upgrade issue they're battling right now was just solved by the customer-facing dev team. The intermediate developer who is incensed about a company-wide tech decision should be able to build their understanding of why it was made without booking a 1:1 with the responsible Principal Engineer. Your go-to-market team should be able to "see" through to the code, developers' conversations, and the recent decisions around a given feature, letting them give customers correct and timely information about what to actually expect from the product today.
 
