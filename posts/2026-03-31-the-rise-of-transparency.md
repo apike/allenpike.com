@@ -27,7 +27,7 @@ Some idle musing by the CEO sends a team off on an unimportant side quest. A wel
 
 And if you talk to people at a large yet highly transparent company, you'll hear about the hazards of the relentless **firehose**. A thousand shared Slack channels, to start. But also a glut of docs – some critical, most unmaintained. Then there's the meeting notes, meeting recordings, and meeting invites. Plus proposals, requests for comment, and requests to comment on your proposals' comments' resolutions. "So, you like information, eh? Well, have all the information in the world!" How do you make sense of all this?
 
-While some people are tenaciously able to find, within this chaos, the important info they need to do great work, a lot of otherwise-capable people get easily distracted by information that just *might be* urgent, provocative, or even just… shiny. 🪎
+While some people are tenaciously able to find, within this chaos, the important info they need to do great work, a lot of otherwise-capable people get easily distracted by information that just *might be* urgent, provocative, or even just… shiny. 💫
 
 Meanwhile, allowing everybody access to every historical doc is occasionally useful, but it also presents an ever-growing surface area for leaks and legal liability. Are you sure there isn't something highly sensitive or disagreeable in those 99,999 unmaintained Notion docs?
 
