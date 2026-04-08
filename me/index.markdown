@@ -12,7 +12,7 @@ isMe: true
 
 I’m a founder who loves building great software. At my current startup, Forestwalk Labs, we’re making [Cedarloop](https://cedarloop.ai/): a live agent that levels up remote meetings.
 
-I also [write monthly about what I'm learning](/archive/), host a podcast [on building products and teams](https://itshipped.fm), [speak](/speaking/) about what I’ve learned, organize an [AI engineering meetup called Infer](https://infervan.com/).
+I also [write monthly about what I'm learning](/archive/), host a podcast [on building products and teams](https://itshipped.fm), [speak](/speaking/) about what I’ve learned, and organize an [AI engineering meetup called Infer](https://infervan.com/).
 
 Previously I founded [Steamclock](https://steamclock.com/), and was a Software Engineer at Apple. Outside of work, I like to play music, overdo things, write, and play games where I make numbers go up.
 
