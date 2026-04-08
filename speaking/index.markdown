@@ -10,9 +10,9 @@ title: Talks and Podcasts
 I enjoy teaching and telling stories, especially around software design and development. I've been lucky enough to be invited to do so at a couple dozen conferences and podcasts over the years. If you run a conference or podcast and would like to chat, [get in touch](/contact/).
 
 <img src='/images/allen-speaking.jpg' />
-<p style='text-align: center; font-style: italic;'>A slide from a talk I gave in 2017 at Microsoft.</p>
+<p style='text-align: center; font-style: italic;'>A slide from a talk I gave at Microsoft about product quality.</p>
 
-I usually teach the same kinds of topics that I [write about](/archive): what I’ve been learning as I build products and teams. Most often I talk about product, design, applying LLMs, lessons learned, engineering leadership, or startups.
+I usually teach the same kinds of topics that I [write about](/archive): what I’ve been learning as I build products and teams. Most often I teach about product, design, applying LLMs, lessons learned, engineering leadership, or startups.
 
 Also, on occasion, I'll MC a conference or show. 
 
