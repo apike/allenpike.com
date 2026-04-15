@@ -26,7 +26,7 @@ It’s a longstanding Canadian tradition to dislike conflict. At our best, Canad
 
 To be clear, when somebody earnestly solicits feedback, I love providing it. So far this year, I’ve enjoyed critiquing an app’s UX flow, providing technical and copyediting feedback to an upcoming JSON specification, and even filled out an unreasonably long city zoning policy survey. (If you want a torrential rant, ask me about Vancouver zoning after a couple pale ales.)
 
-When unsolicited criticism come to mind though, the benefit of the doubt weighs heavily on me. They’re surely trying their best!  They must already know. Do they really need me demotivating them?
+When unsolicited criticisms come to mind though, the benefit of the doubt weighs heavily on me. They’re surely trying their best!  They must already know. Do they really need me demotivating them?
 
 Combined with my tendency to launch into free-flowing criticism when asked for it, I can give people the awful impression that I’m secretly harbouring resentment, or that my people are doing a bad job and not even hearing about it. This is the actual worst.
 
