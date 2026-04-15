@@ -31,7 +31,9 @@ The product manager glances at her notes, and remembers one last thing. “Oh al
 
 In project management, surprise is the enemy. All surprises are suspect, but bad surprises are the actual worst. They are, bar none, the most common cause of conflict and stress on projects. Whether you’re a project manager or a junior team member, everybody benefits if you work to avoid surprises.
 
-Yet, on most teams, people instead optimize for keeping up appearances. They give out optimistic estimates, assume that questionable approaches are being taken for good reasons, and [green shift](http://calleam.com/WTPF/?p=1205) status by under-reporting danger. They think, “Why worry them about the budget if we might still pull it off?” Shortcuts like these may make this week’s status meeting more pleasant, but they turn next month’s launch into a crunchy hell.
+Yet, on most teams, people instead optimize for keeping up appearances.
+
+They give out optimistic estimates, assume that questionable approaches are being taken for good reasons, and [green shift](http://calleam.com/WTPF/?p=1205) status by under-reporting danger. They think, “Why worry them about the budget, if we might still pull it off?” Shortcuts like these may make this week’s status meeting more pleasant, but they turn next month’s launch into a crunchy hell.
 
 You see, when potential problems lurk under the surface, decision-makers and managers *can’t do anything about them*. A team that’s off track early on can always be corrected. On the other hand, when the navigator is surprised by an iceberg, you're gonna hit that iceberg.
 
