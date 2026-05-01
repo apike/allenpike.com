@@ -26,7 +26,7 @@ I raised an eyebrow. “Well, obviously that would be great. In theory. But it w
 
 My attempt to discourage him didn’t work. Perversely, the idea that this was a hard problem got him more excited. He immediately dove in.
 
-Three years later, Buddybuild [was acquired with fanfare](https://techcrunch.com/2018/01/02/apple-buys-app-development-service-buddybuild/). They’d accomplished what they set out to do, made a tidy profit, and they were even able to keep theirgreat team here in Vancouver.
+Three years later, Buddybuild [was acquired with fanfare](https://techcrunch.com/2018/01/02/apple-buys-app-development-service-buddybuild/). They’d accomplished what they set out to do, made a tidy profit, and they were even able to keep their team here in Vancouver.
 
 Wisely they ignored me, and chose to do the hard thing.
 
