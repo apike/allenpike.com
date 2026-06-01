@@ -118,7 +118,7 @@ I started university at UCFV, but I upgraded to SFU within a year to preserve my
 
 - **The Cascade**: During my year at UCFV, I wrote articles for the university newspaper. This was the peak of my stint in journalism.
 
-- **[Gender Quiz](http://quiz.alteringtime.com/)**: I built this somewhat better than random-guessing AI project almost entirely out of SQL. If that's not a case of seeing a nail because you have a hammer, I'm not sure what is.
+- **Gender Quiz**: For an AI course I built an interesting little web app that would predict visitors' gender from seemingly unrelated questions, using a simple neural net I built in SQL. There are multiple problems with that sentence, but as far as I could tell the participants all had fun.
 
 - **[Modeling Plants with L-Systems](http://www.antipode.ca/461/project/)**: This project on generating 3D plants for SFU's CMPT 461/761 class gets me both a crazy amount of traffic from Google and occasional emails from scientific journals. If you're looking for a research topic in graphics, I suggest plants!
 
