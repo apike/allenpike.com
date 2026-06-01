@@ -14,7 +14,7 @@ Below is more of a laundry list – a logbook of many of the things I've had the
 
 **Current Projects**
 
-- **[Forestwalk](https://forestwalk.ai)**: I co-founded Forestwalk to build delightful tools for teams, using LLMs. Some of the products we've built:
+- **[Forestwalk](https://forestwalk.ai)**: In 2024 I co-founded Forestwalk to build delightful tools for teams, using LLMs. Some of the products we've built:
   - [ScoutEvals](https://www.youtube.com/watch?v=NM7HcXehH2Q), an eval and testing tool that makes it easier to iterate LLM-powered products.
   - [Timberline](https://www.youtube.com/watch?v=0ptXBlsZwC0), a Mac app that helped teams focus on what's important to them.
   - Most recently, we've built [Cedarloop](https://cedarloop.ai/), a PM voice agent that automates work in and around meetings in real time.
@@ -40,9 +40,9 @@ From founding Steamclock to [handing off day-to-day](https://allenpike.com/2024/
 
 - **Steamclock's Systems**: Growing Steamclock required developing and iterating a lot of systems, docs, and approaches. Stuff like hiring and onboarding, people management, compensation, finance, branding, project and product management, internal comms, and marketing. While it's supplementary to the core task of building software, there's something inherently interesting about systems.
 
-- **[Two Spies](https://www.steamclock.com/spies/)**, a turn-based iPhone game that started as a way for me to learn Swift, and ended up with over a million downloads.
+- **[Two Spies](https://www.steamclock.com/spies/)**, a turn-based iPhone game that started as a way for me to learn Swift, turned into a multi-year passion project, and ended up with over a million downloads.
 
-- **[Fun Fact](https://funfact.fm/)**, a show full of incredibly important facts, which I co-hosted for 82 episodes.
+- **[Fun Fact](https://funfact.fm/)**, a show full of incredibly important facts, which I co-hosted for 82 episodes over 6 years.
 
 - **[Up Up Down Down](https://upup.fm/)**, an interview show about the craft of video games I co-hosted for 48 episodes.
 
@@ -88,7 +88,7 @@ From founding Steamclock to [handing off day-to-day](https://allenpike.com/2024/
 
 **Apple Era Projects** (2008-2010)
 
-For reasons I don't fully understand, Apple offered me a job right out of university. Eventually I figured out I was better off building my own thing, but it was a fun ride.
+For reasons I don't fully understand, Apple offered me a job right out of university. Eventually I figured out I was more of a products-and-teams person than an IC engineer, but it was a fun ride.
 
 - **[iWork for iPad](http://www.apple.com/ipad/features/pages.html)**: I worked on the iWork iPad apps, primarily writing Objective-C to support iWork.com. Having a secret iPad prototype locked in my desk was a surreal highlight.
 
@@ -116,7 +116,7 @@ My first real tech job was at a small software company that built apps for educa
 
 I started university at UCFV, but I upgraded to SFU within a year to preserve my sanity. I learned something from my courses, but I learned more from the various side projects I would take on.
 
-- **[Altering Time](/altering-time/)**: What started as a forum turned into a rich and long-running custom community site. It included multiplayer strategy games and various kinds of user-generated content, before it was cool.
+- **[Altering Time](/altering-time/)**: What started as a forum evolved over years into a rich and long-running custom community site. It included multiplayer strategy games and various kinds of user-generated content, before it was cool.
 
 - **[Political Asylum](/political-asylum/)**: My first multiplayer game, Asylum was a rat's nest of PHP and MySQL that supported some wicked political machinations. Some of my fondest memories were working on this late into the night.
 
