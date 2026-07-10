@@ -68,11 +68,13 @@ Cross-platform apps like Claude’s are, of course, cheaper to develop than nati
 ChatGPT has focused more on the vertical axis, Claude more on the horizontal.
 </div>
 
-It’s easier to get a polished app with native APIs, but at a certain scale separate apps make it hard to rapidly iterate a complex enterprise product while keeping it in sync on each platform, while also meeting your service and customer obligations. So for a consumer-facing app like ChatGPT or the no-modifier Copilot, it’s easier to go native. For companies that are, at their core, selling to enterprises, you get Electron apps.
+It’s easier to get a polished app with native APIs. But at a certain scale, **separate apps make it hard to rapidly iterate a complex enterprise product while keeping it in sync on each platform.**
 
-This is not as bad as it sounds, because despite popular sentiment, Electron apps *can* be good apps. Sure, by default they’re janky web app shells. But with great care and attention and diligence and craft, they can be polished almost as well as native apps.
+As your app gets more featureful, it can become intractable to move quickly and keep different platforms in sync. So for a consumer-facing app like ChatGPT or the no-modifier Copilot, it’s easier to go native. For companies that are, at their core, selling to enterprises, you get Electron apps.
 
-While they might not feel native, Electron apps like Superhuman, Figma, Cursor, and Linear are delightful[^1]. These apps are tools for work, and their teams invest in fixing rough edges, UI glitches, and squirrelly behaviour that might break users’ flow.
+This is not as bad as it sounds, because despite popular sentiment, Electron apps *can* be good apps! Sure, by default they’re janky web app shells. But with great care and attention and diligence and craft, they can be polished almost as well as native apps.
+
+Despite not feeling native, Electron apps like Superhuman, Figma, Cursor, and Linear are delightful[^1]. These apps are tools for work, and their teams invest in fixing rough edges, UI glitches, and squirrelly behaviour that might break users’ flow.
 
 Meanwhile, ChatGPT, despite being built on native tech, has its share of problems. These range from the small (the Personalization settings pane currently has two back-arrows instead of one) to the hilarious.
 
@@ -95,4 +97,4 @@ Until then, ChatGPT will reign supreme.
 
 *Update: Although I think ChatGPT for Mac has problems but is useful, [not everybody agrees](https://allenpike.com/2025/why-is-the-chatgpt-app-bad)!*
 
-[^1]: We’ve done some Electron work at Forestwalk, and it was surprising how easy it was to cause classic Electron bugs like the whole app being a white square, the top navigation scrolling out of view, and the like. It was even more surprising how tractable it is to just refuse to tolerate these common issues, and put in the time to fix them one by one. It can be done.
+[^1]: We’ve built Electron apps at Forestwalk. It was surprising how easy it was to cause classic Electron bugs like the whole app being a white square, the top navigation scrolling out of view, and the like. It was even more surprising how tractable it is to just refuse to tolerate these common issues – you can put in the time to polish them one by one. It can be done.
