@@ -13,24 +13,28 @@
     {{ series_title }}: A Series - Allen Pike
   </title>
   {% else %}
-  <title>
-    {{ title }} - Allen Pike
-  </title>
+  <title>{% if link %}Link: {% endif %}{{ title }} - Allen Pike</title>
   {% endif %}
 
-  {% if summary and title %}
+  {% if title %}
+  {% if summary or link %}
   <meta property="og:site_name" content="Allen Pike" />
   <meta property="og:title" content="{{ title }}" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="{{ meta.url }}{{ page.url }}" />
   <meta property="og:image" content="{{ meta.url }}{{ image | defaultshareimg }}" />
+  {% if summary %}
   <meta property="og:description" content="{{ summary }}" />
+  {% endif %}
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@apike" />
   <meta name="twitter:title" content="{{ title }}" />
+  {% if summary %}
   <meta name="twitter:description" content="{{ summary }}" />
+  {% endif %}
   <meta name="twitter:image" content="{{ meta.url }}{{ image | defaultshareimg }}" />
+  {% endif %}
   {% endif %}
 
   <meta name="viewport" content="width=device-width">
@@ -103,4 +107,3 @@
 </body>
 
 </html>
-
