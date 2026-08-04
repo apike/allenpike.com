@@ -15,9 +15,10 @@ Below is more of a laundry list – a logbook of many of the things I've had the
 **Current Projects**
 
 - **[Forestwalk](https://forestwalk.ai)**: In 2024 I co-founded Forestwalk to build delightful tools for teams, using LLMs. Some of the products we've built:
+  - [Powerplant](https://powerplant.sh/), a multiplayer and transparency-first software factory.
   - [ScoutEvals](https://www.youtube.com/watch?v=NM7HcXehH2Q), an eval and testing tool that makes it easier to iterate LLM-powered products.
   - [Timberline](https://www.youtube.com/watch?v=0ptXBlsZwC0), a Mac app that helped teams focus on what's important to them.
-  - Most recently, we've built [Cedarloop](https://cedarloop.ai/), a PM voice agent that automates work in and around meetings in real time.
+  - [Cedarloop](https://cedarloop.ai/), a PM voice agent that automates work in and around meetings in real time.
 
 - **[Writing](https://www.allenpike.com/)**: For a decade, I've published an article at least once a month. Topics often include products, delight, teams, and doing things well.
 
