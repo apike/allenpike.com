@@ -46,7 +46,7 @@ But also, git is simple. And well-understood. And it works.
 
 One problem working with folders of Markdown documents – synced or not – is that there isn’t AFAIK a great app for browsing these. What you'd want is something where each window shows a folder, with the file structure on the left side and rendered-but-editable Markdown on the right. Given the git backend, you’d also want some hooks to fire pull and push events on open and save, as well as some way to do all this on your phone too.
 
-The closest Mac app for this I’ve found so far is [Typora](https://typora.io/). I’ve promised my co-founder Jenn not to get distracted by writing a better tool, so [let me know](/contact/) if you’ve found something more suitable.
+The closest Mac app for this I’ve found so far is [Obsidian](https://obsidian.md/)[^obsidian]. Using git as a backing store can be improved with plugins on Mac, but AFAIK working with git-backed Obsidian on mobile is still rough. You could probably use Obsidian Sync for a small team (max collaborators is currently 20) instead of git, with a different set of pros and cons.
 
 ## 2. Separate maintained truth from source data
 
@@ -81,3 +81,4 @@ And of course, what can be optimized will get over-optimized. At least at first.
 Which brings us back to, as always, judgement. All these newfangled brains still need to serve the hearts.
 
 [^github]: This is one of many agentic workflows contributing to GitHub’s [stratospherically increasing server load](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) and resulting sadness. You could use Google Drive for sync, which would be faster and automatic, but it neither resolves conflicts within files, nor makes edit history easily accessible.
+[^obsidian]: In my initial post I said that I was using [Typora](https://typora.io/) for this, but Nathan Snelgrove [reminded me](https://mastodon.social/@nathansnelgrove/117197428177013654) that Obsidian gives you some of the things Typora lacks, including a file browser on the left, and a lot more.
