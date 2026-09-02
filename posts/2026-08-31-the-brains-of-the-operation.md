@@ -3,7 +3,7 @@ layout: post
 author: allen
 title: "The Brains of the Operation"
 summary: "Simple steps toward a company brain."
-date: 2026-09-30T23:45:30.955Z
+date: 2026-08-31T23:45:30.955Z
 tags:
   - llm
   - teams

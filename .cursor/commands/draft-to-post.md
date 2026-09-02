@@ -5,7 +5,7 @@ Take the provided text, which will be in the form of a Markdown blog post draft,
 ## Front Matter
 
 - Add 11ty "front matter" as found in the posts in the `posts` folder, example below.
-- Ensure the date is the last day of the current month, which is likely today.
+- Ensure the date is the last day of the month the post belongs to. This is probably the end of the current month, which is likely today. However, if today is the first day of a month, the post belongs to the month that just ended, so the date should be yesterday (the last day of the previous month), not the end of the new month.
 - Pull in the title and `summary` subtitle from the top of the text draft provided.
 - Set the `image` to the the banner image specified at the top of the text draft, if any. Otherwise, ask me if there is one. If the post will have no feature image, then `image` can be omitted from the front matter, but I should confirm that.
 - Based on the draft content, propose tags from the tags described in _data/seriestitles.yml.
