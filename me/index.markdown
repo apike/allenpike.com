@@ -10,7 +10,7 @@ isMe: true
 
 <img src='/images/2024/allen-pike-2024.jpg' width='1690' height='1691' style='width: 220px; height: auto;' class='side'>
 
-I’m a founder who loves building great software. At my latest startup, Forestwalk, we’re making [Powerplant](https://powerplant.sh/), a multiplayer and transparency-first software factory.
+I’m a founder who loves building great software. At my latest startup, [Powerplant](https://usepowerplant.com/), I'm helping AI-native teams coordinate and collaborate faster.
 
 I also [write monthly about what I'm learning](/archive/), host a podcast [on building products and teams](https://itshipped.fm), [speak](/speaking/) about what I’ve learned, and organize an [AI engineering meetup called Infer](https://infervan.com/).
 
@@ -20,11 +20,11 @@ I like hearing from people! [Send me a short note](/contact/), or you can [follo
 
 **Current Projects**
 
-- [Forestwalk](https://forestwalk.ai/): I’m co-founder of an early-stage startup. We’re building LLM-powered tools for teams.
+- [Powerplant](https://usepowerplant.com/), where I'm the co-founder, lets team members see one another's agent prompts and traces, in real time.
 - [It Shipped That Way](https://www.itshipped.fm/), a podcast where I interview product and tech leaders.
 - [Infer Vancouver](https://infervan.com/), an AI speaker series in Vancouver.
-- [Steamclock](https://steamclock.com/): A mighty little app studio I founded in 2010; I'm on the board.
-- [Talks and Podcasts](/speaking/): I like to share what I’ve learned.
+- [Steamclock](https://steamclock.com/), a mighty little app studio I founded in 2010; I’m on the board.
+- [Talks and Podcasts](/speaking/), where I like to share what I’ve learned.
 
 **Historical Projects**
 

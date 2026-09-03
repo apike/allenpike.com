@@ -12,7 +12,7 @@ Allen is a technical product leader who runs Forestwalk Labs in Vancouver. He's 
 
 ## Work History
 
-#### [Forestwalk Labs](http://forestwalk.ai/), CEO and Co-founder, 2024 – present
+#### [Powerplant](https://usepowerplant.com/), CEO and Co-founder, 2024 – present
 
 * Founded a VC-backed startup building delightful tools for teams using AI
 * Builds full stack, from design to DNS, mostly in TypeScript

@@ -15,7 +15,7 @@ Below is more of a laundry list – a logbook of many of the things I've had the
 **Current Projects**
 
 - **[Forestwalk](https://forestwalk.ai)**: In 2024 I co-founded Forestwalk to build delightful tools for teams, using LLMs. Some of the products we've built:
-  - [Powerplant](https://powerplant.sh/), a multiplayer and transparency-first software factory.
+  - [Powerplant](https://usepowerplant.com/), a tool that plugs teams' agents into one another, boosting transparency and coordination.
   - [ScoutEvals](https://www.youtube.com/watch?v=NM7HcXehH2Q), an eval and testing tool that makes it easier to iterate LLM-powered products.
   - [Timberline](https://www.youtube.com/watch?v=0ptXBlsZwC0), a Mac app that helped teams focus on what's important to them.
   - [Cedarloop](https://cedarloop.ai/), a PM voice agent that automates work in and around meetings in real time.
