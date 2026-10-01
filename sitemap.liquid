@@ -11,8 +11,8 @@ eleventyExcludeFromCollections: true
 </url>
 {%- endfor %}
 {%- for page in collections.all %}
-{%- unless page.url contains '/posts/' or page.data.eleventyExcludeFromCollections %}
-{%- if page.url and page.url != '/sitemap.xml' and page.url != '/feed/' and page.url != '/atom/' and page.url != '/feed.json' %}
+{%- unless page.inputPath contains './posts/' or page.data.eleventyExcludeFromCollections %}
+{%- if page.url and page.url != '/404.html' and page.url != '/sitemap.xml' and page.url != '/feed/' and page.url != '/atom/' and page.url != '/feed.json' %}
 <url>
 <loc>https://allenpike.com{{ page.url }}</loc>
 </url>

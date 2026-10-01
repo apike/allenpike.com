@@ -13,6 +13,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.ignores.add("_site_jekyll"); // Comparison build
   eleventyConfig.ignores.add("_site_11ty"); // Comparison build
   eleventyConfig.ignores.add("google98019dc16f804178.html"); // Passthrough only, don't process
+  // Keep repository tooling, local worktrees, and research out of the public site.
+  for (const path of [
+    ".agents", ".claude", ".codex", ".cursor", ".obsidian",
+    "scripts", "reports", "research_notes", "README.md",
+  ]) {
+    eleventyConfig.ignores.add(path);
+  }
 
   // ============================================
   // Front Matter Options (handle Jekyll-style dates)
