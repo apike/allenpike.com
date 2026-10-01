@@ -202,7 +202,7 @@ The [TEAM platform](https://www.voteteam.ca/platform) is a good example of maxim
 <a name="therest"></a>
 ## The Rest
 
-An uncomfortable reality of Vancouver’s broken electoral system is that there are often so many candidates and parties that they can’t all get real coverage. When you get to new under-the-radar parties like the Muhammad Ahamad’s new center-left Bright Future party or the mostly school-board-only TrueBlue party, there are no polling numbers to even quantify how much of a chance they don’t have of making it this election cycle.
+An uncomfortable reality of Vancouver’s broken electoral system is that there are often so many candidates and parties that they can’t all get real coverage. When you get to new under-the-radar parties like the Muhammad Ahmad’s new center-left Bright Future party or the mostly school-board-only TrueBlue party, there are no polling numbers to even quantify how much of a chance they don’t have of making it this election cycle.
 
 Still! Participating in civic politics is a lot of work. Here’s to everybody who runs, and who put in the effort to try and make their city a better place. 
 
