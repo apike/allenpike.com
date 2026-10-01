@@ -51,7 +51,7 @@ Often it’s been helpful to think of Vancouver parties in terms of both traditi
 <img src="/images/2026/vancouver-election-parties-chart.png" alt="Chart mapping Vancouver political parties by urbanism vs conservationism, and left vs right." />
 </div>
 
-**Urbanists** generally support a denser, less car-oriented city. This means permitting more homes and shops and helping them actually get built, but also investing in the city’s walking and cycling infrastructure. **[OneCity](#onecity)** is Vancouver’s most prominent urbanist party, but mayoral candidate Pete Fry and his **[Green](#green)** party seem to have adopted more urbanist policies over the years, making them natural allies.
+**Urbanists** generally support a denser, less car-oriented city. This means permitting more homes and shops and helping them actually get built, but also investing in the city’s walking and cycling infrastructure. **[OneCity](#onecity)** is Vancouver’s most prominent urbanist party, while mayoral candidate Pete Fry and his **[Green](#green)** party seem to have adopted certain urbanist policies over the years, making them potential allies.
 
 **Conservationists**, by contrast, support protecting existing city character such as street parking, older rental stock, and single-family density. They typically support procedure and consultation to protect tenured residents from change. [**ABC**](#abc) and [**COPE**](#cope) have some of these tendencies (albeit mostly conserving different things), with [**TEAM**](#team) the undisputed maximal conservationalist party.
 
