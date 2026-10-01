@@ -1,15 +1,13 @@
 ---
 layout: post
 author: allen
-title: 2026 Vancouver Election Guide
+title: Vancouver Election Guide, 2026
 summary: Breaking down the parties vying for Vancouver Mayor and Council.
 date: 2026-09-30T23:45:30.955Z
 image: "/images/2026/vancouver-election-parties-chart.png"
 tags:
   - voting
 ---
-
-# Vancouver Election Guide, 2026
 
 Every four years, certain odd traditions happen. The Olympics. Leap Days. Vancouverites attempting to pick their top 10 Council candidates out of 56 randomly sorted names, 20 of whom are for parties that never previously existed.
 
