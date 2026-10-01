@@ -1,1 +1,4 @@
-/admin/
+User-agent: *
+Disallow: /admin/
+
+Sitemap: https://allenpike.com/sitemap.xml
