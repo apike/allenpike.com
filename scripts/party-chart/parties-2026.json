@@ -1,0 +1,15 @@
+{
+  "title": "2026 Vancouver Election: Charting the Parties",
+  "credit": "Sources: party platforms and Council votes. Positions: provisional.",
+  "parties": [
+    { "name": "COPE", "x": -0.95, "y": 0.15, "mayoral": false,
+      "label": { "dx": 30, "dy": -22 } },
+    { "name": "Green", "x": -0.35, "y": -0.05, "mayoral": true },
+    { "name": "ABC", "x": 0.55, "y": 0.20, "mayoral": true,
+      "label": { "dy": -25 } },
+    { "name": "Vote Vancouver", "x": 0.10, "y": -0.25, "mayoral": true,
+      "label": { "dy": -25 } },
+    { "name": "OneCity", "x": -0.65, "y": -0.90, "mayoral": false,
+      "label": { "dy": -30 } }
+  ]
+}

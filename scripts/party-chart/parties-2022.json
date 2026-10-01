@@ -1,0 +1,23 @@
+{
+  "title": "2022 Vancouver Election: Charting the Parties",
+  "credit": "Data: Cambie Report. Presentation: Allen Pike.",
+  "parties": [
+    { "name": "COPE", "x": -0.8625, "y": 0.2832, "mayoral": false },
+    { "name": "Green", "x": -0.1762, "y": 0.3210, "mayoral": false,
+      "label": { "dx": -3, "dy": -22 } },
+    { "name": "TEAM", "x": 0.5710, "y": 0.9502, "mayoral": true,
+      "label": { "dx": -31, "dy": 0, "align": "right", "vertical": "center" } },
+    { "name": "NPA", "x": 0.9087, "y": 0.4926, "mayoral": true,
+      "label": { "dx": -1, "dy": -25 } },
+    { "name": "ABC", "x": 0.4308, "y": 0.1642, "mayoral": true,
+      "label": { "dy": -25 } },
+    { "name": "Vision", "x": -0.1827, "y": -0.3007, "mayoral": false,
+      "label": { "dx": -5, "dy": -22 } },
+    { "name": "Forward", "x": -0.3810, "y": -0.4483, "mayoral": true,
+      "label": { "dx": -3, "dy": -25 } },
+    { "name": "Progress", "x": -0.0028, "y": -0.6494, "mayoral": true,
+      "label": { "dx": 2, "dy": -37 } },
+    { "name": "OneCity", "x": -0.6458, "y": -0.8450, "mayoral": false,
+      "label": { "dx": -2, "dy": -30 } }
+  ]
+}

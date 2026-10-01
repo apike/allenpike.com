@@ -1,0 +1,14 @@
+{
+  "title": "2026 Vancouver Election: Charting the Parties",
+  "credit": "Chart includes only parties with a sitting Councillor.",
+  "parties": [
+    { "name": "COPE", "x": -0.70, "y": 0.35, "mayoral": false },
+    { "name": "Green", "x": -0.20, "y": -0.15, "mayoral": true },
+    { "name": "ABC", "x": 0.60, "y": 0.10, "mayoral": true,
+      "label": { "dy": -25 } },
+    { "name": "Vote Vancouver", "x": 0.35, "y": -0.05, "mayoral": true,
+      "label": { "dx": 0, "dy": 31, "vertical": "top", "align": "center" } },
+    { "name": "OneCity", "x": -0.45, "y": -0.60, "mayoral": false,
+      "label": { "dy": -30 } }
+  ]
+}

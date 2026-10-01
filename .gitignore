@@ -9,3 +9,5 @@ vendor
 .bundle
 node_modules/
 comparison-output/
+.obsidian/
+error.log

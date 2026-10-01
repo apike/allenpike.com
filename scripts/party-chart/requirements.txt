@@ -1,0 +1,2 @@
+matplotlib>=3.8,<4
+fonttools>=4.28

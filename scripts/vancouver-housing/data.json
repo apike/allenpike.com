@@ -1,0 +1,6802 @@
+{
+  "retrieved": "2026-09-23",
+  "prices": [
+    {
+      "month": "2016-01",
+      "detached": 1488100,
+      "apartment": 427100
+    },
+    {
+      "month": "2016-02",
+      "detached": 1572500,
+      "apartment": 443000
+    },
+    {
+      "month": "2016-03",
+      "detached": 1634100,
+      "apartment": 454300
+    },
+    {
+      "month": "2016-04",
+      "detached": 1681000,
+      "apartment": 466700
+    },
+    {
+      "month": "2016-05",
+      "detached": 1715100,
+      "apartment": 478800
+    },
+    {
+      "month": "2016-06",
+      "detached": 1738500,
+      "apartment": 492100
+    },
+    {
+      "month": "2016-07",
+      "detached": 1755400,
+      "apartment": 498900
+    },
+    {
+      "month": "2016-08",
+      "detached": 1731400,
+      "apartment": 496700
+    },
+    {
+      "month": "2016-09",
+      "detached": 1702900,
+      "apartment": 499100
+    },
+    {
+      "month": "2016-10",
+      "detached": 1648200,
+      "apartment": 493300
+    },
+    {
+      "month": "2016-11",
+      "detached": 1618400,
+      "apartment": 496500
+    },
+    {
+      "month": "2016-12",
+      "detached": 1591200,
+      "apartment": 500500
+    },
+    {
+      "month": "2017-01",
+      "detached": 1585100,
+      "apartment": 513800
+    },
+    {
+      "month": "2017-02",
+      "detached": 1613900,
+      "apartment": 527200
+    },
+    {
+      "month": "2017-03",
+      "detached": 1640700,
+      "apartment": 542500
+    },
+    {
+      "month": "2017-04",
+      "detached": 1676800,
+      "apartment": 559900
+    },
+    {
+      "month": "2017-05",
+      "detached": 1709200,
+      "apartment": 575200
+    },
+    {
+      "month": "2017-06",
+      "detached": 1720000,
+      "apartment": 588000
+    },
+    {
+      "month": "2017-07",
+      "detached": 1722000,
+      "apartment": 593800
+    },
+    {
+      "month": "2017-08",
+      "detached": 1704900,
+      "apartment": 601400
+    },
+    {
+      "month": "2017-09",
+      "detached": 1698400,
+      "apartment": 604600
+    },
+    {
+      "month": "2017-10",
+      "detached": 1690800,
+      "apartment": 612400
+    },
+    {
+      "month": "2017-11",
+      "detached": 1684300,
+      "apartment": 616200
+    },
+    {
+      "month": "2017-12",
+      "detached": 1672100,
+      "apartment": 623900
+    },
+    {
+      "month": "2018-01",
+      "detached": 1667900,
+      "apartment": 640100
+    },
+    {
+      "month": "2018-02",
+      "detached": 1664900,
+      "apartment": 647600
+    },
+    {
+      "month": "2018-03",
+      "detached": 1651500,
+      "apartment": 661600
+    },
+    {
+      "month": "2018-04",
+      "detached": 1641200,
+      "apartment": 660800
+    },
+    {
+      "month": "2018-05",
+      "detached": 1624400,
+      "apartment": 661000
+    },
+    {
+      "month": "2018-06",
+      "detached": 1620700,
+      "apartment": 658500
+    },
+    {
+      "month": "2018-07",
+      "detached": 1597800,
+      "apartment": 658100
+    },
+    {
+      "month": "2018-08",
+      "detached": 1579500,
+      "apartment": 648000
+    },
+    {
+      "month": "2018-09",
+      "detached": 1553300,
+      "apartment": 638400
+    },
+    {
+      "month": "2018-10",
+      "detached": 1542000,
+      "apartment": 633300
+    },
+    {
+      "month": "2018-11",
+      "detached": 1514800,
+      "apartment": 618400
+    },
+    {
+      "month": "2018-12",
+      "detached": 1488800,
+      "apartment": 620400
+    },
+    {
+      "month": "2019-01",
+      "detached": 1448900,
+      "apartment": 618400
+    },
+    {
+      "month": "2019-02",
+      "detached": 1444200,
+      "apartment": 614800
+    },
+    {
+      "month": "2019-03",
+      "detached": 1450200,
+      "apartment": 612800
+    },
+    {
+      "month": "2019-04",
+      "detached": 1445200,
+      "apartment": 610000
+    },
+    {
+      "month": "2019-05",
+      "detached": 1433700,
+      "apartment": 601400
+    },
+    {
+      "month": "2019-06",
+      "detached": 1430000,
+      "apartment": 598900
+    },
+    {
+      "month": "2019-07",
+      "detached": 1416900,
+      "apartment": 595600
+    },
+    {
+      "month": "2019-08",
+      "detached": 1418900,
+      "apartment": 595800
+    },
+    {
+      "month": "2019-09",
+      "detached": 1423700,
+      "apartment": 599300
+    },
+    {
+      "month": "2019-10",
+      "detached": 1438400,
+      "apartment": 597000
+    },
+    {
+      "month": "2019-11",
+      "detached": 1438100,
+      "apartment": 602900
+    },
+    {
+      "month": "2019-12",
+      "detached": 1443000,
+      "apartment": 604900
+    },
+    {
+      "month": "2020-01",
+      "detached": 1454700,
+      "apartment": 615600
+    },
+    {
+      "month": "2020-02",
+      "detached": 1467900,
+      "apartment": 628400
+    },
+    {
+      "month": "2020-03",
+      "detached": 1484300,
+      "apartment": 626700
+    },
+    {
+      "month": "2020-04",
+      "detached": 1491800,
+      "apartment": 623200
+    },
+    {
+      "month": "2020-05",
+      "detached": 1494700,
+      "apartment": 623200
+    },
+    {
+      "month": "2020-06",
+      "detached": 1498700,
+      "apartment": 620900
+    },
+    {
+      "month": "2020-07",
+      "detached": 1512500,
+      "apartment": 616200
+    },
+    {
+      "month": "2020-08",
+      "detached": 1528000,
+      "apartment": 621500
+    },
+    {
+      "month": "2020-09",
+      "detached": 1544900,
+      "apartment": 622300
+    },
+    {
+      "month": "2020-10",
+      "detached": 1557000,
+      "apartment": 619300
+    },
+    {
+      "month": "2020-11",
+      "detached": 1577600,
+      "apartment": 619000
+    },
+    {
+      "month": "2020-12",
+      "detached": 1592300,
+      "apartment": 617400
+    },
+    {
+      "month": "2021-01",
+      "detached": 1621300,
+      "apartment": 630000
+    },
+    {
+      "month": "2021-02",
+      "detached": 1676800,
+      "apartment": 641800
+    },
+    {
+      "month": "2021-03",
+      "detached": 1751000,
+      "apartment": 659800
+    },
+    {
+      "month": "2021-04",
+      "detached": 1790000,
+      "apartment": 671900
+    },
+    {
+      "month": "2021-05",
+      "detached": 1807300,
+      "apartment": 672200
+    },
+    {
+      "month": "2021-06",
+      "detached": 1801300,
+      "apartment": 673800
+    },
+    {
+      "month": "2021-07",
+      "detached": 1791000,
+      "apartment": 671900
+    },
+    {
+      "month": "2021-08",
+      "detached": 1800600,
+      "apartment": 675300
+    },
+    {
+      "month": "2021-09",
+      "detached": 1827500,
+      "apartment": 680500
+    },
+    {
+      "month": "2021-10",
+      "detached": 1853400,
+      "apartment": 686300
+    },
+    {
+      "month": "2021-11",
+      "detached": 1877000,
+      "apartment": 690800
+    },
+    {
+      "month": "2021-12",
+      "detached": 1908800,
+      "apartment": 696600
+    },
+    {
+      "month": "2022-01",
+      "detached": 1967000,
+      "apartment": 723400
+    },
+    {
+      "month": "2022-02",
+      "detached": 2047000,
+      "apartment": 749500
+    },
+    {
+      "month": "2022-03",
+      "detached": 2083200,
+      "apartment": 767800
+    },
+    {
+      "month": "2022-04",
+      "detached": 2088000,
+      "apartment": 771500
+    },
+    {
+      "month": "2022-05",
+      "detached": 2078600,
+      "apartment": 774600
+    },
+    {
+      "month": "2022-06",
+      "detached": 2044700,
+      "apartment": 761400
+    },
+    {
+      "month": "2022-07",
+      "detached": 1987100,
+      "apartment": 750800
+    },
+    {
+      "month": "2022-08",
+      "detached": 1945700,
+      "apartment": 735700
+    },
+    {
+      "month": "2022-09",
+      "detached": 1896000,
+      "apartment": 724500
+    },
+    {
+      "month": "2022-10",
+      "detached": 1881900,
+      "apartment": 722500
+    },
+    {
+      "month": "2022-11",
+      "detached": 1846300,
+      "apartment": 716600
+    },
+    {
+      "month": "2022-12",
+      "detached": 1812600,
+      "apartment": 709800
+    },
+    {
+      "month": "2023-01",
+      "detached": 1797800,
+      "apartment": 718400
+    },
+    {
+      "month": "2023-02",
+      "detached": 1826000,
+      "apartment": 728200
+    },
+    {
+      "month": "2023-03",
+      "detached": 1856600,
+      "apartment": 734000
+    },
+    {
+      "month": "2023-04",
+      "detached": 1905300,
+      "apartment": 750800
+    },
+    {
+      "month": "2023-05",
+      "detached": 1941600,
+      "apartment": 759100
+    },
+    {
+      "month": "2023-06",
+      "detached": 1978800,
+      "apartment": 765600
+    },
+    {
+      "month": "2023-07",
+      "detached": 1999600,
+      "apartment": 770200
+    },
+    {
+      "month": "2023-08",
+      "detached": 2005300,
+      "apartment": 768800
+    },
+    {
+      "month": "2023-09",
+      "detached": 2003500,
+      "apartment": 767400
+    },
+    {
+      "month": "2023-10",
+      "detached": 1986100,
+      "apartment": 769100
+    },
+    {
+      "month": "2023-11",
+      "detached": 1968900,
+      "apartment": 761400
+    },
+    {
+      "month": "2023-12",
+      "detached": 1948300,
+      "apartment": 750500
+    },
+    {
+      "month": "2024-01",
+      "detached": 1933600,
+      "apartment": 760900
+    },
+    {
+      "month": "2024-02",
+      "detached": 1962400,
+      "apartment": 768500
+    },
+    {
+      "month": "2024-03",
+      "detached": 2007400,
+      "apartment": 774300
+    },
+    {
+      "month": "2024-04",
+      "detached": 2025000,
+      "apartment": 778200
+    },
+    {
+      "month": "2024-05",
+      "detached": 2050200,
+      "apartment": 776000
+    },
+    {
+      "month": "2024-06",
+      "detached": 2048300,
+      "apartment": 773400
+    },
+    {
+      "month": "2024-07",
+      "detached": 2035000,
+      "apartment": 768300
+    },
+    {
+      "month": "2024-08",
+      "detached": 2035400,
+      "apartment": 768100
+    },
+    {
+      "month": "2024-09",
+      "detached": 2007100,
+      "apartment": 761800
+    },
+    {
+      "month": "2024-10",
+      "detached": 1992200,
+      "apartment": 757400
+    },
+    {
+      "month": "2024-11",
+      "detached": 1988400,
+      "apartment": 753200
+    },
+    {
+      "month": "2024-12",
+      "detached": 1986100,
+      "apartment": 750100
+    },
+    {
+      "month": "2025-01",
+      "detached": 1996100,
+      "apartment": 748400
+    },
+    {
+      "month": "2025-02",
+      "detached": 2013800,
+      "apartment": 759500
+    },
+    {
+      "month": "2025-03",
+      "detached": 2019100,
+      "apartment": 766900
+    },
+    {
+      "month": "2025-04",
+      "detached": 2010100,
+      "apartment": 762900
+    },
+    {
+      "month": "2025-05",
+      "detached": 1986500,
+      "apartment": 757400
+    },
+    {
+      "month": "2025-06",
+      "detached": 1984700,
+      "apartment": 748400
+    },
+    {
+      "month": "2025-07",
+      "detached": 1964100,
+      "apartment": 743900
+    },
+    {
+      "month": "2025-08",
+      "detached": 1941600,
+      "apartment": 734300
+    },
+    {
+      "month": "2025-09",
+      "detached": 1929700,
+      "apartment": 727600
+    },
+    {
+      "month": "2025-10",
+      "detached": 1914100,
+      "apartment": 715800
+    },
+    {
+      "month": "2025-11",
+      "detached": 1905300,
+      "apartment": 714300
+    },
+    {
+      "month": "2025-12",
+      "detached": 1887800,
+      "apartment": 710000
+    },
+    {
+      "month": "2026-01",
+      "detached": 1858900,
+      "apartment": 704600
+    },
+    {
+      "month": "2026-02",
+      "detached": 1846400,
+      "apartment": 708200
+    },
+    {
+      "month": "2026-03",
+      "detached": 1860500,
+      "apartment": 706700
+    },
+    {
+      "month": "2026-04",
+      "detached": 1846400,
+      "apartment": 703000
+    },
+    {
+      "month": "2026-05",
+      "detached": 1856800,
+      "apartment": 697800
+    },
+    {
+      "month": "2026-06",
+      "detached": 1849900,
+      "apartment": 695200
+    },
+    {
+      "month": "2026-07",
+      "detached": 1829500,
+      "apartment": 688000
+    },
+    {
+      "month": "2026-08",
+      "detached": 1804900,
+      "apartment": 686200
+    }
+  ],
+  "construction": [
+    {
+      "month": "2004-01",
+      "starts": 497,
+      "completions": 580
+    },
+    {
+      "month": "2004-02",
+      "starts": 152,
+      "completions": 341
+    },
+    {
+      "month": "2004-03",
+      "starts": 121,
+      "completions": 86
+    },
+    {
+      "month": "2004-04",
+      "starts": 840,
+      "completions": 394
+    },
+    {
+      "month": "2004-05",
+      "starts": 359,
+      "completions": 352
+    },
+    {
+      "month": "2004-06",
+      "starts": 598,
+      "completions": 273
+    },
+    {
+      "month": "2004-07",
+      "starts": 341,
+      "completions": 216
+    },
+    {
+      "month": "2004-08",
+      "starts": 960,
+      "completions": 976
+    },
+    {
+      "month": "2004-09",
+      "starts": 568,
+      "completions": 165
+    },
+    {
+      "month": "2004-10",
+      "starts": 407,
+      "completions": 196
+    },
+    {
+      "month": "2004-11",
+      "starts": 435,
+      "completions": 263
+    },
+    {
+      "month": "2004-12",
+      "starts": 437,
+      "completions": 487
+    },
+    {
+      "month": "2005-01",
+      "starts": 321,
+      "completions": 214
+    },
+    {
+      "month": "2005-02",
+      "starts": 238,
+      "completions": 296
+    },
+    {
+      "month": "2005-03",
+      "starts": 604,
+      "completions": 431
+    },
+    {
+      "month": "2005-04",
+      "starts": 442,
+      "completions": 699
+    },
+    {
+      "month": "2005-05",
+      "starts": 470,
+      "completions": 303
+    },
+    {
+      "month": "2005-06",
+      "starts": 205,
+      "completions": 215
+    },
+    {
+      "month": "2005-07",
+      "starts": 466,
+      "completions": 171
+    },
+    {
+      "month": "2005-08",
+      "starts": 287,
+      "completions": 138
+    },
+    {
+      "month": "2005-09",
+      "starts": 409,
+      "completions": 593
+    },
+    {
+      "month": "2005-10",
+      "starts": 331,
+      "completions": 324
+    },
+    {
+      "month": "2005-11",
+      "starts": 48,
+      "completions": 70
+    },
+    {
+      "month": "2005-12",
+      "starts": 334,
+      "completions": 251
+    },
+    {
+      "month": "2006-01",
+      "completions": 74,
+      "starts": 109
+    },
+    {
+      "month": "2006-02",
+      "completions": 1360,
+      "starts": 453
+    },
+    {
+      "month": "2006-03",
+      "completions": 209,
+      "starts": 466
+    },
+    {
+      "month": "2006-04",
+      "completions": 237,
+      "starts": 453
+    },
+    {
+      "month": "2006-05",
+      "completions": 550,
+      "starts": 257
+    },
+    {
+      "month": "2006-06",
+      "completions": 166,
+      "starts": 327
+    },
+    {
+      "month": "2006-07",
+      "completions": 611,
+      "starts": 685
+    },
+    {
+      "month": "2006-08",
+      "completions": 412,
+      "starts": 317
+    },
+    {
+      "month": "2006-09",
+      "completions": 99,
+      "starts": 92
+    },
+    {
+      "month": "2006-10",
+      "completions": 142,
+      "starts": 87
+    },
+    {
+      "month": "2006-11",
+      "completions": 538,
+      "starts": 126
+    },
+    {
+      "month": "2006-12",
+      "completions": 338,
+      "starts": 162
+    },
+    {
+      "month": "2007-01",
+      "completions": 1051,
+      "starts": 415
+    },
+    {
+      "month": "2007-02",
+      "completions": 435,
+      "starts": 57
+    },
+    {
+      "month": "2007-03",
+      "completions": 129,
+      "starts": 202
+    },
+    {
+      "month": "2007-04",
+      "completions": 275,
+      "starts": 97
+    },
+    {
+      "month": "2007-05",
+      "completions": 777,
+      "starts": 541
+    },
+    {
+      "month": "2007-06",
+      "completions": 424,
+      "starts": 365
+    },
+    {
+      "month": "2007-07",
+      "completions": 43,
+      "starts": 204
+    },
+    {
+      "month": "2007-08",
+      "completions": 285,
+      "starts": 170
+    },
+    {
+      "month": "2007-09",
+      "completions": 229,
+      "starts": 417
+    },
+    {
+      "month": "2007-10",
+      "completions": 239,
+      "starts": 614
+    },
+    {
+      "month": "2007-11",
+      "completions": 139,
+      "starts": 791
+    },
+    {
+      "month": "2007-12",
+      "completions": 515,
+      "starts": 214
+    },
+    {
+      "month": "2008-01",
+      "completions": 118,
+      "starts": 294
+    },
+    {
+      "month": "2008-02",
+      "completions": 70,
+      "starts": 773
+    },
+    {
+      "month": "2008-03",
+      "completions": 52,
+      "starts": 426
+    },
+    {
+      "month": "2008-04",
+      "completions": 592,
+      "starts": 447
+    },
+    {
+      "month": "2008-05",
+      "completions": 271,
+      "starts": 444
+    },
+    {
+      "month": "2008-06",
+      "completions": 540,
+      "starts": 360
+    },
+    {
+      "month": "2008-07",
+      "completions": 248,
+      "starts": 281
+    },
+    {
+      "month": "2008-08",
+      "completions": 109,
+      "starts": 544
+    },
+    {
+      "month": "2008-09",
+      "completions": 271,
+      "starts": 481
+    },
+    {
+      "month": "2008-10",
+      "completions": 402,
+      "starts": 363
+    },
+    {
+      "month": "2008-11",
+      "completions": 113,
+      "starts": 203
+    },
+    {
+      "month": "2008-12",
+      "completions": 286,
+      "starts": 54
+    },
+    {
+      "month": "2009-01",
+      "completions": 349,
+      "starts": 151
+    },
+    {
+      "month": "2009-02",
+      "completions": 549,
+      "starts": 363
+    },
+    {
+      "month": "2009-03",
+      "completions": 240,
+      "starts": 27
+    },
+    {
+      "month": "2009-04",
+      "completions": 315,
+      "starts": 61
+    },
+    {
+      "month": "2009-05",
+      "completions": 513,
+      "starts": 46
+    },
+    {
+      "month": "2009-06",
+      "completions": 422,
+      "starts": 91
+    },
+    {
+      "month": "2009-07",
+      "completions": 58,
+      "starts": 80
+    },
+    {
+      "month": "2009-08",
+      "completions": 229,
+      "starts": 44
+    },
+    {
+      "month": "2009-09",
+      "completions": 40,
+      "starts": 257
+    },
+    {
+      "month": "2009-10",
+      "completions": 86,
+      "starts": 53
+    },
+    {
+      "month": "2009-11",
+      "completions": 254,
+      "starts": 60
+    },
+    {
+      "month": "2009-12",
+      "completions": 854,
+      "starts": 343
+    },
+    {
+      "month": "2010-01",
+      "completions": 1049,
+      "starts": 234
+    },
+    {
+      "month": "2010-02",
+      "completions": 404,
+      "starts": 615
+    },
+    {
+      "month": "2010-03",
+      "completions": 79,
+      "starts": 147
+    },
+    {
+      "month": "2010-04",
+      "completions": 315,
+      "starts": 169
+    },
+    {
+      "month": "2010-05",
+      "completions": 264,
+      "starts": 402
+    },
+    {
+      "month": "2010-06",
+      "completions": 144,
+      "starts": 111
+    },
+    {
+      "month": "2010-07",
+      "completions": 161,
+      "starts": 185
+    },
+    {
+      "month": "2010-08",
+      "completions": 15,
+      "starts": 732
+    },
+    {
+      "month": "2010-09",
+      "completions": 319,
+      "starts": 432
+    },
+    {
+      "month": "2010-10",
+      "completions": 87,
+      "starts": 382
+    },
+    {
+      "month": "2010-11",
+      "completions": 558,
+      "starts": 256
+    },
+    {
+      "month": "2010-12",
+      "completions": 432,
+      "starts": 410
+    },
+    {
+      "month": "2011-01",
+      "completions": 69,
+      "starts": 643
+    },
+    {
+      "month": "2011-02",
+      "completions": 398,
+      "starts": 124
+    },
+    {
+      "month": "2011-03",
+      "completions": 220,
+      "starts": 225
+    },
+    {
+      "month": "2011-04",
+      "completions": 51,
+      "starts": 116
+    },
+    {
+      "month": "2011-05",
+      "completions": 836,
+      "starts": 439
+    },
+    {
+      "month": "2011-06",
+      "completions": 481,
+      "starts": 223
+    },
+    {
+      "month": "2011-07",
+      "completions": 267,
+      "starts": 241
+    },
+    {
+      "month": "2011-08",
+      "completions": 288,
+      "starts": 421
+    },
+    {
+      "month": "2011-09",
+      "completions": 96,
+      "starts": 430
+    },
+    {
+      "month": "2011-10",
+      "completions": 174,
+      "starts": 251
+    },
+    {
+      "month": "2011-11",
+      "completions": 162,
+      "starts": 500
+    },
+    {
+      "month": "2011-12",
+      "completions": 112,
+      "starts": 217
+    },
+    {
+      "month": "2012-01",
+      "completions": 746,
+      "starts": 683
+    },
+    {
+      "month": "2012-02",
+      "completions": 237,
+      "starts": 572
+    },
+    {
+      "month": "2012-03",
+      "completions": 228,
+      "starts": 240
+    },
+    {
+      "month": "2012-04",
+      "completions": 166,
+      "starts": 240
+    },
+    {
+      "month": "2012-05",
+      "completions": 390,
+      "starts": 541
+    },
+    {
+      "month": "2012-06",
+      "completions": 154,
+      "starts": 582
+    },
+    {
+      "month": "2012-07",
+      "completions": 371,
+      "starts": 597
+    },
+    {
+      "month": "2012-08",
+      "completions": 651,
+      "starts": 681
+    },
+    {
+      "month": "2012-09",
+      "completions": 260,
+      "starts": 501
+    },
+    {
+      "month": "2012-10",
+      "completions": 425,
+      "starts": 338
+    },
+    {
+      "month": "2012-11",
+      "completions": 396,
+      "starts": 378
+    },
+    {
+      "month": "2012-12",
+      "completions": 345,
+      "starts": 145
+    },
+    {
+      "month": "2013-01",
+      "completions": 372,
+      "starts": 297
+    },
+    {
+      "month": "2013-02",
+      "completions": 142,
+      "starts": 391
+    },
+    {
+      "month": "2013-03",
+      "completions": 637,
+      "starts": 506
+    },
+    {
+      "month": "2013-04",
+      "completions": 395,
+      "starts": 174
+    },
+    {
+      "month": "2013-05",
+      "completions": 327,
+      "starts": 437
+    },
+    {
+      "month": "2013-06",
+      "completions": 625,
+      "starts": 928
+    },
+    {
+      "month": "2013-07",
+      "completions": 557,
+      "starts": 653
+    },
+    {
+      "month": "2013-08",
+      "completions": 498,
+      "starts": 650
+    },
+    {
+      "month": "2013-09",
+      "completions": 196,
+      "starts": 794
+    },
+    {
+      "month": "2013-10",
+      "completions": 231,
+      "starts": 324
+    },
+    {
+      "month": "2013-11",
+      "completions": 355,
+      "starts": 554
+    },
+    {
+      "month": "2013-12",
+      "completions": 263,
+      "starts": 363
+    },
+    {
+      "month": "2014-01",
+      "completions": 258,
+      "starts": 337
+    },
+    {
+      "month": "2014-02",
+      "completions": 780,
+      "starts": 341
+    },
+    {
+      "month": "2014-03",
+      "completions": 167,
+      "starts": 243
+    },
+    {
+      "month": "2014-04",
+      "completions": 316,
+      "starts": 558
+    },
+    {
+      "month": "2014-05",
+      "completions": 405,
+      "starts": 246
+    },
+    {
+      "month": "2014-06",
+      "completions": 367,
+      "starts": 273
+    },
+    {
+      "month": "2014-07",
+      "completions": 670,
+      "starts": 399
+    },
+    {
+      "month": "2014-08",
+      "completions": 239,
+      "starts": 301
+    },
+    {
+      "month": "2014-09",
+      "completions": 325,
+      "starts": 632
+    },
+    {
+      "month": "2014-10",
+      "completions": 928,
+      "starts": 237
+    },
+    {
+      "month": "2014-11",
+      "completions": 748,
+      "starts": 470
+    },
+    {
+      "month": "2014-12",
+      "completions": 569,
+      "starts": 611
+    },
+    {
+      "month": "2015-01",
+      "completions": 170,
+      "starts": 234
+    },
+    {
+      "month": "2015-02",
+      "completions": 318,
+      "starts": 414
+    },
+    {
+      "month": "2015-03",
+      "completions": 337,
+      "starts": 330
+    },
+    {
+      "month": "2015-04",
+      "completions": 90,
+      "starts": 441
+    },
+    {
+      "month": "2015-05",
+      "completions": 134,
+      "starts": 595
+    },
+    {
+      "month": "2015-06",
+      "completions": 196,
+      "starts": 229
+    },
+    {
+      "month": "2015-07",
+      "completions": 635,
+      "starts": 521
+    },
+    {
+      "month": "2015-08",
+      "completions": 649,
+      "starts": 251
+    },
+    {
+      "month": "2015-09",
+      "completions": 287,
+      "starts": 345
+    },
+    {
+      "month": "2015-10",
+      "completions": 146,
+      "starts": 447
+    },
+    {
+      "month": "2015-11",
+      "completions": 572,
+      "starts": 506
+    },
+    {
+      "month": "2015-12",
+      "completions": 310,
+      "starts": 303
+    },
+    {
+      "month": "2016-01",
+      "completions": 1162,
+      "starts": 570
+    },
+    {
+      "month": "2016-02",
+      "completions": 316,
+      "starts": 1000
+    },
+    {
+      "month": "2016-03",
+      "completions": 191,
+      "starts": 783
+    },
+    {
+      "month": "2016-04",
+      "completions": 255,
+      "starts": 1161
+    },
+    {
+      "month": "2016-05",
+      "completions": 463,
+      "starts": 824
+    },
+    {
+      "month": "2016-06",
+      "completions": 726,
+      "starts": 1446
+    },
+    {
+      "month": "2016-07",
+      "completions": 693,
+      "starts": 663
+    },
+    {
+      "month": "2016-08",
+      "completions": 206,
+      "starts": 569
+    },
+    {
+      "month": "2016-09",
+      "completions": 112,
+      "starts": 615
+    },
+    {
+      "month": "2016-10",
+      "completions": 176,
+      "starts": 191
+    },
+    {
+      "month": "2016-11",
+      "completions": 481,
+      "starts": 1681
+    },
+    {
+      "month": "2016-12",
+      "completions": 166,
+      "starts": 256
+    },
+    {
+      "month": "2017-01",
+      "completions": 166,
+      "starts": 222
+    },
+    {
+      "month": "2017-02",
+      "completions": 354,
+      "starts": 157
+    },
+    {
+      "month": "2017-03",
+      "completions": 543,
+      "starts": 553
+    },
+    {
+      "month": "2017-04",
+      "completions": 413,
+      "starts": 170
+    },
+    {
+      "month": "2017-05",
+      "completions": 616,
+      "starts": 347
+    },
+    {
+      "month": "2017-06",
+      "completions": 1322,
+      "starts": 411
+    },
+    {
+      "month": "2017-07",
+      "completions": 273,
+      "starts": 535
+    },
+    {
+      "month": "2017-08",
+      "completions": 421,
+      "starts": 615
+    },
+    {
+      "month": "2017-09",
+      "completions": 461,
+      "starts": 505
+    },
+    {
+      "month": "2017-10",
+      "completions": 156,
+      "starts": 416
+    },
+    {
+      "month": "2017-11",
+      "completions": 276,
+      "starts": 837
+    },
+    {
+      "month": "2017-12",
+      "completions": 615,
+      "starts": 849
+    },
+    {
+      "month": "2018-01",
+      "completions": 987,
+      "starts": 727
+    },
+    {
+      "month": "2018-02",
+      "completions": 924,
+      "starts": 318
+    },
+    {
+      "month": "2018-03",
+      "completions": 493,
+      "starts": 911
+    },
+    {
+      "month": "2018-04",
+      "completions": 887,
+      "starts": 369
+    },
+    {
+      "month": "2018-05",
+      "completions": 474,
+      "starts": 512
+    },
+    {
+      "month": "2018-06",
+      "completions": 1077,
+      "starts": 622
+    },
+    {
+      "month": "2018-07",
+      "completions": 508,
+      "starts": 651
+    },
+    {
+      "month": "2018-08",
+      "completions": 573,
+      "starts": 738
+    },
+    {
+      "month": "2018-09",
+      "completions": 719,
+      "starts": 172
+    },
+    {
+      "month": "2018-10",
+      "completions": 557,
+      "starts": 850
+    },
+    {
+      "month": "2018-11",
+      "completions": 473,
+      "starts": 340
+    },
+    {
+      "month": "2018-12",
+      "completions": 301,
+      "starts": 312
+    },
+    {
+      "month": "2019-01",
+      "completions": 492,
+      "starts": 580
+    },
+    {
+      "month": "2019-02",
+      "completions": 262,
+      "starts": 414
+    },
+    {
+      "month": "2019-03",
+      "completions": 642,
+      "starts": 768
+    },
+    {
+      "month": "2019-04",
+      "completions": 629,
+      "starts": 966
+    },
+    {
+      "month": "2019-05",
+      "completions": 816,
+      "starts": 217
+    },
+    {
+      "month": "2019-06",
+      "completions": 908,
+      "starts": 929
+    },
+    {
+      "month": "2019-07",
+      "completions": 521,
+      "starts": 793
+    },
+    {
+      "month": "2019-08",
+      "completions": 262,
+      "starts": 211
+    },
+    {
+      "month": "2019-09",
+      "completions": 311,
+      "starts": 614
+    },
+    {
+      "month": "2019-10",
+      "completions": 107,
+      "starts": 402
+    },
+    {
+      "month": "2019-11",
+      "completions": 261,
+      "starts": 557
+    },
+    {
+      "month": "2019-12",
+      "completions": 1104,
+      "starts": 372
+    },
+    {
+      "month": "2020-01",
+      "completions": 323,
+      "starts": 168
+    },
+    {
+      "month": "2020-02",
+      "completions": 633,
+      "starts": 225
+    },
+    {
+      "month": "2020-03",
+      "completions": 605,
+      "starts": 188
+    },
+    {
+      "month": "2020-04",
+      "completions": 1106,
+      "starts": 279
+    },
+    {
+      "month": "2020-05",
+      "completions": 315,
+      "starts": 839
+    },
+    {
+      "month": "2020-06",
+      "completions": 397,
+      "starts": 625
+    },
+    {
+      "month": "2020-07",
+      "completions": 283,
+      "starts": 128
+    },
+    {
+      "month": "2020-08",
+      "completions": 198,
+      "starts": 266
+    },
+    {
+      "month": "2020-09",
+      "completions": 588,
+      "starts": 357
+    },
+    {
+      "month": "2020-10",
+      "completions": 540,
+      "starts": 276
+    },
+    {
+      "month": "2020-11",
+      "completions": 323,
+      "starts": 191
+    },
+    {
+      "month": "2020-12",
+      "completions": 267,
+      "starts": 83
+    },
+    {
+      "month": "2021-01",
+      "completions": 412,
+      "starts": 212
+    },
+    {
+      "month": "2021-02",
+      "completions": 151,
+      "starts": 200
+    },
+    {
+      "month": "2021-03",
+      "completions": 536,
+      "starts": 1206
+    },
+    {
+      "month": "2021-04",
+      "completions": 710,
+      "starts": 592
+    },
+    {
+      "month": "2021-05",
+      "completions": 635,
+      "starts": 204
+    },
+    {
+      "month": "2021-06",
+      "completions": 815,
+      "starts": 209
+    },
+    {
+      "month": "2021-07",
+      "completions": 751,
+      "starts": 547
+    },
+    {
+      "month": "2021-08",
+      "completions": 794,
+      "starts": 318
+    },
+    {
+      "month": "2021-09",
+      "completions": 482,
+      "starts": 339
+    },
+    {
+      "month": "2021-10",
+      "completions": 301,
+      "starts": 456
+    },
+    {
+      "month": "2021-11",
+      "completions": 704,
+      "starts": 703
+    },
+    {
+      "month": "2021-12",
+      "completions": 292,
+      "starts": 478
+    },
+    {
+      "month": "2022-01",
+      "completions": 395,
+      "starts": 371
+    },
+    {
+      "month": "2022-02",
+      "completions": 149,
+      "starts": 368
+    },
+    {
+      "month": "2022-03",
+      "completions": 656,
+      "starts": 276
+    },
+    {
+      "month": "2022-04",
+      "completions": 109,
+      "starts": 685
+    },
+    {
+      "month": "2022-05",
+      "completions": 548,
+      "starts": 451
+    },
+    {
+      "month": "2022-06",
+      "completions": 261,
+      "starts": 393
+    },
+    {
+      "month": "2022-07",
+      "completions": 232,
+      "starts": 563
+    },
+    {
+      "month": "2022-08",
+      "completions": 425,
+      "starts": 580
+    },
+    {
+      "month": "2022-09",
+      "completions": 120,
+      "starts": 638
+    },
+    {
+      "month": "2022-10",
+      "completions": 279,
+      "starts": 576
+    },
+    {
+      "month": "2022-11",
+      "completions": 316,
+      "starts": 457
+    },
+    {
+      "month": "2022-12",
+      "completions": 160,
+      "starts": 553
+    },
+    {
+      "month": "2023-01",
+      "completions": 610,
+      "starts": 469
+    },
+    {
+      "month": "2023-02",
+      "completions": 133,
+      "starts": 474
+    },
+    {
+      "month": "2023-03",
+      "completions": 140,
+      "starts": 283
+    },
+    {
+      "month": "2023-04",
+      "completions": 463,
+      "starts": 909
+    },
+    {
+      "month": "2023-05",
+      "completions": 260,
+      "starts": 978
+    },
+    {
+      "month": "2023-06",
+      "completions": 437,
+      "starts": 804
+    },
+    {
+      "month": "2023-07",
+      "completions": 337,
+      "starts": 498
+    },
+    {
+      "month": "2023-08",
+      "completions": 323,
+      "starts": 640
+    },
+    {
+      "month": "2023-09",
+      "completions": 195,
+      "starts": 557
+    },
+    {
+      "month": "2023-10",
+      "completions": 438,
+      "starts": 870
+    },
+    {
+      "month": "2023-11",
+      "completions": 270,
+      "starts": 639
+    },
+    {
+      "month": "2023-12",
+      "completions": 258,
+      "starts": 811
+    },
+    {
+      "month": "2024-01",
+      "completions": 336,
+      "starts": 494
+    },
+    {
+      "month": "2024-02",
+      "completions": 248,
+      "starts": 605
+    },
+    {
+      "month": "2024-03",
+      "completions": 480,
+      "starts": 461
+    },
+    {
+      "month": "2024-04",
+      "completions": 386,
+      "starts": 910
+    },
+    {
+      "month": "2024-05",
+      "completions": 368,
+      "starts": 626
+    },
+    {
+      "month": "2024-06",
+      "completions": 549,
+      "starts": 579
+    },
+    {
+      "month": "2024-07",
+      "completions": 699,
+      "starts": 371
+    },
+    {
+      "month": "2024-08",
+      "completions": 315,
+      "starts": 503
+    },
+    {
+      "month": "2024-09",
+      "completions": 294,
+      "starts": 412
+    },
+    {
+      "month": "2024-10",
+      "completions": 417,
+      "starts": 529
+    },
+    {
+      "month": "2024-11",
+      "completions": 691,
+      "starts": 573
+    },
+    {
+      "month": "2024-12",
+      "completions": 718,
+      "starts": 611
+    },
+    {
+      "month": "2025-01",
+      "completions": 297,
+      "starts": 639
+    },
+    {
+      "month": "2025-02",
+      "completions": 709,
+      "starts": 428
+    },
+    {
+      "month": "2025-03",
+      "completions": 329,
+      "starts": 555
+    },
+    {
+      "month": "2025-04",
+      "completions": 311,
+      "starts": 675
+    },
+    {
+      "month": "2025-05",
+      "completions": 453,
+      "starts": 477
+    },
+    {
+      "month": "2025-06",
+      "completions": 341,
+      "starts": 485
+    },
+    {
+      "month": "2025-07",
+      "completions": 498,
+      "starts": 724
+    },
+    {
+      "month": "2025-08",
+      "completions": 922,
+      "starts": 685
+    },
+    {
+      "month": "2025-09",
+      "completions": 996,
+      "starts": 528
+    },
+    {
+      "month": "2025-10",
+      "completions": 235,
+      "starts": 422
+    },
+    {
+      "month": "2025-11",
+      "completions": 737,
+      "starts": 492
+    },
+    {
+      "month": "2025-12",
+      "completions": 1036,
+      "starts": 530
+    },
+    {
+      "month": "2026-01",
+      "completions": 342,
+      "starts": 498
+    },
+    {
+      "month": "2026-02",
+      "completions": 382,
+      "starts": 294
+    },
+    {
+      "month": "2026-03",
+      "completions": 763,
+      "starts": 403
+    },
+    {
+      "month": "2026-04",
+      "completions": 602,
+      "starts": 466
+    },
+    {
+      "month": "2026-05",
+      "completions": 847,
+      "starts": 471
+    },
+    {
+      "month": "2026-06",
+      "completions": 624,
+      "starts": 753
+    },
+    {
+      "month": "2026-07",
+      "completions": 994,
+      "starts": 877
+    },
+    {
+      "month": "2026-08",
+      "completions": 471,
+      "starts": 494
+    }
+  ],
+  "local_prices": [
+    {
+      "month": "2016-01",
+      "greater_vancouver": {
+        "detached": 1493300,
+        "townhouse": 562800,
+        "apartment": 427100
+      },
+      "east": {
+        "detached": 1300200,
+        "townhouse": 650300,
+        "apartment": 394000
+      },
+      "west": {
+        "detached": 3035100,
+        "townhouse": 892700,
+        "apartment": 542700
+      }
+    },
+    {
+      "month": "2016-02",
+      "greater_vancouver": {
+        "detached": 1579700,
+        "townhouse": 583300,
+        "apartment": 443000
+      },
+      "east": {
+        "detached": 1370700,
+        "townhouse": 663100,
+        "apartment": 404500
+      },
+      "west": {
+        "detached": 3200600,
+        "townhouse": 913600,
+        "apartment": 571000
+      }
+    },
+    {
+      "month": "2016-03",
+      "greater_vancouver": {
+        "detached": 1641900,
+        "townhouse": 610300,
+        "apartment": 454300
+      },
+      "east": {
+        "detached": 1422100,
+        "townhouse": 670800,
+        "apartment": 417400
+      },
+      "west": {
+        "detached": 3303100,
+        "townhouse": 959500,
+        "apartment": 583000
+      }
+    },
+    {
+      "month": "2016-04",
+      "greater_vancouver": {
+        "detached": 1689000,
+        "townhouse": 630900,
+        "apartment": 466700
+      },
+      "east": {
+        "detached": 1456400,
+        "townhouse": 697600,
+        "apartment": 429500
+      },
+      "west": {
+        "detached": 3395900,
+        "townhouse": 1014000,
+        "apartment": 602400
+      }
+    },
+    {
+      "month": "2016-05",
+      "greater_vancouver": {
+        "detached": 1721400,
+        "townhouse": 658000,
+        "apartment": 478800
+      },
+      "east": {
+        "detached": 1508300,
+        "townhouse": 716800,
+        "apartment": 442600
+      },
+      "west": {
+        "detached": 3475300,
+        "townhouse": 1065600,
+        "apartment": 617300
+      }
+    },
+    {
+      "month": "2016-06",
+      "greater_vancouver": {
+        "detached": 1743700,
+        "townhouse": 671400,
+        "apartment": 492100
+      },
+      "east": {
+        "detached": 1522800,
+        "townhouse": 749000,
+        "apartment": 457000
+      },
+      "west": {
+        "detached": 3550700,
+        "townhouse": 1097100,
+        "apartment": 630900
+      }
+    },
+    {
+      "month": "2016-07",
+      "greater_vancouver": {
+        "detached": 1762400,
+        "townhouse": 678500,
+        "apartment": 498900
+      },
+      "east": {
+        "detached": 1537200,
+        "townhouse": 763900,
+        "apartment": 469300
+      },
+      "west": {
+        "detached": 3619100,
+        "townhouse": 1086000,
+        "apartment": 634100
+      }
+    },
+    {
+      "month": "2016-08",
+      "greater_vancouver": {
+        "detached": 1739100,
+        "townhouse": 681900,
+        "apartment": 496700
+      },
+      "east": {
+        "detached": 1523200,
+        "townhouse": 739600,
+        "apartment": 479600
+      },
+      "west": {
+        "detached": 3567100,
+        "townhouse": 1090800,
+        "apartment": 615700
+      }
+    },
+    {
+      "month": "2016-09",
+      "greater_vancouver": {
+        "detached": 1708300,
+        "townhouse": 680100,
+        "apartment": 499100
+      },
+      "east": {
+        "detached": 1498400,
+        "townhouse": 766800,
+        "apartment": 478700
+      },
+      "west": {
+        "detached": 3515500,
+        "townhouse": 1059200,
+        "apartment": 625600
+      }
+    },
+    {
+      "month": "2016-10",
+      "greater_vancouver": {
+        "detached": 1653000,
+        "townhouse": 673200,
+        "apartment": 493300
+      },
+      "east": {
+        "detached": 1431400,
+        "townhouse": 758400,
+        "apartment": 471600
+      },
+      "west": {
+        "detached": 3418000,
+        "townhouse": 1044900,
+        "apartment": 611800
+      }
+    },
+    {
+      "month": "2016-11",
+      "greater_vancouver": {
+        "detached": 1622400,
+        "townhouse": 678100,
+        "apartment": 496500
+      },
+      "east": {
+        "detached": 1428900,
+        "townhouse": 771300,
+        "apartment": 472800
+      },
+      "west": {
+        "detached": 3345800,
+        "townhouse": 1050700,
+        "apartment": 623600
+      }
+    },
+    {
+      "month": "2016-12",
+      "greater_vancouver": {
+        "detached": 1595500,
+        "townhouse": 677100,
+        "apartment": 500500
+      },
+      "east": {
+        "detached": 1398100,
+        "townhouse": 752700,
+        "apartment": 470600
+      },
+      "west": {
+        "detached": 3322700,
+        "townhouse": 1072000,
+        "apartment": 625200
+      }
+    },
+    {
+      "month": "2017-01",
+      "greater_vancouver": {
+        "detached": 1589400,
+        "townhouse": 689800,
+        "apartment": 513800
+      },
+      "east": {
+        "detached": 1378600,
+        "townhouse": 750400,
+        "apartment": 479500
+      },
+      "west": {
+        "detached": 3331700,
+        "townhouse": 1117700,
+        "apartment": 642000
+      }
+    },
+    {
+      "month": "2017-02",
+      "greater_vancouver": {
+        "detached": 1618100,
+        "townhouse": 701500,
+        "apartment": 527200
+      },
+      "east": {
+        "detached": 1404500,
+        "townhouse": 778900,
+        "apartment": 500500
+      },
+      "west": {
+        "detached": 3402900,
+        "townhouse": 1120600,
+        "apartment": 656200
+      }
+    },
+    {
+      "month": "2017-03",
+      "greater_vancouver": {
+        "detached": 1645200,
+        "townhouse": 714700,
+        "apartment": 542500
+      },
+      "east": {
+        "detached": 1451300,
+        "townhouse": 780700,
+        "apartment": 516700
+      },
+      "west": {
+        "detached": 3445900,
+        "townhouse": 1142400,
+        "apartment": 679500
+      }
+    },
+    {
+      "month": "2017-04",
+      "greater_vancouver": {
+        "detached": 1681500,
+        "townhouse": 730400,
+        "apartment": 559900
+      },
+      "east": {
+        "detached": 1480900,
+        "townhouse": 834600,
+        "apartment": 527900
+      },
+      "west": {
+        "detached": 3490800,
+        "townhouse": 1173600,
+        "apartment": 707400
+      }
+    },
+    {
+      "month": "2017-05",
+      "greater_vancouver": {
+        "detached": 1712900,
+        "townhouse": 745500,
+        "apartment": 575200
+      },
+      "east": {
+        "detached": 1519500,
+        "townhouse": 836300,
+        "apartment": 542100
+      },
+      "west": {
+        "detached": 3558500,
+        "townhouse": 1193900,
+        "apartment": 724800
+      }
+    },
+    {
+      "month": "2017-06",
+      "greater_vancouver": {
+        "detached": 1723200,
+        "townhouse": 758600,
+        "apartment": 588000
+      },
+      "east": {
+        "detached": 1532400,
+        "townhouse": 859400,
+        "apartment": 555200
+      },
+      "west": {
+        "detached": 3585800,
+        "townhouse": 1210600,
+        "apartment": 739700
+      }
+    },
+    {
+      "month": "2017-07",
+      "greater_vancouver": {
+        "detached": 1726400,
+        "townhouse": 773400,
+        "apartment": 593800
+      },
+      "east": {
+        "detached": 1536600,
+        "townhouse": 863500,
+        "apartment": 564900
+      },
+      "west": {
+        "detached": 3609600,
+        "townhouse": 1225700,
+        "apartment": 738000
+      }
+    },
+    {
+      "month": "2017-08",
+      "greater_vancouver": {
+        "detached": 1707700,
+        "townhouse": 783200,
+        "apartment": 601400
+      },
+      "east": {
+        "detached": 1521300,
+        "townhouse": 883800,
+        "apartment": 572300
+      },
+      "west": {
+        "detached": 3534000,
+        "townhouse": 1236600,
+        "apartment": 749500
+      }
+    },
+    {
+      "month": "2017-09",
+      "greater_vancouver": {
+        "detached": 1700700,
+        "townhouse": 782200,
+        "apartment": 604600
+      },
+      "east": {
+        "detached": 1521400,
+        "townhouse": 882600,
+        "apartment": 573200
+      },
+      "west": {
+        "detached": 3494000,
+        "townhouse": 1209600,
+        "apartment": 748500
+      }
+    },
+    {
+      "month": "2017-10",
+      "greater_vancouver": {
+        "detached": 1693600,
+        "townhouse": 790300,
+        "apartment": 612400
+      },
+      "east": {
+        "detached": 1521300,
+        "townhouse": 879400,
+        "apartment": 581100
+      },
+      "west": {
+        "detached": 3519100,
+        "townhouse": 1223200,
+        "apartment": 765500
+      }
+    },
+    {
+      "month": "2017-11",
+      "greater_vancouver": {
+        "detached": 1685500,
+        "townhouse": 792100,
+        "apartment": 616200
+      },
+      "east": {
+        "detached": 1517100,
+        "townhouse": 883800,
+        "apartment": 584000
+      },
+      "west": {
+        "detached": 3454200,
+        "townhouse": 1233600,
+        "apartment": 761300
+      }
+    },
+    {
+      "month": "2017-12",
+      "greater_vancouver": {
+        "detached": 1672400,
+        "townhouse": 794600,
+        "apartment": 623900
+      },
+      "east": {
+        "detached": 1508000,
+        "townhouse": 875300,
+        "apartment": 589400
+      },
+      "west": {
+        "detached": 3438500,
+        "townhouse": 1219700,
+        "apartment": 766600
+      }
+    },
+    {
+      "month": "2018-01",
+      "greater_vancouver": {
+        "detached": 1670100,
+        "townhouse": 794200,
+        "apartment": 640100
+      },
+      "east": {
+        "detached": 1527800,
+        "townhouse": 870700,
+        "apartment": 603000
+      },
+      "west": {
+        "detached": 3384800,
+        "townhouse": 1193000,
+        "apartment": 794300
+      }
+    },
+    {
+      "month": "2018-02",
+      "greater_vancouver": {
+        "detached": 1666500,
+        "townhouse": 812300,
+        "apartment": 647600
+      },
+      "east": {
+        "detached": 1511800,
+        "townhouse": 901300,
+        "apartment": 615300
+      },
+      "west": {
+        "detached": 3352100,
+        "townhouse": 1244600,
+        "apartment": 790900
+      }
+    },
+    {
+      "month": "2018-03",
+      "greater_vancouver": {
+        "detached": 1652000,
+        "townhouse": 831700,
+        "apartment": 661600
+      },
+      "east": {
+        "detached": 1530500,
+        "townhouse": 923200,
+        "apartment": 626800
+      },
+      "west": {
+        "detached": 3287900,
+        "townhouse": 1297100,
+        "apartment": 802300
+      }
+    },
+    {
+      "month": "2018-04",
+      "greater_vancouver": {
+        "detached": 1642800,
+        "townhouse": 839100,
+        "apartment": 660800
+      },
+      "east": {
+        "detached": 1515700,
+        "townhouse": 956200,
+        "apartment": 626900
+      },
+      "west": {
+        "detached": 3244500,
+        "townhouse": 1283400,
+        "apartment": 792300
+      }
+    },
+    {
+      "month": "2018-05",
+      "greater_vancouver": {
+        "detached": 1622700,
+        "townhouse": 840300,
+        "apartment": 661000
+      },
+      "east": {
+        "detached": 1507600,
+        "townhouse": 924300,
+        "apartment": 623900
+      },
+      "west": {
+        "detached": 3190300,
+        "townhouse": 1268500,
+        "apartment": 793200
+      }
+    },
+    {
+      "month": "2018-06",
+      "greater_vancouver": {
+        "detached": 1619200,
+        "townhouse": 839600,
+        "apartment": 658500
+      },
+      "east": {
+        "detached": 1496100,
+        "townhouse": 923000,
+        "apartment": 615300
+      },
+      "west": {
+        "detached": 3187500,
+        "townhouse": 1252800,
+        "apartment": 790600
+      }
+    },
+    {
+      "month": "2018-07",
+      "greater_vancouver": {
+        "detached": 1596400,
+        "townhouse": 835500,
+        "apartment": 658100
+      },
+      "east": {
+        "detached": 1474200,
+        "townhouse": 901600,
+        "apartment": 612500
+      },
+      "west": {
+        "detached": 3151900,
+        "townhouse": 1249400,
+        "apartment": 792200
+      }
+    },
+    {
+      "month": "2018-08",
+      "greater_vancouver": {
+        "detached": 1578700,
+        "townhouse": 828600,
+        "apartment": 648000
+      },
+      "east": {
+        "detached": 1466300,
+        "townhouse": 899600,
+        "apartment": 608800
+      },
+      "west": {
+        "detached": 3172900,
+        "townhouse": 1219500,
+        "apartment": 774900
+      }
+    },
+    {
+      "month": "2018-09",
+      "greater_vancouver": {
+        "detached": 1550100,
+        "townhouse": 818600,
+        "apartment": 638400
+      },
+      "east": {
+        "detached": 1445200,
+        "townhouse": 854800,
+        "apartment": 608300
+      },
+      "west": {
+        "detached": 3051300,
+        "townhouse": 1202000,
+        "apartment": 768700
+      }
+    },
+    {
+      "month": "2018-10",
+      "greater_vancouver": {
+        "detached": 1538400,
+        "townhouse": 812600,
+        "apartment": 633300
+      },
+      "east": {
+        "detached": 1436500,
+        "townhouse": 846300,
+        "apartment": 591000
+      },
+      "west": {
+        "detached": 3061400,
+        "townhouse": 1201200,
+        "apartment": 760400
+      }
+    },
+    {
+      "month": "2018-11",
+      "greater_vancouver": {
+        "detached": 1511400,
+        "townhouse": 802600,
+        "apartment": 618400
+      },
+      "east": {
+        "detached": 1420300,
+        "townhouse": 853200,
+        "apartment": 586200
+      },
+      "west": {
+        "detached": 3000300,
+        "townhouse": 1219100,
+        "apartment": 744400
+      }
+    },
+    {
+      "month": "2018-12",
+      "greater_vancouver": {
+        "detached": 1484900,
+        "townhouse": 785900,
+        "apartment": 620400
+      },
+      "east": {
+        "detached": 1399000,
+        "townhouse": 851400,
+        "apartment": 574900
+      },
+      "west": {
+        "detached": 2923700,
+        "townhouse": 1195200,
+        "apartment": 752600
+      }
+    },
+    {
+      "month": "2019-01",
+      "greater_vancouver": {
+        "detached": 1445400,
+        "townhouse": 775000,
+        "apartment": 618400
+      },
+      "east": {
+        "detached": 1372400,
+        "townhouse": 823100,
+        "apartment": 582300
+      },
+      "west": {
+        "detached": 2829300,
+        "townhouse": 1166300,
+        "apartment": 745700
+      }
+    },
+    {
+      "month": "2019-02",
+      "greater_vancouver": {
+        "detached": 1439200,
+        "townhouse": 776300,
+        "apartment": 614800
+      },
+      "east": {
+        "detached": 1363100,
+        "townhouse": 858300,
+        "apartment": 576400
+      },
+      "west": {
+        "detached": 2859400,
+        "townhouse": 1169600,
+        "apartment": 740300
+      }
+    },
+    {
+      "month": "2019-03",
+      "greater_vancouver": {
+        "detached": 1443500,
+        "townhouse": 770500,
+        "apartment": 612800
+      },
+      "east": {
+        "detached": 1360200,
+        "townhouse": 846300,
+        "apartment": 585000
+      },
+      "west": {
+        "detached": 2891100,
+        "townhouse": 1132400,
+        "apartment": 736700
+      }
+    },
+    {
+      "month": "2019-04",
+      "greater_vancouver": {
+        "detached": 1437600,
+        "townhouse": 777800,
+        "apartment": 610000
+      },
+      "east": {
+        "detached": 1342200,
+        "townhouse": 850900,
+        "apartment": 580600
+      },
+      "west": {
+        "detached": 2873100,
+        "townhouse": 1135100,
+        "apartment": 726800
+      }
+    },
+    {
+      "month": "2019-05",
+      "greater_vancouver": {
+        "detached": 1426400,
+        "townhouse": 781200,
+        "apartment": 601400
+      },
+      "east": {
+        "detached": 1344600,
+        "townhouse": 853400,
+        "apartment": 579000
+      },
+      "west": {
+        "detached": 2800200,
+        "townhouse": 1143000,
+        "apartment": 719100
+      }
+    },
+    {
+      "month": "2019-06",
+      "greater_vancouver": {
+        "detached": 1421900,
+        "townhouse": 774500,
+        "apartment": 598900
+      },
+      "east": {
+        "detached": 1329800,
+        "townhouse": 841900,
+        "apartment": 569400
+      },
+      "west": {
+        "detached": 2810300,
+        "townhouse": 1159200,
+        "apartment": 714800
+      }
+    },
+    {
+      "month": "2019-07",
+      "greater_vancouver": {
+        "detached": 1409200,
+        "townhouse": 773500,
+        "apartment": 595600
+      },
+      "east": {
+        "detached": 1330700,
+        "townhouse": 829000,
+        "apartment": 561900
+      },
+      "west": {
+        "detached": 2769500,
+        "townhouse": 1155600,
+        "apartment": 713900
+      }
+    },
+    {
+      "month": "2019-08",
+      "greater_vancouver": {
+        "detached": 1413400,
+        "townhouse": 775700,
+        "apartment": 595800
+      },
+      "east": {
+        "detached": 1344700,
+        "townhouse": 817500,
+        "apartment": 560800
+      },
+      "west": {
+        "detached": 2801200,
+        "townhouse": 1164700,
+        "apartment": 723400
+      }
+    },
+    {
+      "month": "2019-09",
+      "greater_vancouver": {
+        "detached": 1418200,
+        "townhouse": 771100,
+        "apartment": 599300
+      },
+      "east": {
+        "detached": 1347800,
+        "townhouse": 822800,
+        "apartment": 563800
+      },
+      "west": {
+        "detached": 2787100,
+        "townhouse": 1136100,
+        "apartment": 725500
+      }
+    },
+    {
+      "month": "2019-10",
+      "greater_vancouver": {
+        "detached": 1432800,
+        "townhouse": 769400,
+        "apartment": 597000
+      },
+      "east": {
+        "detached": 1357900,
+        "townhouse": 828600,
+        "apartment": 568100
+      },
+      "west": {
+        "detached": 2848200,
+        "townhouse": 1135000,
+        "apartment": 719800
+      }
+    },
+    {
+      "month": "2019-11",
+      "greater_vancouver": {
+        "detached": 1432700,
+        "townhouse": 772600,
+        "apartment": 602900
+      },
+      "east": {
+        "detached": 1362900,
+        "townhouse": 842200,
+        "apartment": 567900
+      },
+      "west": {
+        "detached": 2801900,
+        "townhouse": 1159900,
+        "apartment": 735200
+      }
+    },
+    {
+      "month": "2019-12",
+      "greater_vancouver": {
+        "detached": 1436100,
+        "townhouse": 782000,
+        "apartment": 604900
+      },
+      "east": {
+        "detached": 1383200,
+        "townhouse": 857800,
+        "apartment": 578400
+      },
+      "west": {
+        "detached": 2793000,
+        "townhouse": 1176300,
+        "apartment": 738600
+      }
+    },
+    {
+      "month": "2020-01",
+      "greater_vancouver": {
+        "detached": 1447000,
+        "townhouse": 788000,
+        "apartment": 615600
+      },
+      "east": {
+        "detached": 1399900,
+        "townhouse": 881500,
+        "apartment": 586000
+      },
+      "west": {
+        "detached": 2864300,
+        "townhouse": 1192200,
+        "apartment": 752900
+      }
+    },
+    {
+      "month": "2020-02",
+      "greater_vancouver": {
+        "detached": 1461000,
+        "townhouse": 793100,
+        "apartment": 628400
+      },
+      "east": {
+        "detached": 1414100,
+        "townhouse": 878600,
+        "apartment": 604900
+      },
+      "west": {
+        "detached": 2881400,
+        "townhouse": 1190600,
+        "apartment": 772700
+      }
+    },
+    {
+      "month": "2020-03",
+      "greater_vancouver": {
+        "detached": 1479000,
+        "townhouse": 799000,
+        "apartment": 626700
+      },
+      "east": {
+        "detached": 1429100,
+        "townhouse": 879200,
+        "apartment": 607800
+      },
+      "west": {
+        "detached": 2916300,
+        "townhouse": 1176700,
+        "apartment": 764500
+      }
+    },
+    {
+      "month": "2020-04",
+      "greater_vancouver": {
+        "detached": 1485700,
+        "townhouse": 791800,
+        "apartment": 623200
+      },
+      "east": {
+        "detached": 1431300,
+        "townhouse": 865800,
+        "apartment": 609900
+      },
+      "west": {
+        "detached": 2936000,
+        "townhouse": 1156600,
+        "apartment": 741200
+      }
+    },
+    {
+      "month": "2020-05",
+      "greater_vancouver": {
+        "detached": 1486700,
+        "townhouse": 794900,
+        "apartment": 623200
+      },
+      "east": {
+        "detached": 1420800,
+        "townhouse": 880500,
+        "apartment": 603500
+      },
+      "west": {
+        "detached": 2981400,
+        "townhouse": 1161500,
+        "apartment": 747700
+      }
+    },
+    {
+      "month": "2020-06",
+      "greater_vancouver": {
+        "detached": 1489900,
+        "townhouse": 796400,
+        "apartment": 620900
+      },
+      "east": {
+        "detached": 1430400,
+        "townhouse": 861400,
+        "apartment": 600800
+      },
+      "west": {
+        "detached": 2949200,
+        "townhouse": 1145600,
+        "apartment": 750300
+      }
+    },
+    {
+      "month": "2020-07",
+      "greater_vancouver": {
+        "detached": 1503600,
+        "townhouse": 806800,
+        "apartment": 616200
+      },
+      "east": {
+        "detached": 1467000,
+        "townhouse": 866200,
+        "apartment": 594200
+      },
+      "west": {
+        "detached": 2965300,
+        "townhouse": 1178800,
+        "apartment": 738400
+      }
+    },
+    {
+      "month": "2020-08",
+      "greater_vancouver": {
+        "detached": 1519100,
+        "townhouse": 809000,
+        "apartment": 621500
+      },
+      "east": {
+        "detached": 1473900,
+        "townhouse": 884000,
+        "apartment": 606900
+      },
+      "west": {
+        "detached": 2934400,
+        "townhouse": 1194500,
+        "apartment": 748600
+      }
+    },
+    {
+      "month": "2020-09",
+      "greater_vancouver": {
+        "detached": 1537600,
+        "townhouse": 812000,
+        "apartment": 622300
+      },
+      "east": {
+        "detached": 1481000,
+        "townhouse": 903200,
+        "apartment": 605000
+      },
+      "west": {
+        "detached": 2978400,
+        "townhouse": 1211400,
+        "apartment": 736300
+      }
+    },
+    {
+      "month": "2020-10",
+      "greater_vancouver": {
+        "detached": 1551000,
+        "townhouse": 817500,
+        "apartment": 619300
+      },
+      "east": {
+        "detached": 1487700,
+        "townhouse": 883700,
+        "apartment": 599800
+      },
+      "west": {
+        "detached": 2983800,
+        "townhouse": 1206700,
+        "apartment": 728600
+      }
+    },
+    {
+      "month": "2020-11",
+      "greater_vancouver": {
+        "detached": 1571200,
+        "townhouse": 817600,
+        "apartment": 619000
+      },
+      "east": {
+        "detached": 1502500,
+        "townhouse": 883800,
+        "apartment": 598400
+      },
+      "west": {
+        "detached": 3046000,
+        "townhouse": 1174700,
+        "apartment": 726000
+      }
+    },
+    {
+      "month": "2020-12",
+      "greater_vancouver": {
+        "detached": 1586700,
+        "townhouse": 819000,
+        "apartment": 617400
+      },
+      "east": {
+        "detached": 1518500,
+        "townhouse": 877100,
+        "apartment": 602600
+      },
+      "west": {
+        "detached": 3031900,
+        "townhouse": 1170200,
+        "apartment": 715800
+      }
+    },
+    {
+      "month": "2021-01",
+      "greater_vancouver": {
+        "detached": 1616000,
+        "townhouse": 820600,
+        "apartment": 630000
+      },
+      "east": {
+        "detached": 1522900,
+        "townhouse": 876300,
+        "apartment": 604300
+      },
+      "west": {
+        "detached": 3088500,
+        "townhouse": 1135000,
+        "apartment": 750900
+      }
+    },
+    {
+      "month": "2021-02",
+      "greater_vancouver": {
+        "detached": 1672800,
+        "townhouse": 855600,
+        "apartment": 641800
+      },
+      "east": {
+        "detached": 1553600,
+        "townhouse": 886700,
+        "apartment": 609000
+      },
+      "west": {
+        "detached": 3105900,
+        "townhouse": 1188800,
+        "apartment": 756800
+      }
+    },
+    {
+      "month": "2021-03",
+      "greater_vancouver": {
+        "detached": 1746700,
+        "townhouse": 895000,
+        "apartment": 659800
+      },
+      "east": {
+        "detached": 1638400,
+        "townhouse": 954600,
+        "apartment": 626300
+      },
+      "west": {
+        "detached": 3251500,
+        "townhouse": 1275800,
+        "apartment": 778200
+      }
+    },
+    {
+      "month": "2021-04",
+      "greater_vancouver": {
+        "detached": 1786000,
+        "townhouse": 921300,
+        "apartment": 671900
+      },
+      "east": {
+        "detached": 1671300,
+        "townhouse": 975800,
+        "apartment": 640200
+      },
+      "west": {
+        "detached": 3312600,
+        "townhouse": 1308200,
+        "apartment": 793600
+      }
+    },
+    {
+      "month": "2021-05",
+      "greater_vancouver": {
+        "detached": 1803400,
+        "townhouse": 935500,
+        "apartment": 672200
+      },
+      "east": {
+        "detached": 1698000,
+        "townhouse": 971300,
+        "apartment": 648400
+      },
+      "west": {
+        "detached": 3322100,
+        "townhouse": 1314400,
+        "apartment": 786100
+      }
+    },
+    {
+      "month": "2021-06",
+      "greater_vancouver": {
+        "detached": 1798000,
+        "townhouse": 944000,
+        "apartment": 673800
+      },
+      "east": {
+        "detached": 1681400,
+        "townhouse": 991000,
+        "apartment": 651200
+      },
+      "west": {
+        "detached": 3330200,
+        "townhouse": 1308700,
+        "apartment": 782900
+      }
+    },
+    {
+      "month": "2021-07",
+      "greater_vancouver": {
+        "detached": 1786800,
+        "townhouse": 943500,
+        "apartment": 671900
+      },
+      "east": {
+        "detached": 1673400,
+        "townhouse": 971800,
+        "apartment": 642800
+      },
+      "west": {
+        "detached": 3296200,
+        "townhouse": 1311200,
+        "apartment": 776300
+      }
+    },
+    {
+      "month": "2021-08",
+      "greater_vancouver": {
+        "detached": 1795800,
+        "townhouse": 944700,
+        "apartment": 675300
+      },
+      "east": {
+        "detached": 1664400,
+        "townhouse": 995600,
+        "apartment": 646900
+      },
+      "west": {
+        "detached": 3317000,
+        "townhouse": 1307300,
+        "apartment": 785000
+      }
+    },
+    {
+      "month": "2021-09",
+      "greater_vancouver": {
+        "detached": 1820600,
+        "townhouse": 958700,
+        "apartment": 680500
+      },
+      "east": {
+        "detached": 1691300,
+        "townhouse": 1022100,
+        "apartment": 643300
+      },
+      "west": {
+        "detached": 3313500,
+        "townhouse": 1330800,
+        "apartment": 790200
+      }
+    },
+    {
+      "month": "2021-10",
+      "greater_vancouver": {
+        "detached": 1847000,
+        "townhouse": 971800,
+        "apartment": 686300
+      },
+      "east": {
+        "detached": 1705500,
+        "townhouse": 1026500,
+        "apartment": 648300
+      },
+      "west": {
+        "detached": 3323600,
+        "townhouse": 1329300,
+        "apartment": 793600
+      }
+    },
+    {
+      "month": "2021-11",
+      "greater_vancouver": {
+        "detached": 1872200,
+        "townhouse": 996500,
+        "apartment": 690800
+      },
+      "east": {
+        "detached": 1741500,
+        "townhouse": 1039900,
+        "apartment": 655200
+      },
+      "west": {
+        "detached": 3312000,
+        "townhouse": 1391700,
+        "apartment": 792100
+      }
+    },
+    {
+      "month": "2021-12",
+      "greater_vancouver": {
+        "detached": 1904600,
+        "townhouse": 1010700,
+        "apartment": 696600
+      },
+      "east": {
+        "detached": 1763600,
+        "townhouse": 1053700,
+        "apartment": 661300
+      },
+      "west": {
+        "detached": 3310900,
+        "townhouse": 1401400,
+        "apartment": 798800
+      }
+    },
+    {
+      "month": "2022-01",
+      "greater_vancouver": {
+        "detached": 1965000,
+        "townhouse": 1047700,
+        "apartment": 723400
+      },
+      "east": {
+        "detached": 1830400,
+        "townhouse": 1038600,
+        "apartment": 672000
+      },
+      "west": {
+        "detached": 3379900,
+        "townhouse": 1443200,
+        "apartment": 829100
+      }
+    },
+    {
+      "month": "2022-02",
+      "greater_vancouver": {
+        "detached": 2043000,
+        "townhouse": 1105400,
+        "apartment": 749500
+      },
+      "east": {
+        "detached": 1887200,
+        "townhouse": 1078300,
+        "apartment": 700000
+      },
+      "west": {
+        "detached": 3434600,
+        "townhouse": 1472700,
+        "apartment": 842400
+      }
+    },
+    {
+      "month": "2022-03",
+      "greater_vancouver": {
+        "detached": 2078900,
+        "townhouse": 1143700,
+        "apartment": 767800
+      },
+      "east": {
+        "detached": 1942500,
+        "townhouse": 1147000,
+        "apartment": 713700
+      },
+      "west": {
+        "detached": 3495200,
+        "townhouse": 1476300,
+        "apartment": 859800
+      }
+    },
+    {
+      "month": "2022-04",
+      "greater_vancouver": {
+        "detached": 2084600,
+        "townhouse": 1144800,
+        "apartment": 771500
+      },
+      "east": {
+        "detached": 1934700,
+        "townhouse": 1127300,
+        "apartment": 716000
+      },
+      "west": {
+        "detached": 3496300,
+        "townhouse": 1488900,
+        "apartment": 862200
+      }
+    },
+    {
+      "month": "2022-05",
+      "greater_vancouver": {
+        "detached": 2075000,
+        "townhouse": 1139300,
+        "apartment": 774600
+      },
+      "east": {
+        "detached": 1939600,
+        "townhouse": 1119600,
+        "apartment": 712700
+      },
+      "west": {
+        "detached": 3453100,
+        "townhouse": 1475500,
+        "apartment": 866500
+      }
+    },
+    {
+      "month": "2022-06",
+      "greater_vancouver": {
+        "detached": 2041500,
+        "townhouse": 1112500,
+        "apartment": 761400
+      },
+      "east": {
+        "detached": 1901700,
+        "townhouse": 1103900,
+        "apartment": 703500
+      },
+      "west": {
+        "detached": 3466300,
+        "townhouse": 1428200,
+        "apartment": 837300
+      }
+    },
+    {
+      "month": "2022-07",
+      "greater_vancouver": {
+        "detached": 1984400,
+        "townhouse": 1092700,
+        "apartment": 750800
+      },
+      "east": {
+        "detached": 1824500,
+        "townhouse": 1122600,
+        "apartment": 708000
+      },
+      "west": {
+        "detached": 3353700,
+        "townhouse": 1403300,
+        "apartment": 828000
+      }
+    },
+    {
+      "month": "2022-08",
+      "greater_vancouver": {
+        "detached": 1939200,
+        "townhouse": 1064700,
+        "apartment": 735700
+      },
+      "east": {
+        "detached": 1794300,
+        "townhouse": 1083000,
+        "apartment": 690000
+      },
+      "west": {
+        "detached": 3303400,
+        "townhouse": 1399300,
+        "apartment": 813200
+      }
+    },
+    {
+      "month": "2022-09",
+      "greater_vancouver": {
+        "detached": 1890300,
+        "townhouse": 1044400,
+        "apartment": 724500
+      },
+      "east": {
+        "detached": 1738800,
+        "townhouse": 1044400,
+        "apartment": 675400
+      },
+      "west": {
+        "detached": 3226200,
+        "townhouse": 1399500,
+        "apartment": 806400
+      }
+    },
+    {
+      "month": "2022-10",
+      "greater_vancouver": {
+        "detached": 1876600,
+        "townhouse": 1040100,
+        "apartment": 722500
+      },
+      "east": {
+        "detached": 1715000,
+        "townhouse": 1003700,
+        "apartment": 667300
+      },
+      "west": {
+        "detached": 3155300,
+        "townhouse": 1414400,
+        "apartment": 810700
+      }
+    },
+    {
+      "month": "2022-11",
+      "greater_vancouver": {
+        "detached": 1840900,
+        "townhouse": 1024600,
+        "apartment": 716600
+      },
+      "east": {
+        "detached": 1710800,
+        "townhouse": 1028800,
+        "apartment": 671900
+      },
+      "west": {
+        "detached": 3093800,
+        "townhouse": 1377500,
+        "apartment": 801900
+      }
+    },
+    {
+      "month": "2022-12",
+      "greater_vancouver": {
+        "detached": 1808300,
+        "townhouse": 1010200,
+        "apartment": 709800
+      },
+      "east": {
+        "detached": 1678400,
+        "townhouse": 1016200,
+        "apartment": 666600
+      },
+      "west": {
+        "detached": 3050700,
+        "townhouse": 1292700,
+        "apartment": 796000
+      }
+    },
+    {
+      "month": "2023-01",
+      "greater_vancouver": {
+        "detached": 1795000,
+        "townhouse": 1025400,
+        "apartment": 718400
+      },
+      "east": {
+        "detached": 1664000,
+        "townhouse": 1007700,
+        "apartment": 665400
+      },
+      "west": {
+        "detached": 3085500,
+        "townhouse": 1285300,
+        "apartment": 796400
+      }
+    },
+    {
+      "month": "2023-02",
+      "greater_vancouver": {
+        "detached": 1824100,
+        "townhouse": 1052900,
+        "apartment": 728200
+      },
+      "east": {
+        "detached": 1688500,
+        "townhouse": 1044000,
+        "apartment": 672100
+      },
+      "west": {
+        "detached": 3203700,
+        "townhouse": 1344500,
+        "apartment": 805500
+      }
+    },
+    {
+      "month": "2023-03",
+      "greater_vancouver": {
+        "detached": 1854500,
+        "townhouse": 1062900,
+        "apartment": 734000
+      },
+      "east": {
+        "detached": 1705700,
+        "townhouse": 1079400,
+        "apartment": 681000
+      },
+      "west": {
+        "detached": 3217800,
+        "townhouse": 1383000,
+        "apartment": 814100
+      }
+    },
+    {
+      "month": "2023-04",
+      "greater_vancouver": {
+        "detached": 1902100,
+        "townhouse": 1083000,
+        "apartment": 750800
+      },
+      "east": {
+        "detached": 1775300,
+        "townhouse": 1097100,
+        "apartment": 688400
+      },
+      "west": {
+        "detached": 3261100,
+        "townhouse": 1457400,
+        "apartment": 833300
+      }
+    },
+    {
+      "month": "2023-05",
+      "greater_vancouver": {
+        "detached": 1937000,
+        "townhouse": 1085900,
+        "apartment": 759100
+      },
+      "east": {
+        "detached": 1816900,
+        "townhouse": 1097100,
+        "apartment": 701700
+      },
+      "west": {
+        "detached": 3280800,
+        "townhouse": 1413100,
+        "apartment": 843600
+      }
+    },
+    {
+      "month": "2023-06",
+      "greater_vancouver": {
+        "detached": 1974900,
+        "townhouse": 1101000,
+        "apartment": 765600
+      },
+      "east": {
+        "detached": 1875200,
+        "townhouse": 1095800,
+        "apartment": 707500
+      },
+      "west": {
+        "detached": 3355600,
+        "townhouse": 1450800,
+        "apartment": 850300
+      }
+    },
+    {
+      "month": "2023-07",
+      "greater_vancouver": {
+        "detached": 1996100,
+        "townhouse": 1106400,
+        "apartment": 770200
+      },
+      "east": {
+        "detached": 1894000,
+        "townhouse": 1114200,
+        "apartment": 712400
+      },
+      "west": {
+        "detached": 3391300,
+        "townhouse": 1450700,
+        "apartment": 859900
+      }
+    },
+    {
+      "month": "2023-08",
+      "greater_vancouver": {
+        "detached": 2001100,
+        "townhouse": 1106500,
+        "apartment": 768800
+      },
+      "east": {
+        "detached": 1909800,
+        "townhouse": 1122200,
+        "apartment": 718000
+      },
+      "west": {
+        "detached": 3461700,
+        "townhouse": 1455000,
+        "apartment": 842100
+      }
+    },
+    {
+      "month": "2023-09",
+      "greater_vancouver": {
+        "detached": 2000400,
+        "townhouse": 1101300,
+        "apartment": 767400
+      },
+      "east": {
+        "detached": 1894600,
+        "townhouse": 1127600,
+        "apartment": 714000
+      },
+      "west": {
+        "detached": 3488900,
+        "townhouse": 1417500,
+        "apartment": 844400
+      }
+    },
+    {
+      "month": "2023-10",
+      "greater_vancouver": {
+        "detached": 1983900,
+        "townhouse": 1101900,
+        "apartment": 769100
+      },
+      "east": {
+        "detached": 1874200,
+        "townhouse": 1105100,
+        "apartment": 709500
+      },
+      "west": {
+        "detached": 3369600,
+        "townhouse": 1429400,
+        "apartment": 845900
+      }
+    },
+    {
+      "month": "2023-11",
+      "greater_vancouver": {
+        "detached": 1965200,
+        "townhouse": 1094700,
+        "apartment": 761400
+      },
+      "east": {
+        "detached": 1862500,
+        "townhouse": 1097200,
+        "apartment": 699100
+      },
+      "west": {
+        "detached": 3404100,
+        "townhouse": 1417300,
+        "apartment": 836700
+      }
+    },
+    {
+      "month": "2023-12",
+      "greater_vancouver": {
+        "detached": 1947300,
+        "townhouse": 1074600,
+        "apartment": 750500
+      },
+      "east": {
+        "detached": 1852200,
+        "townhouse": 1059700,
+        "apartment": 687000
+      },
+      "west": {
+        "detached": 3402000,
+        "townhouse": 1382900,
+        "apartment": 811700
+      }
+    },
+    {
+      "month": "2024-01",
+      "greater_vancouver": {
+        "detached": 1932100,
+        "townhouse": 1073300,
+        "apartment": 760900
+      },
+      "east": {
+        "detached": 1831400,
+        "townhouse": 1051000,
+        "apartment": 694500
+      },
+      "west": {
+        "detached": 3294400,
+        "townhouse": 1379700,
+        "apartment": 845000
+      }
+    },
+    {
+      "month": "2024-02",
+      "greater_vancouver": {
+        "detached": 1958300,
+        "townhouse": 1097900,
+        "apartment": 768500
+      },
+      "east": {
+        "detached": 1834000,
+        "townhouse": 1098700,
+        "apartment": 707800
+      },
+      "west": {
+        "detached": 3332600,
+        "townhouse": 1416000,
+        "apartment": 840300
+      }
+    },
+    {
+      "month": "2024-03",
+      "greater_vancouver": {
+        "detached": 2006300,
+        "townhouse": 1118800,
+        "apartment": 774300
+      },
+      "east": {
+        "detached": 1857800,
+        "townhouse": 1125800,
+        "apartment": 712000
+      },
+      "west": {
+        "detached": 3387700,
+        "townhouse": 1468600,
+        "apartment": 843000
+      }
+    },
+    {
+      "month": "2024-04",
+      "greater_vancouver": {
+        "detached": 2022700,
+        "townhouse": 1131900,
+        "apartment": 778200
+      },
+      "east": {
+        "detached": 1865900,
+        "townhouse": 1131000,
+        "apartment": 718800
+      },
+      "west": {
+        "detached": 3451500,
+        "townhouse": 1485100,
+        "apartment": 852900
+      }
+    },
+    {
+      "month": "2024-05",
+      "greater_vancouver": {
+        "detached": 2050300,
+        "townhouse": 1142500,
+        "apartment": 776000
+      },
+      "east": {
+        "detached": 1881500,
+        "townhouse": 1122000,
+        "apartment": 719600
+      },
+      "west": {
+        "detached": 3488800,
+        "townhouse": 1483900,
+        "apartment": 845200
+      }
+    },
+    {
+      "month": "2024-06",
+      "greater_vancouver": {
+        "detached": 2047500,
+        "townhouse": 1134600,
+        "apartment": 773400
+      },
+      "east": {
+        "detached": 1895700,
+        "townhouse": 1134600,
+        "apartment": 711600
+      },
+      "west": {
+        "detached": 3497800,
+        "townhouse": 1487300,
+        "apartment": 851400
+      }
+    },
+    {
+      "month": "2024-07",
+      "greater_vancouver": {
+        "detached": 2035300,
+        "townhouse": 1121700,
+        "apartment": 768300
+      },
+      "east": {
+        "detached": 1869600,
+        "townhouse": 1132800,
+        "apartment": 702600
+      },
+      "west": {
+        "detached": 3444700,
+        "townhouse": 1439200,
+        "apartment": 850600
+      }
+    },
+    {
+      "month": "2024-08",
+      "greater_vancouver": {
+        "detached": 2034600,
+        "townhouse": 1116100,
+        "apartment": 768100
+      },
+      "east": {
+        "detached": 1873000,
+        "townhouse": 1142700,
+        "apartment": 704900
+      },
+      "west": {
+        "detached": 3395700,
+        "townhouse": 1453500,
+        "apartment": 854200
+      }
+    },
+    {
+      "month": "2024-09",
+      "greater_vancouver": {
+        "detached": 2009500,
+        "townhouse": 1095800,
+        "apartment": 761800
+      },
+      "east": {
+        "detached": 1852800,
+        "townhouse": 1085100,
+        "apartment": 709000
+      },
+      "west": {
+        "detached": 3413200,
+        "townhouse": 1412300,
+        "apartment": 839600
+      }
+    },
+    {
+      "month": "2024-10",
+      "greater_vancouver": {
+        "detached": 1990800,
+        "townhouse": 1105700,
+        "apartment": 757400
+      },
+      "east": {
+        "detached": 1896700,
+        "townhouse": 1144100,
+        "apartment": 686100
+      },
+      "west": {
+        "detached": 3309100,
+        "townhouse": 1449500,
+        "apartment": 831200
+      }
+    },
+    {
+      "month": "2024-11",
+      "greater_vancouver": {
+        "detached": 1985600,
+        "townhouse": 1115000,
+        "apartment": 753200
+      },
+      "east": {
+        "detached": 1866500,
+        "townhouse": 1106900,
+        "apartment": 693200
+      },
+      "west": {
+        "detached": 3322100,
+        "townhouse": 1516000,
+        "apartment": 827800
+      }
+    },
+    {
+      "month": "2024-12",
+      "greater_vancouver": {
+        "detached": 1984900,
+        "townhouse": 1111800,
+        "apartment": 750100
+      },
+      "east": {
+        "detached": 1859300,
+        "townhouse": 1134000,
+        "apartment": 690600
+      },
+      "west": {
+        "detached": 3318500,
+        "townhouse": 1525700,
+        "apartment": 821200
+      }
+    },
+    {
+      "month": "2025-01",
+      "greater_vancouver": {
+        "detached": 1995800,
+        "townhouse": 1102500,
+        "apartment": 748400
+      },
+      "east": {
+        "detached": 1847000,
+        "townhouse": 1125400,
+        "apartment": 696600
+      },
+      "west": {
+        "detached": 3368500,
+        "townhouse": 1474300,
+        "apartment": 812000
+      }
+    },
+    {
+      "month": "2025-02",
+      "greater_vancouver": {
+        "detached": 2013400,
+        "townhouse": 1107900,
+        "apartment": 759500
+      },
+      "east": {
+        "detached": 1865700,
+        "townhouse": 1147000,
+        "apartment": 691600
+      },
+      "west": {
+        "detached": 3399100,
+        "townhouse": 1486900,
+        "apartment": 840700
+      }
+    },
+    {
+      "month": "2025-03",
+      "greater_vancouver": {
+        "detached": 2020200,
+        "townhouse": 1110500,
+        "apartment": 766900
+      },
+      "east": {
+        "detached": 1858200,
+        "townhouse": 1149100,
+        "apartment": 703800
+      },
+      "west": {
+        "detached": 3392300,
+        "townhouse": 1473600,
+        "apartment": 849700
+      }
+    },
+    {
+      "month": "2025-04",
+      "greater_vancouver": {
+        "detached": 2008000,
+        "townhouse": 1099000,
+        "apartment": 762900
+      },
+      "east": {
+        "detached": 1857000,
+        "townhouse": 1115200,
+        "apartment": 703900
+      },
+      "west": {
+        "detached": 3369000,
+        "townhouse": 1417500,
+        "apartment": 848200
+      }
+    },
+    {
+      "month": "2025-05",
+      "greater_vancouver": {
+        "detached": 1984000,
+        "townhouse": 1104500,
+        "apartment": 757400
+      },
+      "east": {
+        "detached": 1832600,
+        "townhouse": 1108100,
+        "apartment": 695800
+      },
+      "west": {
+        "detached": 3305900,
+        "townhouse": 1409900,
+        "apartment": 840200
+      }
+    },
+    {
+      "month": "2025-06",
+      "greater_vancouver": {
+        "detached": 1983100,
+        "townhouse": 1101000,
+        "apartment": 748400
+      },
+      "east": {
+        "detached": 1834700,
+        "townhouse": 1092800,
+        "apartment": 686600
+      },
+      "west": {
+        "detached": 3349900,
+        "townhouse": 1428300,
+        "apartment": 825600
+      }
+    },
+    {
+      "month": "2025-07",
+      "greater_vancouver": {
+        "detached": 1961100,
+        "townhouse": 1096400,
+        "apartment": 743900
+      },
+      "east": {
+        "detached": 1798800,
+        "townhouse": 1105100,
+        "apartment": 679500
+      },
+      "west": {
+        "detached": 3253800,
+        "townhouse": 1412600,
+        "apartment": 821100
+      }
+    },
+    {
+      "month": "2025-08",
+      "greater_vancouver": {
+        "detached": 1938500,
+        "townhouse": 1076700,
+        "apartment": 734300
+      },
+      "east": {
+        "detached": 1790100,
+        "townhouse": 1065300,
+        "apartment": 679300
+      },
+      "west": {
+        "detached": 3213500,
+        "townhouse": 1387800,
+        "apartment": 805500
+      }
+    },
+    {
+      "month": "2025-09",
+      "greater_vancouver": {
+        "detached": 1925700,
+        "townhouse": 1066600,
+        "apartment": 727600
+      },
+      "east": {
+        "detached": 1767300,
+        "townhouse": 1064900,
+        "apartment": 669600
+      },
+      "west": {
+        "detached": 3195400,
+        "townhouse": 1373400,
+        "apartment": 803900
+      }
+    },
+    {
+      "month": "2025-10",
+      "greater_vancouver": {
+        "detached": 1908900,
+        "townhouse": 1064800,
+        "apartment": 715800
+      },
+      "east": {
+        "detached": 1756300,
+        "townhouse": 1051600,
+        "apartment": 660900
+      },
+      "west": {
+        "detached": 3185200,
+        "townhouse": 1362800,
+        "apartment": 781400
+      }
+    },
+    {
+      "month": "2025-11",
+      "greater_vancouver": {
+        "detached": 1900600,
+        "townhouse": 1065600,
+        "apartment": 714300
+      },
+      "east": {
+        "detached": 1738000,
+        "townhouse": 1066000,
+        "apartment": 653400
+      },
+      "west": {
+        "detached": 3172700,
+        "townhouse": 1366600,
+        "apartment": 776600
+      }
+    },
+    {
+      "month": "2025-12",
+      "greater_vancouver": {
+        "detached": 1879800,
+        "townhouse": 1056600,
+        "apartment": 710000
+      },
+      "east": {
+        "detached": 1718800,
+        "townhouse": 1035100,
+        "apartment": 650100
+      },
+      "west": {
+        "detached": 3137400,
+        "townhouse": 1413200,
+        "apartment": 782200
+      }
+    },
+    {
+      "month": "2026-01",
+      "greater_vancouver": {
+        "detached": 1850800,
+        "townhouse": 1043400,
+        "apartment": 704600
+      },
+      "east": {
+        "detached": 1697600,
+        "townhouse": 1037100,
+        "apartment": 638700
+      },
+      "west": {
+        "detached": 2956400,
+        "townhouse": 1397300,
+        "apartment": 777200
+      }
+    },
+    {
+      "month": "2026-02",
+      "greater_vancouver": {
+        "detached": 1835900,
+        "townhouse": 1046100,
+        "apartment": 708200
+      },
+      "east": {
+        "detached": 1691000,
+        "townhouse": 1040400,
+        "apartment": 653700
+      },
+      "west": {
+        "detached": 2931700,
+        "townhouse": 1424100,
+        "apartment": 789000
+      }
+    },
+    {
+      "month": "2026-03",
+      "greater_vancouver": {
+        "detached": 1854800,
+        "townhouse": 1047100,
+        "apartment": 706700
+      },
+      "east": {
+        "detached": 1699600,
+        "townhouse": 1044000,
+        "apartment": 669700
+      },
+      "west": {
+        "detached": 2925000,
+        "townhouse": 1396800,
+        "apartment": 779100
+      }
+    },
+    {
+      "month": "2026-04",
+      "greater_vancouver": {
+        "detached": 1840700,
+        "townhouse": 1043400,
+        "apartment": 703000
+      },
+      "east": {
+        "detached": 1681000,
+        "townhouse": 1026200,
+        "apartment": 664800
+      },
+      "west": {
+        "detached": 2979500,
+        "townhouse": 1340400,
+        "apartment": 790300
+      }
+    },
+    {
+      "month": "2026-05",
+      "greater_vancouver": {
+        "detached": 1847900,
+        "townhouse": 1048200,
+        "apartment": 697800
+      },
+      "east": {
+        "detached": 1654900,
+        "townhouse": 1067400,
+        "apartment": 640800
+      },
+      "west": {
+        "detached": 3025000,
+        "townhouse": 1331700,
+        "apartment": 783300
+      }
+    },
+    {
+      "month": "2026-06",
+      "greater_vancouver": {
+        "detached": 1842900,
+        "townhouse": 1046200,
+        "apartment": 695200
+      },
+      "east": {
+        "detached": 1659400,
+        "townhouse": 1054900,
+        "apartment": 637300
+      },
+      "west": {
+        "detached": 3042100,
+        "townhouse": 1351600,
+        "apartment": 779200
+      }
+    },
+    {
+      "month": "2026-07",
+      "greater_vancouver": {
+        "detached": 1822900,
+        "townhouse": 1030400,
+        "apartment": 688000
+      },
+      "east": {
+        "detached": 1642100,
+        "townhouse": 1009100,
+        "apartment": 628600
+      },
+      "west": {
+        "detached": 3011300,
+        "townhouse": 1321100,
+        "apartment": 768700
+      }
+    },
+    {
+      "month": "2026-08",
+      "greater_vancouver": {
+        "detached": 1799400,
+        "townhouse": 1028800,
+        "apartment": 686200
+      },
+      "east": {
+        "detached": 1621400,
+        "townhouse": 985400,
+        "apartment": 628600
+      },
+      "west": {
+        "detached": 2932700,
+        "townhouse": 1334900,
+        "apartment": 774900
+      }
+    }
+  ],
+  "price_sources": {
+    "current": "https://legacy.gvrealtors.ca/market-watch/MLS-HPI-home-price-comparison.hpi.all.all.all.2026-8-1.html",
+    "monthly_url_template": "https://legacy.gvrealtors.ca/market-watch/MLS-HPI-home-price-comparison.hpi.all.all.all.{year}-{month}-1.html",
+    "retrieved": "2026-09-23",
+    "local_average": "Arithmetic mean of east and west by dwelling type; illustrative, not official municipal HPI"
+  },
+  "cpi": {
+    "geography": "Vancouver, British Columbia",
+    "vector": "v41692930",
+    "series": "All-items, not seasonally adjusted",
+    "source": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401",
+    "base_month": "2026-08",
+    "observations": [
+      {
+        "month": "2006-01",
+        "value": 106.2
+      },
+      {
+        "month": "2006-02",
+        "value": 106.3
+      },
+      {
+        "month": "2006-03",
+        "value": 106.9
+      },
+      {
+        "month": "2006-04",
+        "value": 107.5
+      },
+      {
+        "month": "2006-05",
+        "value": 108.4
+      },
+      {
+        "month": "2006-06",
+        "value": 108.4
+      },
+      {
+        "month": "2006-07",
+        "value": 108.5
+      },
+      {
+        "month": "2006-08",
+        "value": 108.7
+      },
+      {
+        "month": "2006-09",
+        "value": 108.4
+      },
+      {
+        "month": "2006-10",
+        "value": 108.4
+      },
+      {
+        "month": "2006-11",
+        "value": 108.9
+      },
+      {
+        "month": "2006-12",
+        "value": 109.1
+      },
+      {
+        "month": "2007-01",
+        "value": 109.0
+      },
+      {
+        "month": "2007-02",
+        "value": 109.3
+      },
+      {
+        "month": "2007-03",
+        "value": 109.6
+      },
+      {
+        "month": "2007-04",
+        "value": 110.0
+      },
+      {
+        "month": "2007-05",
+        "value": 110.6
+      },
+      {
+        "month": "2007-06",
+        "value": 110.5
+      },
+      {
+        "month": "2007-07",
+        "value": 110.7
+      },
+      {
+        "month": "2007-08",
+        "value": 110.6
+      },
+      {
+        "month": "2007-09",
+        "value": 110.7
+      },
+      {
+        "month": "2007-10",
+        "value": 110.4
+      },
+      {
+        "month": "2007-11",
+        "value": 110.4
+      },
+      {
+        "month": "2007-12",
+        "value": 110.5
+      },
+      {
+        "month": "2008-01",
+        "value": 110.2
+      },
+      {
+        "month": "2008-02",
+        "value": 110.7
+      },
+      {
+        "month": "2008-03",
+        "value": 111.2
+      },
+      {
+        "month": "2008-04",
+        "value": 112.1
+      },
+      {
+        "month": "2008-05",
+        "value": 113.2
+      },
+      {
+        "month": "2008-06",
+        "value": 113.9
+      },
+      {
+        "month": "2008-07",
+        "value": 114.7
+      },
+      {
+        "month": "2008-08",
+        "value": 114.5
+      },
+      {
+        "month": "2008-09",
+        "value": 114.6
+      },
+      {
+        "month": "2008-10",
+        "value": 113.4
+      },
+      {
+        "month": "2008-11",
+        "value": 112.9
+      },
+      {
+        "month": "2008-12",
+        "value": 111.9
+      },
+      {
+        "month": "2009-01",
+        "value": 112.0
+      },
+      {
+        "month": "2009-02",
+        "value": 112.5
+      },
+      {
+        "month": "2009-03",
+        "value": 112.6
+      },
+      {
+        "month": "2009-04",
+        "value": 112.6
+      },
+      {
+        "month": "2009-05",
+        "value": 113.3
+      },
+      {
+        "month": "2009-06",
+        "value": 113.3
+      },
+      {
+        "month": "2009-07",
+        "value": 112.9
+      },
+      {
+        "month": "2009-08",
+        "value": 113.6
+      },
+      {
+        "month": "2009-09",
+        "value": 113.5
+      },
+      {
+        "month": "2009-10",
+        "value": 112.7
+      },
+      {
+        "month": "2009-11",
+        "value": 113.1
+      },
+      {
+        "month": "2009-12",
+        "value": 112.7
+      },
+      {
+        "month": "2010-01",
+        "value": 113.1
+      },
+      {
+        "month": "2010-02",
+        "value": 113.9
+      },
+      {
+        "month": "2010-03",
+        "value": 113.6
+      },
+      {
+        "month": "2010-04",
+        "value": 114.2
+      },
+      {
+        "month": "2010-05",
+        "value": 114.6
+      },
+      {
+        "month": "2010-06",
+        "value": 114.5
+      },
+      {
+        "month": "2010-07",
+        "value": 115.7
+      },
+      {
+        "month": "2010-08",
+        "value": 115.7
+      },
+      {
+        "month": "2010-09",
+        "value": 115.6
+      },
+      {
+        "month": "2010-10",
+        "value": 116.1
+      },
+      {
+        "month": "2010-11",
+        "value": 116.0
+      },
+      {
+        "month": "2010-12",
+        "value": 115.5
+      },
+      {
+        "month": "2011-01",
+        "value": 115.8
+      },
+      {
+        "month": "2011-02",
+        "value": 116.0
+      },
+      {
+        "month": "2011-03",
+        "value": 117.0
+      },
+      {
+        "month": "2011-04",
+        "value": 117.2
+      },
+      {
+        "month": "2011-05",
+        "value": 118.0
+      },
+      {
+        "month": "2011-06",
+        "value": 117.5
+      },
+      {
+        "month": "2011-07",
+        "value": 117.5
+      },
+      {
+        "month": "2011-08",
+        "value": 117.7
+      },
+      {
+        "month": "2011-09",
+        "value": 118.3
+      },
+      {
+        "month": "2011-10",
+        "value": 118.5
+      },
+      {
+        "month": "2011-11",
+        "value": 118.7
+      },
+      {
+        "month": "2011-12",
+        "value": 117.7
+      },
+      {
+        "month": "2012-01",
+        "value": 117.9
+      },
+      {
+        "month": "2012-02",
+        "value": 118.4
+      },
+      {
+        "month": "2012-03",
+        "value": 119.1
+      },
+      {
+        "month": "2012-04",
+        "value": 119.4
+      },
+      {
+        "month": "2012-05",
+        "value": 119.8
+      },
+      {
+        "month": "2012-06",
+        "value": 119.5
+      },
+      {
+        "month": "2012-07",
+        "value": 119.2
+      },
+      {
+        "month": "2012-08",
+        "value": 119.4
+      },
+      {
+        "month": "2012-09",
+        "value": 119.3
+      },
+      {
+        "month": "2012-10",
+        "value": 119.3
+      },
+      {
+        "month": "2012-11",
+        "value": 118.9
+      },
+      {
+        "month": "2012-12",
+        "value": 118.3
+      },
+      {
+        "month": "2013-01",
+        "value": 118.5
+      },
+      {
+        "month": "2013-02",
+        "value": 119.8
+      },
+      {
+        "month": "2013-03",
+        "value": 120.0
+      },
+      {
+        "month": "2013-04",
+        "value": 118.5
+      },
+      {
+        "month": "2013-05",
+        "value": 119.3
+      },
+      {
+        "month": "2013-06",
+        "value": 119.0
+      },
+      {
+        "month": "2013-07",
+        "value": 119.3
+      },
+      {
+        "month": "2013-08",
+        "value": 119.5
+      },
+      {
+        "month": "2013-09",
+        "value": 119.6
+      },
+      {
+        "month": "2013-10",
+        "value": 119.3
+      },
+      {
+        "month": "2013-11",
+        "value": 119.0
+      },
+      {
+        "month": "2013-12",
+        "value": 118.5
+      },
+      {
+        "month": "2014-01",
+        "value": 118.7
+      },
+      {
+        "month": "2014-02",
+        "value": 119.5
+      },
+      {
+        "month": "2014-03",
+        "value": 120.3
+      },
+      {
+        "month": "2014-04",
+        "value": 120.7
+      },
+      {
+        "month": "2014-05",
+        "value": 121.2
+      },
+      {
+        "month": "2014-06",
+        "value": 121.4
+      },
+      {
+        "month": "2014-07",
+        "value": 121.2
+      },
+      {
+        "month": "2014-08",
+        "value": 121.2
+      },
+      {
+        "month": "2014-09",
+        "value": 121.2
+      },
+      {
+        "month": "2014-10",
+        "value": 120.6
+      },
+      {
+        "month": "2014-11",
+        "value": 120.5
+      },
+      {
+        "month": "2014-12",
+        "value": 119.6
+      },
+      {
+        "month": "2015-01",
+        "value": 119.7
+      },
+      {
+        "month": "2015-02",
+        "value": 120.6
+      },
+      {
+        "month": "2015-03",
+        "value": 121.5
+      },
+      {
+        "month": "2015-04",
+        "value": 121.3
+      },
+      {
+        "month": "2015-05",
+        "value": 122.4
+      },
+      {
+        "month": "2015-06",
+        "value": 122.4
+      },
+      {
+        "month": "2015-07",
+        "value": 122.5
+      },
+      {
+        "month": "2015-08",
+        "value": 122.7
+      },
+      {
+        "month": "2015-09",
+        "value": 122.7
+      },
+      {
+        "month": "2015-10",
+        "value": 122.4
+      },
+      {
+        "month": "2015-11",
+        "value": 122.7
+      },
+      {
+        "month": "2015-12",
+        "value": 122.4
+      },
+      {
+        "month": "2016-01",
+        "value": 122.7
+      },
+      {
+        "month": "2016-02",
+        "value": 122.8
+      },
+      {
+        "month": "2016-03",
+        "value": 124.0
+      },
+      {
+        "month": "2016-04",
+        "value": 124.0
+      },
+      {
+        "month": "2016-05",
+        "value": 124.9
+      },
+      {
+        "month": "2016-06",
+        "value": 125.3
+      },
+      {
+        "month": "2016-07",
+        "value": 125.7
+      },
+      {
+        "month": "2016-08",
+        "value": 125.6
+      },
+      {
+        "month": "2016-09",
+        "value": 125.4
+      },
+      {
+        "month": "2016-10",
+        "value": 125.4
+      },
+      {
+        "month": "2016-11",
+        "value": 124.6
+      },
+      {
+        "month": "2016-12",
+        "value": 124.7
+      },
+      {
+        "month": "2017-01",
+        "value": 125.3
+      },
+      {
+        "month": "2017-02",
+        "value": 125.5
+      },
+      {
+        "month": "2017-03",
+        "value": 126.1
+      },
+      {
+        "month": "2017-04",
+        "value": 126.3
+      },
+      {
+        "month": "2017-05",
+        "value": 127.1
+      },
+      {
+        "month": "2017-06",
+        "value": 127.5
+      },
+      {
+        "month": "2017-07",
+        "value": 128.1
+      },
+      {
+        "month": "2017-08",
+        "value": 128.6
+      },
+      {
+        "month": "2017-09",
+        "value": 128.3
+      },
+      {
+        "month": "2017-10",
+        "value": 128.4
+      },
+      {
+        "month": "2017-11",
+        "value": 128.4
+      },
+      {
+        "month": "2017-12",
+        "value": 127.8
+      },
+      {
+        "month": "2018-01",
+        "value": 128.7
+      },
+      {
+        "month": "2018-02",
+        "value": 129.6
+      },
+      {
+        "month": "2018-03",
+        "value": 130.1
+      },
+      {
+        "month": "2018-04",
+        "value": 130.3
+      },
+      {
+        "month": "2018-05",
+        "value": 130.9
+      },
+      {
+        "month": "2018-06",
+        "value": 131.3
+      },
+      {
+        "month": "2018-07",
+        "value": 132.3
+      },
+      {
+        "month": "2018-08",
+        "value": 132.2
+      },
+      {
+        "month": "2018-09",
+        "value": 131.7
+      },
+      {
+        "month": "2018-10",
+        "value": 131.9
+      },
+      {
+        "month": "2018-11",
+        "value": 131.4
+      },
+      {
+        "month": "2018-12",
+        "value": 131.7
+      },
+      {
+        "month": "2019-01",
+        "value": 131.7
+      },
+      {
+        "month": "2019-02",
+        "value": 132.4
+      },
+      {
+        "month": "2019-03",
+        "value": 133.3
+      },
+      {
+        "month": "2019-04",
+        "value": 133.6
+      },
+      {
+        "month": "2019-05",
+        "value": 134.4
+      },
+      {
+        "month": "2019-06",
+        "value": 134.8
+      },
+      {
+        "month": "2019-07",
+        "value": 135.2
+      },
+      {
+        "month": "2019-08",
+        "value": 135.0
+      },
+      {
+        "month": "2019-09",
+        "value": 134.7
+      },
+      {
+        "month": "2019-10",
+        "value": 134.9
+      },
+      {
+        "month": "2019-11",
+        "value": 134.4
+      },
+      {
+        "month": "2019-12",
+        "value": 134.2
+      },
+      {
+        "month": "2020-01",
+        "value": 134.6
+      },
+      {
+        "month": "2020-02",
+        "value": 135.3
+      },
+      {
+        "month": "2020-03",
+        "value": 134.7
+      },
+      {
+        "month": "2020-04",
+        "value": 133.8
+      },
+      {
+        "month": "2020-05",
+        "value": 134.1
+      },
+      {
+        "month": "2020-06",
+        "value": 135.1
+      },
+      {
+        "month": "2020-07",
+        "value": 134.8
+      },
+      {
+        "month": "2020-08",
+        "value": 134.7
+      },
+      {
+        "month": "2020-09",
+        "value": 134.8
+      },
+      {
+        "month": "2020-10",
+        "value": 135.3
+      },
+      {
+        "month": "2020-11",
+        "value": 136.0
+      },
+      {
+        "month": "2020-12",
+        "value": 135.3
+      },
+      {
+        "month": "2021-01",
+        "value": 136.0
+      },
+      {
+        "month": "2021-02",
+        "value": 136.3
+      },
+      {
+        "month": "2021-03",
+        "value": 137.4
+      },
+      {
+        "month": "2021-04",
+        "value": 137.6
+      },
+      {
+        "month": "2021-05",
+        "value": 137.3
+      },
+      {
+        "month": "2021-06",
+        "value": 138.1
+      },
+      {
+        "month": "2021-07",
+        "value": 139.0
+      },
+      {
+        "month": "2021-08",
+        "value": 139.2
+      },
+      {
+        "month": "2021-09",
+        "value": 139.6
+      },
+      {
+        "month": "2021-10",
+        "value": 140.4
+      },
+      {
+        "month": "2021-11",
+        "value": 140.4
+      },
+      {
+        "month": "2021-12",
+        "value": 140.5
+      },
+      {
+        "month": "2022-01",
+        "value": 141.9
+      },
+      {
+        "month": "2022-02",
+        "value": 142.9
+      },
+      {
+        "month": "2022-03",
+        "value": 145.3
+      },
+      {
+        "month": "2022-04",
+        "value": 146.7
+      },
+      {
+        "month": "2022-05",
+        "value": 148.5
+      },
+      {
+        "month": "2022-06",
+        "value": 148.8
+      },
+      {
+        "month": "2022-07",
+        "value": 149.7
+      },
+      {
+        "month": "2022-08",
+        "value": 149.5
+      },
+      {
+        "month": "2022-09",
+        "value": 150.3
+      },
+      {
+        "month": "2022-10",
+        "value": 150.7
+      },
+      {
+        "month": "2022-11",
+        "value": 150.3
+      },
+      {
+        "month": "2022-12",
+        "value": 149.5
+      },
+      {
+        "month": "2023-01",
+        "value": 150.3
+      },
+      {
+        "month": "2023-02",
+        "value": 151.3
+      },
+      {
+        "month": "2023-03",
+        "value": 152.3
+      },
+      {
+        "month": "2023-04",
+        "value": 153.3
+      },
+      {
+        "month": "2023-05",
+        "value": 153.8
+      },
+      {
+        "month": "2023-06",
+        "value": 154.7
+      },
+      {
+        "month": "2023-07",
+        "value": 155.2
+      },
+      {
+        "month": "2023-08",
+        "value": 155.6
+      },
+      {
+        "month": "2023-09",
+        "value": 156.3
+      },
+      {
+        "month": "2023-10",
+        "value": 155.8
+      },
+      {
+        "month": "2023-11",
+        "value": 155.6
+      },
+      {
+        "month": "2023-12",
+        "value": 154.9
+      },
+      {
+        "month": "2024-01",
+        "value": 155.3
+      },
+      {
+        "month": "2024-02",
+        "value": 155.7
+      },
+      {
+        "month": "2024-03",
+        "value": 156.6
+      },
+      {
+        "month": "2024-04",
+        "value": 157.4
+      },
+      {
+        "month": "2024-05",
+        "value": 158.5
+      },
+      {
+        "month": "2024-06",
+        "value": 158.2
+      },
+      {
+        "month": "2024-07",
+        "value": 159.1
+      },
+      {
+        "month": "2024-08",
+        "value": 159.1
+      },
+      {
+        "month": "2024-09",
+        "value": 158.9
+      },
+      {
+        "month": "2024-10",
+        "value": 159.2
+      },
+      {
+        "month": "2024-11",
+        "value": 159.2
+      },
+      {
+        "month": "2024-12",
+        "value": 159.8
+      },
+      {
+        "month": "2025-01",
+        "value": 158.7
+      },
+      {
+        "month": "2025-02",
+        "value": 160.2
+      },
+      {
+        "month": "2025-03",
+        "value": 160.4
+      },
+      {
+        "month": "2025-04",
+        "value": 160.8
+      },
+      {
+        "month": "2025-05",
+        "value": 162.2
+      },
+      {
+        "month": "2025-06",
+        "value": 161.9
+      },
+      {
+        "month": "2025-07",
+        "value": 162.1
+      },
+      {
+        "month": "2025-08",
+        "value": 162.4
+      },
+      {
+        "month": "2025-09",
+        "value": 161.9
+      },
+      {
+        "month": "2025-10",
+        "value": 162.3
+      },
+      {
+        "month": "2025-11",
+        "value": 162.3
+      },
+      {
+        "month": "2025-12",
+        "value": 161.6
+      },
+      {
+        "month": "2026-01",
+        "value": 161.9
+      },
+      {
+        "month": "2026-02",
+        "value": 163.2
+      },
+      {
+        "month": "2026-03",
+        "value": 164.7
+      },
+      {
+        "month": "2026-04",
+        "value": 164.6
+      },
+      {
+        "month": "2026-05",
+        "value": 166.7
+      },
+      {
+        "month": "2026-06",
+        "value": 166.7
+      },
+      {
+        "month": "2026-07",
+        "value": 166.9
+      },
+      {
+        "month": "2026-08",
+        "value": 167.0
+      }
+    ]
+  },
+  "royal_lepage": {
+    "geography": "Vancouver (city row, not Greater Vancouver)",
+    "measure": "Aggregate price: weighted median values across housing types",
+    "vintage": "Contemporaneous quarterly releases, not a harmonized revised history",
+    "methodology_break": "2021-Q2",
+    "observations": [
+      {
+        "quarter": "2016-Q1",
+        "date": "2016-03-31",
+        "nominal": 1271374,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/Q1_2016_HPS_analysis_chart_EN.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/redistribution-of-canadas-workforce-drives-further-price-appreciation-in-greater-vancouver-and-the-greater-toronto-area/"
+      },
+      {
+        "quarter": "2016-Q2",
+        "date": "2016-06-30",
+        "nominal": 1330531,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/HPS_Q2_2016_Price_Composite_EN.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/cooling-of-canadas-hottest-real-estate-markets-delayed-again/"
+      },
+      {
+        "quarter": "2016-Q3",
+        "date": "2016-09-30",
+        "nominal": 1464507,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/HPS_Q3_2016_Price_Composite_EN.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/canadas-housing-market-continues-to-expand-in-third-quarter-in-the-face-of-regulatory-headwinds/"
+      },
+      {
+        "quarter": "2016-Q4",
+        "date": "2016-12-31",
+        "nominal": 1506498,
+        "source": "https://www.royallepage.ca/en/realestate/news/moving-away-from-the-regional-extremes-of-real-estate-feast-and-famine/",
+        "release": "https://www.royallepage.ca/en/realestate/news/moving-away-from-the-regional-extremes-of-real-estate-feast-and-famine/"
+      },
+      {
+        "quarter": "2017-Q1",
+        "date": "2017-03-31",
+        "nominal": 1412527,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/HPS_Q1_2017_Price_Composite_EN.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/canadas-two-largest-real-estate-markets-head-in-opposite-directions-in-the-first-quarter-of-2017/"
+      },
+      {
+        "quarter": "2017-Q2",
+        "date": "2017-06-30",
+        "nominal": 1385431,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/HPS_Q2_2017_Price_Composite_EN.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/canadas-residential-real-estate-market-makes-the-move-to-moderation-in-the-second-quarter-of-2017/"
+      },
+      {
+        "quarter": "2017-Q3",
+        "date": "2017-09-30",
+        "nominal": 1439652,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/HPS_Q3_2017_Price_Composite_EN.pdf",
+        "release": "https://www.royallepage.ca/realestate/news/expanding-regional-economies-to-lift-home-prices-in-canadas-major-markets/"
+      },
+      {
+        "quarter": "2017-Q4",
+        "date": "2017-12-31",
+        "nominal": 1480712,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/HPS_Q4_2017_Price_Composite_EN.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/fourth-quarter-housing-market-trends-seal-2017-as-the-year-of-the-condo/"
+      },
+      {
+        "quarter": "2018-Q1",
+        "date": "2018-03-31",
+        "nominal": 1487048,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/Royal_LePage_Q1_2018_Price_Composite.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/median-canadian-home-price-posts-year-over-year-gain-despite-corrections-in-gta-and-greater-vancouver/"
+      },
+      {
+        "quarter": "2018-Q2",
+        "date": "2018-06-30",
+        "nominal": 1416729,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/Royal_LePage_HPS_Composite_Q2_2018.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/expect-an-uptick-in-national-home-prices-next-quarter-following-sluggish-first-half-of-2018/"
+      },
+      {
+        "quarter": "2018-Q3",
+        "date": "2018-09-30",
+        "nominal": 1417476,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/Royal_LePage_HPS_Composite_and_Market_Survey_Forecast_Q3_2018.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/canadian-home-buyers-continue-to-catch-their-breath-in-the-third-quarter-of-2018/"
+      },
+      {
+        "quarter": "2018-Q4",
+        "date": "2018-12-31",
+        "nominal": 1418251,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/Royal_LePage_Q4_2018_Price_Composite.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/canadian-home-prices-see-healthy-gains-in-the-fourth-quarter-as-market-begins-recovery-from-the-most-significant-housing-correction-in-a-decade/"
+      },
+      {
+        "quarter": "2019-Q1",
+        "date": "2019-03-31",
+        "nominal": 1390231,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/RLP_National_House_Price_Composite_Q1_2019.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/sluggish-start-to-2019-provides-silver-lining-for-first-time-home-buyers-in-the-countrys-largest-cities/"
+      },
+      {
+        "quarter": "2019-Q2",
+        "date": "2019-06-30",
+        "nominal": 1342161,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/Royal_LePage_HPS_Composite_Q2_2019.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/canadian-real-estate-market-shows-signs-of-a-sustainable-recovery-with-modest-price-gain-of-1-1-in-second-quarter/"
+      },
+      {
+        "quarter": "2019-Q3",
+        "date": "2019-09-30",
+        "nominal": 1345808,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/Royal_LePage_HPS_Composite_Q3_2019.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/royal-lepage-ceo-urges-caution-with-election-promises-aimed-at-stimulating-housing-demand-that-lack-concrete-plans-to-address-supply-shortages/"
+      },
+      {
+        "quarter": "2019-Q4",
+        "date": "2019-12-31",
+        "nominal": 1298332,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/Royal_LePage_HPS_Composite_Q4_2019.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/canadians-can-expect-a-vibrant-spring-real-estate-market-with-home-prices-rising-modestly/"
+      },
+      {
+        "quarter": "2020-Q1",
+        "date": "2020-03-31",
+        "nominal": 1245608,
+        "source": "https://docs.rlpnetwork.com/rlp.ca/hps/RLP_HPS_chart_Q12020_E.pdf",
+        "release": "https://www.royallepage.ca/en/realestate/news/royal-lepage-market-forecast-national-home-prices-to-show-remarkable-resilience-in-2020/"
+      },
+      {
+        "quarter": "2020-Q2",
+        "date": "2020-06-30",
+        "nominal": 1275832,
+        "source": "https://rlp.ca/q2-2020-house-prices",
+        "release": "https://www.royallepage.ca/en/realestate/news/royal-lepage-national-home-prices-rise-sharply-in-second-quarter-as-housing-supply-struggles-to-keep-up-with-surge-in-demand/"
+      },
+      {
+        "quarter": "2020-Q3",
+        "date": "2020-09-30",
+        "nominal": 1266868,
+        "source": "https://rlp.ca/house-prices-Q3-2020",
+        "release": "https://www.royallepage.ca/en/realestate/news/pandemic-shift-spike-in-savings-diverted-into-housing-driving-national-median-home-prices-up-8-6-according-to-royal-lepage/"
+      },
+      {
+        "quarter": "2020-Q4",
+        "date": "2020-12-31",
+        "nominal": 1306820,
+        "source": "https://rlp.ca/house-prices-Q4-2020",
+        "release": "https://www.royallepage.ca/en/realestate/news/royal-lepage-more-than-half-of-canadas-largest-real-estate-markets-see-double-digit-price-growth-as-national-home-values-soar-9-7-in-fourth-quarter/"
+      },
+      {
+        "quarter": "2021-Q1",
+        "date": "2021-03-31",
+        "nominal": 1271363,
+        "source": "https://rlp.ca/house-prices-Q1-2021",
+        "release": "https://www.royallepage.ca/en/realestate/news/canadian-home-prices-forecast-to-end-year-13-5-higher-than-2020-as-waning-affordability-and-modestly-improving-supply-begin-to-slow-the-pace-of-future-increases/"
+      },
+      {
+        "quarter": "2021-Q2",
+        "date": "2021-06-30",
+        "nominal": 1305000,
+        "source": "https://rlp.ca/house-prices-Q2-2021",
+        "release": "https://www.royallepage.ca/en/realestate/news/canadian-home-price-forecast-revised-upward-to-16-as-roaring-spring-market-eases-into-summer/"
+      },
+      {
+        "quarter": "2021-Q3",
+        "date": "2021-09-30",
+        "nominal": 1326600,
+        "source": "https://rlp.ca/house-prices-Q3-2021",
+        "release": "https://www.royallepage.ca/en/realestate/news/royal-lepage-canadian-home-prices-soar-as-persistent-supply-shortage-results-in-continued-sellers-market/"
+      },
+      {
+        "quarter": "2021-Q4",
+        "date": "2021-12-31",
+        "nominal": 1375000,
+        "source": "https://rlp.ca/house-prices-Q4-2021",
+        "release": "https://www.royallepage.ca/en/realestate/news/spring-housing-market-poised-for-continued-price-growth-following-double-digit-gains-in-fourth-quarter/"
+      },
+      {
+        "quarter": "2022-Q1",
+        "date": "2022-03-31",
+        "nominal": 1478100,
+        "source": "https://rlp.ca/house-prices-Q1-2022",
+        "release": "https://www.royallepage.ca/en/realestate/news/persistent-demand-coupled-with-low-inventory-drives-2022-home-price-forecast-higher-to-15/"
+      },
+      {
+        "quarter": "2022-Q2",
+        "date": "2022-06-30",
+        "nominal": 1457200,
+        "source": "https://rlp.ca/house-prices-Q2-2022",
+        "release": "https://www.royallepage.ca/en/realestate/news/royal-lepage-adjusts-2022-national-home-price-forecast-lower-to-5-over-2021-to-reflect-softening-markets-in-ontario-and-british-columbia/"
+      },
+      {
+        "quarter": "2022-Q3",
+        "date": "2022-09-30",
+        "nominal": 1381500,
+        "source": "https://rlp.ca/house-prices-Q3-2022",
+        "release": "https://www.royallepage.ca/en/realestate/news/national-aggregate-home-price-set-to-end-year-modestly-below-2021-following-third-quarter-price-declines-in-majority-of-canadian-markets/"
+      },
+      {
+        "quarter": "2022-Q4",
+        "date": "2022-12-31",
+        "nominal": 1345600,
+        "source": "https://rlp.ca/house-prices-Q4-2022",
+        "release": "https://www.royallepage.ca/en/realestate/news/canada-ends-2022-with-modest-decline-in-national-aggregate-home-price-prices-remain-well-above-pre-pandemic-levels/"
+      },
+      {
+        "quarter": "2023-Q1",
+        "date": "2023-03-31",
+        "nominal": 1363700,
+        "source": "https://rlp.ca/house-prices-Q1-2023",
+        "release": "https://www.royallepage.ca/en/realestate/news/canadas-real-estate-market-buyers-are-back-but-where-is-the-inventory/"
+      },
+      {
+        "quarter": "2023-Q2",
+        "date": "2023-06-30",
+        "nominal": 1434600,
+        "source": "https://rlp.ca/house-prices-Q2-2023",
+        "release": "https://www.royallepage.ca/en/realestate/news/homebuyers-remain-determined-while-sellers-step-back-in-response-to-additional-interest-rate-hikes-royal-lepage/"
+      },
+      {
+        "quarter": "2023-Q3",
+        "date": "2023-09-30",
+        "nominal": 1401500,
+        "source": "https://rlp.ca/house-prices-Q3-2023",
+        "release": "https://www.royallepage.ca/en/realestate/news/national-year-end-price-forecast-downgraded-modestly-following-sluggish-third-quarter-royal-lepage/"
+      },
+      {
+        "quarter": "2023-Q4",
+        "date": "2023-12-31",
+        "nominal": 1391700,
+        "source": "https://www.royallepage.ca/en/realestate/news/national-home-prices-close-out-2023-above-prior-year-despite-continued-slowdown-in-market-activity/",
+        "release": "https://www.royallepage.ca/en/realestate/news/national-home-prices-close-out-2023-above-prior-year-despite-continued-slowdown-in-market-activity/"
+      },
+      {
+        "quarter": "2024-Q1",
+        "date": "2024-03-31",
+        "nominal": 1402400,
+        "source": "https://www.royallepage.ca/en/realestate/news/royal-lepage-upgrades-national-year-end-home-price-forecast-as-canadian-real-estate-market-hits-critical-tipping-point/",
+        "release": "https://www.royallepage.ca/en/realestate/news/royal-lepage-upgrades-national-year-end-home-price-forecast-as-canadian-real-estate-market-hits-critical-tipping-point/"
+      },
+      {
+        "quarter": "2024-Q2",
+        "date": "2024-06-30",
+        "nominal": 1438700,
+        "source": "https://rlp.ca/house-prices-Q2-2024",
+        "release": "https://www.royallepage.ca/en/realestate/news/the-spring-market-that-never-was-canadian-real-estate-remains-in-prolonged-catch-up-period-as-buyers-idle-on-the-sidelines/"
+      },
+      {
+        "quarter": "2024-Q3",
+        "date": "2024-09-30",
+        "nominal": 1409800,
+        "source": "https://rlp.ca/house-prices-Q3-2024",
+        "release": "https://www.royallepage.ca/en/realestate/news/real-estate-rebound-canadas-sluggish-housing-markets-in-recovery-mode-following-third-straight-interest-rate-cut/"
+      },
+      {
+        "quarter": "2024-Q4",
+        "date": "2024-12-31",
+        "nominal": 1416900,
+        "source": "https://rlp.ca/house-prices-Q4-2024",
+        "release": "https://www.royallepage.ca/en/realestate/news/rates-regulations-and-renewed-demand-driving-revival-of-canadas-real-estate-market-despite-economic-and-political-uncertainty/"
+      },
+      {
+        "quarter": "2025-Q1",
+        "date": "2025-03-31",
+        "nominal": 1422600,
+        "source": "https://rlp.ca/house-prices-Q1-2025",
+        "release": "https://www.royallepage.ca/en/realestate/news/a-tale-of-two-markets-real-estate-activity-trending-up-in-canadas-more-affordable-regions-treading-water-in-the-most-expensive/"
+      },
+      {
+        "quarter": "2025-Q2",
+        "date": "2025-06-30",
+        "nominal": 1411200,
+        "source": "https://rlp.ca/house-prices-Q2-2025",
+        "release": "https://www.royallepage.ca/en/realestate/news/better-late-than-never-spring-market-stumbles-to-a-sluggish-start-with-economic-unease-a-drag-on-homebuying-activity-in-q2/"
+      },
+      {
+        "quarter": "2025-Q3",
+        "date": "2025-09-30",
+        "nominal": 1383200,
+        "source": "https://rlp.ca/house-prices-Q3-2025",
+        "release": "https://www.royallepage.ca/en/realestate/news/canadian-housing-market-update-home-sales-activity-is-rising-but-prices-are-not/"
+      },
+      {
+        "quarter": "2025-Q4",
+        "date": "2025-12-31",
+        "nominal": 1365200,
+        "source": "https://rlp.ca/house-prices-Q4-2025",
+        "release": "https://www.royallepage.ca/en/realestate/news/momentum-expected-to-return-to-canadas-housing-market-this-spring-tempered-by-economic-anxiety-and-cautious-buyers/"
+      },
+      {
+        "quarter": "2026-Q1",
+        "date": "2026-03-31",
+        "nominal": 1366800,
+        "source": "https://rlp.ca/house-prices-Q1-2026",
+        "release": "https://www.royallepage.ca/en/realestate/news/long-winter-and-economic-uncertainty-delay-canadas-spring-housing-market/"
+      },
+      {
+        "quarter": "2026-Q2",
+        "date": "2026-06-30",
+        "nominal": 1340800,
+        "source": "https://rlp.ca/house-prices-Q2-2026",
+        "release": "https://www.royallepage.ca/en/realestate/news/better-late-than-never-canadas-delayed-spring-housing-market-could-set-the-stage-for-a-more-active-second-half-of-the-year/"
+      }
+    ]
+  },
+  "regional_composite": {
+    "geography": "Greater Vancouver real estate market area",
+    "measure": "MLS HPI composite benchmark, not seasonally adjusted",
+    "source": "https://www.crea.ca/files/mls-hpi-data/MLS_HPI_Sept_2026.zip",
+    "observations": [
+      {
+        "month": "2006-01",
+        "nominal": 398800
+      },
+      {
+        "month": "2006-02",
+        "nominal": 407300
+      },
+      {
+        "month": "2006-03",
+        "nominal": 415700
+      },
+      {
+        "month": "2006-04",
+        "nominal": 424600
+      },
+      {
+        "month": "2006-05",
+        "nominal": 433000
+      },
+      {
+        "month": "2006-06",
+        "nominal": 441100
+      },
+      {
+        "month": "2006-07",
+        "nominal": 445200
+      },
+      {
+        "month": "2006-08",
+        "nominal": 448900
+      },
+      {
+        "month": "2006-09",
+        "nominal": 452400
+      },
+      {
+        "month": "2006-10",
+        "nominal": 451800
+      },
+      {
+        "month": "2006-11",
+        "nominal": 450900
+      },
+      {
+        "month": "2006-12",
+        "nominal": 450100
+      },
+      {
+        "month": "2007-01",
+        "nominal": 457300
+      },
+      {
+        "month": "2007-02",
+        "nominal": 464500
+      },
+      {
+        "month": "2007-03",
+        "nominal": 471500
+      },
+      {
+        "month": "2007-04",
+        "nominal": 479800
+      },
+      {
+        "month": "2007-05",
+        "nominal": 486600
+      },
+      {
+        "month": "2007-06",
+        "nominal": 494300
+      },
+      {
+        "month": "2007-07",
+        "nominal": 498400
+      },
+      {
+        "month": "2007-08",
+        "nominal": 502500
+      },
+      {
+        "month": "2007-09",
+        "nominal": 506800
+      },
+      {
+        "month": "2007-10",
+        "nominal": 508100
+      },
+      {
+        "month": "2007-11",
+        "nominal": 510500
+      },
+      {
+        "month": "2007-12",
+        "nominal": 513600
+      },
+      {
+        "month": "2008-01",
+        "nominal": 520400
+      },
+      {
+        "month": "2008-02",
+        "nominal": 526300
+      },
+      {
+        "month": "2008-03",
+        "nominal": 533800
+      },
+      {
+        "month": "2008-04",
+        "nominal": 534900
+      },
+      {
+        "month": "2008-05",
+        "nominal": 535200
+      },
+      {
+        "month": "2008-06",
+        "nominal": 535600
+      },
+      {
+        "month": "2008-07",
+        "nominal": 525700
+      },
+      {
+        "month": "2008-08",
+        "nominal": 517100
+      },
+      {
+        "month": "2008-09",
+        "nominal": 508700
+      },
+      {
+        "month": "2008-10",
+        "nominal": 492700
+      },
+      {
+        "month": "2008-11",
+        "nominal": 478400
+      },
+      {
+        "month": "2008-12",
+        "nominal": 465400
+      },
+      {
+        "month": "2009-01",
+        "nominal": 464100
+      },
+      {
+        "month": "2009-02",
+        "nominal": 463000
+      },
+      {
+        "month": "2009-03",
+        "nominal": 462100
+      },
+      {
+        "month": "2009-04",
+        "nominal": 469700
+      },
+      {
+        "month": "2009-05",
+        "nominal": 477500
+      },
+      {
+        "month": "2009-06",
+        "nominal": 485500
+      },
+      {
+        "month": "2009-07",
+        "nominal": 495100
+      },
+      {
+        "month": "2009-08",
+        "nominal": 505000
+      },
+      {
+        "month": "2009-09",
+        "nominal": 515700
+      },
+      {
+        "month": "2009-10",
+        "nominal": 521200
+      },
+      {
+        "month": "2009-11",
+        "nominal": 527500
+      },
+      {
+        "month": "2009-12",
+        "nominal": 533600
+      },
+      {
+        "month": "2010-01",
+        "nominal": 542900
+      },
+      {
+        "month": "2010-02",
+        "nominal": 550300
+      },
+      {
+        "month": "2010-03",
+        "nominal": 561600
+      },
+      {
+        "month": "2010-04",
+        "nominal": 566700
+      },
+      {
+        "month": "2010-05",
+        "nominal": 568200
+      },
+      {
+        "month": "2010-06",
+        "nominal": 564700
+      },
+      {
+        "month": "2010-07",
+        "nominal": 560600
+      },
+      {
+        "month": "2010-08",
+        "nominal": 559200
+      },
+      {
+        "month": "2010-09",
+        "nominal": 557900
+      },
+      {
+        "month": "2010-10",
+        "nominal": 559300
+      },
+      {
+        "month": "2010-11",
+        "nominal": 562500
+      },
+      {
+        "month": "2010-12",
+        "nominal": 568400
+      },
+      {
+        "month": "2011-01",
+        "nominal": 581200
+      },
+      {
+        "month": "2011-02",
+        "nominal": 600800
+      },
+      {
+        "month": "2011-03",
+        "nominal": 612600
+      },
+      {
+        "month": "2011-04",
+        "nominal": 625300
+      },
+      {
+        "month": "2011-05",
+        "nominal": 636600
+      },
+      {
+        "month": "2011-06",
+        "nominal": 643500
+      },
+      {
+        "month": "2011-07",
+        "nominal": 649200
+      },
+      {
+        "month": "2011-08",
+        "nominal": 652900
+      },
+      {
+        "month": "2011-09",
+        "nominal": 650200
+      },
+      {
+        "month": "2011-10",
+        "nominal": 649300
+      },
+      {
+        "month": "2011-11",
+        "nominal": 648900
+      },
+      {
+        "month": "2011-12",
+        "nominal": 645800
+      },
+      {
+        "month": "2012-01",
+        "nominal": 649400
+      },
+      {
+        "month": "2012-02",
+        "nominal": 663500
+      },
+      {
+        "month": "2012-03",
+        "nominal": 667900
+      },
+      {
+        "month": "2012-04",
+        "nominal": 670800
+      },
+      {
+        "month": "2012-05",
+        "nominal": 665000
+      },
+      {
+        "month": "2012-06",
+        "nominal": 660100
+      },
+      {
+        "month": "2012-07",
+        "nominal": 650100
+      },
+      {
+        "month": "2012-08",
+        "nominal": 647000
+      },
+      {
+        "month": "2012-09",
+        "nominal": 643100
+      },
+      {
+        "month": "2012-10",
+        "nominal": 639200
+      },
+      {
+        "month": "2012-11",
+        "nominal": 633600
+      },
+      {
+        "month": "2012-12",
+        "nominal": 629300
+      },
+      {
+        "month": "2013-01",
+        "nominal": 628200
+      },
+      {
+        "month": "2013-02",
+        "nominal": 638300
+      },
+      {
+        "month": "2013-03",
+        "nominal": 639700
+      },
+      {
+        "month": "2013-04",
+        "nominal": 643600
+      },
+      {
+        "month": "2013-05",
+        "nominal": 646400
+      },
+      {
+        "month": "2013-06",
+        "nominal": 648200
+      },
+      {
+        "month": "2013-07",
+        "nominal": 651100
+      },
+      {
+        "month": "2013-08",
+        "nominal": 652300
+      },
+      {
+        "month": "2013-09",
+        "nominal": 654700
+      },
+      {
+        "month": "2013-10",
+        "nominal": 654700
+      },
+      {
+        "month": "2013-11",
+        "nominal": 657800
+      },
+      {
+        "month": "2013-12",
+        "nominal": 657900
+      },
+      {
+        "month": "2014-01",
+        "nominal": 664100
+      },
+      {
+        "month": "2014-02",
+        "nominal": 669700
+      },
+      {
+        "month": "2014-03",
+        "nominal": 675600
+      },
+      {
+        "month": "2014-04",
+        "nominal": 678200
+      },
+      {
+        "month": "2014-05",
+        "nominal": 680800
+      },
+      {
+        "month": "2014-06",
+        "nominal": 681300
+      },
+      {
+        "month": "2014-07",
+        "nominal": 682900
+      },
+      {
+        "month": "2014-08",
+        "nominal": 682000
+      },
+      {
+        "month": "2014-09",
+        "nominal": 686400
+      },
+      {
+        "month": "2014-10",
+        "nominal": 689300
+      },
+      {
+        "month": "2014-11",
+        "nominal": 694500
+      },
+      {
+        "month": "2014-12",
+        "nominal": 697000
+      },
+      {
+        "month": "2015-01",
+        "nominal": 708000
+      },
+      {
+        "month": "2015-02",
+        "nominal": 722500
+      },
+      {
+        "month": "2015-03",
+        "nominal": 739000
+      },
+      {
+        "month": "2015-04",
+        "nominal": 751300
+      },
+      {
+        "month": "2015-05",
+        "nominal": 766300
+      },
+      {
+        "month": "2015-06",
+        "nominal": 780000
+      },
+      {
+        "month": "2015-07",
+        "nominal": 791200
+      },
+      {
+        "month": "2015-08",
+        "nominal": 801200
+      },
+      {
+        "month": "2015-09",
+        "nominal": 811200
+      },
+      {
+        "month": "2015-10",
+        "nominal": 823900
+      },
+      {
+        "month": "2015-11",
+        "nominal": 836400
+      },
+      {
+        "month": "2015-12",
+        "nominal": 849800
+      },
+      {
+        "month": "2016-01",
+        "nominal": 878200
+      },
+      {
+        "month": "2016-02",
+        "nominal": 923300
+      },
+      {
+        "month": "2016-03",
+        "nominal": 957300
+      },
+      {
+        "month": "2016-04",
+        "nominal": 984900
+      },
+      {
+        "month": "2016-05",
+        "nominal": 1005900
+      },
+      {
+        "month": "2016-06",
+        "nominal": 1020400
+      },
+      {
+        "month": "2016-07",
+        "nominal": 1027500
+      },
+      {
+        "month": "2016-08",
+        "nominal": 1014700
+      },
+      {
+        "month": "2016-09",
+        "nominal": 1001200
+      },
+      {
+        "month": "2016-10",
+        "nominal": 973200
+      },
+      {
+        "month": "2016-11",
+        "nominal": 961300
+      },
+      {
+        "month": "2016-12",
+        "nominal": 950800
+      },
+      {
+        "month": "2017-01",
+        "nominal": 954700
+      },
+      {
+        "month": "2017-02",
+        "nominal": 971200
+      },
+      {
+        "month": "2017-03",
+        "nominal": 987500
+      },
+      {
+        "month": "2017-04",
+        "nominal": 1008900
+      },
+      {
+        "month": "2017-05",
+        "nominal": 1027200
+      },
+      {
+        "month": "2017-06",
+        "nominal": 1036100
+      },
+      {
+        "month": "2017-07",
+        "nominal": 1038600
+      },
+      {
+        "month": "2017-08",
+        "nominal": 1033700
+      },
+      {
+        "month": "2017-09",
+        "nominal": 1029800
+      },
+      {
+        "month": "2017-10",
+        "nominal": 1029200
+      },
+      {
+        "month": "2017-11",
+        "nominal": 1026800
+      },
+      {
+        "month": "2017-12",
+        "nominal": 1025200
+      },
+      {
+        "month": "2018-01",
+        "nominal": 1029400
+      },
+      {
+        "month": "2018-02",
+        "nominal": 1031900
+      },
+      {
+        "month": "2018-03",
+        "nominal": 1032900
+      },
+      {
+        "month": "2018-04",
+        "nominal": 1026400
+      },
+      {
+        "month": "2018-05",
+        "nominal": 1017700
+      },
+      {
+        "month": "2018-06",
+        "nominal": 1011500
+      },
+      {
+        "month": "2018-07",
+        "nominal": 1000900
+      },
+      {
+        "month": "2018-08",
+        "nominal": 986600
+      },
+      {
+        "month": "2018-09",
+        "nominal": 969900
+      },
+      {
+        "month": "2018-10",
+        "nominal": 960500
+      },
+      {
+        "month": "2018-11",
+        "nominal": 940700
+      },
+      {
+        "month": "2018-12",
+        "nominal": 929200
+      },
+      {
+        "month": "2019-01",
+        "nominal": 911900
+      },
+      {
+        "month": "2019-02",
+        "nominal": 905200
+      },
+      {
+        "month": "2019-03",
+        "nominal": 901300
+      },
+      {
+        "month": "2019-04",
+        "nominal": 895800
+      },
+      {
+        "month": "2019-05",
+        "nominal": 886400
+      },
+      {
+        "month": "2019-06",
+        "nominal": 882500
+      },
+      {
+        "month": "2019-07",
+        "nominal": 876900
+      },
+      {
+        "month": "2019-08",
+        "nominal": 878800
+      },
+      {
+        "month": "2019-09",
+        "nominal": 882200
+      },
+      {
+        "month": "2019-10",
+        "nominal": 886100
+      },
+      {
+        "month": "2019-11",
+        "nominal": 890500
+      },
+      {
+        "month": "2019-12",
+        "nominal": 894500
+      },
+      {
+        "month": "2020-01",
+        "nominal": 905000
+      },
+      {
+        "month": "2020-02",
+        "nominal": 917100
+      },
+      {
+        "month": "2020-03",
+        "nominal": 922400
+      },
+      {
+        "month": "2020-04",
+        "nominal": 921100
+      },
+      {
+        "month": "2020-05",
+        "nominal": 921900
+      },
+      {
+        "month": "2020-06",
+        "nominal": 922800
+      },
+      {
+        "month": "2020-07",
+        "nominal": 928100
+      },
+      {
+        "month": "2020-08",
+        "nominal": 938700
+      },
+      {
+        "month": "2020-09",
+        "nominal": 946800
+      },
+      {
+        "month": "2020-10",
+        "nominal": 952100
+      },
+      {
+        "month": "2020-11",
+        "nominal": 959700
+      },
+      {
+        "month": "2020-12",
+        "nominal": 964900
+      },
+      {
+        "month": "2021-01",
+        "nominal": 981200
+      },
+      {
+        "month": "2021-02",
+        "nominal": 1012100
+      },
+      {
+        "month": "2021-03",
+        "nominal": 1054100
+      },
+      {
+        "month": "2021-04",
+        "nominal": 1078000
+      },
+      {
+        "month": "2021-05",
+        "nominal": 1086700
+      },
+      {
+        "month": "2021-06",
+        "nominal": 1087300
+      },
+      {
+        "month": "2021-07",
+        "nominal": 1083300
+      },
+      {
+        "month": "2021-08",
+        "nominal": 1087700
+      },
+      {
+        "month": "2021-09",
+        "nominal": 1100600
+      },
+      {
+        "month": "2021-10",
+        "nominal": 1113800
+      },
+      {
+        "month": "2021-11",
+        "nominal": 1126500
+      },
+      {
+        "month": "2021-12",
+        "nominal": 1140800
+      },
+      {
+        "month": "2022-01",
+        "nominal": 1177600
+      },
+      {
+        "month": "2022-02",
+        "nominal": 1225200
+      },
+      {
+        "month": "2022-03",
+        "nominal": 1251300
+      },
+      {
+        "month": "2022-04",
+        "nominal": 1252800
+      },
+      {
+        "month": "2022-05",
+        "nominal": 1247800
+      },
+      {
+        "month": "2022-06",
+        "nominal": 1223500
+      },
+      {
+        "month": "2022-07",
+        "nominal": 1195800
+      },
+      {
+        "month": "2022-08",
+        "nominal": 1169700
+      },
+      {
+        "month": "2022-09",
+        "nominal": 1144100
+      },
+      {
+        "month": "2022-10",
+        "nominal": 1137800
+      },
+      {
+        "month": "2022-11",
+        "nominal": 1120800
+      },
+      {
+        "month": "2022-12",
+        "nominal": 1104500
+      },
+      {
+        "month": "2023-01",
+        "nominal": 1106700
+      },
+      {
+        "month": "2023-02",
+        "nominal": 1124600
+      },
+      {
+        "month": "2023-03",
+        "nominal": 1137800
+      },
+      {
+        "month": "2023-04",
+        "nominal": 1164400
+      },
+      {
+        "month": "2023-05",
+        "nominal": 1179200
+      },
+      {
+        "month": "2023-06",
+        "nominal": 1194500
+      },
+      {
+        "month": "2023-07",
+        "nominal": 1201500
+      },
+      {
+        "month": "2023-08",
+        "nominal": 1200000
+      },
+      {
+        "month": "2023-09",
+        "nominal": 1195300
+      },
+      {
+        "month": "2023-10",
+        "nominal": 1188400
+      },
+      {
+        "month": "2023-11",
+        "nominal": 1176800
+      },
+      {
+        "month": "2023-12",
+        "nominal": 1160500
+      },
+      {
+        "month": "2024-01",
+        "nominal": 1161100
+      },
+      {
+        "month": "2024-02",
+        "nominal": 1176300
+      },
+      {
+        "month": "2024-03",
+        "nominal": 1192700
+      },
+      {
+        "month": "2024-04",
+        "nominal": 1200900
+      },
+      {
+        "month": "2024-05",
+        "nominal": 1206900
+      },
+      {
+        "month": "2024-06",
+        "nominal": 1202100
+      },
+      {
+        "month": "2024-07",
+        "nominal": 1192500
+      },
+      {
+        "month": "2024-08",
+        "nominal": 1191700
+      },
+      {
+        "month": "2024-09",
+        "nominal": 1176700
+      },
+      {
+        "month": "2024-10",
+        "nominal": 1170700
+      },
+      {
+        "month": "2024-11",
+        "nominal": 1169300
+      },
+      {
+        "month": "2024-12",
+        "nominal": 1166900
+      },
+      {
+        "month": "2025-01",
+        "nominal": 1168400
+      },
+      {
+        "month": "2025-02",
+        "nominal": 1180200
+      },
+      {
+        "month": "2025-03",
+        "nominal": 1185400
+      },
+      {
+        "month": "2025-04",
+        "nominal": 1180000
+      },
+      {
+        "month": "2025-05",
+        "nominal": 1173100
+      },
+      {
+        "month": "2025-06",
+        "nominal": 1169400
+      },
+      {
+        "month": "2025-07",
+        "nominal": 1160600
+      },
+      {
+        "month": "2025-08",
+        "nominal": 1145900
+      },
+      {
+        "month": "2025-09",
+        "nominal": 1138300
+      },
+      {
+        "month": "2025-10",
+        "nominal": 1127100
+      },
+      {
+        "month": "2025-11",
+        "nominal": 1123700
+      },
+      {
+        "month": "2025-12",
+        "nominal": 1114800
+      },
+      {
+        "month": "2026-01",
+        "nominal": 1101900
+      },
+      {
+        "month": "2026-02",
+        "nominal": 1100300
+      },
+      {
+        "month": "2026-03",
+        "nominal": 1104300
+      },
+      {
+        "month": "2026-04",
+        "nominal": 1098000
+      },
+      {
+        "month": "2026-05",
+        "nominal": 1100700
+      },
+      {
+        "month": "2026-06",
+        "nominal": 1099100
+      },
+      {
+        "month": "2026-07",
+        "nominal": 1088800
+      },
+      {
+        "month": "2026-08",
+        "nominal": 1081900
+      }
+    ]
+  },
+  "rents": {
+    "geography": "Vancouver city, CSD 5915022",
+    "measure": "CMHC primary rental market average two-bedroom monthly rent",
+    "source": "https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/TableMatchingCriteria?CategoryLevel1=Primary+Rental+Market&CategoryLevel2=Average+Rent+%28%24%29&ColumnField=2&GeographyId=5915022&GeographyType=CensusSubDivision&RowField=TIMESERIES",
+    "observations": [
+      {
+        "month": "2006-10",
+        "nominal": 1243
+      },
+      {
+        "month": "2007-10",
+        "nominal": 1289
+      },
+      {
+        "month": "2008-10",
+        "nominal": 1324
+      },
+      {
+        "month": "2009-10",
+        "nominal": 1405
+      },
+      {
+        "month": "2010-10",
+        "nominal": 1442
+      },
+      {
+        "month": "2011-10",
+        "nominal": 1498
+      },
+      {
+        "month": "2012-10",
+        "nominal": 1526
+      },
+      {
+        "month": "2013-10",
+        "nominal": 1544
+      },
+      {
+        "month": "2014-10",
+        "nominal": 1575
+      },
+      {
+        "month": "2015-10",
+        "nominal": 1647
+      },
+      {
+        "month": "2016-10",
+        "nominal": 1763
+      },
+      {
+        "month": "2017-10",
+        "nominal": 1865
+      },
+      {
+        "month": "2018-10",
+        "nominal": 1967
+      },
+      {
+        "month": "2019-10",
+        "nominal": 2070
+      },
+      {
+        "month": "2020-10",
+        "nominal": 2093
+      },
+      {
+        "month": "2021-10",
+        "nominal": 2108
+      },
+      {
+        "month": "2022-10",
+        "nominal": 2276
+      },
+      {
+        "month": "2023-10",
+        "nominal": 2464
+      },
+      {
+        "month": "2024-10",
+        "nominal": 2554
+      },
+      {
+        "month": "2025-10",
+        "nominal": 2638
+      }
+    ]
+  },
+  "population": {
+    "source": "https://catalogue.data.gov.bc.ca/dataset/86839277-986a-4a29-9f70-fa9b1166f6cb/resource/0e15d04d-127c-457a-b999-20800c929927/download/municipality-population.csv",
+    "geography": "Vancouver city",
+    "observations": [
+      {
+        "year": 2004,
+        "value": 586298
+      },
+      {
+        "year": 2005,
+        "value": 593052
+      },
+      {
+        "year": 2006,
+        "value": 600284
+      },
+      {
+        "year": 2007,
+        "value": 603208
+      },
+      {
+        "year": 2008,
+        "value": 606639
+      },
+      {
+        "year": 2009,
+        "value": 615583
+      },
+      {
+        "year": 2010,
+        "value": 619227
+      },
+      {
+        "year": 2011,
+        "value": 622482
+      },
+      {
+        "year": 2012,
+        "value": 632241
+      },
+      {
+        "year": 2013,
+        "value": 642995
+      },
+      {
+        "year": 2014,
+        "value": 653121
+      },
+      {
+        "year": 2015,
+        "value": 656701
+      },
+      {
+        "year": 2016,
+        "value": 664901
+      },
+      {
+        "year": 2017,
+        "value": 670402
+      },
+      {
+        "year": 2018,
+        "value": 679597
+      },
+      {
+        "year": 2019,
+        "value": 694575
+      },
+      {
+        "year": 2020,
+        "value": 701152
+      },
+      {
+        "year": 2021,
+        "value": 696023
+      },
+      {
+        "year": 2022,
+        "value": 708214
+      },
+      {
+        "year": 2023,
+        "value": 732000
+      },
+      {
+        "year": 2024,
+        "value": 748777
+      },
+      {
+        "year": 2025,
+        "value": 740443
+      }
+    ]
+  }
+}
