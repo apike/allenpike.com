@@ -103,7 +103,7 @@ Another useful tactic is to prune your context. In Claude Code, for example, you
 
 Going further, there are [tools like Unblocked’s context engine](https://getunblocked.com/) that can help deduplicate and reduce how much context needs to be sent to the agent – collapsing the repetitive work of gathering and pruning that every agent session needs to do, making for a more deterministic and cheaper loop.
 
-And while cloud coding agents are awesome, it’s important to watch how their behaviour differs from local agents’. For example, Cursor's cloud harness has a different system prompt that pushes it to continue relentlessly until it strictly needs user input, and to eagerly push intermediate work to GitHub. There are advantages to these behaviours, but we found our coding agents were pushing intermediate PRs to Github ~10x as often as our human-driven sessions. This led to [a huge increase in CI runs](https://forestwalk.ai/blog/surprise-blacksmith-costs/) and LLM-powered guardrail checks until we tamped this down.
+And while cloud coding agents are awesome, it’s important to watch how their behaviour differs from local agents’. For example, Cursor's cloud harness has a different system prompt that pushes it to continue relentlessly until it strictly needs user input, and to eagerly push intermediate work to GitHub. There are advantages to these behaviours, but we found our coding agents were pushing intermediate PRs to Github ~10x as often as our human-driven sessions. This led to [a huge increase in CI runs](https://usepowerplant.com/blog/surprise-blacksmith-costs/) and LLM-powered guardrail checks until we tamped this down.
 
 And finally: don’t do shit you don’t need to do.
 
