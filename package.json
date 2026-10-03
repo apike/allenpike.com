@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
-    "cheerio": "^1.1.2",
     "js-yaml": "^4.1.1",
     "linkedom": "^0.18.12",
     "markdown-it": "^14.1.0",
