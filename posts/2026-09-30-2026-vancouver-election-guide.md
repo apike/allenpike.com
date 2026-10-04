@@ -8,6 +8,7 @@ image: "/images/2026/vancouver-election-parties-chart.png"
 tags:
   - voting
 ---
+*Updated through Oct 3.*
 
 Every four years, certain odd traditions happen. The Olympics. Leap Days. Vancouverites attempting to pick their top 10 Council candidates out of 56 randomly sorted names, 20 of whom are for parties that never previously existed.
 
@@ -143,7 +144,7 @@ On public safety, the Greens propose CROW, a non-police mobile service with a de
 
 While the Vancouver Greens have long had a recognizable brand and relatively popular moderate-left views, they often don’t always get the fired-up candidates and volunteers that fuel winning campaigns. While this may lead to progressive voters giving more picks to COPE or OneCity, the Greens are also liable to pick up votes from centrists that might have voted for ABC or TEAM last election, making [the Sep 15 poll](https://www.justasonmi.com/wp-content/uploads/2026/09/J1152c_CoV-Council_Tabs_.pdf) showing all 4 Greens in the top 10 a plausible future.
 
-The Green slate for 2026 consists of filmmaker **Annette Reilly** and renters’ legal advocate **Stephanie Smith** who have run for Council previously as Greens, joined by former Park Board commissioner and urban farmer **Camil Dumont**, and hospitality worker **Bridget Burns**.
+The Green slate for 2026 consists of filmmaker **Annette Reilly** and renters’ legal advocate **Stephanie Smith**[^smith] who have run for Council previously as Greens, joined by former Park Board commissioner and urban farmer **Camil Dumont**, and hospitality worker **Bridget Burns**.
 
 <a name="onecity"></a>
 ## OneCity
@@ -210,7 +211,7 @@ Still! Participating in civic politics is a lot of work. Here’s to everybody w
 
 Since turnout is often low for municipal elections, your vote counts more! [Plan your vote](https://vancouver.ca/plan-your-vote/index.aspx), and put a day in your calendar where you’ll have your say. With a BC elections also inbound, voting early is especially appealing this year.
 
-- **Advance Voting**: Sat Oct 3, Wed Oct 7, Sat Oct 10, Tue Oct 13
+- **Advance Voting**: ~~Sat Oct 3~~, Wed Oct 7, Sat Oct 10, Tue Oct 13
 - **Final Vancouver Election Day**: Sat Oct 17, 2026
 
 ## Go Further
@@ -218,17 +219,19 @@ Since turnout is often low for municipal elections, your vote counts more! [Plan
 Researching a vote for something so local can be tricky. Here are some starting points for going deeper.
 
 - The City of Vancouver [Election Website](https://vancouver.ca/your-government/2026-election.aspx), including:
-  - Their [Voters’ Guide](https://vancouver.ca/your-government/2026-voters-guide.aspx)
+  - The City's [Voters’ Guide](https://vancouver.ca/your-government/2026-voters-guide.aspx) and [Plan Your Vote](https://vancouver.ca/plan-your-vote/) tool
   - Their [Candidate Guide](https://vancouver.ca/your-government/2026-candidate-information.aspx), [Mayoral candidates](https://vancouver.ca/your-government/2026-candidates-mayor.aspx), and [Council candidates](https://vancouver.ca/your-government/2026-candidates-councillor.aspx)
-  - Their [Plan Your Vote](https://vancouver.ca/plan-your-vote/) tool
 - Vancouver municipal journalist and local treasure [Justin McElroy’s Bluesky feed](https://bsky.app/profile/jmcelroy.bsky.social)
 - CBC’s [This is Vancouver podcast](https://podcasts.apple.com/ca/podcast/this-is-vancouver/id1776153044)
 - Other election guides
-  - [Vancity Lookout](https://www.vancitylookout.com/t/municipal-election-guide)
-  - [Smart Density Vancouver’s housing questionnaire](https://smartdensityvancouver.ca/candidates/)
-  - [Women Transforming Cities’ candidate commitments](https://www.womentransformingcities.org/blog/our-city-hall-pledge)
-  - The [VDLC’s endorsements](https://vdlc.ca/vdlc-endorsed-candidates-city-of-vancouver/)
-  - [Vision Zero Vancouver’s 2026 Council report card](https://visionzerovancouver.ca/2026/09/02/vision-zero-vancouver-2026-vancouver-council-in-review/)
+  - [Issue by issue guides](https://www.vancitylookout.com/t/municipal-election-guide) by local journalists Vancity Lookout
+  - The Griffins' Nest's [School Board candidate questionnaires](https://ehnewspaper.squarespace.com/articles/candidates-questionnaire-week-1-meet-your-school-board-candidates-and-find-out-why-theyre-running)
+  - A [housing questionnaire](https://smartdensityvancouver.ca/candidates/) by the anti-multiplex Smart Density Vancouver
+  - Canadian Veggie's [progressive urbanist candidate guide](https://canadianveggie.com/2026/10/01/vancouver-election-2026-voting-guide/) and [quiz to see how your votes would compare to parties'](https://canadianveggie.github.io/vancouver-council-scorecard/quiz.html)
+  - Side Street Vancouver's [voting compass on housing and taxation](https://sidestreetvancouver.ca/compass/)
+  - Women Transforming Cities’ [candidate commitments](https://www.womentransformingcities.org/blog/our-city-hall-pledge)
+  - The [Vancouver and District Labour Council’s endorsed candidates](https://vdlc.ca/vdlc-endorsed-candidates-city-of-vancouver/)
+  - [Vision Zero Vancouver’s 2026 Council report card](https://visionzerovancouver.ca/2026/09/02/vision-zero-vancouver-2026-vancouver-council-in-review/) on traffic safety issues
   - [My own 2022 election guide](https://allenpike.com/2022/vancouver-municipal-election-guide/), for reference and accountability
 - [The Tyee’s municipal coverage](https://thetyee.ca/Topic/Municipal-Politics/)
 - Polling references
@@ -240,6 +243,10 @@ Researching a vote for something so local can be tricky. Here are some starting 
 ----
 
 [^deaths]: In researching this I found a tragic wrinkle in the data: while the [the VPD stats](https://vpd.ca/crime-statistics/) do not count it this way, the 11 people [murdered by vehicle at the Lapu-Lapu Day festival](https://en.wikipedia.org/wiki/2025_Vancouver_car_attack) died both in a traffic collision and a stranger attack. While it’s unclear whether better street safety or public plazas would have mitigated this tragedy, it’s a reminder of how much work we have left to do to build a truly safe society.
+
+[^smith]: Of the many pieces of feedback I've received on this guide so far, the most common has been objections to Green candidate Stephanie Smith. Putting aside allegations she [previously ran an unprofessional Twitter account](https://bsky.app/profile/jmcelroy.bsky.social/post/3mhtocjcowk2d), I found it much more interesting to watch [this clip of Smith speaking](https://www.youtube.com/watch?v=KDx6pI0nF7w) against OneCity's 2021 [motion](https://council.vancouver.ca/20210518/documents/b2.pdf) to evaluate making more social, non-profit, and co-op housing viable.
+
+    This disagreement is a perfect encapsulation of one of the core tensions in city politics: is there an amount of protection for existing vulnerable tenants high enough that we could all support legalizing enough homes for both the next generation of tenants and to take the pressure off of existing stock? Meanwhile, the right cares less for social housing and tenant protections both – but is happy enough for the leftists to fight amongst one another.
 
 [^land-value]: Fun Fact: While the idea of a land value tax (or perhaps more palatably a land improvements tax exemption) has in recent years been revived as a proposal to discourage land speculation and incentivize land to be put to good use, Vancouver was an early adopter of this policy all the way back in the pre-1914 property boom. Since 1984, BC property taxes have included 100% of the value of any housing built on them, but we’ve maintained the yearly assessment loop necessary to once again experiment with this elegant mechanism.
 
