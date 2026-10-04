@@ -144,7 +144,7 @@ On public safety, the Greens propose CROW, a non-police mobile service with a de
 
 While the Vancouver Greens have long had a recognizable brand and relatively popular moderate-left views, they often don’t always get the fired-up candidates and volunteers that fuel winning campaigns. While this may lead to progressive voters giving more picks to COPE or OneCity, the Greens are also liable to pick up votes from centrists that might have voted for ABC or TEAM last election, making [the Sep 15 poll](https://www.justasonmi.com/wp-content/uploads/2026/09/J1152c_CoV-Council_Tabs_.pdf) showing all 4 Greens in the top 10 a plausible future.
 
-The Green slate for 2026 consists of filmmaker **Annette Reilly** and renters’ legal advocate **Stephanie Smith**[^smith] who have run for Council previously as Greens, joined by former Park Board commissioner and urban farmer **Camil Dumont**, and hospitality worker **Bridget Burns**.
+The Green slate for 2026 consists of filmmaker and VDLC-endorsed candidate **Annette Reilly**, former Park Board chair and urban farmer **Camil Dumont**, renters’ legal advocate **Stephanie Smith**[^smith], and hospitality worker **Bridget Burns**.
 
 <a name="onecity"></a>
 ## OneCity
@@ -246,7 +246,7 @@ Researching a vote for something so local can be tricky. Here are some starting 
 
 [^smith]: Of the many pieces of feedback I've received on this guide so far, the most common has been objections to Green candidate Stephanie Smith. Putting aside allegations she [previously ran an unprofessional Twitter account](https://bsky.app/profile/jmcelroy.bsky.social/post/3mhtocjcowk2d), I found it much more interesting to watch [this clip of Smith speaking](https://www.youtube.com/watch?v=KDx6pI0nF7w) against OneCity's 2021 [motion](https://council.vancouver.ca/20210518/documents/b2.pdf) to evaluate making more social, non-profit, and co-op housing viable.
 
-    This disagreement is a perfect encapsulation of one of the core tensions in city politics: is there an amount of protection for existing vulnerable tenants high enough that we could all support legalizing enough homes for both the next generation of tenants and to take the pressure off of existing stock? Meanwhile, the right cares less for social housing and tenant protections both – but is happy enough for the leftists to fight amongst one another.
+    This disagreement is a perfect encapsulation of one of the core tensions in city politics: is there an amount of protection for existing vulnerable tenants high enough that we could all support legalizing enough homes – for both the next generation of tenants, and to take the pressure off of existing stock? Meanwhile, the right cares less for social housing and tenant protections both, but is happy enough for the leftists to fight amongst one another.
 
 [^land-value]: Fun Fact: While the idea of a land value tax (or perhaps more palatably a land improvements tax exemption) has in recent years been revived as a proposal to discourage land speculation and incentivize land to be put to good use, Vancouver was an early adopter of this policy all the way back in the pre-1914 property boom. Since 1984, BC property taxes have included 100% of the value of any housing built on them, but we’ve maintained the yearly assessment loop necessary to once again experiment with this elegant mechanism.
 
