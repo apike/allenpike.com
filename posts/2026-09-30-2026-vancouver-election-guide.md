@@ -211,7 +211,7 @@ Still! Participating in civic politics is a lot of work. Here’s to everybody w
 
 Since turnout is often low for municipal elections, your vote counts more! [Plan your vote](https://vancouver.ca/plan-your-vote/index.aspx), and put a day in your calendar where you’ll have your say. With a BC elections also inbound, voting early is especially appealing this year.
 
-- **Advance Voting**: ~~Sat Oct 3~~, Wed Oct 7, Sat Oct 10, Tue Oct 13
+- **Advance Voting**: ~~Sat Oct 3~~, ~~Wed Oct 7~~, Sat Oct 10, Tue Oct 13
 - **Final Vancouver Election Day**: Sat Oct 17, 2026
 
 ## Go Further
