@@ -8,13 +8,13 @@ image: "/images/2026/vancouver-election-parties-chart.png"
 tags:
   - voting
 ---
-*Updated through Oct 3.*
+*Updated through Mon Oct 12, with new polling and updates based on feedback.*
 
 Every four years, certain odd traditions happen. The Olympics. Leap Days. Vancouverites attempting to pick their top 10 Council candidates out of 56 randomly sorted names, 20 of whom are for parties that never previously existed.
 
 Yes, it’s true: this October, Vancouver votes.
 
-From **Sat Oct 3** to **Sat Oct 17**, Vancouverites will to pick a Mayor and Council. And, yes, there’s a BC provincial election the week later, so things are even noisier than usual.
+Since Oct 3 until **Sat Oct 17**, Vancouverites have been choosing a Mayor and Council. And since there’s a BC provincial election the following week, things are even noisier than usual.
 
 Time for another election guide.
 
@@ -22,9 +22,9 @@ Time for another election guide.
 
 Last election, Sim and his newly-formed center-right [ABC](#abc) party swept into power.
 
-While the voters who showed up clearly supported Sim – all 7 ABC candidates topped the Council votes, and it wasn't even close – a fragmented opposition turned his win into a landslide. Seemingly-viable progressive parties ran 19 candidates for only 10 council seats, and naturally got their asses handed to them by a united center-right.
+While the voters who showed up last time clearly supported Sim – all 7 ABC candidates topped the Council votes, and it wasn't even close – fragmented opposition turned his win into a landslide. Seemingly-viable progressive parties ran 19 candidates for only 10 council seats, and naturally got their asses handed to them by a united center-right.
 
-Four years later, ABC has gone from promising new party to the folks we can blame for any given issue the city still has. Meanwhile, the main progressive parties are only running 13 candidates across 10 seats. This time, things will be closer.
+Four years later, ABC has shifted rightward and gone from promising new party to the folks we can blame for any given issue the city still has. Meanwhile, the main progressive parties are only running 13 candidates across 10 seats. This time, things will be closer.
 
 ## What are the issues?
 
@@ -36,13 +36,13 @@ Is the City in charge of social services? No, that’s the province. How about s
 
 Now, some responsibilities awkwardly straddle levels of government. For example, mental health and substance use is nominally a provincial issue, but affects cities acutely. Climate change uncomfortably belongs to no level of government in particular. So, that’s a thing.
 
-But for the most part, Mayor and Council’s 11 equal votes only decide policy and spending at the local-environs level, so that’s where we’ll focus today.
+But for the most part, Mayor and Council’s 11 equal votes only decide policy and spending at the local-environs level. So that’s where we’ll focus today.
 
 The biggest issues this election are:
 
-- **Safety.** For some this means cracking down street disorder and policing of drug use. For others it means improving pedestrian and cyclist safety.
+- **Safety.** For some, this means cracking down on street disorder and policing of drug use. For others, it means improving pedestrian, driver, and cyclist safety.
 - **Development.** More homes are being completed than in 2022, but with current zoning and construction costs, the city is unlikely to meet its housing completion targets. There is disagreement on how urgent an issue this is.
-- **Affordability.** ABC kept this year’s tax increase for property owners at 0% and home prices have cooled in recent years. But about 55% of Vancouverites are renters, whose costs have continued to climb – and a freeze in new supportive housing units is divisive.
+- **Affordability.** ABC set this year’s tax increase for property owners at 0%, and home prices have cooled in recent years. But about 55% of Vancouverites are renters, whose costs have continued to climb – and a freeze in new supportive housing units is divisive.
 - **Infrastructure.** Most parties seem to support investment in pools and community centres, but funding and implementation visions differ.
 - **Ken Sim.** He’s been Mayor for 4 years. Whatever problems he hasn’t fixed – even if they’re decades-old – are now top of mind.
 
@@ -62,7 +62,9 @@ Often it’s been helpful to think of Vancouver parties in terms of both traditi
 
 ## Okay, but what’s the deal with all these parties?
 
-Okay, it’s a lot, but. As far as I can tell, there are about 2 candidates who could win the Mayoralty, and only 4 parties in contention for Council seats. If you like the idea of researching every party and voting with your heart, that’s defensible. Or if you want your Council ballot ticks to avoid the fate of the 34% in 2022 that didn’t even go to a top-20 candidate, you can vote strategically.
+Okay, it’s a lot, but. As far as I can tell, there are about 2 candidates who could win the Mayoralty, and about 4 parties in contention for Council seats.
+
+If you like the idea of researching every party and voting with your heart, that’s defensible. Or if you want your Council ballot ticks to avoid the fate of the 34% in 2022 that didn’t even go to a top-20 candidate, you can vote strategically.
 
 Either way, you get one vote for mayor, and 10 for Council. Here’s an outline of each party, with a mind to what makes them different, sorted very roughly from most-incumbent to most-newcomer.
 
@@ -79,35 +81,36 @@ Either way, you get one vote for mayor, and 10 for Council. Here’s an outline 
 <a name="abc"></a>
 ## ABC and Ken Sim
 
-After winning a strong majority on Council in 2022, ABC was able to get to work, hiring the promised 100 police officers and cutting permitting times. While the increase in housing starts was closer to 20% than [the promised 200%](https://vancouver.citynews.ca/2022/10/15/vancouver-elects-ken-sim-mayor/), these combined with approvals that the previous council had made and macroeconomic changes, helping Vancouver’s out-of-control housing prices behave less stupidly than usual during ABC’s term.
+After winning a strong majority on Council in 2022, ABC got to work, hiring the promised 100 police officers and cutting permitting times. While the increase in housing starts was closer to 20% than [the promised 200%](https://vancouver.citynews.ca/2022/10/15/vancouver-elects-ken-sim-mayor/), these, combined with approvals that the previous council had made and macroeconomic changes, helped Vancouver’s out-of-control housing prices behave less stupidly than usual during ABC’s term.
 
-The campaign promises ABC did not meet are mostly of the progressive/urbanist type: [plant 100,000 trees, hiring 100 mental-health nurses, and adding 5,000 daycare spaces](https://vancouver.citynews.ca/2022/10/17/vancouver-mayor-elect-ken-sim-promises/).
+Reflecting ABC's rightward shift between their 2022 campaign and today, the campaign promises Sim did not meet are mostly of the progressive/urbanist type: [planting 100,000 trees, hiring 100 mental-health nurses, and adding 5,000 daycare spaces](https://vancouver.citynews.ca/2022/10/17/vancouver-mayor-elect-ken-sim-promises/).
 
 Despite mostly doing as he’d said, however, Ken Sim seems relatively unpopular. Without in-depth polling it’s hard to tell why exactly – it could be the cuts he made to hit ABC’s headline 0% tax increase, their freeze on new supportive housing units, cutting the City’s Renters’ Office, or [calling Bitcoin](https://www.cbc.ca/news/canada/british-columbia/vancouver-bitcoin-staff-rejection-9.7116603) “the greatest invention ever in human history” and insisting this was “a hill I’m willing to die on.”
 
-Soon after ABC [expelled its Councillor Rebecca Bligh](https://vancouver.citynews.ca/2025/02/14/vancouver-city-council-abc-parts-with-rebecca-bligh/) for opposing priorities like re-allowing natural gas heating in new builds, or the supportive housing freeze, ABC suffered a [horrific by-election showing](https://en.wikipedia.org/wiki/2025_Vancouver_City_Council_by-election). Since then they’ve made some pivots – now Sim seems to talk [less about Bitcoin, and more about public safety](https://www.cbc.ca/news/canada/british-columbia/ken-sim-interview-reelection-bid-january-2026-9.7065945).
+Soon after ABC [expelled its Councillor Rebecca Bligh](https://vancouver.citynews.ca/2025/02/14/vancouver-city-council-abc-parts-with-rebecca-bligh/) for opposing priorities like re-allowing natural gas heating in new construction, or the supportive housing freeze, ABC suffered a [horrific by-election showing](https://en.wikipedia.org/wiki/2025_Vancouver_City_Council_by-election). Since then they’ve made some pivots – now Sim seems to talk [less about Bitcoin, and more about public safety](https://www.cbc.ca/news/canada/british-columbia/ken-sim-interview-reelection-bid-january-2026-9.7065945).
 
-Meanwhile, ABC has earned two splinter parties this election: the [Vancouver Liberals](#liberals) led by their former Chief of Staff, and [Vote Vancouver](#votevancouver) led by Bligh. While it’s not clear either has a chance to win seats, they may sap enough ABC votes to cause trouble.
+Likely as a side effect of this more-conservative shift, ABC has earned two splinter parties this election: the [Vancouver Liberals](#liberals) led by their former Chief of Staff, and [Vote Vancouver](#votevancouver) led by Bligh. While it’s not clear either has a chance to win seats, the Liberals in particular may sap enough ABC votes to cause trouble.
 
 For 2026, ABC’s two signature campaign pledges are to “ban open-air hard drug use”, which is already illegal but certainly might see more police attention, and to lobby the province to establish 100+ involuntary care beds in Vancouver for substance use and mental health disorders. Perhaps hoping to get out the vote, ABC has used their Council majority to add these two campaign promises as [non-binding plebiscite questions](https://www.cbc.ca/news/canada/british-columbia/vancouver-ken-sim-plebiscite-drug-use-9.7306755) to the ballot.
 
-Beyond that, [ABC’s platform one-pager](https://abcvancouver.ca/wp-content/uploads/2026/09/ABC-Platform-Lets-Keep-Vancouver-Moving-Forward.pdf) is easier to digest than other parties, and the three headlines give the vibe: “Public Safety & Addressing Street Disorder”, “Affordability & Accountability at City Hall”, and “Jobs & Economy”. While affordability is a headline, their primary mechanism for delivering this is another 0% tax increase for landowners in 2027.
+And on transportation, they've shifted substantially from a [2022 promise to reduce reliance on motorized vehicles](https://cityhallwatch.wordpress.com/wp-content/uploads/2022/10/abc-vancouver-election-platform-2022.pdf) to voting against bike lanes on Broadway, and pledging to [remove inexpensive traffic-calming measures](https://abcvancouver.ca/2026/10/abc-vancouver-commits-to-removing-banana-barriers-and-getting-neighbourhoods-moving-again/) in residential neighbourhoods.
+
+Beyond that, [ABC’s platform one-pager](https://abcvancouver.ca/wp-content/uploads/2026/09/ABC-Platform-Lets-Keep-Vancouver-Moving-Forward.pdf) is easier to digest than other parties', and the three headlines give the vibe: “Public Safety & Addressing Street Disorder”, “Affordability & Accountability at City Hall”, and “Jobs & Economy”. While affordability is a headline, their primary mechanism for delivering this is another less-than-inflation tax increase for landowners in 2027.
 
 There are a variety of policy differences between Ken Sim and his challengers, but his message has boiled down to a pretty timeless version of right-wing municipal politics: lower taxes, and get tough on disorder.
 
-For voters who agree with ABC’s own Peter Meiszner, who was recently quoted saying violent crime “[was at a 23-year low last year](https://thetyee.ca/News/2026/09/18/Ken-Sim-Pete-Fry-Crime-Rates-Public-Safety-Election-Campaign-Ads/)”, this focus on yet more policing may not be compelling. But for those who agree with the wording of the plebiscite that Vancouver now has “unprecedented” levels of “disruption to community safety” may be inspired to back Sim again.
+For voters who agree with ABC’s own Peter Meiszner, who was recently quoted saying violent crime “[was at a 23-year low last year](https://thetyee.ca/News/2026/09/18/Ken-Sim-Pete-Fry-Crime-Rates-Public-Safety-Election-Campaign-Ads/)”, this focus on yet more policing may not be compelling. But those who agree with the wording of the plebiscite that Vancouver now has “unprecedented” levels of “disruption to community safety” may be inspired to back Sim again.
 
 ABC is running a whopping 9 candidates for Council this year: incumbents **Lisa Dominato**, **Sarah Kirby-Yung**, **Mike Klassen**, **Peter Meiszner**, and **Lenny Zhou**, joined by new candidates **David Grewal**, **Joyce Gillespie**, **Lorraine Lowe**, and **Arezo Zarrabian**.
 
 <a name="green"></a>
 ## The Vancouver Greens and Pete Fry
 
-Boosted by many years as a city Councillor, Pete Fry of the Green Party [won the ad hoc agreement between the three main progressive parties](https://www.cbc.ca/news/canada/british-columbia/william-azaroff-steps-down-9.7335925) to run a unified Mayor on Sep 8. Once that happened, Fry leapt into the lead. Not only is he the clear forerunner to defeat Ken Sim, [Sep 16 polling](https://www.justasonmi.com/?p=6484) has him ahead of Sim himself.
-
-<a name=“the-progressive-trio”></a>
+Boosted by many years as a city Councillor, Pete Fry of the Green Party [won the ad hoc agreement between the three main progressive parties](https://www.cbc.ca/news/canada/british-columbia/william-azaroff-steps-down-9.7335925) to run a unified Mayor on Sep 8. Once that happened, Fry leapt into the lead. Not only is he the clear forerunner to defeat Ken Sim, polls from [Justason](https://www.justasonmi.com/?p=6484), [Canada Pulse](https://cdn.prod.website-files.com/68e8fca1c431166c54a9df49/6ac8eff5371b327cbf89a3d5_Omni%20BC%20Vancouver%20Mayor%20F%2010-9-26.pdf), and [Leger](https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/10.%20October%202026/Media%20Release%20-%20BC%20Municipal%20Election%20Polling%20-%20October%207%2C%202026%20%281%29.pdf#page=18) all show Fry in a consistent – if narrow – lead.
+<a name="the-progressive-trio"></a>
 ### The Progressive Trio: Green, OneCity, COPE
 
-While most progressives and urbanists will simply back the Greens’ Fry for Mayor, Fry voters also need to also make 10 Council picks. In many cases, they’ll be picking from amongst the three main progressive parties:
+While most progressives and urbanists will simply back the Greens’ Fry for Mayor, Fry voters also need to make 10 Council picks. In many cases, they’ll be picking from amongst the three main progressive parties:
 
 - [Green](#green), with 4 candidates
 - [OneCity](#onecity), with 5 candidates
@@ -115,20 +118,20 @@ While most progressives and urbanists will simply back the Greens’ Fry for May
 
 As it happens, these parties’ platforms mostly agree on a lot of issues. They all seek to:
 
-- Civilian responders for non-emergency street disorder
+- Add civilian responders for non-emergency street disorder
 - Restore certain ABC city service cuts
 - Reverse the supportive housing freeze, and support more rentals and co-op housing
 - Re-establish the renter’s office and increase tenant protections
 - Improve access to public washrooms
 - Pursue electoral reform (sure would make writing these guides easier)
 - Audit the Vancouver Police
-- Improve cycling, walking, and bus infrastructure
 - Make more investments in pools and community facilities
 - Plant more trees
 - Secure thousands more affordable homes, including on public land
 - Expand childcare
+- Improve cycling, walking, and bus infrastructure
 
-That provides a substantial surface area for a Green/COPE/OneCity coalition to work together and pass policies. But exactly how progressives fill their Council ballots will depend less on whether they broadly support these initiatives, and more on who will:
+That provides a substantial surface area for a Green/COPE/OneCity coalition to work together and pass policies. But exactly how progressive voters fill their Council ballots will depend less on whether they broadly support these initiatives, and more on who will:
 
 1. Be electable
 2. Have the best take on these and related issues
@@ -138,11 +141,11 @@ That provides a substantial surface area for a Green/COPE/OneCity coalition to w
 
 While the [2026 Vancouver Green platform is extremely long](https://assets.nationbuilder.com/vangreens/pages/6122/attachments/original/1790718545/Platform_2026_-_Green_Party_of_Vancouver_%281%29.pdf?1790718545), it has some interesting details and signature issues that distinguish them from COPE and OneCity.
 
-On development, they’re distinctly more cautious than “YIMBY” voters might prefer, claiming the 2023 provincial housing targets are “impossible to meet”, proposing “pace of change” measures, and like most of Council they voted against the recent Villages plan (which had turned unpopular despite not being particularly aggressive in terms of upzoning.) Still, the Greens describe the importance of approving more affordable and “missing middle” housing. And their goal of converting 11% of vancouver street surface to community use like parklets and active transit is distinctive and measurable.
+On development, they’re distinctly more cautious than “YIMBY” voters might prefer, claiming the 2023 provincial housing targets are “impossible to meet”, proposing “pace of change” measures, and like most of Council they voted against the recent Villages plan (which had turned unpopular despite not being particularly aggressive in terms of upzoning.) Still, the Greens describe the importance of approving more affordable and “missing middle” housing. And their goal of converting 11% of Vancouver's street surface to community use like parklets and active transit is distinctive and measurable.
 
-On public safety, the Greens propose CROW, a non-police mobile service with a dedicated public phone number for non-emergency street disorder. They also highlight the street safety of drivers, cyclists, and pedestrians – fewer Vancouverites die each year from stranger attacks than they do from traffic collisions[^deaths].
+On public safety, the Greens propose CROW, a non-police mobile service with a dedicated public phone number for non-emergency street disorder. They also highlight the street safety of drivers, cyclists, and pedestrians – more Vancouverites die each year from traffic collisions than do from stranger attacks[^deaths].
 
-While the Vancouver Greens have long had a recognizable brand and relatively popular moderate-left views, they often don’t always get the fired-up candidates and volunteers that fuel winning campaigns. While this may lead to progressive voters giving more picks to COPE or OneCity, the Greens are also liable to pick up votes from centrists that might have voted for ABC or TEAM last election, making [the Sep 15 poll](https://www.justasonmi.com/wp-content/uploads/2026/09/J1152c_CoV-Council_Tabs_.pdf) showing all 4 Greens in the top 10 a plausible future.
+While the Vancouver Greens have long had a recognizable brand and relatively popular moderate-left views, they don’t always get the fired-up candidates and volunteers that fuel winning campaigns. While this may lead to progressive voters giving more picks to COPE or OneCity, the Greens are also liable to pick up votes from centrists that might have voted for ABC or TEAM last election, making [the Sep 15 poll](https://www.justasonmi.com/wp-content/uploads/2026/09/J1152c_CoV-Council_Tabs_.pdf) showing all 4 Greens in the top 10 a plausible future.
 
 The Green slate for 2026 consists of filmmaker and VDLC-endorsed candidate **Annette Reilly**, former Park Board chair and urban farmer **Camil Dumont**, renters’ legal advocate **Stephanie Smith**[^smith], and hospitality worker **Bridget Burns**.
 
@@ -187,9 +190,9 @@ While it might seem Bligh would be more at home with the Green Party, after her 
 
 The Vancouver Liberals are a strange phenomenon. Political strategist Kareem Allam, Ken Sim’s former Chief of Staff, split with ABC acrimoniously in 2023. He then formed his own party and, in a stroke of marketing genius, chose the name “Liberals”. The popularity of the centrist federal Liberals and the past strength of the center-right BC Liberals make this an instantly recognizable brand for an unrelated but [roughly centrist](https://www.vancouverliberals.com/issues) party in the City.
 
-What’s more, Allam was able to recruit some notable Council candidates, including former BC Liberal MLA Moira Stilwell, VSB chair Victoria Jung, former NDP campaign manager Jessica Walton, and former NPA Park Board commissioner John Coupar. Allam also posted 10% support in the most recent poll, which is not bad for somebody running a new party who has never held office!
+What’s more, Allam was able to recruit some notable Council candidates, including former BC Liberal MLA Moira Stilwell, VSB chair Victoria Jung, former NDP campaign manager Jessica Walton, and former NPA Park Board commissioner John Coupar. Allam also posted support numbers of 10%, 19%, and 6% in the most recent polls, which is not bad for somebody running a new party who has never held office.
 
-Still, with a totally new party, no sitting Councillors, their Council candidates not having broken the top 20 in the polling, and no indication of a momentum change, all evidence points the Vancouver Liberals being more of a spoiler for ABC than a real contender for 2026.
+Still, with a totally new party, no sitting Councillors, their Council candidates not having broken the top 20 in the polling, and no indication of a momentum change, all evidence points to the Vancouver Liberals being more of a spoiler for ABC than a real contender for 2026.
 
 <a name="team"></a>
 ## TEAM, Colleen Hardwick
@@ -203,15 +206,15 @@ The [TEAM platform](https://www.voteteam.ca/platform) is a good example of maxim
 <a name="therest"></a>
 ## The Rest
 
-An uncomfortable reality of Vancouver’s broken electoral system is that there are often so many candidates and parties that they can’t all get real coverage. When you get to new under-the-radar parties like the Muhammad Ahmad’s new center-left Bright Future party or the mostly school-board-only TrueBlue party, there are no polling numbers to even quantify how much of a chance they don’t have of making it this election cycle.
+An uncomfortable reality of Vancouver’s broken electoral system is that there are often so many candidates and parties that they can’t all get real coverage. When you get to new under-the-radar parties like Muhammad Ahmad’s new center-left Bright Future party or the mostly school-board-only TrueBlue party, there are no polling numbers to even quantify how much of a chance they don’t have of making it this election cycle.
 
 Still! Participating in civic politics is a lot of work. Here’s to everybody who runs, and who put in the effort to try and make their city a better place. 
 
 ## Time to vote!
 
-Since turnout is often low for municipal elections, your vote counts more! [Plan your vote](https://vancouver.ca/plan-your-vote/index.aspx), and put a day in your calendar where you’ll have your say. With a BC elections also inbound, voting early is especially appealing this year.
+Since turnout is often low for municipal elections, your vote counts more! [Plan your vote](https://vancouver.ca/plan-your-vote/index.aspx), and put a day in your calendar where you’ll have your say. With a BC election also inbound, voting early is especially appealing this year.
 
-- **Advance Voting**: ~~Sat Oct 3~~, ~~Wed Oct 7~~, Sat Oct 10, Tue Oct 13
+- **Advance Voting**: ~~Sat Oct 3~~, ~~Wed Oct 7~~, ~~Sat Oct 10~~, Tue Oct 13
 - **Final Vancouver Election Day**: Sat Oct 17, 2026
 
 ## Go Further
@@ -242,7 +245,7 @@ Researching a vote for something so local can be tricky. Here are some starting 
 
 ----
 
-[^deaths]: In researching this I found a tragic wrinkle in the data: while the [the VPD stats](https://vpd.ca/crime-statistics/) do not count it this way, the 11 people [murdered by vehicle at the Lapu-Lapu Day festival](https://en.wikipedia.org/wiki/2025_Vancouver_car_attack) died both in a traffic collision and a stranger attack. While it’s unclear whether better street safety or public plazas would have mitigated this tragedy, it’s a reminder of how much work we have left to do to build a truly safe society.
+[^deaths]: In researching this I found a tragic wrinkle in the data: while [the VPD stats](https://vpd.ca/crime-statistics/) do not count it this way, the 11 people [murdered by vehicle at the Lapu-Lapu Day festival](https://en.wikipedia.org/wiki/2025_Vancouver_car_attack) died both in a traffic collision and a stranger attack. While it’s unclear whether better street safety or public plazas would have mitigated this tragedy, it’s a reminder of how much work we have left to do to build a truly safe society.
 
 [^smith]: Of the many pieces of feedback I've received on this guide so far, the most common has been objections to Green candidate Stephanie Smith. Putting aside allegations she [previously ran an unprofessional Twitter account](https://bsky.app/profile/jmcelroy.bsky.social/post/3mhtocjcowk2d), I found it much more interesting to watch [this clip of Smith speaking](https://www.youtube.com/watch?v=KDx6pI0nF7w) against OneCity's 2021 [motion](https://council.vancouver.ca/20210518/documents/b2.pdf) to evaluate making more social, non-profit, and co-op housing viable.
 
