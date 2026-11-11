@@ -19,5 +19,10 @@
   },
   "r2_buckets": [
     { "binding": "MEDIA", "bucket_name": "allenpike-com-media" }
-  ]
+  ],
+  "previews": {
+    "r2_buckets": [
+      { "binding": "MEDIA", "bucket_name": "allenpike-com-media" }
+    ]
+  }
 }

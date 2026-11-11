@@ -7,15 +7,16 @@
     "dev": "eleventy --serve",
     "clean": "rm -rf _site",
     "build:cloudflare": "node scripts/build-cloudflare.mjs",
-    "dev:cloudflare": "npm run build:cloudflare && wrangler dev",
-    "deploy:cloudflare": "npm run build:cloudflare && wrangler deploy",
+    "dev:cloudflare": "pnpm run build:cloudflare && wrangler dev",
+    "deploy:cloudflare": "pnpm run build:cloudflare && wrangler deploy",
+    "preview:cloudflare": "pnpm run build:cloudflare && wrangler preview",
     "test:cloudflare": "node --test cloudflare/*.test.mjs",
     "check:cloudflare-feeds": "node scripts/check-cloudflare-feeds.mjs",
-    "ci:cloudflare": "npm run test:cloudflare && npm run build && npm run build:cloudflare && npm run check:cloudflare-feeds",
+    "ci:cloudflare": "pnpm run test:cloudflare && pnpm run build && pnpm run build:cloudflare && pnpm run check:cloudflare-feeds",
     "upload:cloudflare-media": "node scripts/upload-cloudflare-media.mjs"
   },
   "engines": {
-    "node": "20.x"
+    "node": ">=22.12.0"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
@@ -28,7 +29,8 @@
     "smartquotes": "^2.3.2"
   },
   "devDependencies": {
-    "miniflare": "4.20260426.0",
-    "wrangler": "4.86.0"
-  }
+    "miniflare": "4.20260730.0",
+    "wrangler": "4.160.1"
+  },
+  "packageManager": "pnpm@10.32.1"
 }
