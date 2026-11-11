@@ -5,7 +5,14 @@
   "scripts": {
     "build": "eleventy",
     "dev": "eleventy --serve",
-    "clean": "rm -rf _site"
+    "clean": "rm -rf _site",
+    "build:cloudflare": "node scripts/build-cloudflare.mjs",
+    "dev:cloudflare": "npm run build:cloudflare && wrangler dev",
+    "deploy:cloudflare": "npm run build:cloudflare && wrangler deploy",
+    "test:cloudflare": "node --test cloudflare/*.test.mjs",
+    "check:cloudflare-feeds": "node scripts/check-cloudflare-feeds.mjs",
+    "ci:cloudflare": "npm run test:cloudflare && npm run build && npm run build:cloudflare && npm run check:cloudflare-feeds",
+    "upload:cloudflare-media": "node scripts/upload-cloudflare-media.mjs"
   },
   "engines": {
     "node": "20.x"
@@ -19,5 +26,9 @@
     "markdown-it-attrs": "^4.3.1",
     "markdown-it-footnote": "^4.0.0",
     "smartquotes": "^2.3.2"
+  },
+  "devDependencies": {
+    "miniflare": "4.20260426.0",
+    "wrangler": "4.86.0"
   }
 }
