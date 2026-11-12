@@ -35,10 +35,10 @@ async function request(path, options = {}) {
 // These expectations intentionally describe existing public URL contracts,
 // independently of the code that translates the Netlify redirect file.
 for (const [paths, location, status] of [
-  [["/461/project", "/461/project/", "/461", "/461/"], "https://allenpike.com/modeling-plants-with-l-systems/", 301],
+  [["/461/project", "/461/project/", "/461", "/461/"], "https://allenpike.com/modeling-plants-with-l-systems", 301],
   [["/antipode", "/antipode/"], "https://allenpike.com/feed", 301],
-  [["/archives", "/archives/"], "https://allenpike.com/archive/", 301],
-  [["/subscribe", "/subscribe/"], "https://allenpike.com/follow/", 301],
+  [["/archives", "/archives/"], "https://allenpike.com/archive", 301],
+  [["/subscribe", "/subscribe/"], "https://allenpike.com/follow", 301],
   [["/feed", "/feed/", "/feed/old"], "https://feeds.allenpike.com/feed/", 302],
 ]) {
   for (const path of paths) await check(`redirect ${path}`, async () => {
@@ -50,8 +50,8 @@ for (const [paths, location, status] of [
 
 for (const [path, file, contentType] of [
   ["/", "index.html", "text/html"],
-  ["/archive/", "archive/index.html", "text/html"],
-  ["/2026/gravity-of-cross-platform-apps/", "2026/gravity-of-cross-platform-apps/index.html", "text/html"],
+  ["/archive", "archive.html", "text/html"],
+  ["/2026/gravity-of-cross-platform-apps", "2026/gravity-of-cross-platform-apps.html", "text/html"],
   ["/atom/", "atom/index.html", null],
   ["/feed.json", "feed.json", "application/json"],
   ["/robots.txt", "robots.txt", "text/plain"],
@@ -74,11 +74,23 @@ await check("sitemap entries", async () => {
   assert.ok(expected.length > 0);
   assert.deepEqual(entries(body.toString()), expected);
 });
-await check("Cloudflare trailing slash normalization (307)", async () => {
-  const { response } = await request("/2026/gravity-of-cross-platform-apps");
-  assert.equal(response.status, 307);
-  assert.equal(new URL(response.headers.get("location"), base).href,
-    new URL("/2026/gravity-of-cross-platform-apps/", base).href);
+for (const path of ["/2026/gravity-of-cross-platform-apps", "/archive", "/me", "/series/tech"]) {
+  for (const suffix of ["/", ".html", "/index.html"]) await check(`slashless redirect ${path}${suffix}`, async () => {
+    const { response } = await request(`${path}${suffix}?source=smoke`);
+    assert.equal(response.status, 307);
+    assert.equal(new URL(response.headers.get("location"), base).href,
+      new URL(`${path}?source=smoke`, base).href);
+    const { response: destination } = await request(path);
+    assert.equal(destination.status, 200, "Redirect target must serve directly");
+  });
+}
+await check("legacy directory and relative image", async () => {
+  const { response, body } = await request("/images/461/");
+  assert.equal(response.status, 200);
+  assert.ok(body.toString().includes('aq.jpg'));
+  const { response: image } = await request("/images/461/aq.jpg");
+  assert.equal(image.status, 200);
+  assert.ok(image.headers.get("content-type").startsWith("image/"));
 });
 await check("custom 404", async () => {
   const { response, body } = await request("/__hosting_smoke_test_missing__");

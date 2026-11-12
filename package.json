@@ -13,6 +13,7 @@
     "test:cloudflare": "node --test cloudflare/*.test.mjs",
     "test:hosting": "node scripts/test-hosting.mjs",
     "check:cloudflare-feeds": "node scripts/check-cloudflare-feeds.mjs",
+    "check:cloudflare-history": "node scripts/check-cloudflare-history.mjs",
     "ci:cloudflare": "pnpm run test:cloudflare && pnpm run build && pnpm run build:cloudflare && pnpm run check:cloudflare-feeds",
     "upload:cloudflare-media": "node scripts/upload-cloudflare-media.mjs"
   },

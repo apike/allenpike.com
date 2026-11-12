@@ -1,10 +1,12 @@
 import Eleventy from "@11ty/eleventy";
 import { readFile, writeFile, rm, stat, readdir } from "node:fs/promises";
 import { media } from "../cloudflare/media.mjs";
+import { prepareSlashless } from "../cloudflare/slashless.mjs";
 
 const output = ".cloudflare/site";
 await rm(output, { recursive: true, force: true });
 await new Eleventy(".", output, { source: "cli" }).write();
+const canonical = await prepareSlashless(output);
 
 // Keep the Netlify build intact while translating its redirect semantics.
 const redirects = (await readFile("_redirects", "utf8"))
@@ -13,11 +15,11 @@ const redirects = (await readFile("_redirects", "utf8"))
   .flatMap((line) => {
     const [source, destination, code = "301"] = line.trim().split(/\s+/);
     const status = code.replace(/!$/, "");
-    const rules = [`${source} ${destination} ${status}`];
+    const rules = [`${source} ${canonical(destination)} ${status}`];
     // Netlify matches both trailing-slash forms; Cloudflare matches literally.
     if (!source.includes("*") && source !== "/") {
       const alias = source.endsWith("/") ? source.slice(0, -1) : `${source}/`;
-      rules.push(`${alias} ${destination} ${status}`);
+      rules.push(`${alias} ${canonical(destination)} ${status}`);
     }
     return rules;
   });
