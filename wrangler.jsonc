@@ -5,24 +5,11 @@
   "workers_dev": true,
   "preview_urls": true,
   "routes": [],
-  "main": "cloudflare/r2-worker.mjs",
   "compatibility_date": "2026-04-26",
+  // Static assets only: there is no Worker code.
   "assets": {
     "directory": "./_site",
-    "binding": "ASSETS",
     "html_handling": "drop-trailing-slash",
-    "not_found_handling": "404-page",
-    // Only oversized R2 media needs Worker code; serve other assets directly.
-    "run_worker_first": [
-      "/slides/MappingtheInternet_SecondConf2013.pdf"
-    ]
-  },
-  "r2_buckets": [
-    { "binding": "MEDIA", "bucket_name": "allenpike-com-media" }
-  ],
-  "previews": {
-    "r2_buckets": [
-      { "binding": "MEDIA", "bucket_name": "allenpike-com-media" }
-    ]
+    "not_found_handling": "404-page"
   }
 }

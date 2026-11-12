@@ -1,6 +1,5 @@
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
-import { media } from "../media.mjs";
 
 // Build locally from the deployed commit first. Requests never follow redirects,
 // so a redirect to production cannot accidentally make a preview test pass.
@@ -57,6 +56,7 @@ for (const [path, file, contentType] of [
   ["/robots.txt", "robots.txt", "text/plain"],
   ["/css/main2.css", "css/main2.css", "text/css"],
   ["/favicon.ico", "favicon.ico", null],
+  ["/images/2026/voice-in-demo.m4v", "images/2026/voice-in-demo.m4v", "video/"],
 ]) await check(`content ${path}`, async () => {
   const { response, body } = await request(path);
   assert.equal(response.status, 200);
@@ -98,29 +98,5 @@ await check("custom 404", async () => {
   assert.deepEqual(body, await readFile("_site/404.html"));
 });
 
-for (const { key, contentType } of media) await check(`R2 ${key}`, async () => {
-  const original = await readFile(key);
-  const { response: head, body } = await request(`/${key}`, { method: "HEAD" });
-  assert.equal(head.status, 200);
-  assert.equal(body.length, 0);
-  assert.equal(Number(head.headers.get("content-length")), original.length);
-  assert.equal(head.headers.get("content-type"), contentType);
-  assert.equal(head.headers.get("accept-ranges"), "bytes");
-  assert.ok(head.headers.get("etag"));
-  for (const [range, start, end] of [
-    ["bytes=0-99", 0, 99],
-    ["bytes=-100", original.length - 100, original.length - 1],
-  ]) {
-    const { response, body: bytes } = await request(`/${key}`, { headers: { Range: range } });
-    assert.equal(response.status, 206);
-    assert.equal(response.headers.get("content-range"), `bytes ${start}-${end}/${original.length}`);
-    assert.deepEqual(bytes, original.subarray(start, end + 1));
-  }
-  const { response: cached, body: empty } = await request(`/${key}`, {
-    headers: { "If-None-Match": head.headers.get("etag") },
-  });
-  assert.equal(cached.status, 304);
-  assert.equal(empty.length, 0);
-});
 console.log(`\n${passed} passed, ${failed} failed against ${base.origin}`);
 process.exitCode = failed ? 1 : 0;

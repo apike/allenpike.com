@@ -10,11 +10,9 @@ const runNodeScript = (script, args = [], options = {}) => execFileSync(process.
   [script, ...args], { stdio: "inherit", ...options });
 
 // pnpm deploy:cloudflare / preview:cloudflare build the site before calling this.
-// 1. Check the private media bucket. Failure here prevents deployment.
-runNodeScript("cloudflare/deploy/verify-r2.mjs");
 const directory = await mkdtemp(join(tmpdir(), "allenpike-deploy-"));
 try {
-  // 2. Deploy using Wrangler. Its JSON-lines output identifies the new deployment
+  // 1. Deploy using Wrangler. Its JSON-lines output identifies the new deployment
   // without scraping terminal messages or guessing a preview hostname.
   const output = join(directory, "wrangler.jsonl");
   runNodeScript("node_modules/wrangler/bin/wrangler.js", [command, ...args], {
@@ -26,7 +24,7 @@ try {
   const urls = command === "preview" ? result?.deployment_urls : result?.targets;
   const origin = urls?.find(url => typeof url === "string" && /^https:\/\/[^/]+\.workers\.dev\/?$/.test(url));
   assert.ok(origin, "Wrangler did not report a workers.dev deployment URL; cannot verify deployment");
-  // 3. Exercise the deployed site, including R2 routes and range responses.
+  // 2. Exercise the deployed site.
   // Failure marks CI failed, but does not roll back the already-live deployment.
   console.log(`Verifying deployed site: ${origin}`);
   runNodeScript("cloudflare/tests/hosting.mjs", [origin]);

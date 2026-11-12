@@ -41,6 +41,10 @@ The site will be available at http://localhost:8080.
 
 Posts live in `posts/` as Markdown files with YAML front matter. The filename format is `YYYY-MM-DD-slug.md`.
 
+## TODO
+
+- Evaluate adding video seek/scrubbing support via a Cloudflare Worker. Cloudflare static assets ignore `Range` requests, so embedded videos play but cannot be scrubbed in Chrome (Safari is fine).
+
 ## License
 
 The code in this repository (templates, configuration, CSS) is available under the [MIT License](LICENSE).
