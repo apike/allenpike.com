@@ -4,6 +4,12 @@ import { cp, mkdir, mkdtemp, readFile, rm, symlink, writeFile } from "node:fs/pr
 import { tmpdir } from "node:os";
 import { dirname, join } from "node:path";
 
+// ONE-TIME MIGRATION CHECK. Run with `pnpm check:cloudflare-feeds` (add
+// `--full-history` to compare every post, not just the latest three).
+// It is expected to fail as soon as a post is published or edited after the
+// baseline commit, because the feeds then legitimately differ. Delete this file
+// and its package.json script once the Cloudflare cutover is complete.
+//
 // Migration regression baseline: the main commit before Cloudflare work began.
 // This old build exists only in a temporary test directory, not as a supported
 // deployment target. Do not refresh the baseline to make a feed regression pass.
