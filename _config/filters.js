@@ -78,7 +78,7 @@ function date(dateValue, format) {
 
 module.exports = {
   // Hosting canonicalization must never change post.url or feed identities.
-  page_url: url => url === "/" ? url : url.replace(/\/$/, ""),
+  strip_trailing_slash: url => url === "/" ? url : url.replace(/\/$/, ""),
   widow,
   defaultshareimg,
   reading_time,

@@ -21,7 +21,7 @@
   <meta property="og:site_name" content="Allen Pike" />
   <meta property="og:title" content="{{ title }}" />
   <meta property="og:type" content="article" />
-  <meta property="og:url" content="{{ meta.url }}{{ page.url | page_url }}" />
+  <meta property="og:url" content="{{ meta.url }}{{ page.url | strip_trailing_slash }}" />
   <meta property="og:image" content="{{ meta.url }}{{ image | defaultshareimg }}" />
   {% if summary %}
   <meta property="og:description" content="{{ summary }}" />

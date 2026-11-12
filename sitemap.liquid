@@ -14,7 +14,7 @@ eleventyExcludeFromCollections: true
 {%- unless page.inputPath contains './posts/' or page.data.eleventyExcludeFromCollections %}
 {%- if page.url and page.url != '/404.html' and page.url != '/sitemap.xml' and page.url != '/feed/' and page.url != '/atom/' and page.url != '/feed.json' %}
 <url>
-<loc>https://allenpike.com{{ page.url | page_url }}</loc>
+<loc>https://allenpike.com{{ page.url | strip_trailing_slash }}</loc>
 </url>
 {%- endif %}
 {%- endunless %}
