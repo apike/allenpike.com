@@ -14,7 +14,6 @@
     "not_found_handling": "404-page",
     // Only oversized R2 media needs Worker code; serve other assets directly.
     "run_worker_first": [
-      "/images/2026/voice-in-demo.m4v",
       "/slides/MappingtheInternet_SecondConf2013.pdf"
     ]
   },
