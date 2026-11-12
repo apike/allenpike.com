@@ -16,12 +16,16 @@
   <title>{% if link %}Link: {% endif %}{{ title }} - Allen Pike</title>
   {% endif %}
 
+  {% unless page.url == '/404.html' %}
+  <link rel="canonical" href="{{ meta.url }}{{ page.url | strip_trailing_slash }}" />
+  {% endunless %}
+
   {% if title %}
   {% if summary or link %}
   <meta property="og:site_name" content="Allen Pike" />
   <meta property="og:title" content="{{ title }}" />
   <meta property="og:type" content="article" />
-  <meta property="og:url" content="{{ meta.url }}{{ page.url }}" />
+  <meta property="og:url" content="{{ meta.url }}{{ page.url | strip_trailing_slash }}" />
   <meta property="og:image" content="{{ meta.url }}{{ image | defaultshareimg }}" />
   {% if summary %}
   <meta property="og:description" content="{{ summary }}" />
@@ -79,10 +83,10 @@
       <div class="header navigation">
         <a class="sitename" href="/">Allen Pike</a>
         <ul>
-          <li {% if isArchive %} class="active" {% endif %}><a href="/archive/">Articles</a>
-          <li {% if isMe %} class="active" {% endif %}> <a href="/me/">About</a>
+          <li {% if isArchive %} class="active" {% endif %}><a href="/archive">Articles</a>
+          <li {% if isMe %} class="active" {% endif %}> <a href="/me">About</a>
           </li>
-          <li {% if isSubscribe %} class="active" {% endif %}><a href="/follow/">Follow</a>
+          <li {% if isSubscribe %} class="active" {% endif %}><a href="/follow">Follow</a>
         </ul>
       </div>
 
@@ -94,14 +98,14 @@
       <div class="footer navigation">
         <a href="/" class="sitename">Allen Pike</a>
         <ul>
-          <li {% if isArchive %} class="active" {% endif %}><a href="/archive/">Articles</a>
-          <li {% if isMe %} class="active" {% endif %}> <a href="/me/">About</a>
+          <li {% if isArchive %} class="active" {% endif %}><a href="/archive">Articles</a>
+          <li {% if isMe %} class="active" {% endif %}> <a href="/me">About</a>
           </li>
-          <li {% if isSubscribe %} class="active" {% endif %}><a href="/follow/">Follow</a>
+          <li {% if isSubscribe %} class="active" {% endif %}><a href="/follow">Follow</a>
         </ul>
       </div>
 
-      <p class="prologue">© Allen Pike. 👋🏼 Feel free to <a href="/contact/">contact me</a>.</p>
+      <p class="prologue">© Allen Pike. 👋🏼 Feel free to <a href="/contact">contact me</a>.</p>
 
     </div> <!-- /container -->
 </body>

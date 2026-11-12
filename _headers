@@ -1,0 +1,3 @@
+# Ask search engines not to index staging or previews. This is not access control.
+https://:version.:subdomain.workers.dev/*
+  X-Robots-Tag: noindex

@@ -3,12 +3,18 @@
   "version": "2.0.0",
   "description": "Allen Pike's personal website",
   "scripts": {
-    "build": "eleventy",
+    "build": "node cloudflare/deploy/build.mjs",
     "dev": "eleventy --serve",
-    "clean": "rm -rf _site"
+    "clean": "rm -rf _site",
+    "build:cloudflare": "pnpm run build",
+    "dev:cloudflare": "pnpm run build && wrangler dev",
+    "deploy:cloudflare": "pnpm run build && node cloudflare/deploy/deploy.mjs deploy",
+    "preview:cloudflare": "pnpm run build && node cloudflare/deploy/deploy.mjs preview",
+    "test:hosting": "node cloudflare/tests/hosting.mjs",
+    "check:cloudflare-feeds": "node cloudflare/tests/feeds.mjs"
   },
   "engines": {
-    "node": "20.x"
+    "node": ">=22.12.0"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
@@ -19,5 +25,9 @@
     "markdown-it-attrs": "^4.3.1",
     "markdown-it-footnote": "^4.0.0",
     "smartquotes": "^2.3.2"
-  }
+  },
+  "devDependencies": {
+    "wrangler": "4.160.1"
+  },
+  "packageManager": "pnpm@10.32.1"
 }

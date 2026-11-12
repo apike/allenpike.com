@@ -1,0 +1,15 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "allenpike-com",
+  "account_id": "1f4290822d583118b736835b38b400ab",
+  "workers_dev": true,
+  "preview_urls": true,
+  "routes": [],
+  "compatibility_date": "2026-04-26",
+  // Static assets only: there is no Worker code.
+  "assets": {
+    "directory": "./_site",
+    "html_handling": "drop-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

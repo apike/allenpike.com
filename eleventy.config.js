@@ -16,7 +16,8 @@ module.exports = function (eleventyConfig) {
   // Keep repository tooling, local worktrees, and research out of the public site.
   for (const path of [
     ".agents", ".claude", ".codex", ".cursor", ".obsidian",
-    "scripts", "reports", "research_notes", "README.md",
+    "scripts", "reports", "research_notes", "cloudflare", ".cloudflare", ".wrangler",
+    "*.md", // Root Markdown (README, AGENTS, ...) is repo documentation, never a page.
   ]) {
     eleventyConfig.ignores.add(path);
   }
@@ -58,6 +59,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("robots.txt");
   eleventyConfig.addPassthroughCopy("google98019dc16f804178.html");
   eleventyConfig.addPassthroughCopy("_redirects");
+  eleventyConfig.addPassthroughCopy("_headers");
 
   // ============================================
   // Filters
