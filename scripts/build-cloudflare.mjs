@@ -1,12 +1,14 @@
 import Eleventy from "@11ty/eleventy";
 import { readFile, writeFile, rm, stat, readdir } from "node:fs/promises";
 import { media } from "../cloudflare/media.mjs";
-import { prepareSlashless } from "../cloudflare/slashless.mjs";
 
 const output = ".cloudflare/site";
 await rm(output, { recursive: true, force: true });
-await new Eleventy(".", output, { source: "cli" }).write();
-const canonical = await prepareSlashless(output);
+await new Eleventy(".", output, {
+  source: "cli",
+  config: config => config.addGlobalData("cloudflareBuild", true),
+}).write();
+const canonical = value => value.replace(/^(https?:\/\/(?:www\.)?allenpike\.com\/.+)\/$/, "$1");
 
 // Keep the Netlify build intact while translating its redirect semantics.
 const redirects = (await readFile("_redirects", "utf8"))
@@ -23,6 +25,10 @@ const redirects = (await readFile("_redirects", "utf8"))
     }
     return rules;
   });
+// Preserve the Atom subscription URL and directory-relative legacy images.
+for (const path of ["/atom", "/images/461"]) {
+  redirects.push(`${path} ${path}/ 301`, `${path}/ ${path} 200`);
+}
 await writeFile(`${output}/_redirects`, redirects.join("\n") + "\n");
 // Keep staging and PR previews out of search results without changing the blog.
 await writeFile(`${output}/_headers`,

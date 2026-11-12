@@ -50,8 +50,8 @@ for (const [paths, location, status] of [
 
 for (const [path, file, contentType] of [
   ["/", "index.html", "text/html"],
-  ["/archive", "archive.html", "text/html"],
-  ["/2026/gravity-of-cross-platform-apps", "2026/gravity-of-cross-platform-apps.html", "text/html"],
+  ["/archive", "archive/index.html", "text/html"],
+  ["/2026/gravity-of-cross-platform-apps", "2026/gravity-of-cross-platform-apps/index.html", "text/html"],
   ["/atom/", "atom/index.html", null],
   ["/feed.json", "feed.json", "application/json"],
   ["/robots.txt", "robots.txt", "text/plain"],

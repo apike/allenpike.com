@@ -11,7 +11,11 @@ try {
     .split("\0").filter(Boolean);
   for (const path of new Set(paths)) {
     await mkdir(dirname(join(root, path)), { recursive: true });
-    await cp(path, join(root, path));
+    try {
+      await cp(path, join(root, path));
+    } catch (error) {
+      if (error.code !== "ENOENT") throw error; // Unstaged tracked deletion.
+    }
   }
   await symlink(join(process.cwd(), "node_modules"), join(root, "node_modules"), "dir");
   for (const path of ["feed/index.html", "atom/index.html", "feed.json.liquid"]) {
@@ -28,13 +32,13 @@ try {
   for (const item of feed.items) {
     const path = item.id;
     assert.ok(path.startsWith("/") && !path.endsWith("/"), `Historical post ID changed: ${path}`);
-    const html = await readFile(join(root, `.cloudflare/site${path}.html`), "utf8");
+    const html = await readFile(join(root, `.cloudflare/site${path}/index.html`), "utf8");
     assert.ok(html.includes(`<h1><a href="${path}">`), `Post title link is not slashless: ${path}`);
     const og = /<meta property="og:url" content="([^"]+)"/.exec(html);
     if (og) assert.equal(og[1], `https://allenpike.com${path}`);
   }
   console.log(`All three full-history feeds are byte-identical: ${feed.items.length} unique post identities.`);
-  console.log(`All ${feed.items.length} posts have flat output and slashless title links/metadata.`);
+  console.log(`All ${feed.items.length} posts have slashless title links/metadata.`);
 } finally {
   await rm(root, { recursive: true, force: true });
 }
