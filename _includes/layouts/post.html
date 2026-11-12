@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1><a href='{{ page.url | page_url: cloudflareBuild }}'>{% if link %}Link: {% endif %}
+<h1><a href='{{ page.url | page_url }}'>{% if link %}Link: {% endif %}
     {{ title | widow }}</a></h1>
 {% if summary %}<p class="summary">
   {{ summary }}

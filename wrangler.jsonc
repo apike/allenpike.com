@@ -8,7 +8,7 @@
   "main": "cloudflare/r2-worker.mjs",
   "compatibility_date": "2026-04-26",
   "assets": {
-    "directory": "./.cloudflare/site",
+    "directory": "./_site",
     "binding": "ASSETS",
     "html_handling": "drop-trailing-slash",
     "not_found_handling": "404-page",

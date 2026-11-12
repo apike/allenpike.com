@@ -61,7 +61,7 @@ for (const [path, file, contentType] of [
   const { response, body } = await request(path);
   assert.equal(response.status, 200);
   if (contentType) assert.ok(response.headers.get("content-type")?.startsWith(contentType));
-  assert.deepEqual(body, await readFile(`.cloudflare/site/${file}`), "Response differs from the local build");
+  assert.deepEqual(body, await readFile(`_site/${file}`), "Response differs from the local build");
   if (preview) assert.match(response.headers.get("x-robots-tag") ?? "", /noindex/);
 });
 
@@ -70,7 +70,7 @@ await check("sitemap entries", async () => {
   assert.equal(response.status, 200);
   // Eleventy's collection enumeration order can differ between OSes/builds.
   const entries = (xml) => [...xml.matchAll(/<url>[\s\S]*?<\/url>/g)].map(([entry]) => entry).sort();
-  const expected = entries(await readFile(".cloudflare/site/sitemap.xml", "utf8"));
+  const expected = entries(await readFile("_site/sitemap.xml", "utf8"));
   assert.ok(expected.length > 0);
   assert.deepEqual(entries(body.toString()), expected);
 });
@@ -95,7 +95,7 @@ await check("legacy directory and relative image", async () => {
 await check("custom 404", async () => {
   const { response, body } = await request("/__hosting_smoke_test_missing__");
   assert.equal(response.status, 404);
-  assert.deepEqual(body, await readFile(".cloudflare/site/404.html"));
+  assert.deepEqual(body, await readFile("_site/404.html"));
 });
 
 for (const { key, contentType } of media) await check(`R2 ${key}`, async () => {

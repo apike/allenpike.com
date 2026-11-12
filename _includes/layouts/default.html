@@ -21,7 +21,7 @@
   <meta property="og:site_name" content="Allen Pike" />
   <meta property="og:title" content="{{ title }}" />
   <meta property="og:type" content="article" />
-  <meta property="og:url" content="{{ meta.url }}{{ page.url | page_url: cloudflareBuild }}" />
+  <meta property="og:url" content="{{ meta.url }}{{ page.url | page_url }}" />
   <meta property="og:image" content="{{ meta.url }}{{ image | defaultshareimg }}" />
   {% if summary %}
   <meta property="og:description" content="{{ summary }}" />
@@ -79,10 +79,10 @@
       <div class="header navigation">
         <a class="sitename" href="/">Allen Pike</a>
         <ul>
-          <li {% if isArchive %} class="active" {% endif %}><a href="{{ '/archive/' | page_url: cloudflareBuild }}">Articles</a>
-          <li {% if isMe %} class="active" {% endif %}> <a href="{{ '/me/' | page_url: cloudflareBuild }}">About</a>
+          <li {% if isArchive %} class="active" {% endif %}><a href="/archive">Articles</a>
+          <li {% if isMe %} class="active" {% endif %}> <a href="/me">About</a>
           </li>
-          <li {% if isSubscribe %} class="active" {% endif %}><a href="{{ '/follow/' | page_url: cloudflareBuild }}">Follow</a>
+          <li {% if isSubscribe %} class="active" {% endif %}><a href="/follow">Follow</a>
         </ul>
       </div>
 
@@ -94,14 +94,14 @@
       <div class="footer navigation">
         <a href="/" class="sitename">Allen Pike</a>
         <ul>
-          <li {% if isArchive %} class="active" {% endif %}><a href="{{ '/archive/' | page_url: cloudflareBuild }}">Articles</a>
-          <li {% if isMe %} class="active" {% endif %}> <a href="{{ '/me/' | page_url: cloudflareBuild }}">About</a>
+          <li {% if isArchive %} class="active" {% endif %}><a href="/archive">Articles</a>
+          <li {% if isMe %} class="active" {% endif %}> <a href="/me">About</a>
           </li>
-          <li {% if isSubscribe %} class="active" {% endif %}><a href="{{ '/follow/' | page_url: cloudflareBuild }}">Follow</a>
+          <li {% if isSubscribe %} class="active" {% endif %}><a href="/follow">Follow</a>
         </ul>
       </div>
 
-      <p class="prologue">© Allen Pike. 👋🏼 Feel free to <a href="{{ '/contact/' | page_url: cloudflareBuild }}">contact me</a>.</p>
+      <p class="prologue">© Allen Pike. 👋🏼 Feel free to <a href="/contact">contact me</a>.</p>
 
     </div> <!-- /container -->
 </body>

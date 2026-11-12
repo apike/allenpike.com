@@ -1,18 +1,10 @@
 import Eleventy from "@11ty/eleventy";
-import { copyFile, rm, stat, readdir } from "node:fs/promises";
+import { rm, stat, readdir } from "node:fs/promises";
 import { media } from "../media.mjs";
 
-const output = ".cloudflare/site";
+const output = "_site";
 await rm(output, { recursive: true, force: true });
-await new Eleventy(".", output, {
-  source: "cli",
-  config: config => config.addGlobalData("cloudflareBuild", true),
-}).write();
-// Wrangler reads these files from the asset directory during deployment.
-for (const file of ["_redirects", "_headers"]) {
-  await copyFile(`cloudflare/${file}`, `${output}/${file}`);
-}
-
+await new Eleventy(".", output, { source: "cli" }).write();
 // R2 serves oversized media at their original URLs; omit them from static assets.
 for (const { key } of media) {
   await stat(`${output}/${key}`); // Missing originals should fail the build.
