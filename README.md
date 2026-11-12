@@ -50,7 +50,3 @@ Posts live in `posts/` as Markdown files with YAML front matter. The filename fo
 The code in this repository (templates, configuration, CSS) is available under the [MIT License](LICENSE).
 
 The content of blog posts and images is © Allen Pike. All rights reserved.
-
-## License
-
-
