@@ -1,7 +1,7 @@
 import { after, before, test } from "node:test";
 import assert from "node:assert/strict";
 import { Miniflare } from "miniflare";
-import { media } from "./media.mjs";
+import { media } from "../media.mjs";
 
 let mf;
 let etag;
@@ -11,7 +11,7 @@ const fetch = (pathname = path, init) => mf.dispatchFetch(`https://example.com${
 before(async () => {
   mf = new Miniflare({
     modules: true,
-    scriptPath: "cloudflare/worker.mjs",
+    scriptPath: "cloudflare/r2-worker.mjs",
     compatibilityDate: "2026-04-26",
     r2Buckets: ["MEDIA"],
     serviceBindings: { ASSETS: () => new Response("static") },
@@ -34,6 +34,8 @@ test("supports video seeking, open-ended ranges, and suffix ranges", async () =>
     ["bytes=2-5", "2345", "bytes 2-5/10"],
     ["bytes=8-", "89", "bytes 8-9/10"],
     ["bytes=-3", "789", "bytes 7-9/10"],
+    ["bytes=8-100", "89", "bytes 8-9/10"],
+    ["bytes=-100", "0123456789", "bytes 0-9/10"],
   ]) {
     const response = await fetch(path, { headers: { Range: range } });
     assert.equal(response.status, 206);
@@ -48,12 +50,16 @@ test("HEAD reports full size without a body", async () => {
   assert.equal(await response.text(), "");
 });
 test("unsatisfiable ranges return 416 and malformed ranges fall back to 200", async () => {
-  const response = await fetch(path, { headers: { Range: "bytes=100-" } });
-  assert.equal(response.status, 416);
-  assert.equal(response.headers.get("content-range"), "bytes */10");
-  const malformed = await fetch(path, { headers: { Range: "bytes=5-2" } });
-  assert.equal(malformed.status, 200);
-  assert.equal(await malformed.text(), "0123456789");
+  for (const range of ["bytes=100-", "bytes=-0"]) {
+    const response = await fetch(path, { headers: { Range: range } });
+    assert.equal(response.status, 416);
+    assert.equal(response.headers.get("content-range"), "bytes */10");
+  }
+  for (const range of ["bytes=5-2", "bytes=-", "bytes=0-1,4-5"]) {
+    const response = await fetch(path, { headers: { Range: range } });
+    assert.equal(response.status, 200);
+    assert.equal(await response.text(), "0123456789");
+  }
 });
 test("conditional requests avoid resending unchanged media", async () => {
   const response = await fetch(path, { headers: { "If-None-Match": etag } });
@@ -71,4 +77,15 @@ test("missing media returns 404; writes are disallowed; other URLs use assets", 
   assert.equal((await fetch(`/${media[1].key}`)).status, 404);
   assert.equal((await fetch(path, { method: "POST" })).status, 405);
   assert.equal(await (await fetch("/feed.json")).text(), "static");
+});
+
+test("workers.dev media responses discourage indexing; public domains do not", async () => {
+  for (const options of [{}, { method: "HEAD" }, { method: "POST" }, { headers: { Range: "bytes=2-5" } }]) {
+    const response = await mf.dispatchFetch(`https://blog.account.workers.dev${path}`, options);
+    assert.equal(response.headers.get("x-robots-tag"), "noindex");
+    await response.arrayBuffer();
+  }
+  const response = await fetch();
+  assert.equal(response.headers.get("x-robots-tag"), null);
+  await response.arrayBuffer();
 });

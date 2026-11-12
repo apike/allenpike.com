@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
-import { media } from "../cloudflare/media.mjs";
+import { media } from "../media.mjs";
 
 // Build locally from the deployed commit first. Requests never follow redirects,
 // so a redirect to production cannot accidentally make a preview test pass.
@@ -33,7 +33,7 @@ async function request(path, options = {}) {
 }
 
 // These expectations intentionally describe existing public URL contracts,
-// independently of the code that translates the Netlify redirect file.
+// independently of the Cloudflare redirect configuration.
 for (const [paths, location, status] of [
   [["/461/project", "/461/project/", "/461", "/461/"], "https://allenpike.com/modeling-plants-with-l-systems", 301],
   [["/antipode", "/antipode/"], "https://allenpike.com/feed", 301],

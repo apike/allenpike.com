@@ -1,0 +1,4 @@
+# Ask search engines not to index staging or previews. This is not access control.
+# These rules apply to static assets; r2-worker.mjs sets its own response header.
+https://:version.:subdomain.workers.dev/*
+  X-Robots-Tag: noindex

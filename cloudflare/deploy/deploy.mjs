@@ -6,23 +6,30 @@ import { join } from "node:path";
 
 const [command, ...args] = process.argv.slice(2);
 assert.ok(["deploy", "preview"].includes(command), "Expected deploy or preview");
-const run = (script, args = [], options = {}) => execFileSync(process.execPath,
+const runNodeScript = (script, args = [], options = {}) => execFileSync(process.execPath,
   [script, ...args], { stdio: "inherit", ...options });
 
-run("scripts/check-cloudflare-media.mjs");
+// pnpm deploy:cloudflare / preview:cloudflare build the site before calling this.
+// 1. Check the private media bucket. Failure here prevents deployment.
+runNodeScript("cloudflare/deploy/verify-r2.mjs");
 const directory = await mkdtemp(join(tmpdir(), "allenpike-deploy-"));
 try {
+  // 2. Deploy using Wrangler. Its JSON-lines output identifies the new deployment
+  // without scraping terminal messages or guessing a preview hostname.
   const output = join(directory, "wrangler.jsonl");
-  run("node_modules/wrangler/bin/wrangler.js", [command, ...args], {
+  runNodeScript("node_modules/wrangler/bin/wrangler.js", [command, ...args], {
     env: { ...process.env, WRANGLER_OUTPUT_FILE_PATH: output },
   });
   const records = (await readFile(output, "utf8")).trim().split("\n").map(JSON.parse);
   const result = records.findLast(record => record.type === command);
+  // Wrangler uses different field names for deploy and preview results.
   const urls = command === "preview" ? result?.deployment_urls : result?.targets;
   const origin = urls?.find(url => typeof url === "string" && /^https:\/\/[^/]+\.workers\.dev\/?$/.test(url));
   assert.ok(origin, "Wrangler did not report a workers.dev deployment URL; cannot verify deployment");
+  // 3. Exercise the deployed site, including R2 routes and range responses.
+  // Failure marks CI failed, but does not roll back the already-live deployment.
   console.log(`Verifying deployed site: ${origin}`);
-  run("scripts/test-hosting.mjs", [origin]);
+  runNodeScript("cloudflare/tests/hosting.mjs", [origin]);
 } finally {
   await rm(directory, { recursive: true, force: true });
 }

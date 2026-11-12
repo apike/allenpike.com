@@ -4,7 +4,7 @@ import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { createHash } from "node:crypto";
 import { execFileSync } from "node:child_process";
-import { media } from "../cloudflare/media.mjs";
+import { media } from "../media.mjs";
 
 // Read the private bucket directly before deployment, not a cached public URL.
 // Missing credentials/objects or changed bytes must stop deployment.
@@ -17,7 +17,9 @@ try {
       "node_modules/wrangler/bin/wrangler.js", "r2", "object", "get",
       `allenpike-com-media/${key}`, "--remote", "--file", target,
     ], { stdio: "inherit" });
-    assert.equal(digest(await readFile(target)), digest(await readFile(key)),
+    const remoteHash = digest(await readFile(target));
+    const originalHash = digest(await readFile(key));
+    assert.equal(remoteHash, originalHash,
       `R2 object differs from the repository original: ${key}`);
     await rm(target);
     console.log(`PASS R2 SHA-256 ${key}`);

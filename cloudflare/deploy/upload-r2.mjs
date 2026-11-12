@@ -1,5 +1,5 @@
 import { execFileSync } from "node:child_process";
-import { media } from "../cloudflare/media.mjs";
+import { media } from "../media.mjs";
 
 // Explicit --remote is required to touch Cloudflare; default is local preview data.
 const remote = process.argv.includes("--remote");
