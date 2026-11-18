@@ -11,3 +11,5 @@ node_modules/
 comparison-output/
 .obsidian/
 error.log
+.cloudflare/
+.wrangler/

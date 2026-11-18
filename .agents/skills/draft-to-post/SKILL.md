@@ -1,3 +1,8 @@
+---
+name: draft-to-post
+description: Convert a pasted Markdown blog post draft into a post file in posts/ with front matter and image markup, then report suggested fixes.
+---
+
 # draft-to-post
 
 Take the provided text, which will be in the form of a Markdown blog post draft, and do the following to convert it into a post draft:
