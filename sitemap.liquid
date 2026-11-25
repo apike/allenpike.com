@@ -15,6 +15,10 @@ eleventyExcludeFromCollections: true
 {%- if page.url and page.url != '/404.html' and page.url != '/sitemap.xml' and page.url != '/feed/' and page.url != '/atom/' and page.url != '/feed.json' %}
 <url>
 <loc>https://allenpike.com{{ page.url }}</loc>
+{%- assign lastmod = page.data.updated | date: "%Y-%m-%d" %}
+{%- if lastmod != blank %}
+<lastmod>{{ lastmod }}</lastmod>
+{%- endif %}
 </url>
 {%- endif %}
 {%- endunless %}

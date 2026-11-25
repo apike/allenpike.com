@@ -61,11 +61,18 @@ function reading_time(content) {
   return `${minutes} min`;
 }
 
-// Date filter for posts (Jekyll-style format strings)
+// Date filter (Jekyll-style format strings)
 function date(dateValue, format) {
   if (!dateValue) return "";
   const d = new Date(dateValue);
 
+  if (format === "%Y-%m-%d") {
+    return Number.isNaN(d.getTime()) ? "" : d.toISOString().slice(0, 10);
+  }
+  if (format === "%b %-d, %Y") {
+    const month = MONTHS[d.getUTCMonth()].slice(0, 3);
+    return `${month} ${d.getUTCDate()}, ${d.getUTCFullYear()}`;
+  }
   if (format === "%B %-d, %Y") {
     return `${MONTHS[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`;
   }

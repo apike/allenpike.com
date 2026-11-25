@@ -41,6 +41,8 @@ From founding Steamclock to [handing off day-to-day](https://allenpike.com/2024/
 
 - **Steamclock's Systems**: Growing Steamclock required developing and iterating a lot of systems, docs, and approaches. Stuff like hiring and onboarding, people management, compensation, finance, branding, project and product management, internal comms, and marketing. While it's supplementary to the core task of building software, there's something inherently interesting about systems.
 
+- **[The Feedback Wizard](https://feedbackwizard.steamclock.com/)**, a little LLM experiment.
+
 - **[Two Spies](https://www.steamclock.com/spies/)**, a turn-based iPhone game that started as a way for me to learn Swift, turned into a multi-year passion project, and ended up with over a million downloads.
 
 - **[Fun Fact](https://funfact.fm/)**, a show full of incredibly important facts, which I co-hosted for 82 episodes over 6 years.
