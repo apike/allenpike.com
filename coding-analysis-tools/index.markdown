@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Where should teams' coding sessions be stored?
+title: Where should coding agents’ sessions be stored?
 updated: 2026-11-24
 ---
 
-Given the amount of research I do on tooling for evals, telemetry, and analysis of agent behaviour, I get asked a lot about the tooling ecosystem. Here are my latest findings and understanding – if any of this is incorrect or out of date, let me know!
+Given the amount of research I do on tooling for evals, telemetry, and analysis of agent behaviour, I get asked a lot about the tooling ecosystem. We know storing and sharing a subset of agent sessions (aka traces, logs, or transcripts) is helpful. Here are my latest findings and understanding – if any of this is incorrect or out of date, let me know!
 
 ## The Goal
 
